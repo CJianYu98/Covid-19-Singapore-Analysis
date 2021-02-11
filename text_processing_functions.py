@@ -4,6 +4,7 @@ import re
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem.porter import *
+import datetime
 
 emoji_pattern = re.compile("["
     u"\U0001F600-\U0001F64F"  # emoticons
@@ -58,6 +59,10 @@ def twitter_text_processing(tweets, tweet_key_words):
             pass
     
     tweets_drop_non_en.dropna(thresh=17, inplace=True)
+
+    # converting date time columns to datetime type
+    tweets_drop_non_en['date'] = pd.to_datetime(tweets_drop_non_en['date'], infer_datetime_format=True)
+    tweets_drop_non_en['time'] = pd.to_datetime(tweets_drop_non_en['time'], format= '%H:%M:%S').dt.time
 
     # exporting to csv file
     key_words = "_".join(tweet_key_words)
