@@ -13,6 +13,7 @@ folder_name='Twitter Data'
 file_path = f'{mypath}/{folder_name}/'
 files = [filename for filename in os.listdir(file_path) if filename.endswith('.csv')]
 
+# text patterns for Emoji
 emoji_pattern = re.compile("["
     u"\U0001F600-\U0001F64F"  # emoticons
     u"\U0001F300-\U0001F5FF"  # symbols & pictographs

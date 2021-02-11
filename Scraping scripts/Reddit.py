@@ -5,10 +5,10 @@ import pandas as pd
 
 # Access reddit API PRAW
 reddit = praw.Reddit(client_id='PUMTWg7cm-mhKQ',
-                         client_secret='f_SDu_F3C5Z4epNT-RKMMfY9KqlEOQ',
-                         user_agent='smt203',
-                         username='smt203css',
-                         password='ilovesmt203!haha')
+                        client_secret='f_SDu_F3C5Z4epNT-RKMMfY9KqlEOQ',
+                        user_agent='smt203',
+                        username='smt203css',
+                        password='ilovesmt203!haha')
 
 # Choose subreddit you want to scrape the data from
 subreddit = reddit.subreddit("Singapore") 
