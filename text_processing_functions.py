@@ -1,10 +1,12 @@
 import pandas as pd
 import numpy as np
 import re
+import os
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem.porter import *
 import datetime
+import emoji
 
 def remove_emoji(text):
     emoji_pattern = re.compile("["
@@ -28,6 +30,7 @@ def twitter_text_processing(tweets, tweet_key_words):
     
     # add another column to store processed tweet text
     tweets_drop_non_en['processed_tweets'] = None
+    tweets_drop_non_en['emoji_decoded_tweets'] = None
 
     # creating stop word list, added the search key words in it cause every comment will have them. 
     stop_list = stopwords.words('english')
@@ -37,6 +40,9 @@ def twitter_text_processing(tweets, tweet_key_words):
     for i in range(len(tweets_drop_non_en)):
         # getting the tweet at each row
         text = tweets_drop_non_en.iloc[i]['tweet']
+
+        # decoding emoji to text
+        emoji_decoded_text = emoji.demojize(text)
 
         # removing mentions, hashtags, URLs from tweet
         text = re.sub(r"(?:\@|\#|https?\://)\S+", "", text)
@@ -58,6 +64,7 @@ def twitter_text_processing(tweets, tweet_key_words):
         # adding the processed text back into the specific row and column
         try:
             tweets_drop_non_en.at[i,'processed_tweets'] = text_stemmed
+            tweets_drop_non_en.at[i,'emoji_decoded_tweets'] = emoji_decoded_text
         except:
             pass
     
@@ -83,10 +90,14 @@ def reddit_text_processing(comments_merged, filename):
 
     # add a new column to store processed reddit comments
     comments_merged['processed_comment'] = None
+    comments_merged['emoji_decoded_comment'] = None
 
     for i in range(len(comments_merged)):
         # getting the tweet at each row
         text = comments_merged.iloc[i]['comment_body']
+
+        # decoding emoji to text
+        emoji_decoded_text = emoji.demojize(text)
 
         # removing mentions, hashtags, URLs 
         text = re.sub(r"(?:\@|\#|https?\://)\S+", "", text)
@@ -108,6 +119,7 @@ def reddit_text_processing(comments_merged, filename):
 
         # updating the cells to stored processed text
         comments_merged.at[i,'processed_comment'] = text_stemmed
+        comments_merged.at[i,'emoji_decoded_comment'] = emoji_decoded_text
 
     # output the file as csv
     save_to_path = 'Reddit Data/Cleaned Data/' + filename
@@ -116,10 +128,14 @@ def reddit_text_processing(comments_merged, filename):
 
 def instagram_text_processing(comments, folder, filename):
     comments['processed_comment'] = None
+    comments['emoji_decoded_comment'] = None
 
     for i in range(len(comments)):
         # getting the tweet at each row
         text = comments.iloc[i]['comment']
+
+        # decoding emoji to text
+        emoji_decoded_text = emoji.demojize(text)
 
         # removing mentions, hashtags, URLs 
         text = re.sub(r"(?:\@|\#|https?\://)\S+", "", text)
@@ -141,6 +157,7 @@ def instagram_text_processing(comments, folder, filename):
 
         # updating the cells to stored processed text
         comments.at[i,'processed_comment'] = text_stemmed
+        comments.at[i,'emoji_decoded_comment'] = emoji_decoded_text
 
     # output the file as csv
     save_to_path = f'Instagram Data/{folder}/Cleaned Data/{filename}'

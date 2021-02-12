@@ -1,11 +1,4 @@
-import pandas as pd
-import numpy as np
-import re
 import os
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
-from nltk.stem.porter import *
-import datetime
 from text_processing_functions import *
 
 
