@@ -61,6 +61,7 @@ def twitter_text_processing(tweets, tweet_key_words):
         except:
             pass
     
+    # drop those rows with many NAs, dk why it will appear after tokenizing lol
     tweets_drop_non_en.dropna(thresh=17, inplace=True)
 
     # converting date time columns to datetime type
@@ -73,6 +74,7 @@ def twitter_text_processing(tweets, tweet_key_words):
 
 
 def reddit_text_processing(comments_merged, filename):
+
     # removing useless columns
     comments_merged.drop(columns=['Unnamed: 0_x', 'Unnamed: 0_y'], inplace=True)
 
@@ -110,3 +112,36 @@ def reddit_text_processing(comments_merged, filename):
     # output the file as csv
     save_to_path = 'Reddit Data/Cleaned Data/' + filename
     comments_merged.to_csv(save_to_path)
+
+
+def instagram_text_processing(comments, folder, filename):
+    comments['processed_comment'] = None
+
+    for i in range(len(comments)):
+        # getting the tweet at each row
+        text = comments.iloc[i]['comment']
+
+        # removing mentions, hashtags, URLs 
+        text = re.sub(r"(?:\@|\#|https?\://)\S+", "", text)
+        #removing emoji
+        text = remove_emoji(text)
+
+        # tokenizing the text
+        text_tokenize = word_tokenize(text)
+
+        # changing text to lowercase, removing non words char, and removing stop words
+        text_lower = [w.lower() for w in text_tokenize]
+        text_words_only = [w for w in text_lower if re.search('^[a-z]+$',w)]
+        stop_list = stopwords.words('english')
+        text_stopremoved = [w for w in text_words_only if w not in stop_list]
+
+        # perform stemming on the text
+        stemmer = PorterStemmer()
+        text_stemmed = [stemmer.stem(w) for w in text_stopremoved]
+
+        # updating the cells to stored processed text
+        comments.at[i,'processed_comment'] = text_stemmed
+
+    # output the file as csv
+    save_to_path = f'Instagram Data/{folder}/Cleaned Data/{filename}'
+    comments.to_csv(save_to_path)
