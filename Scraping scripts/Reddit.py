@@ -2,6 +2,7 @@
 # pip install praw # uncomment and install if need be
 import praw
 import pandas as pd
+import datetime
 
 # Access reddit API PRAW
 reddit = praw.Reddit(client_id='PUMTWg7cm-mhKQ',
@@ -33,7 +34,7 @@ post_dict = {
         "id" : [],
         "url" : [],
         "num_comments": [],
-        "created_utc" : [],
+        "created_dts" : [],
         "upvote_ratio" : []
 }
 comments_dict = {
@@ -41,7 +42,7 @@ comments_dict = {
     "comment_parent_id" : [],
     "comment_body" : [],
     "comment_link_id" : [],
-    "created_utc" : [],
+    "created_dts" : [],
     "author" : [],
     "score" : []
 }
@@ -59,7 +60,8 @@ for url in list_of_urls:
     post_dict["url"].append(submission.url)
     post_dict["num_comments"].append(submission.num_comments)
     post_dict["upvote_ratio"].append(submission.upvote_ratio)
-    post_dict["created_utc"].append(submission.created_utc)
+    datetimestamp = datetime.datetime.fromtimestamp(submission.created_utc) #changes unixtimestamp to a readable format
+    post_dict["created_dts"].append(datetimestamp)
     
     
     # Append comment information to comments dictionary
@@ -73,7 +75,8 @@ for url in list_of_urls:
         comments_dict["comment_parent_id"].append(comment.parent_id)
         comments_dict["comment_link_id"].append(comment.link_id)
         comments_dict["comment_body"].append(comment.body)
-        comments_dict["created_utc"].append(comment.created_utc)
+        datetimestamp = datetime.datetime.fromtimestamp(comment.created_utc)
+        comments_dict["created_dts"].append(datetimestamp)
     
 # Once iteration complete, create dataframe from dictionaries and save to CSVs (will save in same directory as this .py file)
 # Note: Tables can be merged on comment_link_id and id to retrive post data on each comment
