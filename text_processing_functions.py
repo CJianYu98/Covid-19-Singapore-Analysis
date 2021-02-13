@@ -29,8 +29,8 @@ def twitter_text_processing(tweets, tweet_key_words):
     tweets_drop_non_en = tweets.drop(tweets[tweets.language != 'en'].index)
     
     # add another column to store processed tweet text
-    tweets_drop_non_en['processed_tweets'] = None
-    tweets_drop_non_en['emoji_decoded_tweets'] = None
+    processed_tweets = []
+    emoji_decoded_tweets = []
 
     # creating stop word list, added the search key words in it cause every comment will have them. 
     stop_list = stopwords.words('english')
@@ -63,13 +63,13 @@ def twitter_text_processing(tweets, tweet_key_words):
 
         # adding the processed text back into the specific row and column
         try:
-            tweets_drop_non_en.at[i,'processed_tweets'] = text_stemmed
-            tweets_drop_non_en.at[i,'emoji_decoded_tweets'] = emoji_decoded_text
+            processed_tweets.append(text_stemmed)
+            emoji_decoded_tweets.append(emoji_decoded_text)
         except:
             pass
     
-    # drop those rows with many NAs, dk why it will appear after tokenizing lol
-    tweets_drop_non_en.dropna(thresh=17, inplace=True)
+    tweets_drop_non_en['processed_tweets'] = processed_tweets
+    tweets_drop_non_en['emoji_decoded_tweets'] = emoji_decoded_tweets
 
     # converting date time columns to datetime type
     tweets_drop_non_en['date'] = pd.to_datetime(tweets_drop_non_en['date'], infer_datetime_format=True)
