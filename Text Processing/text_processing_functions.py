@@ -94,40 +94,52 @@ def reddit_preprocessing(merged_df, stopword_list):
 
     return merged_df
 
+def instagram_text_processing(df, stopword_list):
 
-def instagram_text_processing(comments, folder, filename):
-    comments['processed_comment'] = None
-    comments['emoji_decoded_comment'] = None
+    text_processed = text_preprocessing(df, 'comment', stopword_list)
 
-    for i in range(len(comments)):
-        # getting the tweet at each row
-        text = comments.iloc[i]['comment']
+    text_demojize = demojize_text(df, 'comment')
 
-        # decoding emoji to text
-        emoji_decoded_text = emoji.demojize(text)
+    df['processed_text'] = text_processed
+    df['demojize_text'] = text_demojize
 
-        # removing mentions, hashtags, URLs 
-        text = re.sub(r"(?:\@|\#|https?\://)\S+", "", text)
-        #removing emoji
-        text = remove_emoji(text)
+    return df
 
-        # tokenizing the text
-        text_tokenize = word_tokenize(text)
 
-        # changing text to lowercase, removing non words char, and removing stop words
-        text_lower = [w.lower() for w in text_tokenize]
-        text_words_only = [w for w in text_lower if re.search('^[a-z]+$',w)]
-        stop_list = stopwords.words('english')
-        text_stopremoved = [w for w in text_words_only if w not in stop_list]
 
-        # perform stemming on the text
-        stemmer = PorterStemmer()
-        text_stemmed = [stemmer.stem(w) for w in text_stopremoved]
 
-        # updating the cells to stored processed text
-        comments.at[i,'processed_comment'] = text_stemmed
-        comments.at[i,'emoji_decoded_comment'] = emoji_decoded_text
+    # comments['processed_comment'] = None
+    # comments['emoji_decoded_comment'] = None
 
-    # output the file as csv
-    save_to_path = f'Instagram Data/{folder}/Cleaned Data/{filename}'
-    comments.to_csv(save_to_path)
+    # for i in range(len(comments)):
+    #     # getting the tweet at each row
+    #     text = comments.iloc[i]['comment']
+
+    #     # decoding emoji to text
+    #     emoji_decoded_text = emoji.demojize(text)
+
+    #     # removing mentions, hashtags, URLs 
+    #     text = re.sub(r"(?:\@|\#|https?\://)\S+", "", text)
+    #     #removing emoji
+    #     text = remove_emoji(text)
+
+    #     # tokenizing the text
+    #     text_tokenize = word_tokenize(text)
+
+    #     # changing text to lowercase, removing non words char, and removing stop words
+    #     text_lower = [w.lower() for w in text_tokenize]
+    #     text_words_only = [w for w in text_lower if re.search('^[a-z]+$',w)]
+    #     stop_list = stopwords.words('english')
+    #     text_stopremoved = [w for w in text_words_only if w not in stop_list]
+
+    #     # perform stemming on the text
+    #     stemmer = PorterStemmer()
+    #     text_stemmed = [stemmer.stem(w) for w in text_stopremoved]
+
+    #     # updating the cells to stored processed text
+    #     comments.at[i,'processed_comment'] = text_stemmed
+    #     comments.at[i,'emoji_decoded_comment'] = emoji_decoded_text
+
+    # # output the file as csv
+    # save_to_path = f'Instagram Data/{folder}/Cleaned Data/{filename}'
+    # comments.to_csv(save_to_path)

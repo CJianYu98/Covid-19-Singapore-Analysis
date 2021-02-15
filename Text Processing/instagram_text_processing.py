@@ -1,43 +1,37 @@
 import os
 from text_processing_functions import *
 
+keywords = [] #
+stopwords_list = stopwords_ls(keywords)
 
-mypath = "."
-folder_name='Instagram Data'
+
+mypath = ".."
+folder_name='Data/Instagram Data/Raw Data'
 file_path = f'{mypath}/{folder_name}/'
-# csv_files = [filename for filename in os.listdir(file_path) if filename.endswith('.csv')]
-insta_page_folder = [filename for filename in os.listdir(file_path) if (filename != 'Extras' and filename != '.DS_Store')]
+insta_page_folder = [folder for folder in os.listdir(file_path) if (folder != 'Extras' and folder != '.DS_Store')]
 
 
 """
     Code for merging instagram excel files into one based on the same keyword search at the same Instagram Acc. Un-comment to run if needed. 
 """
-# for folder in insta_page_folder:
-#     file_path_1 = file_path + folder + '/'
-#     keyword_files = [filename for filename in os.listdir(file_path_1) if (filename.endswith('.xlsx') == False and filename != '.DS_Store' and filename != 'Cleaned Data')]
+for insta_page in insta_page_folder:
+    keyword_folder = [folder for folder in os.listdir(f'{file_path}{insta_page}') if (folder != '.DS_Store' and folder != 'Article list.xlsx')]
 
-#     for file in keyword_files:
-#         file_path_2 = file_path_1 + file + '/'
+    folder_path = f'../Data/Instagram Data/Cleaned Data/{insta_page}'
+    if not os.path.exists(folder_path):
+        os.mkdir(folder_path)
+    
+    for keyword in keyword_folder:
+        frames = []
+        xlsx_files = [filename for filename in os.listdir(f'{file_path}{insta_page}/{keyword}')]
 
-#         frames = []
-#         for xlsx_file_name in os.listdir(file_path_2):
-#             xlsx_file = file_path_2 + xlsx_file_name
-#             xlsx_df = pd.read_excel(xlsx_file, engine='openpyxl')
-#             frames.append(xlsx_df)
+        for xlsx_file in xlsx_files:
+            # print(f'{file_path}{insta_page}/{keyword}/{xlsx_file}')
+            xlsx_df = pd.read_excel(f'{file_path}{insta_page}/{keyword}/{xlsx_file}', engine='openpyxl')
+            frames.append(xlsx_df)
         
-#         result = pd.concat(frames)
-#         result.to_csv(f'./Instagram Data/{folder}/Cleaned Data/{file}.csv')
+        df = pd.concat(frames)
 
-"""
-    End of code to merge instagram excel files
-"""
+        output = instagram_text_processing(df, stopwords_list)
 
-for folder in insta_page_folder:
-    cleaned_data_path = file_path + folder + '/Cleaned Data' + '/'
-
-    for csv_file_name in os.listdir(cleaned_data_path):
-        csv_file = cleaned_data_path + csv_file_name
-        csv_df = pd.read_csv(csv_file)
-        filename = csv_file_name
-
-        instagram_text_processing(csv_df, folder, filename)
+        output.to_csv(f'../Data/Instagram Data/Cleaned Data/{insta_page}/{keyword}.csv')
