@@ -5,8 +5,8 @@ from text_processing_functions import *
 mypath = "."
 folder_name='Instagram Data'
 file_path = f'{mypath}/{folder_name}/'
-csv_files = [filename for filename in os.listdir(file_path) if filename.endswith('.csv')]
-insta_page_folder = [filename for filename in os.listdir(file_path) if (filename.endswith('.csv') == False and filename != '.DS_Store')]
+# csv_files = [filename for filename in os.listdir(file_path) if filename.endswith('.csv')]
+insta_page_folder = [filename for filename in os.listdir(file_path) if (filename != 'Extras' and filename != '.DS_Store')]
 
 
 """
