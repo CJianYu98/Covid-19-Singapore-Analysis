@@ -20,16 +20,67 @@ def remove_emoji(text):
 
     return emoji_pattern.sub(r'', text)
 
+def remove_hashtag_mentions_urls(text):
+    return re.sub(r"(?:\@|\#|https?\://)\S+", "", text)
 
-def twitter_text_processing(tweets, tweet_key_words):
+def stopwords_ls(additional_stopwords):
+    stop_list = stopwords.words('english')
+    for word in additional_stopwords:
+        stop_list.append(word)
+    
+    return stop_list
+
+def text_preprocessing(df, column_name, stopword_list):
+    output = []
+    for text in df[column_name]:
+        text = remove_hashtag_mentions_urls(text)
+        text = remove_emoji(text)
+        text_tokenize = word_tokenize(text)
+
+        text_lower = [w.lower() for w in text_tokenize]
+        text_words_only = [w for w in text_lower if re.search('^[a-z]+$',w)]
+        text_stopremoved = [w for w in text_words_only if w not in stopword_list]
+
+        stemmer = PorterStemmer() # can consider using other Stemmer
+        text_stemmed = [stemmer.stem(w) for w in text_stopremoved]
+
+        output.append(text_stemmed)
+
+    return output
+
+def demojize_text(df, column_name):
+    emoji_decoded_tweets = []
+
+    for text in df[column_name]:
+        text = emoji.demojize(text)
+        
+        emoji_decoded_tweets.append(text)
+    
+    return emoji_decoded_tweets
+
+def twitter_preprocessing(tweets, stopword_list):
     # drop useless columns
     tweets.drop(['quote_url', 'thumbnail', 'geo', 'source', 'user_rt_id', 'user_rt', 'retweet_id', 'retweet_date', 'translate', 'trans_src', 'trans_dest', 'cashtags', 'timezone', 'created_at', 'retweet', 'near'], axis='columns', inplace=True)
 
     # remove those non english comments
     tweets_drop_non_en = tweets.drop(tweets[tweets.language != 'en'].index)
-    
+
+    tweets_drop_non_en['date'] = pd.to_datetime(tweets_drop_non_en['date'], infer_datetime_format=True)
+    tweets_drop_non_en['time'] = pd.to_datetime(tweets_drop_non_en['time'], format= '%H:%M:%S').dt.time
+
+    text_processed = text_preprocessing(tweets_drop_non_en, 'tweet', stopword_list)
+
+    text_demojize = demojize_text(tweets_drop_non_en, 'tweet')
+
+    tweets_drop_non_en['processed_text'] = text_processed
+    tweets_drop_non_en['demojize_text'] = text_demojize
+
+    return tweets_drop_non_en
+
+
+
+
     # add another column to store processed tweet text
-    processed_tweets = []
     emoji_decoded_tweets = []
 
     # creating stop word list, added the search key words in it cause every comment will have them. 
