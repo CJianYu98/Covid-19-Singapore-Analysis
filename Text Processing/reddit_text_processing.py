@@ -8,26 +8,30 @@ from nltk.stem.porter import *
 from text_processing_functions import *
 import datetime
 
-reddit_posts_files = [
-    'Reddit circuit breaker posts.csv',
-    'Reddit vaccination posts.csv',
-    'Reddit TraceTogether posts.csv'
-]
-reddit_comments_files = [
-    'Reddit circuit breaker comments.csv',
-    'Reddit vaccination comments.csv',
-    'Reddit TraceTogether comments.csv'
-]
 
-mypath = "."
-folder_name='Reddit Data'
+keywords = [] #
+stopwords_list = stopwords_ls(keywords)
+
+mypath = ".."
+folder_name='Data/Reddit Data/Raw Data'
 file_path = f'{mypath}/{folder_name}/'
+folders = [folder for folder in os.listdir(file_path) if folder != '.DS_Store']
 
-for i in range(len(reddit_posts_files)):
+for folder in folders:
+    folder_path = f'../Data/Reddit Data/Cleaned Data/{folder}'
+    if not os.path.exists(folder_path):
+        os.mkdir(folder_path)
 
-    reddit_post = pd.read_csv(file_path + reddit_posts_files[i])
-    reddit_comments = pd.read_csv(file_path + reddit_comments_files[i])
+    filenames = [filename for filename in os.listdir(f'{file_path}{folder}') if filename.endswith('csv')]
+    filenames.sort()
 
-    comments_merged = reddit_comments.merge(reddit_post, left_on="comment_link_id", right_on="name")
+    for i in range(0, len(filenames), 2):
+        comments = pd.read_csv(f'{file_path}{folder}/{filenames[i]}')
+        posts = pd.read_csv(f'{file_path}{folder}/{filenames[i+1]}')
 
-    reddit_text_processing(comments_merged, reddit_comments_files[i])
+        merged_df = comments.merge(posts, left_on="comment_link_id", right_on="name")
+
+        df = reddit_preprocessing(merged_df, stopwords_list)
+
+        csv_name = filenames[i][7:-13]
+        df.to_csv(f'{folder_path}/{csv_name}.csv')

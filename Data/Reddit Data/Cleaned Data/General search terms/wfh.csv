@@ -1,0 +1,631 @@
+,comment_id,comment_parent_id,comment_body,comment_link_id,comment_created_dts,author,comment_score,title,name,post_score,id,url,num_comments,post_created_dts,upvote_ratio,processed_text,demojize_text
+0,fs1jb8e,t3_grwbju,clapping for transport operators at 7.55pm tonight,t3_grwbju,2020-05-28 09:29:20,septeal,46,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['clap', 'transport', 'oper', 'tonight']",clapping for transport operators at 7.55pm tonight
+1,fs1h8ha,t3_grwbju,"I do admire that no matter the situation, there's always a justification for higher fares.",t3_grwbju,2020-05-28 09:09:49,Book3pper,113,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['admir', 'matter', 'situat', 'alway', 'justif', 'higher', 'fare']","I do admire that no matter the situation, there's always a justification for higher fares."
+2,fs1juwn,t3_grwbju,"Everyone travelling, transport companies overwhelmed, PTC approves fare hike.
+
+Everyone telecommuting, transport companies no business, PTC approves fare hike.",t3_grwbju,2020-05-28 09:34:27,ongcs,62,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['everyon', 'travel', 'transport', 'compani', 'overwhelm', 'ptc', 'approv', 'fare', 'hike', 'everyon', 'telecommut', 'transport', 'compani', 'busi', 'ptc', 'approv', 'fare', 'hike']","Everyone travelling, transport companies overwhelmed, PTC approves fare hike.
+
+Everyone telecommuting, transport companies no business, PTC approves fare hike."
+3,fs1m10w,t3_grwbju,"Too many commuters: we need to raise fares to maintain service levels
+
+Too few commuters: we need to raise fares to pay our overpriced SAF retirees",t3_grwbju,2020-05-28 09:55:14,lazerspewpew86,46,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['mani', 'commut', 'need', 'rais', 'fare', 'maintain', 'servic', 'level', 'commut', 'need', 'rais', 'fare', 'pay', 'overpr', 'saf', 'retire']","Too many commuters: we need to raise fares to maintain service levels
+
+Too few commuters: we need to raise fares to pay our overpriced SAF retirees"
+4,fs1o729,t3_grwbju,do the PTC people even take public transport lol,t3_grwbju,2020-05-28 10:15:53,RemiFlanScarlet,17,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['ptc', 'peopl', 'even', 'take', 'public', 'transport', 'lol']",do the PTC people even take public transport lol
+5,fs1o0j9,t3_grwbju,"NS Man Salary
+
+> While she noted the importance of giving NSmen recognition, Mrs Teo said service for the country cannot be measured in dollars and cents. 
+
+- Minister for Manpower Josephine Teo. 
+
+https://mothership.sg/2015/03/channel-news-asia-secretly-deletes-article-after-senior-minister-of-state-josephine-teo-skewered-online-for-nsmen-comments/
+
+**Public Transport** 
+
+> Additional costs incurred by public transport operators because of the COVID-19 outbreak are not ""adequately covered"" by current fares and will ""eventually have to be borne by operators and taxpayers"". 
+
+- Minister for Transport Khaw Boon Wan 
+
+https://www.channelnewsasia.com/news/singapore/additional-costs-public-transport-operators-covid-19-khaw-12704280?cid=h3_referral_inarticlelinks_24082018_cna
+
+My brain hurts. I know I used to see people do taichi at HDB blocks, but I never really took to doing taichi. Send help please, or powerful taichi shifu to teach.",t3_grwbju,2020-05-28 10:14:07,adrenaline_junkie88,33,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['ns', 'man', 'salari', 'note', 'import', 'give', 'nsmen', 'recognit', 'mr', 'teo', 'said', 'servic', 'countri', 'measur', 'dollar', 'cent', 'minist', 'manpow', 'josephin', 'teo', 'public', 'transport', 'addit', 'cost', 'incur', 'public', 'transport', 'oper', 'outbreak', 'adequ', 'cover', 'current', 'fare', 'eventu', 'born', 'oper', 'taxpay', 'minist', 'transport', 'khaw', 'boon', 'wan', 'brain', 'hurt', 'know', 'use', 'see', 'peopl', 'taichi', 'hdb', 'block', 'never', 'realli', 'took', 'taichi', 'send', 'help', 'pleas', 'power', 'taichi', 'shifu', 'teach']","NS Man Salary
+
+> While she noted the importance of giving NSmen recognition, Mrs Teo said service for the country cannot be measured in dollars and cents. 
+
+- Minister for Manpower Josephine Teo. 
+
+https://mothership.sg/2015/03/channel-news-asia-secretly-deletes-article-after-senior-minister-of-state-josephine-teo-skewered-online-for-nsmen-comments/
+
+**Public Transport** 
+
+> Additional costs incurred by public transport operators because of the COVID-19 outbreak are not ""adequately covered"" by current fares and will ""eventually have to be borne by operators and taxpayers"". 
+
+- Minister for Transport Khaw Boon Wan 
+
+https://www.channelnewsasia.com/news/singapore/additional-costs-public-transport-operators-covid-19-khaw-12704280?cid=h3_referral_inarticlelinks_24082018_cna
+
+My brain hurts. I know I used to see people do taichi at HDB blocks, but I never really took to doing taichi. Send help please, or powerful taichi shifu to teach."
+6,fs1ig2y,t3_grwbju,"Meanwhile, F&B struggled with 2% profitability for years. Bless them for not charging $20 for a plate of chicken rice.",t3_grwbju,2020-05-28 09:21:15,CSlv,31,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['meanwhil', 'f', 'b', 'struggl', 'profit', 'year', 'bless', 'charg', 'plate', 'chicken', 'rice']","Meanwhile, F&B struggled with 2% profitability for years. Bless them for not charging $20 for a plate of chicken rice."
+7,fs1heni,t3_grwbju,"Public transport operators here have been constantly struggling with profitability. Maybe profitability shouldn’t even be a concern for public transport. Maybe *public* transport should be thought of as a *public* good.
+
+But don’t take my comments just as they are - after all, I don’t take public transport, my life doesn’t revolve around it. Maybe the wise people of the PTC know better.",t3_grwbju,2020-05-28 09:11:25,keechiu,41,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['public', 'transport', 'oper', 'constantli', 'struggl', 'profit', 'mayb', 'profit', 'even', 'concern', 'public', 'transport', 'mayb', 'public', 'transport', 'thought', 'public', 'good', 'take', 'comment', 'take', 'public', 'transport', 'life', 'revolv', 'around', 'mayb', 'wise', 'peopl', 'ptc', 'know', 'better']","Public transport operators here have been constantly struggling with profitability. Maybe profitability shouldn’t even be a concern for public transport. Maybe *public* transport should be thought of as a *public* good.
+
+But don’t take my comments just as they are - after all, I don’t take public transport, my life doesn’t revolve around it. Maybe the wise people of the PTC know better."
+8,fs1vnvu,t3_grwbju,"Anyone else sat on a snail public bus moving at half speed on empty roads?  
+
+I know they want to meet their KPI and protect their bonus, but idling at every bus stop for 1-2 minutes is absurd.  
+
+Surely the spirits who board and debus don't take that long right?",t3_grwbju,2020-05-28 11:31:08,lawlianne,8,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['anyon', 'els', 'sat', 'snail', 'public', 'bu', 'move', 'half', 'speed', 'empti', 'road', 'know', 'want', 'meet', 'kpi', 'protect', 'bonu', 'idl', 'everi', 'bu', 'stop', 'minut', 'absurd', 'sure', 'spirit', 'board', 'debu', 'take', 'long', 'right']","Anyone else sat on a snail public bus moving at half speed on empty roads?  
+
+I know they want to meet their KPI and protect their bonus, but idling at every bus stop for 1-2 minutes is absurd.  
+
+Surely the spirits who board and debus don't take that long right?"
+9,fs1z49f,t3_grwbju,Increasing the fare is one thing. What really pisses me off is that SMRT is private entity and yet gahmen is acting as their mouthpiece and explaining on their behalf why fares need to increase. I get that gahmen has to approve any fare increase but you would think the SMRT people would speak for themselves once in awhile instead of hiding behind gahmen all the time.,t3_grwbju,2020-05-28 12:08:16,,8,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['increas', 'fare', 'one', 'thing', 'realli', 'piss', 'smrt', 'privat', 'entiti', 'yet', 'gahmen', 'act', 'mouthpiec', 'explain', 'behalf', 'fare', 'need', 'increas', 'get', 'gahmen', 'approv', 'fare', 'increas', 'would', 'think', 'smrt', 'peopl', 'would', 'speak', 'awhil', 'instead', 'hide', 'behind', 'gahmen', 'time']",Increasing the fare is one thing. What really pisses me off is that SMRT is private entity and yet gahmen is acting as their mouthpiece and explaining on their behalf why fares need to increase. I get that gahmen has to approve any fare increase but you would think the SMRT people would speak for themselves once in awhile instead of hiding behind gahmen all the time.
+10,fs1jiv3,t3_grwbju,Here we go again,t3_grwbju,2020-05-28 09:31:19,xxxr18,3,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,['go'],Here we go again
+11,fs22qb2,t3_grwbju,"Actually, fare hike justification is due to QingMing Festival清明节.
+
+SM-RT has actually borne the fare of QingMing passengers taking public transport for the past years. As the souls do not pay for a ride, SM-RT and KahwKahwKahw had to borne the 'HEAVY' costs of the ExTrA Ridership.
+
+It is actually logical to raise the fares as the trains may look empty, but filled with the souls of many deceased. /s",t3_grwbju,2020-05-28 12:49:47,BS_MokiMoki34,5,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['actual', 'fare', 'hike', 'justif', 'due', 'qingm', 'festiv', 'actual', 'born', 'fare', 'qingm', 'passeng', 'take', 'public', 'transport', 'past', 'year', 'soul', 'pay', 'ride', 'kahwkahwkahw', 'born', 'cost', 'extra', 'ridership', 'actual', 'logic', 'rais', 'fare', 'train', 'may', 'look', 'empti', 'fill', 'soul', 'mani', 'deceas']","Actually, fare hike justification is due to QingMing Festival清明节.
+
+SM-RT has actually borne the fare of QingMing passengers taking public transport for the past years. As the souls do not pay for a ride, SM-RT and KahwKahwKahw had to borne the 'HEAVY' costs of the ExTrA Ridership.
+
+It is actually logical to raise the fares as the trains may look empty, but filled with the souls of many deceased. /s"
+12,fs1h9w4,t3_grwbju,Knn.,t3_grwbju,2020-05-28 09:10:12,miserablebuibui,5,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,['knn'],Knn.
+13,fs1g4t0,t3_grwbju,"> # Travelling or telecommuting – how COVID-19 could affect public transport costs in Singapore
+
+> SINGAPORE: It could be more expensive to take the bus or train in future if telecommuting becomes the norm in the long term, even after the COVID-19 pandemic dies down.
+
+> Lower ridership means a drop in fare revenues for operators. They may eventually have to adjust fares or rely on more government subsidies to ensure that public transport continues running, said experts.
+
+> Advertisement
+
+> Advertisement
+
+> The issue of costs and funding would also “depend critically” on how long safe distancing measures would be implemented on buses and trains, said Associate Professor Theseira, who heads the Singapore University of Social Science’s master of urban transport management programme.
+
+> “What is affecting financing is safe distancing, because it forces us to operate a full schedule of services but with very low ridership per service run,” he said. “There is no way for any public transport system to break even with low ridership on board each vehicle.”
+
+> Transport Minister Khaw Boon Wan had said earlier in May that fare revenues have dropped by about 80 per cent during the COVID-19 pandemic, putting transport operators under “significant financial stress”.
+
+> He noted that even as ridership has fallen, public transport operators have had to spend on additional cleaning and on deploying people to ensure safe distancing.
+
+> Advertisement
+
+> Advertisement
+
+> Additional costs incurred by operators are not ""adequately covered"" by current fares and will ""eventually have to be borne by operators and taxpayers"", Mr Khaw added.
+
+> Public transport operators will have to cover some of the shortfall on their own and depend on more subsidies from the Government for the time being, said transport engineering consultant Gopinath Menon.
+
+> “Fares may need to eventually rise so that the commuters also contribute their share instead of just the public transport operators and the Government,” he added.
+
+> File photo of an MRT train against a backdrop of HDB blocks. (Photo: Jeremy Long)
+
+> In the longer term, however, changes may have to be made to the pricing policy.
+
+> “We have to look at a combination of pricing policy - not so much fare increases, but perhaps trying to spread out travel more - and perhaps other means of cost recovery such as earmarked taxes or charges,” said Assoc Prof Theseira.
+
+> “For example, public transport in many cities is financed specifically from local taxes from businesses that benefit the most from public transport connectivity, such as those within some distance of train stations,” he pointed out.
+
+> PREVENTING TRANSMISSION ON PUBLIC TRANSPORT
+
+> 
+
+> For commuters returning to work or school, they will have to be mindful of safe distancing rules.
+
+> Experts note that measures to prevent crowding on buses and trains may be challenging to enforce after the circuit breaker period ends on Jun 1.
+
+> That is why it is compulsory for commuters to wear masks.
+
+> They should also avoid talking on the phone or to one another, noted Professor Teo Yik Ying, dean of the National University of Singapore's Saw Swee Hock School of Public Health.
+
+> “These measures are aimed to minimise people from producing aerosolised droplets that go on to infect others or settle on surfaces,” said Prof Teo.
+
+> “If there is very little contact between people and no conversation, then the chance of droplets being expelled will be significantly reduced, and this in turn reduces the risk of infection to fellow commuters.”
+
+> Commuters wear face masks on an MRT train in Singapore on Mar 18, 2020. (Photo: Roslan RAHMAN / AFP)
+
+> Other ways to prevent the spread of COVID-19 on public transport could include the regular testing of frontline workers such as drivers, as well as increasing the frequency of buses and trains, although Prof Teo noted that this would increase operating costs substantially.
+
+> RETHINKING TRANSPORT
+
+> As an alternative to crowded mass transit, some countries, including Italy and Colombia, are turning to cycling as a mode of transport.
+
+> 
+
+> France is investing 20 million euros (S$31 million) in subsidising bicycle travel, while Britain has announced an ambitious £2 billion plan to promote “active travel” modes such as cycling and walking.
+
+> 
+
+> While Singapore has its own initiative to encourage cycling - the Government plans to invest more than S$1 billion on cycling paths over the next decade - Assoc Prof Theseira believes cycling is not yet a “realistic alternative” for most commuters because of the long distances between population centres and workplaces, as well as the lack of dedicated cycling paths connecting the two.
+
+> Singapore should continue to invest in public transport infrastructure, even if ridership were to decline in the longer term, said Assoc Prof Theseira.
+
+> “Extensiveness of the network is different from intensity of services. We need an extensive network so that you don't need private transport and to provide redundancy,” he explained. “However, service frequency and intensity could be adjusted to save costs.”
+
+> 
+
+> Commuters wearing protective face masks wait for the bus, amid the coronavirus disease (COVID-19) outbreak in Singapore May 15, 2020. REUTERS/Edgar Su
+
+> Transport consultant Mr Menon believes the coronavirus outbreak is an “opportune time” to review Singapore’s overall transport policies.
+
+> Such a review should consider the provision of additional bus lanes and cycling lanes, and taking away lanes for motor vehicles, he added.
+
+> “Otherwise, we go back to the old system where the cars still dominate, with nothing having been changed, and the pollution levels return.”
+
+> In the longer term, Mr Menon hopes concerns over COVID-19 will also lead to greater decentralisation in urban planning - so people will be able to travel shorter distances for work and leisure - in addition to telecommuting and more flexible work arrangements.
+
+> The long term increase in adoption of telecommuting in response to COVID-19 would be a “great thing for everyone”, said Assoc Prof Theseira.
+
+> “Travel is actually economically inefficient. What we gain from economic activities around travel - such as supply of transport services, fuel and so on - is far outstripped by the value destruction from congestion, consumption of fossil fuels, environmental harm, time wasted,” he said.
+
+> There would however be adjustment costs, he noted, pointing to the impact of reduced demand on the taxi and private-hire car sectors.
+
+> “But while these costs may be painful to pay, a sustained reduction in local travel demand will eventually be better for the economy, because doing business without a need to physically travel is much more efficient,” he said.
+
+> Download our app or subscribe to our Telegram channel for the latest updates on the coronavirus outbreak: https://cna.asia/telegram
+
+---
+1.0.2 | [Source code](https://github.com/fterh/sneakpeek) | [Contribute](https://github.com/fterh/sneakpeek)",t3_grwbju,2020-05-28 08:59:27,sneakpeek_bot,2,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['travel', 'telecommut', 'could', 'affect', 'public', 'transport', 'cost', 'singapor', 'singapor', 'could', 'expens', 'take', 'bu', 'train', 'futur', 'telecommut', 'becom', 'norm', 'long', 'term', 'even', 'pandem', 'die', 'lower', 'ridership', 'mean', 'drop', 'fare', 'revenu', 'oper', 'may', 'eventu', 'adjust', 'fare', 'reli', 'govern', 'subsidi', 'ensur', 'public', 'transport', 'continu', 'run', 'said', 'expert', 'advertis', 'advertis', 'issu', 'cost', 'fund', 'would', 'also', 'depend', 'critic', 'long', 'safe', 'distanc', 'measur', 'would', 'implement', 'buse', 'train', 'said', 'associ', 'professor', 'theseira', 'head', 'singapor', 'univers', 'social', 'scienc', 'master', 'urban', 'transport', 'manag', 'programm', 'affect', 'financ', 'safe', 'distanc', 'forc', 'us', 'oper', 'full', 'schedul', 'servic', 'low', 'ridership', 'per', 'servic', 'run', 'said', 'way', 'public', 'transport', 'system', 'break', 'even', 'low', 'ridership', 'board', 'transport', 'minist', 'khaw', 'boon', 'wan', 'said', 'earlier', 'may', 'fare', 'revenu', 'drop', 'per', 'cent', 'pandem', 'put', 'transport', 'oper', 'signific', 'financi', 'stress', 'note', 'even', 'ridership', 'fallen', 'public', 'transport', 'oper', 'spend', 'addit', 'clean', 'deploy', 'peopl', 'ensur', 'safe', 'distanc', 'advertis', 'advertis', 'addit', 'cost', 'incur', 'oper', 'adequ', 'cover', 'current', 'fare', 'eventu', 'born', 'oper', 'taxpay', 'mr', 'khaw', 'ad', 'public', 'transport', 'oper', 'cover', 'shortfal', 'depend', 'subsidi', 'govern', 'time', 'said', 'transport', 'engin', 'consult', 'gopinath', 'menon', 'fare', 'may', 'need', 'eventu', 'rise', 'commut', 'also', 'contribut', 'share', 'instead', 'public', 'transport', 'oper', 'govern', 'ad', 'file', 'photo', 'mrt', 'train', 'backdrop', 'hdb', 'block', 'photo', 'jeremi', 'long', 'longer', 'term', 'howev', 'chang', 'may', 'made', 'price', 'polici', 'look', 'combin', 'price', 'polici', 'much', 'fare', 'increas', 'perhap', 'tri', 'spread', 'travel', 'perhap', 'mean', 'cost', 'recoveri', 'earmark', 'tax', 'charg', 'said', 'assoc', 'prof', 'theseira', 'exampl', 'public', 'transport', 'mani', 'citi', 'financ', 'specif', 'local', 'tax', 'busi', 'benefit', 'public', 'transport', 'connect', 'within', 'distanc', 'train', 'station', 'point', 'prevent', 'transmiss', 'public', 'transport', 'commut', 'return', 'work', 'school', 'mind', 'safe', 'distanc', 'rule', 'expert', 'note', 'measur', 'prevent', 'crowd', 'buse', 'train', 'may', 'challeng', 'enforc', 'circuit', 'breaker', 'period', 'end', 'jun', 'compulsori', 'commut', 'wear', 'mask', 'also', 'avoid', 'talk', 'phone', 'one', 'anoth', 'note', 'professor', 'teo', 'yik', 'ying', 'dean', 'nation', 'univers', 'singapor', 'saw', 'swee', 'hock', 'school', 'public', 'health', 'measur', 'aim', 'minimis', 'peopl', 'produc', 'aerosolis', 'droplet', 'go', 'infect', 'other', 'settl', 'surfac', 'said', 'prof', 'teo', 'littl', 'contact', 'peopl', 'convers', 'chanc', 'droplet', 'expel', 'significantli', 'reduc', 'turn', 'reduc', 'risk', 'infect', 'fellow', 'commut', 'wear', 'face', 'mask', 'mrt', 'train', 'singapor', 'mar', 'photo', 'roslan', 'rahman', 'afp', 'way', 'prevent', 'spread', 'public', 'transport', 'could', 'includ', 'regular', 'test', 'frontlin', 'worker', 'driver', 'well', 'increas', 'frequenc', 'buse', 'train', 'although', 'prof', 'teo', 'note', 'would', 'increas', 'oper', 'cost', 'substanti', 'rethink', 'transport', 'altern', 'crowd', 'mass', 'transit', 'countri', 'includ', 'itali', 'colombia', 'turn', 'cycl', 'mode', 'transport', 'franc', 'invest', 'million', 'euro', 'million', 'subsidis', 'bicycl', 'travel', 'britain', 'announc', 'ambiti', 'billion', 'plan', 'promot', 'activ', 'travel', 'mode', 'cycl', 'walk', 'singapor', 'initi', 'encourag', 'cycl', 'govern', 'plan', 'invest', 'billion', 'cycl', 'path', 'next', 'decad', 'assoc', 'prof', 'theseira', 'believ', 'cycl', 'yet', 'realist', 'altern', 'commut', 'long', 'distanc', 'popul', 'centr', 'workplac', 'well', 'lack', 'dedic', 'cycl', 'path', 'connect', 'two', 'singapor', 'continu', 'invest', 'public', 'transport', 'infrastructur', 'even', 'ridership', 'declin', 'longer', 'term', 'said', 'assoc', 'prof', 'theseira', 'extens', 'network', 'differ', 'intens', 'servic', 'need', 'extens', 'network', 'need', 'privat', 'transport', 'provid', 'redund', 'explain', 'howev', 'servic', 'frequenc', 'intens', 'could', 'adjust', 'save', 'commut', 'wear', 'protect', 'face', 'mask', 'wait', 'bu', 'amid', 'coronaviru', 'diseas', 'outbreak', 'singapor', 'may', 'su', 'transport', 'consult', 'mr', 'menon', 'believ', 'coronaviru', 'outbreak', 'opportun', 'time', 'review', 'singapor', 'overal', 'transport', 'polici', 'review', 'consid', 'provis', 'addit', 'bu', 'lane', 'cycl', 'lane', 'take', 'away', 'lane', 'motor', 'vehicl', 'ad', 'otherwis', 'go', 'back', 'old', 'system', 'car', 'still', 'domin', 'noth', 'chang', 'pollut', 'level', 'longer', 'term', 'mr', 'menon', 'hope', 'concern', 'also', 'lead', 'greater', 'decentralis', 'urban', 'plan', 'peopl', 'abl', 'travel', 'shorter', 'distanc', 'work', 'leisur', 'addit', 'telecommut', 'flexibl', 'work', 'arrang', 'long', 'term', 'increas', 'adopt', 'telecommut', 'respons', 'would', 'great', 'thing', 'everyon', 'said', 'assoc', 'prof', 'theseira', 'travel', 'actual', 'econom', 'ineffici', 'gain', 'econom', 'activ', 'around', 'travel', 'suppli', 'transport', 'servic', 'fuel', 'far', 'outstrip', 'valu', 'destruct', 'congest', 'consumpt', 'fossil', 'fuel', 'environment', 'harm', 'time', 'wast', 'said', 'would', 'howev', 'adjust', 'cost', 'note', 'point', 'impact', 'reduc', 'demand', 'taxi', 'car', 'sector', 'cost', 'may', 'pain', 'pay', 'sustain', 'reduct', 'local', 'travel', 'demand', 'eventu', 'better', 'economi', 'busi', 'without', 'need', 'physic', 'travel', 'much', 'effici', 'said', 'download', 'app', 'subscrib', 'telegram', 'channel', 'latest', 'updat', 'coronaviru', 'outbreak', 'sourc', 'code', 'contribut']","> # Travelling or telecommuting – how COVID-19 could affect public transport costs in Singapore
+
+> SINGAPORE: It could be more expensive to take the bus or train in future if telecommuting becomes the norm in the long term, even after the COVID-19 pandemic dies down.
+
+> Lower ridership means a drop in fare revenues for operators. They may eventually have to adjust fares or rely on more government subsidies to ensure that public transport continues running, said experts.
+
+> Advertisement
+
+> Advertisement
+
+> The issue of costs and funding would also “depend critically” on how long safe distancing measures would be implemented on buses and trains, said Associate Professor Theseira, who heads the Singapore University of Social Science’s master of urban transport management programme.
+
+> “What is affecting financing is safe distancing, because it forces us to operate a full schedule of services but with very low ridership per service run,” he said. “There is no way for any public transport system to break even with low ridership on board each vehicle.”
+
+> Transport Minister Khaw Boon Wan had said earlier in May that fare revenues have dropped by about 80 per cent during the COVID-19 pandemic, putting transport operators under “significant financial stress”.
+
+> He noted that even as ridership has fallen, public transport operators have had to spend on additional cleaning and on deploying people to ensure safe distancing.
+
+> Advertisement
+
+> Advertisement
+
+> Additional costs incurred by operators are not ""adequately covered"" by current fares and will ""eventually have to be borne by operators and taxpayers"", Mr Khaw added.
+
+> Public transport operators will have to cover some of the shortfall on their own and depend on more subsidies from the Government for the time being, said transport engineering consultant Gopinath Menon.
+
+> “Fares may need to eventually rise so that the commuters also contribute their share instead of just the public transport operators and the Government,” he added.
+
+> File photo of an MRT train against a backdrop of HDB blocks. (Photo: Jeremy Long)
+
+> In the longer term, however, changes may have to be made to the pricing policy.
+
+> “We have to look at a combination of pricing policy - not so much fare increases, but perhaps trying to spread out travel more - and perhaps other means of cost recovery such as earmarked taxes or charges,” said Assoc Prof Theseira.
+
+> “For example, public transport in many cities is financed specifically from local taxes from businesses that benefit the most from public transport connectivity, such as those within some distance of train stations,” he pointed out.
+
+> PREVENTING TRANSMISSION ON PUBLIC TRANSPORT
+
+> 
+
+> For commuters returning to work or school, they will have to be mindful of safe distancing rules.
+
+> Experts note that measures to prevent crowding on buses and trains may be challenging to enforce after the circuit breaker period ends on Jun 1.
+
+> That is why it is compulsory for commuters to wear masks.
+
+> They should also avoid talking on the phone or to one another, noted Professor Teo Yik Ying, dean of the National University of Singapore's Saw Swee Hock School of Public Health.
+
+> “These measures are aimed to minimise people from producing aerosolised droplets that go on to infect others or settle on surfaces,” said Prof Teo.
+
+> “If there is very little contact between people and no conversation, then the chance of droplets being expelled will be significantly reduced, and this in turn reduces the risk of infection to fellow commuters.”
+
+> Commuters wear face masks on an MRT train in Singapore on Mar 18, 2020. (Photo: Roslan RAHMAN / AFP)
+
+> Other ways to prevent the spread of COVID-19 on public transport could include the regular testing of frontline workers such as drivers, as well as increasing the frequency of buses and trains, although Prof Teo noted that this would increase operating costs substantially.
+
+> RETHINKING TRANSPORT
+
+> As an alternative to crowded mass transit, some countries, including Italy and Colombia, are turning to cycling as a mode of transport.
+
+> 
+
+> France is investing 20 million euros (S$31 million) in subsidising bicycle travel, while Britain has announced an ambitious £2 billion plan to promote “active travel” modes such as cycling and walking.
+
+> 
+
+> While Singapore has its own initiative to encourage cycling - the Government plans to invest more than S$1 billion on cycling paths over the next decade - Assoc Prof Theseira believes cycling is not yet a “realistic alternative” for most commuters because of the long distances between population centres and workplaces, as well as the lack of dedicated cycling paths connecting the two.
+
+> Singapore should continue to invest in public transport infrastructure, even if ridership were to decline in the longer term, said Assoc Prof Theseira.
+
+> “Extensiveness of the network is different from intensity of services. We need an extensive network so that you don't need private transport and to provide redundancy,” he explained. “However, service frequency and intensity could be adjusted to save costs.”
+
+> 
+
+> Commuters wearing protective face masks wait for the bus, amid the coronavirus disease (COVID-19) outbreak in Singapore May 15, 2020. REUTERS/Edgar Su
+
+> Transport consultant Mr Menon believes the coronavirus outbreak is an “opportune time” to review Singapore’s overall transport policies.
+
+> Such a review should consider the provision of additional bus lanes and cycling lanes, and taking away lanes for motor vehicles, he added.
+
+> “Otherwise, we go back to the old system where the cars still dominate, with nothing having been changed, and the pollution levels return.”
+
+> In the longer term, Mr Menon hopes concerns over COVID-19 will also lead to greater decentralisation in urban planning - so people will be able to travel shorter distances for work and leisure - in addition to telecommuting and more flexible work arrangements.
+
+> The long term increase in adoption of telecommuting in response to COVID-19 would be a “great thing for everyone”, said Assoc Prof Theseira.
+
+> “Travel is actually economically inefficient. What we gain from economic activities around travel - such as supply of transport services, fuel and so on - is far outstripped by the value destruction from congestion, consumption of fossil fuels, environmental harm, time wasted,” he said.
+
+> There would however be adjustment costs, he noted, pointing to the impact of reduced demand on the taxi and private-hire car sectors.
+
+> “But while these costs may be painful to pay, a sustained reduction in local travel demand will eventually be better for the economy, because doing business without a need to physically travel is much more efficient,” he said.
+
+> Download our app or subscribe to our Telegram channel for the latest updates on the coronavirus outbreak: https://cna.asia/telegram
+
+---
+1.0.2 | [Source code](https://github.com/fterh/sneakpeek) | [Contribute](https://github.com/fterh/sneakpeek)"
+14,fs3ku1u,t3_grwbju,"i can smell surge pricing coming for public transport. only 10 seats available on this train, click to book now",t3_grwbju,2020-05-28 23:45:17,wiltedpop,1,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['smell', 'surg', 'price', 'come', 'public', 'transport', 'seat', 'avail', 'train', 'click', 'book']","i can smell surge pricing coming for public transport. only 10 seats available on this train, click to book now"
+15,fs1yxcw,t1_fs1jb8e,Rofl I just wasted a can of coke 😂,t3_grwbju,2020-05-28 12:06:10,eliseusmoo,6,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['rofl', 'wast', 'coke']",Rofl I just wasted a can of coke :face_with_tears_of_joy:
+16,fs1upfi,t1_fs1jb8e,[please clap](https://www.youtube.com/watch?v=DdCYMvaUcrA),t3_grwbju,2020-05-28 11:21:10,Eskipony,2,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['pleas', 'clap']",[please clap](https://www.youtube.com/watch?v=DdCYMvaUcrA)
+17,fs1szxw,t1_fs1h8ha,"Mercury and Venus retrograde, therefore raise fares",t3_grwbju,2020-05-28 11:03:30,chesterqw,28,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['mercuri', 'venu', 'retrograd', 'therefor', 'rais', 'fare']","Mercury and Venus retrograde, therefore raise fares"
+18,fs1lji6,t1_fs1juwn,Seems Ashley Wu got nothing to say these days.,t3_grwbju,2020-05-28 09:50:32,swordfishunter,6,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['seem', 'ashley', 'wu', 'got', 'noth', 'say', 'day']",Seems Ashley Wu got nothing to say these days.
+19,fs1os1w,t1_fs1o729,I won’t be surprised if their KPI involves how profitable the public transport companies are.,t3_grwbju,2020-05-28 10:21:35,ngrenjie,7,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['surpris', 'kpi', 'involv', 'profit', 'public', 'transport', 'compani']",I won’t be surprised if their KPI involves how profitable the public transport companies are.
+20,fs20exs,t1_fs1o729,Not the first time this question have been ask. I think prob most if not all don't take public transport. And for many years Liao. Prob maybe took the MRT train during opening ceremony experience. Tats all,t3_grwbju,2020-05-28 12:22:48,StoenerSG,2,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['first', 'time', 'question', 'ask', 'think', 'prob', 'take', 'public', 'transport', 'mani', 'year', 'liao', 'prob', 'mayb', 'took', 'mrt', 'train', 'open', 'ceremoni', 'experi', 'tat']",Not the first time this question have been ask. I think prob most if not all don't take public transport. And for many years Liao. Prob maybe took the MRT train during opening ceremony experience. Tats all
+21,fs20jrp,t1_fs1o729,https://www.ptc.gov.sg/about/council-members,t3_grwbju,2020-05-28 12:24:20,StoenerSG,2,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,[],https://www.ptc.gov.sg/about/council-members
+22,fs1ojr4,t1_fs1ig2y,People have a choice not to eat chicken rice. What’s the alternative to not taking the bus or MRT? Grab everyday?,t3_grwbju,2020-05-28 10:19:19,ngrenjie,1,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['peopl', 'choic', 'eat', 'chicken', 'rice', 'altern', 'take', 'bu', 'mrt', 'grab', 'everyday']",People have a choice not to eat chicken rice. What’s the alternative to not taking the bus or MRT? Grab everyday?
+23,fs1nzc4,t1_fs1heni,[deleted],t3_grwbju,2020-05-28 10:13:48,,12,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,['delet'],[deleted]
+24,fs1uxcw,t1_fs1heni,"The funny thing is that SMRT is by proxy still owned by the Singapore government.  
+
+Sg govt owns Temasek which owns SMRT.",t3_grwbju,2020-05-28 11:23:28,Eskipony,7,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['funni', 'thing', 'smrt', 'proxi', 'still', 'own', 'singapor', 'govern', 'sg', 'govt', 'own', 'temasek', 'own', 'smrt']","The funny thing is that SMRT is by proxy still owned by the Singapore government.  
+
+Sg govt owns Temasek which owns SMRT."
+25,fs25pyb,t1_fs1z49f,It's like lam pin min speaking on behalf of the columbarium company,t3_grwbju,2020-05-28 13:26:09,x1243,2,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['like', 'lam', 'pin', 'min', 'speak', 'behalf', 'columbarium', 'compani']",It's like lam pin min speaking on behalf of the columbarium company
+26,fs2ggkl,t1_fs22qb2,then what have people been burning paper money for,t3_grwbju,2020-05-28 15:55:53,FitCranberry,1,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['peopl', 'burn', 'paper', 'money']",then what have people been burning paper money for
+27,fs22u80,t1_fs1szxw,"Planets in alignment: Opportunity to raise fares
+
+Planets not in alignment: Opportunity to raise fares",t3_grwbju,2020-05-28 12:51:04,Darkblade48,16,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['planet', 'align', 'opportun', 'rais', 'fare', 'planet', 'align', 'opportun', 'rais', 'fare']","Planets in alignment: Opportunity to raise fares
+
+Planets not in alignment: Opportunity to raise fares"
+28,fs1teip,t1_fs1lji6,Got replaced by Jerome tan?,t3_grwbju,2020-05-28 11:07:40,-_af_-,1,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['got', 'replac', 'jerom', 'tan']",Got replaced by Jerome tan?
+29,fs1pal6,t1_fs1ojr4,So what you're saying is monopoly is bad?,t3_grwbju,2020-05-28 10:26:36,CSlv,16,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['say', 'monopoli', 'bad']",So what you're saying is monopoly is bad?
+30,fs1o6n1,t1_fs1nzc4,"To do that well we need leadership that is more capable than the current ones at the company
+
+Look at what happened to their engineering work when one particular CEO pivoted towards non-rail businesses",t3_grwbju,2020-05-28 10:15:46,keechiu,20,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['well', 'need', 'leadership', 'capabl', 'current', 'one', 'compani', 'look', 'happen', 'engin', 'work', 'one', 'particular', 'ceo', 'pivot', 'toward', 'busi']","To do that well we need leadership that is more capable than the current ones at the company
+
+Look at what happened to their engineering work when one particular CEO pivoted towards non-rail businesses"
+31,fs2la6x,t1_fs2ggkl,"Indeed! That is why ANOTHER REASON to justify hell fare hike will be explained here.
+
+Current Ez-link top up kiosk are unable to accept any notes except Singapore currency. That's why a new hoax development is in the works to allow Hell Notes to be used to buy one-time transport concessions. It will Sarcastically be called ""What-The-Hell"".
+
+The relevant projerk managers are currently liaising with associates from Hell to work out the currency conversion rate. /s",t3_grwbju,2020-05-28 17:12:32,BS_MokiMoki34,1,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['inde', 'anoth', 'reason', 'justifi', 'hell', 'fare', 'hike', 'explain', 'current', 'top', 'kiosk', 'unabl', 'accept', 'note', 'except', 'singapor', 'currenc', 'new', 'hoax', 'develop', 'work', 'allow', 'hell', 'note', 'use', 'buy', 'transport', 'concess', 'sarcast', 'call', 'relev', 'projerk', 'manag', 'current', 'liais', 'associ', 'hell', 'work', 'currenc', 'convers', 'rate']","Indeed! That is why ANOTHER REASON to justify hell fare hike will be explained here.
+
+Current Ez-link top up kiosk are unable to accept any notes except Singapore currency. That's why a new hoax development is in the works to allow Hell Notes to be used to buy one-time transport concessions. It will Sarcastically be called ""What-The-Hell"".
+
+The relevant projerk managers are currently liaising with associates from Hell to work out the currency conversion rate. /s"
+32,fs2gjq6,t1_fs22u80,R'lyeh rises again! therefore raise fares,t3_grwbju,2020-05-28 15:57:12,FitCranberry,3,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['rise', 'therefor', 'rais', 'fare']",R'lyeh rises again! therefore raise fares
+33,fs2g4u6,t1_fs1pal6,"oh no, better open up more glcs, parachute some sandbags in and then pretend to have a semblance of competition",t3_grwbju,2020-05-28 15:51:00,FitCranberry,2,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['oh', 'better', 'open', 'glc', 'parachut', 'sandbag', 'pretend', 'semblanc', 'competit']","oh no, better open up more glcs, parachute some sandbags in and then pretend to have a semblance of competition"
+34,fs1pi18,t1_fs1pal6,More than strengths and weaknesses tend to be two sides of the same coin.,t3_grwbju,2020-05-28 10:28:36,ngrenjie,-1,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['strength', 'weak', 'tend', 'two', 'side', 'coin']",More than strengths and weaknesses tend to be two sides of the same coin.
+35,fs1ooux,t1_fs1o6n1,"She was actually on the right path. Only problem was that she decided to both prioritise retail and cut engineering costs in a bid to increase profits. 
+
+The two are not mutually exclusive.",t3_grwbju,2020-05-28 10:20:43,ngrenjie,26,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['actual', 'right', 'path', 'problem', 'decid', 'prioritis', 'retail', 'cut', 'engin', 'cost', 'bid', 'increas', 'profit', 'two', 'mutual', 'exclus']","She was actually on the right path. Only problem was that she decided to both prioritise retail and cut engineering costs in a bid to increase profits. 
+
+The two are not mutually exclusive."
+36,fs2bcbf,t1_fs1ooux,"Not to mention that the full MTRC model is inherently constrained in Singapore, because why invest in a 99 year lease when 30 years later a competitor can take over the operation of the rail line?
+
+All they've really managed to do is convert spare space within the stations into commercial use, which is really just a drop in the ocean compared to what the Japanese railways and MTRC can do.",t3_grwbju,2020-05-28 14:40:26,yuuka_miya,2,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['mention', 'full', 'mtrc', 'model', 'inher', 'constrain', 'singapor', 'invest', 'year', 'leas', 'year', 'later', 'competitor', 'take', 'oper', 'rail', 'line', 'realli', 'manag', 'convert', 'spare', 'space', 'within', 'station', 'commerci', 'use', 'realli', 'drop', 'ocean', 'compar', 'japanes', 'railway', 'mtrc']","Not to mention that the full MTRC model is inherently constrained in Singapore, because why invest in a 99 year lease when 30 years later a competitor can take over the operation of the rail line?
+
+All they've really managed to do is convert spare space within the stations into commercial use, which is really just a drop in the ocean compared to what the Japanese railways and MTRC can do."
+37,fs2gdp4,t1_fs2bcbf,"they do in-station retail weird here compared to hk or jpn where its always well mixed inside the station within the commuters path while here on the island, everythings off to some obscure corner by themselves",t3_grwbju,2020-05-28 15:54:42,FitCranberry,3,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['retail', 'weird', 'compar', 'hk', 'jpn', 'alway', 'well', 'mix', 'insid', 'station', 'within', 'commut', 'path', 'island', 'everyth', 'obscur', 'corner']","they do in-station retail weird here compared to hk or jpn where its always well mixed inside the station within the commuters path while here on the island, everythings off to some obscure corner by themselves"
+38,fs2m5sr,t1_fs2gdp4,"Can't be helped because of the whole ""conversion"" thing. They do realize it is a weakness though, from things I've seen.",t3_grwbju,2020-05-28 17:27:07,yuuka_miya,2,Travelling or telecommuting - how COVID-19 could affect public transport costs in Singapore,t3_grwbju,12,grwbju,https://www.channelnewsasia.com/news/singapore/covid-19-public-transport-fares-telecommuting-12756938?cid=FBcna,39,2020-05-28 08:59:24,0.74,"['ca', 'help', 'whole', 'convers', 'thing', 'realiz', 'weak', 'though', 'thing', 'seen']","Can't be helped because of the whole ""conversion"" thing. They do realize it is a weakness though, from things I've seen."
+39,fwypahm,t3_hlf77d,[deleted],t3_hlf77d,2020-07-05 10:49:59,,13,How is your working arrangement in Singapore at the moment post CB period,t3_hlf77d,6,hlf77d,https://www.reddit.com/r/singapore/comments/hlf77d/how_is_your_working_arrangement_in_singapore_at/,9,2020-07-05 10:25:54,1.0,['delet'],[deleted]
+40,fwyqwf9,t3_hlf77d,Still working from home.,t3_hlf77d,2020-07-05 11:09:09,,5,How is your working arrangement in Singapore at the moment post CB period,t3_hlf77d,6,hlf77d,https://www.reddit.com/r/singapore/comments/hlf77d/how_is_your_working_arrangement_in_singapore_at/,9,2020-07-05 10:25:54,1.0,"['still', 'work', 'home']",Still working from home.
+41,fwyvhwd,t3_hlf77d,"got called back to office since start of phase 2. staggered working hours for us: some 8.30am - 5.30pm, others 9pm - 6pm or 10am - 7pm.
+
+for my work, we can actually all wfh, there’s literally no need to report to work physically. although our respective team heads has the flexibility to allow us to wfh, but alas mine doesn’t believe in that concept 🤷🏻‍♀️",t3_hlf77d,2020-07-05 12:05:51,mapofthesoul_7,5,How is your working arrangement in Singapore at the moment post CB period,t3_hlf77d,6,hlf77d,https://www.reddit.com/r/singapore/comments/hlf77d/how_is_your_working_arrangement_in_singapore_at/,9,2020-07-05 10:25:54,1.0,"['got', 'call', 'back', 'offic', 'sinc', 'start', 'phase', 'stagger', 'work', 'hour', 'us', 'other', 'work', 'actual', 'wfh', 'liter', 'need', 'report', 'work', 'physic', 'although', 'respect', 'team', 'head', 'flexibl', 'allow', 'us', 'wfh', 'ala', 'mine', 'believ', 'concept']","got called back to office since start of phase 2. staggered working hours for us: some 8.30am - 5.30pm, others 9pm - 6pm or 10am - 7pm.
+
+for my work, we can actually all wfh, there’s literally no need to report to work physically. although our respective team heads has the flexibility to allow us to wfh, but alas mine doesn’t believe in that concept :woman_shrugging_light_skin_tone:"
+42,fwyujn5,t3_hlf77d,I am a freelancer and my industry would definitely be the last to get back up. Just doing odd jobs at the moment to stay afloat,t3_hlf77d,2020-07-05 11:53:37,stijlistikkk,2,How is your working arrangement in Singapore at the moment post CB period,t3_hlf77d,6,hlf77d,https://www.reddit.com/r/singapore/comments/hlf77d/how_is_your_working_arrangement_in_singapore_at/,9,2020-07-05 10:25:54,1.0,"['freelanc', 'industri', 'would', 'definit', 'last', 'get', 'back', 'odd', 'job', 'moment', 'stay', 'afloat']",I am a freelancer and my industry would definitely be the last to get back up. Just doing odd jobs at the moment to stay afloat
+43,fwyp4wu,t3_hlf77d,"No diff before, during and post covid.",t3_hlf77d,2020-07-05 10:48:08,Psynomia,1,How is your working arrangement in Singapore at the moment post CB period,t3_hlf77d,6,hlf77d,https://www.reddit.com/r/singapore/comments/hlf77d/how_is_your_working_arrangement_in_singapore_at/,9,2020-07-05 10:25:54,1.0,"['diff', 'post', 'covid']","No diff before, during and post covid."
+44,fwyp8p8,t3_hlf77d,still wfh for me,t3_hlf77d,2020-07-05 10:49:24,alcoholfun,1,How is your working arrangement in Singapore at the moment post CB period,t3_hlf77d,6,hlf77d,https://www.reddit.com/r/singapore/comments/hlf77d/how_is_your_working_arrangement_in_singapore_at/,9,2020-07-05 10:25:54,1.0,"['still', 'wfh']",still wfh for me
+45,fwzcjjv,t3_hlf77d,I'm still wfh. Hope to be able to wfh till whole covid over.,t3_hlf77d,2020-07-05 16:20:41,maolyx,1,How is your working arrangement in Singapore at the moment post CB period,t3_hlf77d,6,hlf77d,https://www.reddit.com/r/singapore/comments/hlf77d/how_is_your_working_arrangement_in_singapore_at/,9,2020-07-05 10:25:54,1.0,"['still', 'wfh', 'hope', 'abl', 'wfh', 'till', 'whole', 'covid']",I'm still wfh. Hope to be able to wfh till whole covid over.
+46,fwzfq9a,t3_hlf77d,"Looking at my parents as well as my fellow relatives,yeap everyone has been working on shift except my mom company only allow their worker to go back office every monday & wednesday,but 9-6pm.the rest of the day,she WFH.
+
+As for the rest,they either work everyday,but shorter hours or shift days depending on company.",t3_hlf77d,2020-07-05 17:16:56,Haninumber1,1,How is your working arrangement in Singapore at the moment post CB period,t3_hlf77d,6,hlf77d,https://www.reddit.com/r/singapore/comments/hlf77d/how_is_your_working_arrangement_in_singapore_at/,9,2020-07-05 10:25:54,1.0,"['look', 'parent', 'well', 'fellow', 'rel', 'yeap', 'everyon', 'work', 'shift', 'except', 'mom', 'compani', 'allow', 'worker', 'go', 'back', 'offic', 'everi', 'monday', 'wednesday', 'rest', 'day', 'wfh', 'rest', 'either', 'work', 'everyday', 'shorter', 'hour', 'shift', 'day', 'depend', 'compani']","Looking at my parents as well as my fellow relatives,yeap everyone has been working on shift except my mom company only allow their worker to go back office every monday & wednesday,but 9-6pm.the rest of the day,she WFH.
+
+As for the rest,they either work everyday,but shorter hours or shift days depending on company."
+47,fyrymu3,t3_hlf77d,Work from home,t3_hlf77d,2020-07-21 23:59:58,xoxo86,1,How is your working arrangement in Singapore at the moment post CB period,t3_hlf77d,6,hlf77d,https://www.reddit.com/r/singapore/comments/hlf77d/how_is_your_working_arrangement_in_singapore_at/,9,2020-07-05 10:25:54,1.0,"['work', 'home']",Work from home
+48,fwz8y31,t1_fwypahm,"Same.
+
+The boss said everyone will continue to WFH till further notice
+
+I dont think I will want to go back to office after 3months plus of WFH.
+
+More advantages than disadvantages for me.",t3_hlf77d,2020-07-05 15:19:58,JulSGP,3,How is your working arrangement in Singapore at the moment post CB period,t3_hlf77d,6,hlf77d,https://www.reddit.com/r/singapore/comments/hlf77d/how_is_your_working_arrangement_in_singapore_at/,9,2020-07-05 10:25:54,1.0,"['boss', 'said', 'everyon', 'continu', 'wfh', 'till', 'notic', 'dont', 'think', 'want', 'go', 'back', 'offic', 'plu', 'wfh', 'advantag', 'disadvantag']","Same.
+
+The boss said everyone will continue to WFH till further notice
+
+I dont think I will want to go back to office after 3months plus of WFH.
+
+More advantages than disadvantages for me."
+49,fl6frhu,t3_fmwfh0,"I agree there is scope for discussion around this topic. SG is pursuing quite a different strategy from other nations. Time will tell whether it was smart or foolish. At the moment they are still holding well, and the evidence (cases, deaths) point to a viable strategy that they can continue.
+
+I believe much of their decisions revolve around the single concept that this pandemic might stretch for months and months and months. Hence they postulate the scenario during planning: what if the schools are closed for 6 months, what will happen? when will it end? what is the indicator to close schools, what is the indicator to open schools? Have you considered this?
+
+This is the same criteria for all other measures they are taking. 
+
+Similar for work, they are discouraging travel, but not total lockdown. I believe we will see first a single-school lockdown, and if it spreads, then multiple schools, the entire school system. Alternatively, temporary short 'brakes', like a 14 day stop school, instead of perpetual. 
+
+They have indicated many times they have lots of different options, but everyone keep asking, why not total lockdown, as if there are no other choices. 
+
+If we get a crazy 1000 person local community transmission overnight all over the island without any trace, I am sure they will do the temporary lockdown.",t3_fmwfh0,2020-03-22 16:47:21,tenbre,24,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['agre', 'scope', 'discuss', 'around', 'topic', 'sg', 'pursu', 'quit', 'differ', 'strategi', 'nation', 'time', 'tell', 'whether', 'smart', 'foolish', 'moment', 'still', 'hold', 'well', 'evid', 'case', 'death', 'point', 'viabl', 'strategi', 'continu', 'believ', 'much', 'decis', 'revolv', 'around', 'singl', 'concept', 'pandem', 'might', 'stretch', 'month', 'month', 'month', 'henc', 'postul', 'scenario', 'plan', 'school', 'close', 'month', 'happen', 'end', 'indic', 'close', 'school', 'indic', 'open', 'school', 'consid', 'criteria', 'measur', 'take', 'similar', 'work', 'discourag', 'travel', 'total', 'lockdown', 'believ', 'see', 'first', 'lockdown', 'spread', 'multipl', 'school', 'entir', 'school', 'system', 'altern', 'temporari', 'short', 'like', 'day', 'stop', 'school', 'instead', 'perpetu', 'indic', 'mani', 'time', 'lot', 'differ', 'option', 'everyon', 'keep', 'ask', 'total', 'lockdown', 'choic', 'get', 'crazi', 'person', 'local', 'commun', 'transmiss', 'overnight', 'island', 'without', 'trace', 'sure', 'temporari', 'lockdown']","I agree there is scope for discussion around this topic. SG is pursuing quite a different strategy from other nations. Time will tell whether it was smart or foolish. At the moment they are still holding well, and the evidence (cases, deaths) point to a viable strategy that they can continue.
+
+I believe much of their decisions revolve around the single concept that this pandemic might stretch for months and months and months. Hence they postulate the scenario during planning: what if the schools are closed for 6 months, what will happen? when will it end? what is the indicator to close schools, what is the indicator to open schools? Have you considered this?
+
+This is the same criteria for all other measures they are taking. 
+
+Similar for work, they are discouraging travel, but not total lockdown. I believe we will see first a single-school lockdown, and if it spreads, then multiple schools, the entire school system. Alternatively, temporary short 'brakes', like a 14 day stop school, instead of perpetual. 
+
+They have indicated many times they have lots of different options, but everyone keep asking, why not total lockdown, as if there are no other choices. 
+
+If we get a crazy 1000 person local community transmission overnight all over the island without any trace, I am sure they will do the temporary lockdown."
+50,fl6ev2d,t3_fmwfh0,"Okay, let’s try to answer a few questions before we proceed:
+
+1) How long will the covid situation last? 
+
+2) Do the benefits of a lockdown outweigh the costs?
+
+
+Well, we don’t know how long it will last, when it will end, so you can’t go on a lockdown with no deadline. The situation is really not THAT bad to warrant a lockdown yet, although it might worsen. Do we know if it will worsen? No we also don’t. 
+
+Now what benefits do a lockdown provide? It gives a temporary, and emphasis - TEMPORARY, relief to curb the virus from spreading. Will it mean the virus completely does not spread? No. Will the virus completely stop spreading when the time to end the lockdown comes? Don’t know. When do we end the lockdown? Don’t know too. 
+
+This means complete economic uncertainty. You’re asking the government to promote economic uncertainty and inefficiency when it is already guaranteed we will enter a recession this year. A lot of people will lose their jobs. If you want the economy to return to normalcy as soon as the virus situation is over, then a lockdown is really not the best way. 
+
+Ultimately a lockdown may occur, but everything is about the timing. Going straight into a lockdown now may bring more harm than delaying it by, say, two weeks. 
+
+The situation is bad but it really isn’t THAT bad yet. YET. So wait and see will be the right thing. 
+
+Now when will be the “right” time then? My guess would be when the number of unlinked cases start to rise, or (touch wood) even explode. Then that would definitely warrant a lockdown. For now, no. 
+
+For example, look at the big hoo-ha surrounding that VJC teacher case. Did any other related cases explode from there? Did any VJC students get infected? Not that we know of, right? It’s okay to be careful, but letting fear overrule logical decisions and mathematical probabilities would really not be the ideal thing to do in this climate.",t3_fmwfh0,2020-03-22 16:27:35,flabberwabber,47,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['okay', 'let', 'tri', 'answer', 'question', 'proceed', 'long', 'covid', 'situat', 'last', 'benefit', 'lockdown', 'outweigh', 'cost', 'well', 'know', 'long', 'last', 'end', 'go', 'lockdown', 'deadlin', 'situat', 'realli', 'bad', 'warrant', 'lockdown', 'yet', 'although', 'might', 'worsen', 'know', 'worsen', 'also', 'benefit', 'lockdown', 'provid', 'give', 'temporari', 'emphasi', 'temporari', 'relief', 'curb', 'viru', 'spread', 'mean', 'viru', 'complet', 'spread', 'viru', 'complet', 'stop', 'spread', 'time', 'end', 'lockdown', 'come', 'know', 'end', 'lockdown', 'know', 'mean', 'complet', 'econom', 'uncertainti', 'ask', 'govern', 'promot', 'econom', 'uncertainti', 'ineffici', 'alreadi', 'guarante', 'enter', 'recess', 'year', 'lot', 'peopl', 'lose', 'job', 'want', 'economi', 'return', 'normalci', 'soon', 'viru', 'situat', 'lockdown', 'realli', 'best', 'way', 'ultim', 'lockdown', 'may', 'occur', 'everyth', 'time', 'go', 'straight', 'lockdown', 'may', 'bring', 'harm', 'delay', 'say', 'two', 'week', 'situat', 'bad', 'realli', 'bad', 'yet', 'yet', 'wait', 'see', 'right', 'thing', 'right', 'time', 'guess', 'would', 'number', 'unlink', 'case', 'start', 'rise', 'touch', 'wood', 'even', 'explod', 'would', 'definit', 'warrant', 'lockdown', 'exampl', 'look', 'big', 'surround', 'vjc', 'teacher', 'case', 'relat', 'case', 'explod', 'vjc', 'student', 'get', 'infect', 'know', 'right', 'okay', 'care', 'let', 'fear', 'overrul', 'logic', 'decis', 'mathemat', 'probabl', 'would', 'realli', 'ideal', 'thing', 'climat']","Okay, let’s try to answer a few questions before we proceed:
+
+1) How long will the covid situation last? 
+
+2) Do the benefits of a lockdown outweigh the costs?
+
+
+Well, we don’t know how long it will last, when it will end, so you can’t go on a lockdown with no deadline. The situation is really not THAT bad to warrant a lockdown yet, although it might worsen. Do we know if it will worsen? No we also don’t. 
+
+Now what benefits do a lockdown provide? It gives a temporary, and emphasis - TEMPORARY, relief to curb the virus from spreading. Will it mean the virus completely does not spread? No. Will the virus completely stop spreading when the time to end the lockdown comes? Don’t know. When do we end the lockdown? Don’t know too. 
+
+This means complete economic uncertainty. You’re asking the government to promote economic uncertainty and inefficiency when it is already guaranteed we will enter a recession this year. A lot of people will lose their jobs. If you want the economy to return to normalcy as soon as the virus situation is over, then a lockdown is really not the best way. 
+
+Ultimately a lockdown may occur, but everything is about the timing. Going straight into a lockdown now may bring more harm than delaying it by, say, two weeks. 
+
+The situation is bad but it really isn’t THAT bad yet. YET. So wait and see will be the right thing. 
+
+Now when will be the “right” time then? My guess would be when the number of unlinked cases start to rise, or (touch wood) even explode. Then that would definitely warrant a lockdown. For now, no. 
+
+For example, look at the big hoo-ha surrounding that VJC teacher case. Did any other related cases explode from there? Did any VJC students get infected? Not that we know of, right? It’s okay to be careful, but letting fear overrule logical decisions and mathematical probabilities would really not be the ideal thing to do in this climate."
+51,fl6e45l,t3_fmwfh0,"on the face of it it's not sufficient
+
+but do u really think we can pull off a Wuhan-style complete lockdown? cos its the only way to prevent crowded trains and school
+
+a lot of ppl have talked about the white elephant of public transport...so you can't have crowds if u ban all buses and trains \*taps head\*
+
+look at the number of ppl at hawker centres during the weekends, should there be a compromise?",t3_fmwfh0,2020-03-22 16:11:30,qbica,16,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['face', 'suffici', 'u', 'realli', 'think', 'pull', 'complet', 'lockdown', 'co', 'way', 'prevent', 'crowd', 'train', 'school', 'lot', 'ppl', 'talk', 'white', 'eleph', 'public', 'transport', 'ca', 'crowd', 'u', 'ban', 'buse', 'train', 'tap', 'look', 'number', 'ppl', 'hawker', 'centr', 'weekend', 'compromis']","on the face of it it's not sufficient
+
+but do u really think we can pull off a Wuhan-style complete lockdown? cos its the only way to prevent crowded trains and school
+
+a lot of ppl have talked about the white elephant of public transport...so you can't have crowds if u ban all buses and trains \*taps head\*
+
+look at the number of ppl at hawker centres during the weekends, should there be a compromise?"
+52,fl6esvx,t3_fmwfh0,Did anyone say work from home - I am still going to work.,t3_fmwfh0,2020-03-22 16:26:15,,13,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['anyon', 'say', 'work', 'home', 'still', 'go', 'work']",Did anyone say work from home - I am still going to work.
+53,fl6gigj,t3_fmwfh0,"E learning is nowhere near sufficient as of now.  Im currently developing E learning modules for my workplace to onboard new hires and already its taken a few months.   I cant imagine how long it will take to develop a coherent syllabus for multiple subjects.  Also,  the company that develops the platform, BlackBoard, happens to be Wizlearn Tech which was one of the clusters.
+
+
+E learning requires resources and time to develop, and it wont be ready for another couple weeks if not months to be able to sufficiently conduct lessons the way it is done in class.  
+
+Zoom teleconferencing on the other hand, is a more viable option. Set a time, and have students log on and attend. Their tech is stable, audio is clear if everyone else except the teacher is muted, and can share notes , post questions, discuss, etc",t3_fmwfh0,2020-03-22 17:03:32,AZGzx,22,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['e', 'learn', 'nowher', 'near', 'suffici', 'im', 'current', 'develop', 'e', 'learn', 'modul', 'workplac', 'onboard', 'new', 'hire', 'alreadi', 'taken', 'month', 'cant', 'imagin', 'long', 'take', 'develop', 'coher', 'syllabu', 'multipl', 'subject', 'also', 'compani', 'develop', 'platform', 'blackboard', 'happen', 'wizlearn', 'tech', 'one', 'cluster', 'e', 'learn', 'requir', 'resourc', 'time', 'develop', 'wont', 'readi', 'anoth', 'coupl', 'week', 'month', 'abl', 'suffici', 'conduct', 'lesson', 'way', 'done', 'class', 'zoom', 'teleconferenc', 'hand', 'viabl', 'option', 'set', 'time', 'student', 'log', 'attend', 'tech', 'stabl', 'audio', 'clear', 'everyon', 'els', 'except', 'teacher', 'mute', 'share', 'note', 'post', 'question', 'discuss', 'etc']","E learning is nowhere near sufficient as of now.  Im currently developing E learning modules for my workplace to onboard new hires and already its taken a few months.   I cant imagine how long it will take to develop a coherent syllabus for multiple subjects.  Also,  the company that develops the platform, BlackBoard, happens to be Wizlearn Tech which was one of the clusters.
+
+
+E learning requires resources and time to develop, and it wont be ready for another couple weeks if not months to be able to sufficiently conduct lessons the way it is done in class.  
+
+Zoom teleconferencing on the other hand, is a more viable option. Set a time, and have students log on and attend. Their tech is stable, audio is clear if everyone else except the teacher is muted, and can share notes , post questions, discuss, etc"
+54,fl6jdqq,t3_fmwfh0,"Let’s get this out of the way. 
+
+School closure is not the answer. 
+
+Children do not watch themselves at home. 
+
+Parents will have to take care of them. 
+
+This means frontline HCWs and other essential services will lose manpower. 
+
+There is already a strain on frontline HCW manpower, so it’s not a good idea. 
+
+Children who are home may not stay home either. The parents might be tempted to bring them to Universal Studios or a playgym or go shopping perhaps. 
+
+There is also no widespread local transmission. Most of the cases are imported - Singaporeans returning back from overseas. 
+
+Closing down the city will impact many people’s livelihoods unneceaaarily. 
+
+The policy makers consider these aspects of the issue and I think they made the right choice to keep schools open.",t3_fmwfh0,2020-03-22 18:06:53,mburg777,15,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['let', 'get', 'way', 'school', 'closur', 'answer', 'children', 'watch', 'home', 'parent', 'take', 'care', 'mean', 'frontlin', 'hcw', 'essenti', 'servic', 'lose', 'manpow', 'alreadi', 'strain', 'frontlin', 'hcw', 'manpow', 'good', 'idea', 'children', 'home', 'may', 'stay', 'home', 'either', 'parent', 'might', 'tempt', 'bring', 'univers', 'studio', 'playgym', 'go', 'shop', 'perhap', 'also', 'widespread', 'local', 'transmiss', 'case', 'import', 'singaporean', 'return', 'back', 'oversea', 'close', 'citi', 'impact', 'mani', 'peopl', 'livelihood', 'unneceaaarili', 'polici', 'maker', 'consid', 'aspect', 'issu', 'think', 'made', 'right', 'choic', 'keep', 'school', 'open']","Let’s get this out of the way. 
+
+School closure is not the answer. 
+
+Children do not watch themselves at home. 
+
+Parents will have to take care of them. 
+
+This means frontline HCWs and other essential services will lose manpower. 
+
+There is already a strain on frontline HCW manpower, so it’s not a good idea. 
+
+Children who are home may not stay home either. The parents might be tempted to bring them to Universal Studios or a playgym or go shopping perhaps. 
+
+There is also no widespread local transmission. Most of the cases are imported - Singaporeans returning back from overseas. 
+
+Closing down the city will impact many people’s livelihoods unneceaaarily. 
+
+The policy makers consider these aspects of the issue and I think they made the right choice to keep schools open."
+55,fl81c2g,t3_fmwfh0,"As a student, I regretfully have to inform you despite all the talk on the current state of our e-learning platforms, even as a student you can tell the teachers and schools have little confidence on the performance of the platform compared to that of traditional methods. Even in schools that are comparatively very innovative and accepting of new technologies and their implementation in schools, I'm looking at schools like Nan Chiau Pri that had a very innovative mobile learning system previously, I doubt it surprises anyone that they still prefer traditional schooling so long as the current state of education with its hard focus on continuous written papers and examinations persist.
+
+And even if they were, let's be real, the people with the least confidence on this system is the parents. Would they really trust their kid alone at home in front of a screen to study?",t3_fmwfh0,2020-03-23 05:50:12,YipJK,5,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['student', 'regret', 'inform', 'despit', 'talk', 'current', 'state', 'platform', 'even', 'student', 'tell', 'teacher', 'school', 'littl', 'confid', 'perform', 'platform', 'compar', 'tradit', 'method', 'even', 'school', 'compar', 'innov', 'accept', 'new', 'technolog', 'implement', 'school', 'look', 'school', 'like', 'nan', 'chiau', 'pri', 'innov', 'mobil', 'learn', 'system', 'previous', 'doubt', 'surpris', 'anyon', 'still', 'prefer', 'tradit', 'school', 'long', 'current', 'state', 'educ', 'hard', 'focu', 'continu', 'written', 'paper', 'examin', 'persist', 'even', 'let', 'real', 'peopl', 'least', 'confid', 'system', 'parent', 'would', 'realli', 'trust', 'kid', 'alon', 'home', 'front', 'screen', 'studi']","As a student, I regretfully have to inform you despite all the talk on the current state of our e-learning platforms, even as a student you can tell the teachers and schools have little confidence on the performance of the platform compared to that of traditional methods. Even in schools that are comparatively very innovative and accepting of new technologies and their implementation in schools, I'm looking at schools like Nan Chiau Pri that had a very innovative mobile learning system previously, I doubt it surprises anyone that they still prefer traditional schooling so long as the current state of education with its hard focus on continuous written papers and examinations persist.
+
+And even if they were, let's be real, the people with the least confidence on this system is the parents. Would they really trust their kid alone at home in front of a screen to study?"
+56,fl6kkn0,t3_fmwfh0,"Here's the facts so far;        
+      
+Total cases: 430      
+Active cases: 290     
+Imported cases: 228     
+Non import: 62      
+        
+What does each of these numbers mean and which is more important? First, active cases is more important than total cases, since it represents the current situation more accurately. And active cases can be broken down to imported or local cases.     
+           
+Next, imported cases will have lessser impact than non import. These includes sg residents MFA rescued from overseas and tested/quarantined immediately.     
+      
+Last is the most important of them all, local cases. They are the most likely to spread the virus to others in sg, with each case potentially creating a cluster.    
+        
+So in my opinion, 62 local cases isnt cause for panic yet, and with the ban on short term visits, it seems manageable.     
+         
+I might be wrong though, feel free to refute anything i posted.",t3_fmwfh0,2020-03-22 18:32:54,Skythewood,12,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['fact', 'far', 'total', 'case', 'activ', 'case', 'import', 'case', 'non', 'import', 'number', 'mean', 'import', 'first', 'activ', 'case', 'import', 'total', 'case', 'sinc', 'repres', 'current', 'situat', 'accur', 'activ', 'case', 'broken', 'import', 'local', 'case', 'next', 'import', 'case', 'lessser', 'impact', 'non', 'import', 'includ', 'sg', 'resid', 'mfa', 'rescu', 'oversea', 'immedi', 'last', 'import', 'local', 'case', 'like', 'spread', 'viru', 'other', 'sg', 'case', 'potenti', 'creat', 'cluster', 'opinion', 'local', 'case', 'isnt', 'caus', 'panic', 'yet', 'ban', 'short', 'term', 'visit', 'seem', 'manag', 'might', 'wrong', 'though', 'feel', 'free', 'refut', 'anyth', 'post']","Here's the facts so far;        
+      
+Total cases: 430      
+Active cases: 290     
+Imported cases: 228     
+Non import: 62      
+        
+What does each of these numbers mean and which is more important? First, active cases is more important than total cases, since it represents the current situation more accurately. And active cases can be broken down to imported or local cases.     
+           
+Next, imported cases will have lessser impact than non import. These includes sg residents MFA rescued from overseas and tested/quarantined immediately.     
+      
+Last is the most important of them all, local cases. They are the most likely to spread the virus to others in sg, with each case potentially creating a cluster.    
+        
+So in my opinion, 62 local cases isnt cause for panic yet, and with the ban on short term visits, it seems manageable.     
+         
+I might be wrong though, feel free to refute anything i posted."
+57,fl6egj6,t3_fmwfh0,[deleted],t3_fmwfh0,2020-03-22 16:18:48,,19,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,['delet'],[deleted]
+58,fl6pzt3,t3_fmwfh0,"Students don't stop existing when schools are shut. Teenagers will end up going out to hang out with their friends, especially if the closure lasts longer than a couple of weeks, which is looking increasingly likely considering what's happening in the UK, HK, etc. 
+
+It's either letting them roam or an adult needing to stay at home. Plus contact tracing in schools is much easier than in the public, and I'm sure students are constantly nagged by teachers to maintain some standard of personal hygiene.",t3_fmwfh0,2020-03-22 20:18:26,DaFitNerd,5,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['student', 'stop', 'exist', 'school', 'shut', 'teenag', 'end', 'go', 'hang', 'friend', 'especi', 'closur', 'last', 'longer', 'coupl', 'week', 'look', 'increasingli', 'like', 'consid', 'happen', 'uk', 'hk', 'etc', 'either', 'let', 'roam', 'adult', 'need', 'stay', 'home', 'plu', 'contact', 'trace', 'school', 'much', 'easier', 'public', 'sure', 'student', 'constantli', 'nag', 'teacher', 'maintain', 'standard', 'person', 'hygien']","Students don't stop existing when schools are shut. Teenagers will end up going out to hang out with their friends, especially if the closure lasts longer than a couple of weeks, which is looking increasingly likely considering what's happening in the UK, HK, etc. 
+
+It's either letting them roam or an adult needing to stay at home. Plus contact tracing in schools is much easier than in the public, and I'm sure students are constantly nagged by teachers to maintain some standard of personal hygiene."
+59,fl6k542,t3_fmwfh0,"Agree. It will be very difficult to enforce adequate physical distancing among school children. 
+
+School will eventually be closed once cases increased.
+
+Government can come out with measures to provide assistance or monitoring to families where the parents need to be at work e.g. healthcare workers.",t3_fmwfh0,2020-03-22 18:23:30,winterdates,2,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['agre', 'difficult', 'enforc', 'adequ', 'physic', 'distanc', 'among', 'school', 'children', 'school', 'eventu', 'close', 'case', 'increas', 'govern', 'come', 'measur', 'provid', 'assist', 'monitor', 'famili', 'parent', 'need', 'work', 'healthcar', 'worker']","Agree. It will be very difficult to enforce adequate physical distancing among school children. 
+
+School will eventually be closed once cases increased.
+
+Government can come out with measures to provide assistance or monitoring to families where the parents need to be at work e.g. healthcare workers."
+60,fl6wqti,t3_fmwfh0,"How about making schools (primary + secondary) dual sessions again (morning and afternoon) like the primary schools in the past? 
+
+As there are no CCA for now, school hours can be stretched. Maybe some classes can be held in morning, some in afternoon. Or all odd register number morning session/ even ones attend afternoon session.
+ 
++ It could reduce crowding by half.
+
+- school staff might have a longer working hour
+- might have many implementation details to be worked out",t3_fmwfh0,2020-03-22 22:05:49,retaki,2,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['make', 'school', 'primari', 'secondari', 'dual', 'session', 'morn', 'afternoon', 'like', 'primari', 'school', 'past', 'cca', 'school', 'hour', 'stretch', 'mayb', 'class', 'held', 'morn', 'afternoon', 'odd', 'regist', 'number', 'morn', 'even', 'one', 'attend', 'afternoon', 'session', 'could', 'reduc', 'crowd', 'half', 'school', 'staff', 'might', 'longer', 'work', 'hour', 'might', 'mani', 'implement', 'detail', 'work']","How about making schools (primary + secondary) dual sessions again (morning and afternoon) like the primary schools in the past? 
+
+As there are no CCA for now, school hours can be stretched. Maybe some classes can be held in morning, some in afternoon. Or all odd register number morning session/ even ones attend afternoon session.
+ 
++ It could reduce crowding by half.
+
+- school staff might have a longer working hour
+- might have many implementation details to be worked out"
+61,fl6i2j7,t3_fmwfh0,"The government seems to be good in taking an evidence-based approach. Whenever they see a particular mode of transmission they act to shut it down: seniors' activities, mosques, imported cases.  So far there is no evidence of any spread in schools and children do not seem easily susceptible to the virus (I believe only about 2% of all cases in Singapore are under the age of 20).",t3_fmwfh0,2020-03-22 17:37:46,smalldog257,3,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['govern', 'seem', 'good', 'take', 'approach', 'whenev', 'see', 'particular', 'mode', 'transmiss', 'act', 'shut', 'senior', 'activ', 'mosqu', 'import', 'case', 'far', 'evid', 'spread', 'school', 'children', 'seem', 'easili', 'suscept', 'viru', 'believ', 'case', 'singapor', 'age']","The government seems to be good in taking an evidence-based approach. Whenever they see a particular mode of transmission they act to shut it down: seniors' activities, mosques, imported cases.  So far there is no evidence of any spread in schools and children do not seem easily susceptible to the virus (I believe only about 2% of all cases in Singapore are under the age of 20)."
+62,fl6mq7i,t3_fmwfh0,Not sure if every company has the capability to let their employees work from home .,t3_fmwfh0,2020-03-22 19:18:14,Intentionallyabadger,1,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['sure', 'everi', 'compani', 'capabl', 'let', 'employe', 'work', 'home']",Not sure if every company has the capability to let their employees work from home .
+63,fl907ay,t3_fmwfh0,"Certain companies cannot WFH - and I believe at least 1/2 of the economy cannot.
+
+If schools are closed, these parents will need to find arrangements to lookafter the kids. Worst if cannot go work and then business will stop. Just impossible to make this decision.
+
+Right now, we can only really take temperature and keep monitoring",t3_fmwfh0,2020-03-23 12:16:23,jupiter1_,1,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['certain', 'compani', 'wfh', 'believ', 'least', 'economi', 'school', 'close', 'parent', 'need', 'find', 'arrang', 'lookaft', 'kid', 'worst', 'go', 'work', 'busi', 'stop', 'imposs', 'make', 'decis', 'right', 'realli', 'take', 'temperatur', 'keep', 'monitor']","Certain companies cannot WFH - and I believe at least 1/2 of the economy cannot.
+
+If schools are closed, these parents will need to find arrangements to lookafter the kids. Worst if cannot go work and then business will stop. Just impossible to make this decision.
+
+Right now, we can only really take temperature and keep monitoring"
+64,fl6e4sh,t3_fmwfh0,No. Social distancing is not happening. People are travelling. RIP,t3_fmwfh0,2020-03-22 16:11:52,,0,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['social', 'distanc', 'happen', 'peopl', 'travel', 'rip']",No. Social distancing is not happening. People are travelling. RIP
+65,fl6n6a8,t3_fmwfh0,"Honestly, I feel that even if students in Singapore don't have lessons for 6 months it's fine. They could be behind but they can catch up.
+
+The issue here is Singapore is trying to reduce business impact as well as contain the spread of the virus.
+Like you said, if school close, parents need to take care of them which might affect the parent's work. If parents leave them be, some of them are going to meet anyways.
+
+
+In your post, I don't see a solution give that meets the government's and people's need. If there isn't a balance between economical impact and controlling the virus I doubt the government will do anything too drastic",t3_fmwfh0,2020-03-22 19:27:10,Sproinkerino,-5,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['honestli', 'feel', 'even', 'student', 'singapor', 'lesson', 'month', 'fine', 'could', 'behind', 'catch', 'issu', 'singapor', 'tri', 'reduc', 'busi', 'impact', 'well', 'contain', 'spread', 'viru', 'like', 'said', 'school', 'close', 'parent', 'need', 'take', 'care', 'might', 'affect', 'parent', 'work', 'parent', 'leav', 'go', 'meet', 'anyway', 'post', 'see', 'solut', 'give', 'meet', 'govern', 'peopl', 'need', 'balanc', 'econom', 'impact', 'control', 'viru', 'doubt', 'govern', 'anyth', 'drastic']","Honestly, I feel that even if students in Singapore don't have lessons for 6 months it's fine. They could be behind but they can catch up.
+
+The issue here is Singapore is trying to reduce business impact as well as contain the spread of the virus.
+Like you said, if school close, parents need to take care of them which might affect the parent's work. If parents leave them be, some of them are going to meet anyways.
+
+
+In your post, I don't see a solution give that meets the government's and people's need. If there isn't a balance between economical impact and controlling the virus I doubt the government will do anything too drastic"
+66,fl6kz3k,t1_fl6frhu,">Time will tell whether it was smart or foolish.
+
+Ah the good ol' hindsight bias",t3_fmwfh0,2020-03-22 18:41:19,zeafver,13,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['time', 'tell', 'whether', 'smart', 'foolish', 'ah', 'good', 'ol', 'hindsight', 'bia']",">Time will tell whether it was smart or foolish.
+
+Ah the good ol' hindsight bias"
+67,fl6kq25,t1_fl6ev2d,"Fucking easy. Just complain lor. If the gov quarantine everyone, then people change their complaints about the economy. But for now, people waiting for the next cluster (hopefully from school/work) then they can flame the gov :)",t3_fmwfh0,2020-03-22 18:36:03,zeafver,4,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['fuck', 'easi', 'complain', 'lor', 'gov', 'quarantin', 'everyon', 'peopl', 'chang', 'complaint', 'economi', 'peopl', 'wait', 'next', 'cluster', 'hope', 'flame', 'gov']","Fucking easy. Just complain lor. If the gov quarantine everyone, then people change their complaints about the economy. But for now, people waiting for the next cluster (hopefully from school/work) then they can flame the gov :)"
+68,fl6kqfs,t1_fl6ev2d,"March school holidays can be extended.
+
+They are already much more unlinked cases.
+
+Let's be truthful, the only reason why schools are not lock down is because it is socially disruptive to working parents / single parents / shift workers.
+
+In my opinion, there is a drastic lack of social support for school closures, and it shows how unprepared we are when it boils down to it. Everyone needs to help out, and most are unwilling.",t3_fmwfh0,2020-03-22 18:36:15,saperis,-11,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['march', 'school', 'holiday', 'extend', 'alreadi', 'much', 'unlink', 'case', 'let', 'truth', 'reason', 'school', 'lock', 'social', 'disrupt', 'work', 'parent', 'singl', 'parent', 'shift', 'worker', 'opinion', 'drastic', 'lack', 'social', 'support', 'school', 'closur', 'show', 'unprepar', 'boil', 'everyon', 'need', 'help', 'unwil']","March school holidays can be extended.
+
+They are already much more unlinked cases.
+
+Let's be truthful, the only reason why schools are not lock down is because it is socially disruptive to working parents / single parents / shift workers.
+
+In my opinion, there is a drastic lack of social support for school closures, and it shows how unprepared we are when it boils down to it. Everyone needs to help out, and most are unwilling."
+69,fl6fojf,t1_fl6e45l,"Every other country has done this ( even democracies). Not saying we should, but Singapore can definitely take stronger measures such as enforcing work from home",t3_fmwfh0,2020-03-22 16:45:35,,0,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['everi', 'countri', 'done', 'even', 'democraci', 'say', 'singapor', 'definit', 'take', 'stronger', 'measur', 'enforc', 'work', 'home']","Every other country has done this ( even democracies). Not saying we should, but Singapore can definitely take stronger measures such as enforcing work from home"
+70,fl6ft3w,t1_fl6esvx,me too :(,t3_fmwfh0,2020-03-22 16:48:19,,6,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,[],me too :(
+71,fl8hoc6,t1_fl6kkn0,"Did you fail your math or something ? Total cases : 430, imported cases 228, how can non imported cases be just 62 ? What about the rest of the cases ?",t3_fmwfh0,2020-03-23 08:38:35,asdfgMaster,1,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['fail', 'math', 'someth', 'total', 'case', 'import', 'case', 'non', 'import', 'case', 'rest', 'case']","Did you fail your math or something ? Total cases : 430, imported cases 228, how can non imported cases be just 62 ? What about the rest of the cases ?"
+72,fl6fvdk,t1_fl6egj6,"pretty sure the factory/blue-collar workers feel the same, if it were so easy closing all these places lol",t3_fmwfh0,2020-03-22 16:49:41,qbica,9,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['pretti', 'sure', 'worker', 'feel', 'easi', 'close', 'place', 'lol']","pretty sure the factory/blue-collar workers feel the same, if it were so easy closing all these places lol"
+73,fl6geop,t1_fl6egj6,"You do realize that the exams cannot be postponed, right? 
+
+And a “lockdown” now will actually just mean moving the holidays around so you all still get the same amount of curriculum time.",t3_fmwfh0,2020-03-22 17:01:14,flabberwabber,2,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['realiz', 'exam', 'postpon', 'right', 'lockdown', 'actual', 'mean', 'move', 'holiday', 'around', 'still', 'get', 'amount', 'curriculum', 'time']","You do realize that the exams cannot be postponed, right? 
+
+And a “lockdown” now will actually just mean moving the holidays around so you all still get the same amount of curriculum time."
+74,fl6eqwx,t1_fl6egj6,Very much same thoughts. Singapore is the only country which has not closed down the schools  nor reduced the frequencies of public transports to limit the exposure.,t3_fmwfh0,2020-03-22 16:25:01,maxiemaggie,2,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['much', 'thought', 'singapor', 'countri', 'close', 'school', 'reduc', 'frequenc', 'public', 'transport', 'limit', 'exposur']",Very much same thoughts. Singapore is the only country which has not closed down the schools  nor reduced the frequencies of public transports to limit the exposure.
+75,fl6frrr,t1_fl6egj6,Get ready for a ton of down votes. We all know Singaporeans care more about exams and business than the health of the general populace. I feel this is why the govt hasnt taken stricter measures.. too hard to enforce. The government has taken EXCELLENT measures but those r only restricted to treating/tracking patients after the fact.,t3_fmwfh0,2020-03-22 16:47:31,,-5,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['get', 'readi', 'ton', 'vote', 'know', 'singaporean', 'care', 'exam', 'busi', 'health', 'gener', 'populac', 'feel', 'govt', 'hasnt', 'taken', 'stricter', 'measur', 'hard', 'enforc', 'govern', 'taken', 'excel', 'measur', 'r', 'restrict', 'patient', 'fact']",Get ready for a ton of down votes. We all know Singaporeans care more about exams and business than the health of the general populace. I feel this is why the govt hasnt taken stricter measures.. too hard to enforce. The government has taken EXCELLENT measures but those r only restricted to treating/tracking patients after the fact.
+76,fl8w8fp,t1_fl6wqti,"Good idea actually, this would fit into the staggered hours that MOH is advising employers to implement.",t3_fmwfh0,2020-03-23 11:25:03,asdfgMaster,1,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['good', 'idea', 'actual', 'would', 'fit', 'stagger', 'hour', 'moh', 'advis', 'employ', 'implement']","Good idea actually, this would fit into the staggered hours that MOH is advising employers to implement."
+77,fl707u3,t1_fl6n6a8,Have you ever tried staying at home for 6 months straight? Your productivity and will to live will fucking rot.,t3_fmwfh0,2020-03-22 23:12:51,AyysforOuus,1,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['ever', 'tri', 'stay', 'home', 'month', 'straight', 'product', 'live', 'fuck', 'rot']",Have you ever tried staying at home for 6 months straight? Your productivity and will to live will fucking rot.
+78,fl6mql2,t1_fl6kqfs,"1) Until when will you extend the holidays? How many weeks? Will the situation be better then?
+
+2) There is no “free” extension. Extending the March holidays means a shorter, or even complete removal of the June holidays. Students need a break, teachers also need a break. 
+
+3) Exams cannot be postponed, unless you are asking the students to take their ‘O’ and ‘A’ levels next year. Students who are taking exams this year are severely disadvantaged. 
+
+4) E-learning is a travesty. It’s ineffective, inefficient, and really unproductive. 
+
+5) Teachers don’t get to work from home, but their kids are on stay home notice. If teachers work from home, they have to take care of their children.
+
+
+Regarding your last point about the lack of social support, I guess I will have to agree with it to some extent. But it’s really not about support for school closures alone, because in this case you’re looking at a complete shutdown of the economy extremely abruptly - what you need is a superbly coordinated effort by every single member of society to support the lockdown, but we already know that is close to impossible (xia suay-ers, anybody?).",t3_fmwfh0,2020-03-22 19:18:28,flabberwabber,10,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['extend', 'holiday', 'mani', 'week', 'situat', 'better', 'free', 'extens', 'extend', 'march', 'holiday', 'mean', 'shorter', 'even', 'complet', 'remov', 'june', 'holiday', 'student', 'need', 'break', 'teacher', 'also', 'need', 'break', 'exam', 'postpon', 'unless', 'ask', 'student', 'take', 'level', 'next', 'year', 'student', 'take', 'exam', 'year', 'sever', 'disadvantag', 'travesti', 'ineffect', 'ineffici', 'realli', 'unproduct', 'teacher', 'get', 'work', 'home', 'kid', 'stay', 'home', 'notic', 'teacher', 'work', 'home', 'take', 'care', 'children', 'regard', 'last', 'point', 'lack', 'social', 'support', 'guess', 'agre', 'extent', 'realli', 'support', 'school', 'closur', 'alon', 'case', 'look', 'complet', 'shutdown', 'economi', 'extrem', 'abruptli', 'need', 'superbl', 'coordin', 'effort', 'everi', 'singl', 'member', 'societi', 'support', 'lockdown', 'alreadi', 'know', 'close', 'imposs', 'xia', 'anybodi']","1) Until when will you extend the holidays? How many weeks? Will the situation be better then?
+
+2) There is no “free” extension. Extending the March holidays means a shorter, or even complete removal of the June holidays. Students need a break, teachers also need a break. 
+
+3) Exams cannot be postponed, unless you are asking the students to take their ‘O’ and ‘A’ levels next year. Students who are taking exams this year are severely disadvantaged. 
+
+4) E-learning is a travesty. It’s ineffective, inefficient, and really unproductive. 
+
+5) Teachers don’t get to work from home, but their kids are on stay home notice. If teachers work from home, they have to take care of their children.
+
+
+Regarding your last point about the lack of social support, I guess I will have to agree with it to some extent. But it’s really not about support for school closures alone, because in this case you’re looking at a complete shutdown of the economy extremely abruptly - what you need is a superbly coordinated effort by every single member of society to support the lockdown, but we already know that is close to impossible (xia suay-ers, anybody?)."
+79,fl8k4bz,t1_fl8hoc6,"OP said total cases is 430, but active cases are at 290. That's where you get 62 local cases from.",t3_fmwfh0,2020-03-23 09:05:36,lintra,2,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['op', 'said', 'total', 'case', 'activ', 'case', 'get', 'local', 'case']","OP said total cases is 430, but active cases are at 290. That's where you get 62 local cases from."
+80,fl6ghop,t1_fl6geop,[deleted],t3_fmwfh0,2020-03-22 17:03:03,,3,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,['delet'],[deleted]
+81,fl6fqjn,t1_fl6eqwx,shouldn't one increase frequencies so that its less crowded?,t3_fmwfh0,2020-03-22 16:46:48,qbica,4,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['one', 'increas', 'frequenc', 'less', 'crowd']",shouldn't one increase frequencies so that its less crowded?
+82,fl6j1a0,t1_fl6frrr,"you're not wrong- many people will outwardly say that they're all for school closure and much stricter measures in order to make sg safer despite the fact that majority of them would rather prioritize their studies and work.
+
+To be fair though, even though the situation is dire, school closure would fuck up both my education and the education of many others taking major exams this year- if we're being honest, SLS just ain't cutting it man",t3_fmwfh0,2020-03-22 17:59:13,rebeeep,0,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['mani', 'peopl', 'outwardli', 'say', 'school', 'closur', 'much', 'stricter', 'measur', 'order', 'make', 'sg', 'safer', 'despit', 'fact', 'major', 'would', 'rather', 'priorit', 'studi', 'work', 'fair', 'though', 'even', 'though', 'situat', 'dire', 'school', 'closur', 'would', 'fuck', 'educ', 'educ', 'mani', 'other', 'take', 'major', 'exam', 'honest', 'sl', 'ai', 'cut', 'man']","you're not wrong- many people will outwardly say that they're all for school closure and much stricter measures in order to make sg safer despite the fact that majority of them would rather prioritize their studies and work.
+
+To be fair though, even though the situation is dire, school closure would fuck up both my education and the education of many others taking major exams this year- if we're being honest, SLS just ain't cutting it man"
+83,fl8vns1,t1_fl8k4bz,"This is the problem when people starts to toss numbers that aren’t defined properly in forums like this. It isn’t 62 non imported cases. It is 62 active cases derived from local transmission. It makes a big difference when you think about it and it would be seen as an attempt to be down playing the actual numbers.
+
+Edit : OP mentioned non imported instead of local",t3_fmwfh0,2020-03-23 11:18:02,asdfgMaster,1,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['problem', 'peopl', 'start', 'toss', 'number', 'defin', 'properli', 'forum', 'like', 'non', 'import', 'case', 'activ', 'case', 'deriv', 'local', 'transmiss', 'make', 'big', 'differ', 'think', 'would', 'seen', 'attempt', 'play', 'actual', 'number', 'edit', 'op', 'mention', 'non', 'import', 'instead', 'local']","This is the problem when people starts to toss numbers that aren’t defined properly in forums like this. It isn’t 62 non imported cases. It is 62 active cases derived from local transmission. It makes a big difference when you think about it and it would be seen as an attempt to be down playing the actual numbers.
+
+Edit : OP mentioned non imported instead of local"
+84,fl8w3jc,t1_fl8k4bz,It isn’t FACTS when you are providing numbers that are ill defined/ mislabeled to promote your agenda or hypothesis. It is just plain intellectual dishonesty.,t3_fmwfh0,2020-03-23 11:23:24,asdfgMaster,1,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['fact', 'provid', 'number', 'ill', 'mislabel', 'promot', 'agenda', 'hypothesi', 'plain', 'intellectu', 'dishonesti']",It isn’t FACTS when you are providing numbers that are ill defined/ mislabeled to promote your agenda or hypothesis. It is just plain intellectual dishonesty.
+85,fl6gxp2,t1_fl6ghop,"I understand your frustrations. I guess at this point the opportunity costs associated with a lockdown are simply too huge, and really, I don’t think teachers want to cope with the travesty that is E-Learning, and many of them probably have their own families (with kids) too. They can’t teach you when their kid is running around at home needing their care.",t3_fmwfh0,2020-03-22 17:12:45,flabberwabber,5,COVID-19: Is working-from-home and MOE's actions sufficient?,t3_fmwfh0,49,fmwfh0,https://www.reddit.com/r/singapore/comments/fmwfh0/covid19_is_workingfromhome_and_moes_actions/,35,2020-03-22 16:05:43,0.75,"['understand', 'frustrat', 'guess', 'point', 'opportun', 'cost', 'associ', 'lockdown', 'simpli', 'huge', 'realli', 'think', 'teacher', 'want', 'cope', 'travesti', 'mani', 'probabl', 'famili', 'kid', 'teach', 'kid', 'run', 'around', 'home', 'need', 'care']","I understand your frustrations. I guess at this point the opportunity costs associated with a lockdown are simply too huge, and really, I don’t think teachers want to cope with the travesty that is E-Learning, and many of them probably have their own families (with kids) too. They can’t teach you when their kid is running around at home needing their care."
