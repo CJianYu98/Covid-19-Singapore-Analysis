@@ -1,0 +1,7 @@
+*.pyc
+*.xlsx
+__pycache__/
+~lock.*
+chromedriver_linux64.zip
+.venv
+.idea
