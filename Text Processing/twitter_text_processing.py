@@ -31,5 +31,6 @@ for f in folders:
         
         final_df = pd.concat(datasets)
 
-        final_df.to_csv(f'{folder_path}/{folder}.csv')
+        # final_df.to_csv(f'{folder_path}/{folder}.csv')
+        final_df.to_csv(f'../test/{folder}.csv')
 
