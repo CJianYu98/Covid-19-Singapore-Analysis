@@ -39,10 +39,14 @@ def text_preprocessing(df, column_name, stopword_list):
 
         text_lower = [w.lower() for w in text_tokenize]
         text_words_only = [w for w in text_lower if re.search('^[a-z]+$',w)]
-        text_stopremoved = [w for w in text_words_only if w not in stopword_list]
 
-        stemmer = PorterStemmer() # can consider using other Stemmer
-        text_stemmed = [stemmer.stem(w) for w in text_stopremoved]
+        if len(text_words_only) > 3:
+            text_stopremoved = [w for w in text_words_only if w not in stopword_list]
+
+            stemmer = PorterStemmer() # can consider using other Stemmer
+            text_stemmed = [stemmer.stem(w) for w in text_stopremoved]
+        else:
+            text_stemmed = np.nan
 
         output.append(text_stemmed)
 
@@ -75,6 +79,8 @@ def twitter_preprocessing(tweets, stopword_list):
     tweets_drop_non_en['processed_text'] = text_processed
     tweets_drop_non_en['demojize_text'] = text_demojize
 
+    tweets_drop_non_en.dropna(subset=['processed_text'], inplace=True)
+
     return tweets_drop_non_en
 
 def reddit_preprocessing(merged_df, stopword_list):
@@ -92,6 +98,8 @@ def reddit_preprocessing(merged_df, stopword_list):
     merged_df['processed_text'] = text_processed
     merged_df['demojize_text'] = text_demojize
 
+    merged_df.dropna(subset=['processed_text'], inplace=True)
+
     return merged_df
 
 def instagram_text_processing(df, stopword_list):
@@ -102,6 +110,8 @@ def instagram_text_processing(df, stopword_list):
 
     df['processed_text'] = text_processed
     df['demojize_text'] = text_demojize
+
+    df.dropna(subset=['processed_text'], inplace=True)
 
     return df
 
@@ -115,5 +125,7 @@ def facebook_text_processing(df, stopword_list):
 
     df['processed_text'] = text_processed
     df['demojize_text'] = text_demojize
+
+    df.dropna(subset=['processed_text'], inplace=True)
 
     return df 
