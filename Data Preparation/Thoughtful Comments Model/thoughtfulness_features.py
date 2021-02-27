@@ -31,7 +31,7 @@ def remove_hashtag_mentions_urls(text):
 # Thoughtful comment feature 1
 def get_comment_length(text: str) -> int:
     """
-    Count the number of words in a comment. Feature 1 for thoughtful comment. 
+    Count the number of words in a comment. Feature 1 for thoughtful comment (Structural feature). 
 
     Args:
         text (str): Comment of a user
@@ -50,7 +50,7 @@ def get_comment_length(text: str) -> int:
 # Thoughtful comment feature 2
 def comment_likelihood(text: str, train_model: UnigramModel) -> float:
     """
-    Calculate the average loglikelihood between a comment and a well stuctured news text from their respective unigram models. Feature 2 for thoughtful comment.
+    Calculate the average loglikelihood between a comment and a well stuctured news text from their respective unigram models. Feature 2 for thoughtful comment (Lexical feature).
 
     Args:
         text (str): Comment of a user
@@ -109,7 +109,7 @@ verb_tags = ['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ'] # POS tags for verbs
 
 def get_num_verbs(text: str) -> int:
     """
-    Count the number of verbs in a comment based on their POS tagging. Feature 3 for thoughtful comment.
+    Count the number of verbs in a comment based on their POS tagging. Feature 3 for thoughtful comment (Syntatic Feature).
 
     Args:
         text (str): Comment of an user
