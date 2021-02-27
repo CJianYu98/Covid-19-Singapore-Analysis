@@ -47,34 +47,11 @@ def get_comment_length(text: str) -> int:
     tokenized_text = word_tokenizer.tokenize(text)
     return len(tokenized_text)
 
+
 # Thoughtful comment feature 2
-def comment_likelihood(text: str, train_model: UnigramModel) -> float:
-    """
-    Calculate the average loglikelihood between a comment and a well stuctured news text from their respective unigram models. Feature 2 for thoughtful comment (Lexical feature).
-
-    Args:
-        text (str): Comment of a user
-        train_model (UnigramModel): Unigram model object of the well structured news text
-
-    Returns:
-        float: Average loglikelihood score
-    """
-    text_replaced = replace_characters(text)
-    txt = ''
-
-    for tokenized_sentence in generate_tokenized_sentences(text_replaced):
-        sent = ','.join(tokenized_sentence)
-        txt += sent
-
-    text_counter = UnigramCounter(txt)
-
-    text_avg_log_likelihood = train_model.evaluate(text_counter)
-    return text_avg_log_likelihood
-
-
 def news_articles_unigram(file_name: str) -> UnigramModel:
     """
-    Creating a unigram model for news article by reputatable news sources. This unigram model will be used to calculate average loglikelihood for an user's comment.
+    Creating a unigram model for news article by reputatable news sources. This unigram model will be used to calculate average loglikelihood for an user's comment. Feature 2 for thoughtful comment (Lexical feature).
 
     Args:
         file_name (str): The csv file which contains all the news aricles
@@ -93,8 +70,8 @@ def news_articles_unigram(file_name: str) -> UnigramModel:
         article_replaced = replace_characters(article)
 
         for tokenized_sentence in generate_tokenized_sentences(article_replaced):
-            s = ','.join(tokenized_sentence)
-            corpus.append(s)
+            # s = ','.join(tokenized_sentence)
+            corpus.append(tokenized_sentence)
     
     train_counter = UnigramCounter(corpus)
 
@@ -102,6 +79,27 @@ def news_articles_unigram(file_name: str) -> UnigramModel:
     train_model.train(k=1)
 
     return train_model
+
+
+def comment_unicounter(text: str) -> UnigramCounter:
+    """
+    Create a unigram counter object, which store the number of counts for each word in the comment. 
+
+    Args:
+        text (str): Comment of an user
+
+    Returns:
+        UnigramCounter: UnigramCounter object
+    """
+    text_replaced = replace_characters(text)
+    txt = []
+
+    for tokenized_sentence in generate_tokenized_sentences(text_replaced):
+        txt.append(tokenized_sentence)
+
+    cmt_text_counter = UnigramCounter(txt)
+
+    return cmt_text_counter
 
 
 # Thoughtful comment feature 3
@@ -140,7 +138,7 @@ discourse_keywords = [' what’s more as a matter of fact ', ' at least partly b
 
 def num_discourse(text: str) -> int:
     """
-    Count the number of discourse relations in a comment. This is done by counting how many times discourse keywords appear in a comment. Feature 4 for thoughtful comment.
+    Count the number of discourse relations in a comment. This is done by counting how many times discourse keywords appear in a comment. Feature 4 for thoughtful comment (Discourse feature).
 
     Args:
         text (str): Comment by an user
@@ -173,7 +171,7 @@ noun_tags = ['NN', 'NNS', 'NNP', 'NNPS'] # POS tags for nouns
 
 def topic_doc_unigram(doc_words: list, k: int = 1) -> (defaultdict, list):
     """
-    Creating unigram model for all the nouns in the policy topic text document. 
+    Creating unigram model for all the nouns in the policy topic text document.  
 
     Args:
         doc_words (list): list of tokenized words in the text document
@@ -236,7 +234,7 @@ def comment_unigram(comment: str, k: int = 1) -> (defaultdict, list):
 
 def KLDiv_relevance_score(doc_unigram: dict, comment_unigram: dict, doc_nouns: list, comment_nouns: list) -> int:
     """
-    Calculate the KL-divergence relevance score between targetted document unigram model and comment unigram model. Feature 5 for thoughtful model. 
+    Calculate the KL-divergence relevance score between targetted document unigram model and comment unigram model. Feature 5 for thoughtful model (Relevance feature). 
 
     Args:
         doc_unigram (dict): Targetted document unigram model with nouns only

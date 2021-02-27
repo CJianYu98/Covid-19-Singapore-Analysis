@@ -3,12 +3,13 @@ from preprocess import *
 
 
 class UnigramCounter:
-    def __init__(self, file_name: str) -> None:
+    def __init__(self, sentences: list) -> None:
         """
         Initialize unigram counter from tokenized text and count number of unigrams in text
         :param file_name: path of tokenized text. Each line is a sentence with tokens separated by comma.
         """
-        self.sentence_generator = get_tokenized_sentences(file_name)
+        ### self.sentence_generator = get_tokenized_sentences(file_name)
+        self.sentences = sentences
         self.count()
 
     def count(self) -> None:
@@ -19,7 +20,7 @@ class UnigramCounter:
         self.token_count = 0
         self.counts = {}
 
-        for sentence in self.sentence_generator:
+        for sentence in self.sentences:
             self.sentence_count += 1
             self.token_count += len(sentence)
             for unigram in sentence:
