@@ -251,8 +251,11 @@ def KLDiv_relevance_score(doc_unigram: dict, comment_unigram: dict, doc_nouns: l
     for word in total_vocab:
         if comment_unigram[word] * doc_unigram[word] != 0:
             kl_div += comment_unigram[word] * math.log(comment_unigram[word] / doc_unigram[word])
-    
-    return kl_div
+
+    if kl_div > 0:
+        return kl_div
+    else: 
+        return 7.5 
 
 
 
