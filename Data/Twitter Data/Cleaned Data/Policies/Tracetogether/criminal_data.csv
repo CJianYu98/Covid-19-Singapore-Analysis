@@ -1,0 +1,4 @@
+,id,date,time,tweet,hashtags,num_words
+0,1364099725402669056,2021-02-23,14:28:12,DoppelPaymer ransomware group leaked internal data of Korean automakers to the #DarkWeb.  https://t.co/WEQ1kbPsPn,['darkweb'],11
+1,1363745678585782279,2021-02-22,15:01:21,A Japanese manufacturer of aluminum capacitors fell victim to the #Avaddon ransomware group. They threatened to release 150GB of data to the #DarkWeb if not negotiated within 10 days.  https://t.co/4vF9m3rUwU,"['avaddon', 'darkweb']",25
+3,1346011375554981889,2021-01-04,16:31:34,Eh? Thought it’s for covid contact tracing only? #TraceTogedderGedder  Singapore Police Force can obtain TraceTogether data for criminal investigations: Desmond Tan  https://t.co/3Qa54koDJ9,['tracetogeddergedder'],21

@@ -134,7 +134,14 @@ def get_num_verbs(text: str) -> int:
 
 
 # Thoughtful comment feature 4
-discourse_keywords = [' what’s more as a matter of fact ', ' at least partly because ', ' on the one hand indeed ', ' in large part because ', ' particularly because ', ' largely as a result ', ' particularly since ', ' especially because ', ' on the other hand ', ' primarily because ', ' at the same time ', ' especially since ', ' not only because ', ' reportedly after ', ' on the contrary ', ' in part because ', ' largely because ', ' particularly as ', ' perhaps because ', ' particularly if ', ' on the one hand ', ' simply because ', ' merely because ', ' in other words ', ' partly because ', ' mainly because ', ' in particular ', ' for one thing ', ' as if besides ', ' one day after ', ' especially as ', ' by comparison ', ' especially if ', ' also although ', ' consequently ', ' on the whole ', ' when if only ', ' particularly ', ' incidentally ', ' just because ', ' only because ', ' nevertheless ', ' specifically ', ' additionally ', ' not because ', ' for example ', ' in addition ', ' accordingly ', ' furthermore ', ' in response ', ' by contrast ', ' if and when ', ' in contrast ', ' nonetheless ', ' even though ', ' as a result ', ' separately ', ' in the end ', ' conversely ', ' as long as ', ' regardless ', ' ultimately ', ' even after ', ' as much as ', ' apparently ', ' presumably ', ' only after ', ' even still ', ' in return ', ' only when ', ' even then ', ' lest,once ', ' even when ', ' turns out ', ' as though ', ' similarly ', ' therefore ', ' typically ', ' meanwhile ', ' likewise ', ' moreover ', ' in short ', ' now that ', ' meantime ', ' although ', ' instead ', ' that is ', ' much as ', ' only if ', ' in fact ', ' even as ', ' neither ', ' further ', ' overall ', ' even if ', ' besides ', ' so that ', ' because ', ' in turn ', ' finally ', ' whereas ', ' thereby ', ' however ', ' indeed ', ' though ', ' unless ', ' rather ', ' in sum ', ' after ', ' until ', ' still ', ' while ', ' hence ', ' since ', ' first ', ' as if ', ' as it ', ' also ', ' when ', ' next ', ' thus ', ' plus ', ' then ', ' but ', ' yet ', ' nor ', ' for ', ' and ', ' if ', ' or ', ' as ', ' so '] # typical words used in a discoure relation 
+# discourse_keywords = [' what’s more as a matter of fact ', ' at least partly because ', ' on the one hand indeed ', ' in large part because ', ' particularly because ', ' largely as a result ', ' particularly since ', ' especially because ', ' on the other hand ', ' primarily because ', ' at the same time ', ' especially since ', ' not only because ', ' reportedly after ', ' on the contrary ', ' in part because ', ' largely because ', ' particularly as ', ' perhaps because ', ' particularly if ', ' on the one hand ', ' simply because ', ' merely because ', ' in other words ', ' partly because ', ' mainly because ', ' in particular ', ' for one thing ', ' as if besides ', ' one day after ', ' especially as ', ' by comparison ', ' especially if ', ' also although ', ' consequently ', ' on the whole ', ' when if only ', ' particularly ', ' incidentally ', ' just because ', ' only because ', ' nevertheless ', ' specifically ', ' additionally ', ' not because ', ' for example ', ' in addition ', ' accordingly ', ' furthermore ', ' in response ', ' by contrast ', ' if and when ', ' in contrast ', ' nonetheless ', ' even though ', ' as a result ', ' separately ', ' in the end ', ' conversely ', ' as long as ', ' regardless ', ' ultimately ', ' even after ', ' as much as ', ' apparently ', ' presumably ', ' only after ', ' even still ', ' in return ', ' only when ', ' even then ', ' lest,once ', ' even when ', ' turns out ', ' as though ', ' similarly ', ' therefore ', ' typically ', ' meanwhile ', ' likewise ', ' moreover ', ' in short ', ' now that ', ' meantime ', ' although ', ' instead ', ' that is ', ' much as ', ' only if ', ' in fact ', ' even as ', ' neither ', ' further ', ' overall ', ' even if ', ' besides ', ' so that ', ' because ', ' in turn ', ' finally ', ' whereas ', ' thereby ', ' however ', ' indeed ', ' though ', ' unless ', ' rather ', ' in sum ', ' after ', ' until ', ' still ', ' while ', ' hence ', ' since ', ' first ', ' as if ', ' as it ', ' also ', ' when ', ' next ', ' thus ', ' plus ', ' then ', ' but ', ' yet ', ' nor ', ' for ', ' and ', ' if ', ' or ', ' as ', ' so '] # typical words used in a discoure relation 
+
+x = 'although, as though, but, by comparison, even if, even though, however, nevertheless, on the other hand, still, then, though, while, yet, and, meanwhile, in turn, next, ultimately, meantime, also, as if, even as, even still, even then, regardless, when, by contrast, conversely, if, in contrast, instead, nor, or, rather, whereas, while, yet, even after, by contrast, nevertheless, besides, much as, as much as, whereas, neither, nonetheless, even when, on the one hand indeed, finally, in fact, separately, in the end, on the contrary, while'
+x = x.split(', ')
+x = list(set(x))
+x.sort()
+for i, word in enumerate(x):
+    x[i] = ' ' + word + ' '
 
 def num_discourse(text: str) -> int:
     """
@@ -159,7 +166,7 @@ def num_discourse(text: str) -> int:
 
         text_final = " ".join(tokenized_text)
 
-        for ele in discourse_keywords:
+        for ele in x:
             if ele in text_final:
                 count += 1
 
@@ -190,6 +197,7 @@ def topic_doc_unigram(doc_words: list, k: int = 1) -> (defaultdict, list):
     nouns_count = defaultdict(int)
     for word in doc_nouns:
         nouns_count[word] += 1
+    nouns_count['[UNK]'] = 0
     
     vocab_size = len(nouns_count)
 
@@ -222,6 +230,7 @@ def comment_unigram(comment: str, k: int = 1) -> (defaultdict, list):
     cmt_nouns_count = defaultdict(int)
     for word in comment_nouns:
         cmt_nouns_count[word] += 1
+    cmt_nouns_count['[UNK]'] = 0
     
     vocab_size = len(cmt_nouns_count)
 
@@ -249,13 +258,19 @@ def KLDiv_relevance_score(doc_unigram: dict, comment_unigram: dict, doc_nouns: l
 
     kl_div = 0
     for word in total_vocab:
-        if comment_unigram[word] * doc_unigram[word] != 0:
+        # if comment_unigram[word] * doc_unigram[word] != 0:
+        if word not in doc_unigram:
+            kl_div += comment_unigram[word] * math.log(comment_unigram[word] / doc_unigram['[UNK]'])
+        elif word not in comment_unigram:
+            kl_div += comment_unigram['[UNK]'] * math.log(comment_unigram['[UNK]'] / doc_unigram[word])
+        else:
             kl_div += comment_unigram[word] * math.log(comment_unigram[word] / doc_unigram[word])
 
-    if kl_div > 0:
-        return kl_div
-    else: 
-        return 7.5 
+    # if kl_div > 0:
+    #     return kl_div
+    # else: 
+    #     return 7.5 
+    return kl_div
 
 
 

@@ -1,0 +1,741 @@
+,title,post_created_dts,comment_body,comment_created_dts,num_words
+1,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,I wonder who leads the team that created this app?,2020-03-23 13:04:43,10
+2,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"I think a lot of commenters missed the big point of this manifesto.
+
+They're trying to make it possible for other countries to adopt the same protocol, preserving interoperability (global contact tracing!), while respecting the wishes of the other government. 
+
+>COVID-19 and other novel viruses do not respect national boundaries. Neither should humanity's response. In a globalised world, with high volumes of international travel (until very recently :( ) any decentralised contact tracing solution will need mass adoption to maximise network effects. We believe that TraceTogether and its sister implementations should be inter-operable, and that's what we're building towards.",2020-03-23 15:20:33,92
+4,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Those ppl who have fake outrage over privacy concerns probably still using Facebook,2020-03-23 11:49:47,13
+5,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"For comparison, this is the Israelis' equivalent
+
+https://github.com/MohGovIL/hamagen-react-native",2020-03-23 18:49:50,7
+6,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Opening up the source code for this app would go a long way towards me installing it.,2020-03-23 15:14:04,17
+7,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Wonder if they collaborated with the BBC Contagion App developers.. https://www.bbc.co.uk/mediacentre/latestnews/2018/contagion,2020-03-23 14:12:06,10
+8,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Maybe they should wait for all phone to be patched with CVE-2020-0022...
+
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-0022",2020-03-24 03:03:06,12
+9,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Singapore government is doing good deeds to put it as opensource instead of just give to other governments to use.,2020-03-27 11:07:50,20
+10,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Any news on when they'll be open-sourcing the code?,2020-04-04 13:11:47,7
+11,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Why are they only open sourcing the protocol and not the app too?,2020-03-23 17:28:03,13
+12,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"This is not about the open-sourcing of the app, but still related to the app. I have downloaded and activated the app. And I realised something queer. Instead of just GPS access, it is also asking for Bluetooth access. Which makes no sense to me. Has anyone else encountered the same request?
+
+And when you switch off your Bluetooth, the app starts saying that it cannot trace anymore, aka cannot work.
+
+Can any IT expert explain why Bluetooth access is needed?",2020-03-23 19:30:41,80
+13,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"I think I, and other people, are more worried about data leakage. Considering how shoddy all other government software has been, and all the recent hacking scandals, I don't trust this app to keep my data secure.
+
+Fact, correct me if I'm wrong, open-sourcing it might reveal underlying coding issues.",2020-03-23 11:29:35,47
+14,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"One of the benefits of having merit-based civil service and sorta-technocracy government. 
+
+I'm sure all our best and brightest comsci wizards in Govtech are proud of the direction they're taking too.",2020-03-23 11:29:08,27
+15,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"The more worrying thing is that once you download, if you are infected you no longer have control over the data, and MOH can force you to give it up.",2020-03-23 13:25:10,30
+16,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Yes, I am one of those on the fence because of this. Glad to see this move.",2020-03-23 19:11:29,17
+17,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"imagine the amount of stress lol
+
+you are now assigned to create an app where the entire world will be watching your development process.
+
+code reviews have never been more stressful",2020-03-23 13:07:15,31
+18,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"> COVID-19 and other novel viruses
+
+COVID-19 is not a virus, it's the name of the disease, but I'm nitpicking. 777, 700, who cares?",2020-03-23 17:03:53,19
+19,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Yup Facebook collects a ton of data and would most likely be willing to give it up to any government to protect themselves.,2020-03-23 13:38:18,23
+20,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Are you seriously insinuating that every person with concerns is wrong?,2020-03-23 12:13:33,11
+21,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Last time, Li hongyi described formsg as a secure form and talked about making their codes open for people to reuse and hopefully contribute back. 
+
+Then edmw exposed that formsg's publicized code was taken from other people's GitHub. The GitHub project they took the code from was later dropped because of too many vulnerabilities. People became suspicious whether the form was really secure or Li hongyi's team reused other people's code, but didn't contribute back.",2020-03-23 16:15:09,70
+22,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Probably because the protocol is the real core of the app where privacy and security concerns stem from. The app itself is just a wrapper over this protocol with UI elements and sg-specific implementation.
+
+Remember that the purpose of open sourcing the protocol is probably to validate the implementation and share with other entities and government. Not so much to do a security/privacy analysis of the APP itself.",2020-03-23 17:32:30,68
+23,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"The docs are a bit vague, but I believe that the app will be open source too.",2020-03-23 20:37:32,17
+24,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,This app is based on Bluetooth to register close contact with other users. Location permission is for ancillary uses. It doesn't use location in the background.,2020-03-23 19:31:57,25
+25,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"I think you should read the [faq](https://tracetogether.zendesk.com/hc/en-sg) or the (?) tab in the app.
+
+It’s explained clearly there.",2020-03-23 20:05:24,18
+27,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"but people can discover, reasonably disclose, and fix those issues making it more secure ultimately",2020-03-23 11:31:51,15
+28,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"A lot of the key security infrastructure underpinning the internet is open source. Crypto professionals, among others have vetted the code, and vulnerabilities have been patched.
+
+There are somewhat established protocols for disclosing vulnerabilities. White hats (aka the good hackers) typically disclose vulnerabilities privately, and the author(s) will mitigate, fix, and deploy the patches within N days, after which the vulnerability is disclosed publicly.
+
+The source code alone shouldn't enable someone to gain access to the stored user data (eg. accidentally leaving certificates, passwords in the source code).",2020-03-23 14:36:59,88
+29,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Govtech software has been pretty fucking good tho.,2020-03-23 15:25:01,8
+30,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"I have the app on iPhone, I find it very careful on the way it asks for permissions and show that data are manually shared when the user decides to, I honestly don’t see that level of carefulness in many apps. I mention iPhone because they’ve tightening the screw on app permissions and give more fine control to the user over it. Not sure abt Android though.
+
+I’m a control freak over data but in these times, and if I’m infected, I’m giving up willfully that part of my privacy on what is actually a small amount of data. Go save these ppl I may have infected please.
+
+There’s not even location data, just Bluetooth handshakes that I consciously collected by leaving the app open, so I think that x weeks of Bluetooth proximity log will become obsolete very quickly.",2020-03-23 20:36:44,146
+31,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"FWIW, [they’ve acknowledged this](https://tracetogether.zendesk.com/hc/en-sg/articles/360044860414-Can-I-say-no-to-uploading-my-TraceTogether-data-when-contacted-by-the-Ministry-of-Health-). So they’re progressively being more transparent.",2020-03-23 20:29:40,12
+32,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Er so means you rather other people who have a possibility of being infected by you just go about their day? I see the meaning of social responsibility has not been lost on you.,2020-03-23 14:38:18,34
+33,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,And how is this worrying again ? The data you're giving up are people who have been in close contact.,2020-03-23 13:31:58,18
+34,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"If I am infected, why wouldn't I give the data to MOH? It is just a but of beacon that is tagged to phone number I suppose? Why would I keep them for?",2020-03-23 15:07:00,32
+35,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,The most worrying thing if you’re infected is getting better and not infecting other people. Mate you got to reevaluate your priorities.,2020-03-23 19:40:56,23
+36,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,I am actually guessing if it is certain Mr Lee that is leading this team......,2020-03-23 15:08:04,15
+37,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Breaking prod could literally mean causing deaths,2020-03-23 13:51:41,7
+39,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,i think he is just saying that some people are hypocritical and just like to take a stand to argue for the fun of it.,2020-03-23 13:04:12,25
+41,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Exposed what??? Forking is common in open source, and I've personally forked projects when I wanted to use a project for something that didn't fit the projects original use case. You don't always contribute to the original project; that's not how open source works. You can make a new project with different objectives, where contributing your modifications back won't make sense and probably won't even be approved by the original team.
+
+It's also not an exposé because the github for formsg literally says this. https://github.com/datagovsg/formsg-public How do you make an exposé with public information?
+
+I can't comment on the vulnerabilities, but they do seem to have a security focus: https://docs.google.com/presentation/d/1Yq_T8jOhAHA3BLyn1H7cPMBICKYCUmARxRUIe2hwno4/mobilepresent#slide=id.g62bfdc73d3_0_75 The original project is run by a person who thought:
+>There are many oudated and vulnerable dependencies within this project and I recommend that you use this code repository for internal testing and development only.
+
+>There were too many impassable hurdles to really continue forward at the pace that I was hoping with TellForm @leopere
+
+I think having too many hurdles for a single person to handle means literally nothing for a whole govtech department; whey can likely rewrite whole components to get around certain outdated dependencies.",2020-03-23 22:23:51,184
+42,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Got sauce? I mean, it sounds like it can be a juicy scandal, but copying, adapting, forking are common for programmers. Inb4 someone tells me to learn assembly.",2020-03-23 19:24:17,28
+43,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Thanks. Was overseas and too lazy to read the FAQ. Just downloaded the app, expecting it to work like most apps that need GPS.",2020-03-23 20:29:06,24
+44,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Security through obscurity isn't that it's closed source so blackhats don't hack it. 
+
+Security through obscurity means to have software that's made by a small company that nobody really knows. So the fewer hackers know of its existence, the lesser chance of getting hacked.
+
+For a company, it's the difference between using anti-DDOS software made by Cloudflare (very big internet company) vs one made by some no-name company based in Singapore.
+
+But yes, I do agree closed-source is usually worse-off.
+
+But reading the manifesto, it seems the govtech team is trying to work with other governments to have this tracing tech go global and be interoperable. And the only way to earn their trust would be to show them the code.",2020-03-23 15:01:38,112
+45,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Just have to hope that the white-hat hackers outnumber and outspeed the black-hats.,2020-03-23 12:04:57,11
+46,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"This is true, but you'll need to pray that the white hats appear faster than the black ones.",2020-03-23 12:03:08,17
+47,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Nah it’s not him, it’s another team 
+But the teams in general do go to each other for advice as folks have transferred from one team to another before.",2020-03-23 16:21:49,31
+49,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Both apps are doing essentially the same thing. If they fixed the vulnerabilities, they can port over. Additionally, tellform wouldn't have to start a new project to do something similar, they can just direct people to formsg.  
+
+Someone bothered to check out li hongyi's claims and shared the information on edmw.",2020-03-23 22:50:24,49
+50,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"https://forums.hardwarezone.com.sg/eat-drink-man-woman-16/li-hongyi-founded-new-unit-within-govtech-6159085-2.html 
+
+Forking is common, but they forked a project that has many vulnerabilities. 
+
+They also said formsg is secure, and they will make the code open source for people to reuse and hopefully people will contribute back. 
+
+The issues are: 
+
+Is the form really secure? 
+
+If they fixed the vulnerabilities, despite saying they would share their code and hope people contribute back, they took people's code, but did not contribute back?",2020-03-23 19:51:23,69
+51,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,The vast majority of webservers run on open source software. The most popular relational database is open source. The most popular front end libraries and frameworks are open source. Most crypto libraries and protocols are open source.,2020-03-23 13:08:00,37
+53,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Interesting how this exact comment got upvoted just in a nearby comment chain but downvoted here.,2020-03-23 14:52:45,16
+54,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Would love to know what the person wrote.,2020-03-23 19:37:08,8
+55,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"I looked at the EDMW post, there's no new information. Fundamentally, submitting push requests to a deprecated project is dumb. Do you even know how open source works? The goals are different; obviously the government wants control over formsg, so they'll obviously start a new project. Why would they then push their changes to a _deprecated_ project?",2020-03-23 23:09:39,54
+56,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"I'm not saying open-source is bad. Open-source is great. But it's not foolproof. Most good open-source projects have a lot of dedicated fans who work their ass off to get things going, and to chase off the evildoers.
+
+Since this is a small, Singapore thing, I'm just raising concerns about how many people will bother to help the cause.",2020-03-23 13:18:19,53
+57,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Yep, so it's a strength in numbers thing. I would like to believe there are more white-hats than black-hats, but considering this is a small-time Sinkie project, I don't know if that's possible.",2020-03-23 13:19:29,27
+58,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"I give up on how r/sg works. People are super fickle minded. One time I had -30 points, someone replied, ""Why this person downvoted."" Next day +100 points.
+
+Anyhow whack one.",2020-03-23 15:07:59,30
+59,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Here it is:
+
+>!PAP dog!<",2020-03-23 20:30:49,5
+60,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,Formsg's last commit was 2 years ago. Tellform was only deprecated 7 months ago. Do they need more than a year to push it?,2020-03-23 23:21:50,21
+61,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,You hit the nail on the head. Open source requires critical mess for it to be more secure than one of obscurity. Singapore just doesn't have the market for it. Unless got code reviewers overseas also looking at our app,2020-03-23 13:39:23,39
+62,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"This.
+
+The app will be very niche, and would only interest locals or those residing here. We don't have many security professionals available locally.
+
+But the app would be a target for the entire worlds' black hats.",2020-03-23 14:39:26,36
+63,Govtech will be open-sourcing the tracing protocol underlying the TraceTogether app,2020-03-23 10:36:16,"Ya people probably just downvoted you because the reply arguing your point is upvoted, therefore he must be right and you must be wrong... infallible logic.",2020-03-23 15:29:58,26
+66,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,Yeah implementation is pretty much the same! But they have hardware and platform advantage.,2020-04-11 01:35:44,14
+67,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,"Not only that, it may improve the experience of TraceTogether. Right now you need to turn your phone upside down, or face down on the table. If the app is at the background it won't work as well. For example, you change app to text. With this, the tracing may be done constantly cause it runs at the system level.",2020-04-11 01:37:10,59
+68,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,"Turns out, Apple and Google have been in touch with the TraceTogether team to understand how they can make Bluetooth contact tracing a universal reality  
+
+
+[https://tracetogether.zendesk.com/hc/en-sg/articles/360046008894?fbclid=IwAR22epwvAq9oe1SDXawhcdGch8BSX0Rkf5TgZlDgRqAVZrf8upRbt\_VjG\_0](https://tracetogether.zendesk.com/hc/en-sg/articles/360046008894?fbclid=IwAR22epwvAq9oe1SDXawhcdGch8BSX0Rkf5TgZlDgRqAVZrf8upRbt_VjG_0)",2020-04-11 17:22:55,25
+69,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,"https://reddit.com/r/apple/comments/fyjq0p/apple_and_google_partner_on_covid19_contact/
+
+Apparently their plan works at a deeper level?",2020-04-11 04:49:55,8
+70,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,"1. for iOS users, we dont have to turn on the app in the background. bluetooth runs in the background
+2. Govt can't store ur data, apple can. Apple seems to be q big on privacy.
+3. better user experience perhaps since they have more autheority over more functions",2020-04-11 10:27:11,45
+71,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,Google and Apple can implement code directly into the operating system to enable this functionality without having to use an app. This will provide a better user experience (for Android) and increase adoption (for iOS).,2020-04-11 04:52:24,35
+72,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,"I hope they will remove this feature after the crisis is over, this makes me feel rather uncomfortable to have a coorperation tracking me.",2020-04-11 12:15:08,24
+73,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,Well it is open source so?,2020-04-11 03:09:41,6
+74,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,"If I already have TT, should I get this? What does it do that TT won't?
+
+Is it integrated into some sort of MOH system?
+
+I read up some but not quite clear whether it can be used to supplement TT or used as standalone.",2020-04-11 12:41:53,44
+75,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,"It looks the same but the privacy aspects are quite different. This is less blunt than TraceTogether and even more privacy focused.
+
+Tracetogether is designed to allow the authorities to find close contacts. As far as I understand, this implementation is designed to allow device owners to know they have been close contacts and to voluntarily make themselves be known to the authorities. Different design philosophies.
+
+As usual, it depends on the implementation to adhere to the privacy goals.
+
+https://blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology has the links to the specifications at the bottom.",2020-04-11 07:55:08,88
+76,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,It's opt in. You don't have to enable it.,2020-04-11 14:23:09,7
+77,Doesn't this bluetooth thing sound rather similar to GovTech's TraceTogether app?,2020-04-11 01:15:34,Yeah agreed that Tracetogether is bounded by technicality constrains and the solution from Google and Apple are definitely way more elegant.,2020-04-11 11:34:23,21
+78,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,"On another note, my office is trialing an automated gate with temperature scanning. So if your temp is more than 38, the gate will block you from entering hmm",2020-03-05 07:34:52,28
+79,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,Govtech. I want to work with them somwday,2020-03-05 12:52:57,8
+80,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,GovTech has done some impressive stuff lately.,2020-03-05 09:59:30,7
+81,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,Off the shelve battery operated infrared thermometer huh... I guess it is good enough.,2020-03-05 09:17:16,14
+82,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,"By GovTech
+
+> cost of the materials comes up to less than $1,000.
+
+> brainchild of its Sensors and Internet of Things (SIOT) team.
+
+By IHIS
+
+> similar system is being piloted by the Integrated Health Information Systems, the public healthcare tech agency. It is available for subscription at $1,000 a month.
+
+Assuming it's a similar setup, the subscription cost seems ridiculous as it's the cost of the hardware, but you don't own the hardware at all.",2020-03-05 16:38:06,69
+83,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,Must be all the innovations from working at home.,2020-03-05 10:57:54,9
+84,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,if i run 2.4 will my tempersture be super high,2020-03-05 13:34:50,9
+86,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,Looks like I'm gonna be out of a job soon. Damn AIs and Automation stealing our jerbs.,2020-03-05 09:50:26,16
+87,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,If they do this at MRT stations lol...,2020-03-05 08:52:51,8
+88,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,What are your thoughts on the usability of this gate? Would the resources placed into this be well allocated?,2020-03-05 08:13:05,19
+89,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,Isn’t this like a thermal scanner with automated gate? I’m no engineering wiz and do not know how are they different.,2020-03-05 11:09:01,23
+90,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,Go ahead and apply! Don't let your dreams be dreams,2020-03-05 13:02:57,9
+91,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,"No idea. It's a prototype now, but you will still need 1 person to physically check the person if he/she triggers the gate",2020-03-05 09:01:31,22
+93,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,"Haha, I cannot now. Waiting for my NS enlistment :(",2020-03-05 16:22:21,9
+94,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,"In my opinion, if a person is actually 38 degree celcius, he or she probably will be aware of it and not report to work. So this use case is pretty much redundant to me.
+
+Edit: obviously a waste of resources lmao. Downvote ur 老妈",2020-03-05 12:24:15,43
+96,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,Not necessarily. There are people who refuse to rest at home even when they're sick.,2020-03-05 13:39:26,14
+97,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,Wah the thing is idk when my enlistment is. Still no letter for now.,2020-03-05 19:39:47,14
+98,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,"You mean people whos fear of their superior / fear for their livelihood compels them to turn up despite being sick.
+
+If there are no repercussions i dont imagine people will insist on dragging themselves to work while running a fever.",2020-03-05 14:03:38,40
+99,"GovTech develops automated, contactless temperature scanner",2020-03-05 07:34:27,"Have deadline to meet. March year end closing coming. Need to get this done to hit this bad year target, don’t even talk about bonus... 5 day MC already cannot have another 5 days...",2020-03-05 22:12:56,33
+100,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Yes, maybe, well sometimes, frankly it will be sleepless nights for sure.",2021-01-07 11:24:44,12
+101,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"The major problem with the Singapore government isn't that it is malicious or evil. The problem is that the Singapore government can appear condescending and paternalistic. The entire civil service sector can, at times, treat the Singapore public like a bunch of infants in childcare, and adopt the typical ""*I know what is best for you so shut up and follow can liao""* attitude towards us. 
+
+Heck, this entire debacle is a showcase of this attitude. The disclosure of the information seemed more like an afterthought than an area of actual concern for the government, the same way your parents do not feel that there is anything wrong to lie and deceive children.",2021-01-07 12:56:33,112
+102,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"I love how it always devolves to ""TT data isn't even useful at all, so no worry about handing it over what"" If it's not useful, then take for what? 
+
+
+The standard SME ""You wanna quit just go lor, I can replace you anytime"", then when you really quit ""wah let's talk it out, you are an essential part of our team and we need your [data]""",2021-01-07 11:14:09,64
+103,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"do they really have to lmao, yall know we wont stand up for ourselves, they know it too",2021-01-07 11:27:01,18
+104,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"A straight NO! Because of it, I already uninstalled it. I'll just use the SingPass SafeEntry check-in feature.",2021-01-07 14:06:47,16
+105,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Judging from their comments and the age old wisdom of never trust a politician at their word, judge them on their deeds and intent.",2021-01-07 11:55:41,24
+107,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"No. The government has shown time and time again that one rules for them, another set for us. And they have no qualms shifting goalposts to suit their agenda.",2021-01-07 14:13:37,29
+108,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"we can trust them to insist they have kept their word and insinuate that anyone who claims otherwise has suspect motives.
+
+and if that fails stage a huge wayang apology with tears around election time",2021-01-07 14:44:50,35
+109,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,really taking our trust for granted.,2021-01-07 11:50:14,6
+110,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,the worst thing is that this will affect everyone around the world and lose trust in their own local track and trace program and drag on this pandemic even further,2021-01-07 12:57:16,30
+111,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Just from the title, my reaction is:
+> Are you new to Singapore? This isn't new, you don't have to suddenly shocked pikachu.",2021-01-07 12:07:54,20
+112,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,how many of them actually uphold their civil service pledge?,2021-01-07 11:51:50,10
+114,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"> # Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?
+
+> 6 Jan 2021
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> Top image: SCMP
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> What a start to the year. On Monday, the inaugural Parliament livestream triggered a real-time outcry over the collection and use of TraceTogether data.
+
+> Contrary to prior assurances that TraceTogether data would only be used for contact tracing, Minister of State for Home Affairs Desmond Tan clarified that the police are, in fact, legally empowered under the Criminal Procedure Code (CPC) to access said data for criminal investigations. The TraceTogether website FAQ was then updated to reflect this, ostensibly in the interests of ‘transparency’. Cue the first social media uproar of 2021.
+
+> Some shrugged, saying they had nothing to hide. Some responded with “I told you so”. Still others were suspicious, if not livid, about the blatant U-turn.  And of course, many more turned to memes.
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> Whichever camp you’re in, it’s clear that this revelation undermines the extensive efforts to win public support for TraceTogether, and feeds into earlier anxieties that it could be supposedly abused as a hidden tracking device. 
+
+> To be honest, even with this latest development, it’s probably not worth getting worked up about location tracking. TraceTogether works by detecting proximity to other devices, not location. Expert teardowns of the token last year concluded that it did not have a GPS function and was “unlikely to be a useful tracking device” (though this was at least partially based on assurances that only MOH’s contact tracers would ever see the data)
+
+> And as Minister Tan’s comments revealed, the remit of the CPC means that law enforcement is already empowered to access far more useful data, such as SafeEntry records—which, by the way, were also meant to be ‘for Covid-19 purposes only’. 
+
+> What the clarification does do is raise questions over how exactly the proximity data might become useful to the police, whether there is potential for it to be misused, and what sorts of offences are quote-unquote ‘serious’ enough to trigger the exception. 
+
+> It invites incredulity as to how Minister Balakrishnan could have overlooked the CPC during his PR offensive for TraceTogether last year. And it encourages anxieties over the inconsistencies and back-pedalling in government communications.
+
+> These are all serious issues, but not the real source of public ire; nor is there any evidence that this was a deliberate conspiracy to mislead the public. What this episode really invites us to consider is a question of trust: whether the government can be relied on to keep its word, with no catch involved.
+
+> Optics-wise, it’s a terrible look: a communications blunder that could have been easily avoided, and a breach of public trust for no good reason.
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> As far as rights concerns in Singapore go, data privacy and surveillance have seldom been a priority. Last year’s PDPA consultation went largely ignored by the public; many of us—myself included—remain oblivious to the sensors, cameras, and GPS devices #disrupting and #innovating and #connecting our way into Smart Nationhood (like the time it was proposed to embed our lamp posts with facial recognition technology).  Meanwhile, legislation like the ISA casts a long, dark shadow over our willingness, historically, to make trade-offs between civil liberties and national security.
+
+> By these standards, the hostility towards TraceTogether, even prior to this incident, was unusual. 
+
+> Last year, the announcement of the token was greeted with a petition in protest, garnering over 50,000 signatures in a few days. Following months of will-they-won’t-they coyness—Minister Vivian Balakrishnan had previously said that TraceTogether would be “voluntary for long as possible”, but stopped short of a definitive statement—October’s announcement that TraceTogether would eventually be mandatory in certain circumstances raised enough eyebrows for MP He Ting Ru to bring it up in Parliament. And a Blackbox Research survey from last month showed that 32% of Singaporeans doubted that TraceTogether data would only be used for Covid-19 monitoring.
+
+> TraceTogether, in other words, was always a hard sell. But had the government been upfront about the CPC caveat last year, chances are that the public, despite its unease, would have understood.
+
+> Unfortunately, thanks to its own insistence that the data would be used for contact tracing and contact tracing only, people are not only uneasy, but outraged that the government has gone back on its word.
+
+> The irony is all too keen, given how the successful implementation of TraceTogether relies on mutual trust between citizens and the state. Mass adoption of the technology—enough to trigger Phase 3—was arguably earned, at least in part, on the expectation that the government would honour its promises. Nor is it reassuring that despite the lessons of last year’s GE, public goodwill appears to have been taken for granted.
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> What does this mean going forward? For one, potentially more road-bumps to realising our vision of having “everyone, everything, everywhere, all the time”. (I’m not kidding; this is the actual plan underscoring our transformation into a living dataset).
+
+> This debacle suggests that distrust might colour the way future data-collection practices are viewed. The fears around a slippery slope are not unjustified: is there a clear line that the government will not cross when it comes to using our personal data?
+
+> Most of us understand there are trade-offs to be made in any policy decision, and realise that in some instances, the potential benefits to public health or national security may outweigh the costs. But an informed choice means those costs should be declared to begin with.
+
+> More troubling is how episodes like this one encourage cynicism towards governance. 
+
+> It behooves no-one to reach a point where we believe that the government is flying the plane and we’re all just strapped in for the ride. After all, if we suspect that back-doors and hidden T&Cs will always be introduced after the fact, why listen in the first place? 
+
+> Data might be the commodity of this century, but public trust is just as valuable an asset. Since Monday’s revelation, Ministers Shanmugam and Balakrishnan have been in full-on damage control mode, giving more assurances that the TraceTogether data is only retained for 25 days and that law enforcement must exercise their powers with ‘the utmost restraint’, giving the example of how TraceTogether data was used to solve a murder case.
+
+> It remains to be seen if, this time, words will be enough. Or maybe we’ll just have to wait a couple of months for another clarification. 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> Did you think this mess was sus? Let us know at community@ricemedia.co.
+
+> If you haven’t already, follow RICE on Instagram, Spotify, Facebook, and Telegram. 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> 
+
+> Author
+
+> Sophie Chew 
+
+---
+1.0.2 | [Source code](https://github.com/fterh/sneakpeek) | [Contribute](https://github.com/fterh/sneakpeek)",2021-01-07 10:41:25,1091
+115,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"No, you can't. And this means being smart enough to avoid getting screwed over if shit hits the fan.",2021-01-07 18:27:57,18
+116,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,Does anyone remember that they told us not to wear mask in the beginning and backtrack from their advice :)),2021-01-07 11:42:42,19
+117,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,The sleepless nights could be due to guilt n splitting of personality <edit: Reiner>,2021-01-07 12:52:51,14
+118,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Looking at this as a non-Singaporean, everyone involved did exactly the right thing, which led to an unintended and unforseen ""problem"".
+
+There was an urgent need for the Trace Together token as there is an ongoing public health emergency, and  Minister Balakrishnan and the development team would have been laser focussed on creating it, and having it adopted as widely as possible. They opened up the source code for audit by privacy advocates/hackers etc., who were approving of what they saw. The generaly high level of trust in your institutions and the privacy audit led to a pretty high voluntary adoption rate. 
+
+It's easy for me to see how they could have overlooked that the data could or would be accessed and used for purposes other than contact tracing given thier focus on the pandemic and getting the token out ASAP.
+
+Now, a police officer investigating a murder case realised that hey, that data might be useful in this case? Is there anything legally preventing us from getting it? No? Well, let's get it!
+
+This is great savvy and professionalism from law enforcement; anything else would really have been a dereliction of duty on their part. They did exactly as they should given their mandate, and narrow focus on bringing a criminal to justice.
+
+Now,  Minister Balakrishnan must have been peeved when he became aware of this, because this was genuinely not his intent, and was seen as the Government breaking their word, when it was really law enforcement acting independently (actually a positive). 
+
+So at this point, how should it be settled? Do you go the legislative route to ring fence the token data? Given that the pandemic is time limited, and that legislative process may take some time, as well as the genuine value for criminal investigations, my opinion is that it shouldn't.
+
+The compromise that the data will remain accessible, and only be used by LE for serious cases is the best solution in my opinion. Given the high level of professionalism by Singaporean LE, and the high level of trust for public officials, it's workable. In another society with greater corruption etc., the calculus would be different.
+
+So the whole thing was just a real world situation which happens without anyone being a villian or incompetent, or whatever. I found the Parlimentary debate, and some of the wider discussion, around the issue to be  quite edifying.",2021-01-08 08:16:10,396
+119,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,Governments? Keep their words? Ha!,2021-01-07 20:54:50,5
+120,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"A question like this is normally asked 6 months after the government is re-voted into power.
+
+So basically nothing new. 😴",2021-01-08 04:32:16,18
+121,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"For me it's not so much the trust issue but rather the missing apology.
+
+Just go on record and say, I might have over looked and I am sorry for the misunderstanding.
+
+Is his ego so fucking big that he can't say that?",2021-01-08 10:09:51,41
+122,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,Looking at the historical evidence that the government is willing to eat their own words. I think it's naive to say that they will keep their words now,2021-01-12 00:58:04,27
+123,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Well yes, but actually no.",2021-01-07 12:03:52,5
+124,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"You’re right. Sometimes. They did keep their promise on some things, like the vaccine being free for all.",2021-01-07 16:07:31,19
+125,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,Frankly this is the newest meme.,2021-01-07 16:10:11,6
+126,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"This kind of strategy could work in the past without too many drawbacks, but personally, I think the issue is that the government is simply not keeping up with the development of global trends.
+
+They think that they can govern the country as they deem fit, totally independent and disregarding global trends but the fact is Singapore is one of the most interconnected countries in the world, all global trends affect us and we are not like China where most western media platforms have been blocked and censored.
+
+Just take a look at some SG politician's response to Marijuana legalization in the west for example. It just shows a total lack of understanding of global trends. Similarly in this TT case, they don't seem to understand the kind of seriousness and sensitivity that is being placed on privacy issues globally in 2021. A breach of trust on privacy issue like this is just playing with fire.",2021-01-07 14:07:31,153
+127,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"The govt communication in response to negative reaction is almost always about how wrong those negative views are, that it is better the govt way, that things are already decided and cannot be changed. 
+
+What should happen instead is acknowledging the negative reactions.",2021-01-07 15:24:07,43
+128,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"I am okay with that attitude actually. 
+
+The problem was that in the past, the government really did know what they were doing, and were often more correct than not. So people were content to let the government run things for them because the government really did know best. 
+
+Today, the current ministers don’t exactly inspire confidence. And I think that’s what rankles people - that they continue to adopt this “government knows best” mentality when they clearly don’t.",2021-01-07 14:52:41,81
+129,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"And to be fair, sometimes that is the right thing to do. The government does have more knowledge, resources and competence than the average citizen in relation to most affairs. They need to work on their communication, yes, but by and large the decisions they make are sound. They just need to be a bit cleverer about how they go about spreading their message.",2021-01-07 14:08:10,64
+130,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"I am f-ing pissed because the alleged pros of having TT data to substantially aid in criminal investigations and prosecutions (if even tenable given that I can manipulate my “location” by leaving the token elsewhere) are FAR OUTWEIGHED by cons - which is the irreversible damage to the trust people have in the government. This trust imo is invaluable. Especially in the current turbulent times with a pandemic and shuttered global economy. Just look at countries around the world where most people don’t have trust in the government to fulfil what they promise. The govtech team and relevant agencies painstakingly built this trust over the later half of the year; only for it to be singlehandedly destroyed for the off chance that it might aid criminal investigations?? It’s such a profoundly costly and stupid trade-off. No money or cash handouts can ever repair that trust deficit they created. 
+
+I can accept that Vivian might have omitted to consider the application of CPC at the first instance. But NO ONE in SPF, MHA, AGC brought it to his attention in the subsequent weeks? He also admitted as much that he found out about it but discussed with his colleagues and decided to proceed ahead nonetheless (btw his sob story about having sleepless nights, which I empathise cos I suffer from insomnia too lol, is wholly irrelevant and doesn’t play out well when you’re trying to seek the people’s forgiveness/understanding). We don’t know when he first found out about it but we know that it likely ain’t just this year. I am pissed because I (and many of us) trusted them to do the right thing and had spent much time and effort persuading family and friends to adopt TT to help our national effort to combat covid-19. Plus the fact that the gov had spent months persuading us and addressing all concerns people posed (INCLUDING about using TT data for crim investigations). The cons are even greater because people are less inclined to use TT responsibly now, which undermines the whole purpose of contact tracing.
+
+To me, this is a matter of Principle and Trust, both of issues the PAP always prides themself on having. It is regrettable and sad that certain leaders decided that this invaluable trust and the PAP’s self-perceived reputation of being principled are worth tearing down for the ostensible benefit that it might or might not bring to crim cases.",2021-01-08 23:57:29,408
+132,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Same logic as ""The government can always track you with cell towers anyway""
+
+Then why do TT? Just use the cell towers!",2021-01-07 13:25:30,22
+133,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"TraceTogether is a two edged sword, it can incriminate you, but it can also provide an alibi - one can easily leave a token in a friend’s bag (friend need not even know). So can TT stand up to court of law? You can’t go around saying that TT shows that you are at a crime scene but then turn around and says that even though TT provides an alibi, alibi is not effective as it can be planted.",2021-01-07 13:10:39,80
+134,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"""Then take for what?""
+
+Take when they need it for investigation? They're just retaining the option to take it.",2021-01-07 11:23:06,18
+135,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,maybe cuz they made protesting illegal under the public order act,2021-01-07 15:37:41,11
+136,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,Just wait till they remove the safe entry feature from SingPass. Didn't they already say that TT is going to be mandatory?,2021-01-07 20:02:39,21
+137,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Straight to the point , I like it",2021-01-07 11:26:02,7
+138,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,other countries systems have users' privacy in mind (a lot of them are based on Apple and Google's api).,2021-01-07 15:54:31,18
+139,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,Yes definitely. Damn sia suay internationally.,2021-01-07 15:14:30,6
+140,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,Ok la this wasn't entirely their fault per se. Gov was following WHO protocols before everyone realized they were PRC shills + they didn't want a panic buying of masks to end up causing a shortage of them among healthcare workers,2021-01-07 15:34:28,38
+141,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,But not free to choose which you get.,2021-01-07 21:01:13,8
+142,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"> They did keep their promise on some things, like the vaccine being free for all.
+
+uh. how can you confidently say that when the vaccine hasn't been fully distributed yet?",2021-01-07 17:32:24,29
+143,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,To all 40 ppl they’ve vaccinated so far,2021-01-07 21:31:39,8
+144,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"If it isn't free how many people would take it, honestly? It is to the economy and hence the party's advantage to make it free.",2021-01-08 06:33:34,23
+146,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Seems like what I'm gonna say is going to be unpopular opinion on this sub and I'm most likely gonna be downvoted but so be it.
+
+I would be more concerned if the government is passing laws just to ""keep up with global trends"". Just because some country passes a law because they think it is good, does not mean that we have to. If we had followed what other countries did in the past, Singapore would not be as prosperous as she is today. 
+
+And honestly, though a lot of people don't want to admit, sometimes the government does know better. The one issue that is becoming prevalent in today's society is that a lot of people think that they are smarter than they actually are. I'll admit that the ministers of today are not probably not as capable as the ones in the past, but neither are the general public. 
+
+I completely agree that they could have communicated the inclusion of the use of TT for serious criminal investigations and I understand why people would be upset. But I would at least think that because of this pandemic people would at least understand that there is a bigger picture to look at first before publicly stating the the government is completely un-trustable now.",2021-01-08 00:15:52,209
+147,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"It also helps that the population has gotten more educated and knowledgable thanks to the entire education system and increased access to the internet. Nowadays, even an uncle and auntie can know a lot about what is happening overseas, and this naturally breeds questions on what the Singapore government is doing locally.",2021-01-07 15:16:57,52
+148,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,">The problem was that in the past, the government really did know what they were doing, and were often more correct than not. So people were content to let the government run things for them because the government really did know best. 
+
+
+Hindsight is 20/20 though, future generations may look back and think that the current one is pretty good",2021-01-07 16:02:06,59
+149,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"True that, there needs to be some sort of PR team for the entire government. 
+
+Heck, instead of using Mediacorp as your main way of producing content, spend some money on our local creators to produce content on more relevant media (YouTube, Instagram etc.) explaining different government policies. 
+
+Look at all the science/education channels doing wonders on YouTube now with a lesser budget than a single department in a ministry. Does not matter how much good you are doing as a government if you are not conveying that to the public. 
+
+They seem to be caught in this cycle of ""*why isn't the Singapore public appreciating us for all the work that we did.""* and ""s*ingaporean public is too dumb to understand what we are doing.""*",2021-01-07 15:15:04,127
+150,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"I agree about the strengths of a technocratic government. That imo is one of the strengths of our government, which doesn’t have to be as preoccupied with politicking or succumbing populism as other forms of democracies. However, this form of governance also requires significant trust by the majority of the populace in the gov of the day. So when the gov destroys this fragile trust, it brings about a whole lot of issues that would only hinder the gov’s ability to retain popular support WHILE still implementing the right (not necessarily popular) decisions for the country’s overall benefit.
+
+If the gov had been transparent about the CPC earlier in the last few months, gave assurances that it is restricted to those 7 severe crimes (murder, rape, terrorism), I am confident that most of us would be willing to forgive and accept it as well. Esp since everyone can agree that those crimes are perhaps the most morally repugnant of crimes. It is reassuring that their proposed legislation restricts TT data in crim investigations to the list of 7 kinds of crime. But I fear that this is too little too late. The damage is done when VB and the others decided to withhold info abt the CPC application after realising their mistake, and only addressing it now. The legislative amendments about the kinds of serious crimes also feels like a reactionary response to the public backlash; not something that they had ready to produce in Parliament on the day that they announced their mistake.",2021-01-09 00:26:12,255
+151,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"When used as evidence against you: strong conclusive evidence.
+
+When used as alibi: confirm fake u/tongzhimen must have left his token in his tongzhi's bag.
+
+SG system is free to intepret the evidence as they see fit.",2021-01-07 17:32:11,37
+152,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"but one of the argument being presented now is that the data isn't even useful according to them (often compared to SE, which is apparently more useful), so just hand it over.
+
+
+If not useful => how can it be needed for investigation? If needed, then it's useful what and the argument is invalid. In any case, the whole premise of ""it's not useful personal data so give it away lor"" is a messed up argument to begin with.",2021-01-07 11:31:14,75
+153,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"recently used it. didnt allow me to use without TT installed, so i use the websign-in instead.",2021-01-07 20:08:34,16
+154,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"I know. Since they don't allow me to access unless I use TT...
+
+Simple! I use Google Lens to scan the QR code. ;)",2021-01-07 20:10:21,22
+157,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,Because they didn’t ban daigous from shipping masks back to China. A costly early mistake.,2021-01-08 00:41:37,16
+158,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,But you can always reject if you hear a company name you don’t like.,2021-01-07 22:47:50,15
+159,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Ya right
+
+Then explain the president election debacle. What's the bigger picture here ?",2021-01-08 02:55:00,12
+160,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Too much focus on STEM bois, no idea how to use their Arts bois other than GDP growth.",2021-01-07 16:44:40,18
+161,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Like I said, just to retain the option. The argument you cherry picked is probably founded on some layman assumed definition of 'use' and 'data' which is not universally and legally recognised.
+
+Next time bookie keep his client records inside* the same folder TT used to store data how? Motion to suppress evidence from illegal access? Access to even check if they hide anything inside is also 'use', no?
+
+As it is impossible to list the entire negative possibility space, any exclusion you add will be vague as well.
+
+*(Not sure if its obvious enough but im referring to steganography and other creative ways criminals come up with.)",2021-01-07 11:46:00,108
+162,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"It's not ""just hand this particular data over"", it is ""they can already take all your data, including this one"". 
+
+As for whether it is useful or not, that's for them to decide after they take it and look at it. When you investigate some crime scene you don't just investigate the most suspicious-looking thing and leave everything else alone right? You take as much as you can, no matter how trivial it looks, just in case it helps.",2021-01-07 11:39:27,75
+163,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"No argument here from me about that issue. I completely agree that that was a huge F up on their part. So yes it was right of the public to demand an explanation from them back then.
+
+Edit: Probably should provide a bit more explanation on my stance in here so that it's not confusing. My stance is that for this particular issue, there is a bigger picture here that benefits the general public, which is the fact TT would provide a faster way to identify suspect's movement which will hasten the investigation works. As such, I do not have much of an issue with this ruling but I still understand why some people are unhappy.
+
+However, if there was no bigger picture like the presidential election which you mentioned, then I would be right next to you demanding an explanation from the government.
+
+What I'm not going to do is to completely discredit the good work that they have done during this pandemic and berate them just because of this issue.",2021-01-08 09:47:17,169
+164,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,">Next time bookie keep his client records inside\* the same folder TT used to store data how?
+
+Can we stop coming up with these absurd examples? TT data is encrypted and it is not something you can just randomly open the folder and dump documents in. Even then, your client records is not TT data, and would not have been covered by the Government's original assurance that TT data will only be used for contact tracing. 
+
+Ultimately ""retaining the option"" to use this data (which isn't even that great) comes at the cost of undermining trust in the TT program. Less trust, means less users, which means a less effective program. 
+
+We can't approach this as a ""just in case let's just get all data"", and pretend that we aren't making tradeoffs.",2021-01-07 13:20:55,127
+165,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"data that they requested for in a once-in-a-lifetime pandemic, with ministerial assurance that it will be used solely for contact tracing. 
+
+data that citizens did not have to give up, but gave up on the goodwill that it will be used for said purpose. and now it's all ""haha suckers, you should have known if you give me any data, i can use it under CPC anyway. Bet you regret giving that data now! TOO BAD""",2021-01-07 11:41:37,74
+166,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"ikr, if the TT data is so easy to decrypt to add more folders in such that even some random bookie can do it, then isn't that even worse. 
+
+*We take your privacy seriously, so we use an encryption tool that some random ah beng can unlock to protect your secure data.*
+
+
+And he says I'm cherry picking. lol.",2021-01-07 13:52:28,57
+167,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Absurd? Encrypted so you cannot open folder to dump data in?
+
+Don't just throw terms you don't understand, boy. Just because you cannot think of a way doesn't mean its impossible.",2021-01-07 13:42:27,28
+168,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Yes, so the problem isn't so much the data itself, but the fact that the public was misled to its use, like the article said.",2021-01-07 11:44:26,24
+169,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,">Don't just throw terms you don't understand, boy.  Just because you cannot think of a way doesn't mean its impossible.
+
+Don't call people boy if your only argument is to assume that people are younger than you.
+
+TT data is the specific data obtained from the app, or token. This data is encrypted. If you stored ""client records"" inside ""the same folder"", your client records is just going to show up as an unencrypted .doc file beside the encrypted data, and it will be immediately obvious that this is not TT Data, and not covered by the original assurance by the Government.",2021-01-07 13:45:22,98
+170,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"I wasn't contradicting the article, but rather this weird prong that I've been meeting - which is that it's okay to continue to give the data up because it's not even useful data anyway [because it's purportedly not geolocated]. 
+
+
+Article mentions it tangentially here:
+
+>To be honest, even with this latest development, it’s probably not worth getting worked up about location tracking. TraceTogether works by detecting proximity to other devices, not location. Expert teardowns of the token last year concluded that it did not have a GPS function and was “unlikely to be a useful tracking device” (though this was at least partially based on assurances that only MOH’s contact tracers would ever see the data)
+
+
+so i brought it up.",2021-01-07 11:52:52,117
+171,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Sigh, I guess putting in that effort to include that asterisk disclaimer is wasted after all. 
+
+I subconsciously left that boy in because your rant is especially surface level and naive.
+
+Add a doc file. Laughable.",2021-01-07 13:48:04,36
+172,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,">Sigh, I guess putting in that effort to include that asterisk disclaimer is wasted after all.
+
+Your disclaimer is exactly why I pointed out that the TT data is encrypted - the existing data is already encrypted, so how are you going to modify *encrypted data* to hide your client records inside? 
+
+If you want to just say ""O you never know what criminals can do"", then that is just in the realm of speculation. We can then equally specially that criminals could ""hack"" people's TT Data and implicate innocent people in crimes since the police will be accessing that TT Data. 
+
+> I subconsciously left that boy in because your rant is especially surface level and naive. 
+
+Being surface level and naive is not limited to ""boys"". Your post shows that presumably older people are entirely capable of speculation as well.",2021-01-07 13:52:56,139
+173,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Encrypted just means that you cannot comprehend the data without decrypting it. It does not mean that nothing is being stored. I can extend the data with my own encrypted data.
+
+My original point is that even the act of checking if the encrypted TT data is even tempered with is already legally considered a ""use"" of TT data. 
+
+Forging evidence requires you to decrypt, edit, and encrypt the data again. Which by even your level of understanding on encryption, is highly unlikely. 
+
+I started that comment off by talking about how OP gets into argument with people because they argue with layman and not legally recognised definitions of ""use"" and ""data"". You pop in and ignore my points to criticise a single example I used with your own definitions. 
+
+Stay in school.",2021-01-07 14:07:13,133
+174,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"> I can extend the data with my own encrypted data.
+
+I feel like you are making these suggestions without the benefit of a better understanding on how encrypted data, and specifically how TT data works. If data can simply be easily added in the manner you are suggesting, then all the past assurances given by our Government on the security of TT data is now also an open question. 
+
+> Forging evidence requires you to decrypt, edit, and encrypt the data again. Which by even your level of understanding on encryption, is highly unlikely. 
+
+Exactly. It is unlikely. But note that you are able to rightly point out how unlikely this is, but then you yourself are relying on an unlikely scenario of adding data you encrypted on your own, and the authorities not being able to tell the difference.
+
+> Stay in school. 
+
+As mentioned, if you need to reply on assuming people are younger than you, then do you really have a valid argument?",2021-01-07 14:47:59,164
+175,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Im saying that you need to learn more stuff in school. Stop being insecure about age.
+
+Extending TT data with my own encrypted data at the back does not mean that I need to decrypt TT data first.
+
+TT encrypted data: Qiwheoqksjsia
+
+My encrypted incriminating data: qlajsbakajap
+
+Extended: Qiwheoqksjsiaqlajsbakajap
+
+Do I need to break it down further? This is already a simple worked example of the most straightforward way criminals can abuse a CPC exclusion clause.
+
+How does the police know whether Qiwheoqksjsiaqlajsbakajap is encrypted TT data or not? Again, checking it with Govtech is already considered legally as use of TT data. Stop ignoring this part.",2021-01-07 16:55:53,107
+176,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,">Im saying that you need to learn more stuff in school. Stop being insecure about age.
+
+I am not bothered with age actually. I was not the one who started calling other people ""boy"". That's you. 
+
+>Again, checking it with Govtech is already considered legally as use of TT data. Stop ignoring this part. 
+
+Which part of the CPC exactly supports this legal conclusion? 
+
+Because there's a clear difference between asking Govtech to ascertain which part of the encrypted data is actually TT data, identify the other data, and only decrypt the other data, versus decrypting all the data and handing over both the TT data and the other data to the police.",2021-01-07 17:06:32,111
+177,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Govtech only have data in the form of encryption keys. To check which part of the encrypted data is actually TT data requires USE (obtain, encrypt, decrypt) of your unencrypted data (like your own encryption keys) and comparing it with what's actually being stored on your phone (or attempt to decrypt first). The police will need to get your supposed encrypted data, unencrypted data like your encryption keys and metadata, and another set of keys from govtech to investigate.
+
+Are we forgetting the part where Govtech is not MOH? Why should Govtech be able to handle your TT data but not the police? At this point, it's no longer usage for the sole purpose of contact tracing.
+
+I hope you see why the SPF is empowered to obtain ANY (encrypted or otherwise; non exhaustive list) data for criminal investigations.",2021-01-07 17:26:21,137
+178,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Okay so no particular legal argument. To be expected since the CPC does not even use the term ""use"" of data. 
+
+The promise that the data will only be used for contract tracing is not a legal provision but the political promise made by Vivian and other MPs at the time. So if Vivian now comes out to say that Govtec will need to use the data to check the integrity of data and to weed out incriminating to be handed to the police, all the while preserving the privacy of the original TT Data, we'd be having a very different conversation now. 
+
+> I hope you see why the SPF is empowered to obtain ANY (encrypted or otherwise; non exhaustive list) data for criminal investigations. 
+
+This is completely besides the point, because what the SPF is empowered to do is not the thing which people are annoyed about. It is the fact that the government previously promised that it would not use the data for other purposes - whatever SPF is empowered to do, the Government is also able to promise to not use a particular power. As it turns out that promise is now false.",2021-01-07 17:54:43,194
+179,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Legally, the term is to obtain -- which precedes and is even more general than use.
+
+I don't disagree about perceived broken promises. This message chain was about people arguing that ""the police got no use for TT data anyway, so why collect it in the first place"" before you, frankly, hijacked it.",2021-01-07 18:04:50,51
+180,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,">Legally, the term is to obtain 
+
+No, it is not. Do you even know which section of the CPC is applicable and was referenced in the first MHA answer? 
+
+> This message chain was about people arguing that ""the police got no use for TT data anyway, so why collect it in the first place"" before you, frankly, hijacked it. 
+
+This message chain was about how unlikely it is for people to ""add in"" data to the TT Data, and even if that happened, how you can still preserve the privacy of the TT Data. 
+
+But since you raised this legal point about using data (which you increasingly show very little knowledge about), I think I'm entitled to point out that you are wrong.",2021-01-07 18:21:53,122
+181,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"
+>
+This message chain was about how unlikely it is for people to ""add in"" data to the TT Data, and even if that happened, how you can still preserve the privacy of the TT Data. 
+
+Even if you go by this (which at best is the actually the chain from your intrusion onwards), I hope that my examples have shown you that you need unencrypted data (privacy not preserved) from the user's device to check for tempering, and that the act of checking for tempering is legally a use of TT data. I also hope that you understand that things are not as simple as storing doc files in the same folder, and that tempering with encrypted data does not mean that you must 'hack' and decrypt it first.
+
+My allusion to legal definitions of ""use"" and ""obtain"" is targeted at the original argument that ""the police got no use for TT data anyway, so why collect it in the first place"". To which, I replied that online arguments go on and on because people use their own non legal definitions of 'use' and 'data', and I then gave an example of how the police needed use of TT data to investigate a crime. You then jumped in with a simplistic view that I'm talking about putting a doc file in the same folder, also claiming that the message chain starts at your intrusion.
+
+Please stop taking things out of context and using it as ammunition, ignoring my above points. Do the words appear exactly in CPC? Maybe not. But my the rest of my points still stands.",2021-01-08 09:06:02,266
+182,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,">and that the act of checking for tempering is legally a use of TT data.
+
+You haven't been able to make any proper legal argument for this conclusion, the CPC does not even use the word ""use"", so I still don't understand why this is ""legally"" a use of TT data.
+
+If you want to make a legal conclusion let's look at what the law actually says and not what you feel is legal.
+
+>To which, I replied that online arguments go on and on because people use their own non legal definitions of 'use' and 'data
+
+This is ironically what is happening right now with you. You don't even refer to which part of the law you're talking about. These terms aren't even in the relevant part of the CPC and so why are you asking for legal definition of words that aren't even in the law.",2021-01-08 10:21:04,141
+183,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"Again, out of context and conviently ignoring my other points. The context is OP's use of what I called a ""cherry picked argument"". I did not say that these terms are part of CPC or not. I'm responding to OP's use of the word 'use' in the original post.
+
+As for the interpretation of 'use' legally, I think you are confused. You should be instead looking at precedent interpretation of ""use"" instead of one for one word matching in CPC. Interpretation of ""use"" legally is quite liberally ""enjoy benefits of"" and the act of checking for data tempering for the benefit of obtaining incriminating evidence for prosecution is a legal use of TT data.
+
+The burden of proof that my interpretion of legal use is wrong in this specific context is on you.",2021-01-08 11:26:22,130
+184,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"If you want to refer to a legal definition, then you need to refer to the law which uses that word, or the legal principle under which this word is being used. Words mean different things under different laws, and there is no one general legal definition for the word ""use"" (you vaguely refer to precedent, but I see none). 
+
+Plus since use doesn't even appear in the relevant part of the CPC, even if there was a legal definition for use, it is irrelevant for the purposes of the police because the police powers are under the CPC, not some vague ""law"".
+
+The funny part is that the OP is free to use the word ""use"" in the layman context because when Vivian first have the reassurance he was making a political promise, not a legal one. The government itself was originally using ""use"" in the general sense, rather than a legal definition.
+
+By now suddenly insisting on a legal definition (even though you can point to any particular law) you're the one who is doing a bad faith hijack of the thread. You're intriguing a legal standard that no one is using other than yourself, and then criticising people for not meeting this standard that you introduced.",2021-01-08 11:37:00,206
+185,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"The layman standard of the word use covers the specific standard of the word use. I'm providing one example that merits this specific standard, and hence then same example merits the general standard. (Read: Already considered as)
+
+Bad faith is when you change the whole premise of your argument when the glaring inadequacies of them surface.  Attacking my example with your half informed knowledge of encryption? Saying that I'm insisting legal definitions?
+
+My point remains that the act of checking for data tempering for the benefit of obtaining incriminating evidence for prosecution is a legal use of TT data. Is this not considered the use of TT data in an even more general sense? Or are you going to ignore my points again?",2021-01-08 13:26:34,121
+186,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,">this specific standard,
+
+Based on what law, or what principle of law? You have referred to neither, so how can there be a specific standard when you only speak in generalities?
+
+>Bad faith is when you change the whole premise of your argument when the glaring inadequacies of them surface. Attacking my example with your half informed knowledge of encryption? Saying that I'm insisting legal definitions?
+
+I've already directly pointed out, that even if we accepted the entirety of your argument, Govtec using the data to find incriminating data and not disclosing the TT data to the police, is a vastly different situation from the reasons why people are angry at the government right now.
+
+This was when you tried to re-raise your legal definition of ""use"", only to then say that the legal term is ""obtain"" (so I'm not sure why we have gone back to ""use"").
+
+>is a legal use of TT data
+
+You are just asserting this notion of ""legal use"", when you can't even provide a proper basis for your legal definition of ""use"". Or ""obtain"", or whatever you really think the proper legal term is.
+
+As I mention above:
+
+1) This entire point about ""legal use"" is misplaced. Vivian gave a *political* promise not to use the data for other purposes, not a *legal* promises (which he has no legal power to give anyway). 
+
+2) It is not in dispute that the police has *legal* power to access the data all the time. However the Government is also free to make the promise that it will voluntarily not use the *legal* power. This was the promise made by Vivian. 
+
+3) Given 1) and 2) above, the idea that there is a special legal meaning of ""use"", or ""obtain"" is missing the point, because the promise is not of a legal nature, and you should be considering Vivian's words in the general layman sense. Plus anyway, the relevant part of the CPC does not contain ""use"" or ""obtain"" so your legal argument is really just a confused misunderstanding of the law. 
+
+4) Assuming that your entire example is even feasible, Govtech checking data, and then giving the incriminating data to the police, is different from the entire data being given to the police from the start. People will not have the same concerns as they now have.",2021-01-08 13:46:58,379
+187,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,"
+
+1) My argument was against people who say that ""if police got no use for TT data, why collect it at all"" in which I provided an example where the police might need to have that flexibility ""use"" against people who abuse an exclusion clause. 
+
+2) Yes and like I said before I don't disagree about perceptions on broken promises. Don't change the subject.
+
+3) Mostly a repeat of 1 and 2. I stand by my interpretion of legal use for my example. See point 1.
+
+4) Again, we are back to simplistic arguments. Yes, A and B is different for many combinations of A and B. Will people not have the same concerns? Vastly different situation? How to tell? Isn't that your opinion? Like I also said, Govtech is not MOH which you gave consent to for the sole purpose of contact tracing. Govtech is also not qualified to make criminal investigations by themselves. It is not their purpose eithet. Will not have the same concerns? Yes. Is it less concerning? I'd say no. You really think people won't reduce govtech to just government?  Wait. I do not wish to continue this conversation with you down that path.
+
+I no longer find your arc of argument worthwhile of my time anymore.",2021-01-08 14:53:46,200
+188,Forget The TraceTogether Data. Can We Trust The Government To Keep Their Word?,2021-01-07 10:41:07,">I stand by my interpretion of legal use for my example
+
+Legal use that is base on no particular law. Standing by something does not make it logically sound.
+
+>Yes, A and B is different for many combinations of A and B.
+
+And that's just the point. Your example is not addressing the main issue that people are raising about police use.
+
+> I do not wish to continue this conversation with you down that path. I no longer find your arc of argument worthwhile of my time anymore.
+
+Every time someone mentions this on Reddit, I point out the obvious - if you don't want to continue you're free to just stop. I don't expect anyone to reply, and you don't need to notify me of, or ask my permission for, your decision to stop responding,",2021-01-08 17:08:03,130
+189,PSA: long queue to enter Vivo,2020-08-08 15:06:44,everyone going there for the pokemon gyms,2020-08-08 16:04:33,7
+190,PSA: long queue to enter Vivo,2020-08-08 15:06:44,"i read another comment some where on in our wild wild internet, someone claiming to be the social distancing temp worker, they said that the info from spaceout is updated manually by workers like them. when they are too busy registering hoardes of people trying to enter, they no time to update the spaceout thing? can someone verify?",2020-08-08 16:27:19,58
+191,PSA: long queue to enter Vivo,2020-08-08 15:06:44,It's the same story every weekend !!,2020-08-08 15:29:40,5
+193,PSA: long queue to enter Vivo,2020-08-08 15:06:44,"What's the reason for the crowd? Events, deals etc.?",2020-08-08 16:58:09,8
+194,PSA: long queue to enter Vivo,2020-08-08 15:06:44,"Go through other MRT exit to Harbourfront Centre (which typically has a far shorter queue), come up the escalator and go into Vivocity the back way...",2020-08-08 22:06:08,26
+195,PSA: long queue to enter Vivo,2020-08-08 15:06:44,I actually went there and just noped the fuck out of there. Went to Tiong instead,2020-08-08 20:05:21,16
+196,PSA: long queue to enter Vivo,2020-08-08 15:06:44,Here before someone says it could spark a cluster,2020-08-08 16:37:44,9
+197,PSA: long queue to enter Vivo,2020-08-08 15:06:44,"Yes, manually updated. Obviously, screening the people who are coming in take priority over updating that crappy system.
+
+VoteQ used on Polling Day was adapted from that. Same shit different day.",2020-08-08 16:58:26,31
+198,PSA: long queue to enter Vivo,2020-08-08 15:06:44,Must be Pokémon GO Community Day. It happens every month.,2020-08-08 21:10:16,9
+200,PSA: long queue to enter Vivo,2020-08-08 15:06:44,Probablypartly because 90% of people forget to check out until hours later.,2020-08-09 06:06:14,11
