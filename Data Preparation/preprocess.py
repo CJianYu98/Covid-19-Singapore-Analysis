@@ -54,7 +54,7 @@ def drop_short_comments(df, text_column):
         text_words_only = [w for w in text_lower if re.search('^[a-z]+$',w)]
         text_length.append(len(text_words_only))
         
-    df['num_words'] = text_length
+    df['num_words'] = text_length #Creating feature 1 for thoughtful comments
     df_final = df.drop(df[df.num_words < 5].index)    
 
     return df_final
@@ -84,20 +84,40 @@ def reddit_preprocessing(merged_df):
 
     return final_df
 
-def instagram_text_processing(df, stopword_list):
+def instagram_preprocessing(comments):
+    # removing useless columns
+    comments = comments[['description', 'pubDate','comments', 'timestamp', ]]
 
-    text_processed = text_preprocessing(df, 'comment', stopword_list)
+    # renaming some columns for better readabilty
+    comments.rename(columns={'description': 'Post Description', 'pubDate':'Post Datetime', 'comments': 'Comments', 'timestamp':'Comment Datetime'}, inplace=True)
 
-    text_demojize = demojize_text(df, 'comment')
+    # changing date/time to datetime format
+    comments['Comment Datetime'] = pd.to_datetime(comments['Comment Datetime'], infer_datetime_format=True)
+    comments['Post Datetime'] = pd.to_datetime(comments['Post Datetime'], infer_datetime_format=True)
 
-    df['processed_text'] = text_processed
-    df['demojize_text'] = text_demojize
+    comments_final = drop_short_comments(comments, 'Comments')
 
-    df.dropna(subset=['processed_text'], inplace=True)
+    return comments_final
 
-    return df
+def hardwarezone_preprocessing(comments):
+    # removing useless columns
+    comments = comments[['thread', 'datetime', 'post_text', 'post_timestamp']]
 
-def facebook_text_processing(df, stopword_list):
+    # drop na comments
+    comments.dropna(subset=['post_text'], inplace=True)
+
+    # renaming some columns for better readabilty
+    comments.rename(columns={'thread': 'Threads', 'datetime': 'Thread Datetime', 'post_text': 'Comments', 'post_timestamp': 'Comment Datetime'}, inplace=True)
+
+    # changing date/time to datetime format
+    comments['Thread Datetime'] = pd.to_datetime(comments['Thread Datetime'], infer_datetime_format=True)
+    comments['Comment Datetime'] = pd.to_datetime(comments['Comment Datetime'], infer_datetime_format=True)
+
+    comments_final = drop_short_comments(comments, 'Comments')
+
+    return comments_final
+
+def facebook_preprocessing(df, stopword_list):
 
     df.dropna(subset=['Comment'], inplace=True)
 
