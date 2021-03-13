@@ -131,3 +131,24 @@ def facebook_preprocessing(df, stopword_list):
     df.dropna(subset=['processed_text'], inplace=True)
 
     return df 
+
+
+actionable_keywords = 'should, shd, shld, may be, may b, maybe, mayb, to be, needs to, nids to, need to, nid to, believe, suppose to, ought, hope, have to, hav to, hv to, suggest, must, advise, request, require, better, btr, why cant, why cnt, how about, how bout, expect, please, pls, plz, why not, y not, why nt, y nt'
+actionable_keywords = actionable_keywords.split(',')
+for i in range(len(actionable_keywords)):
+    actionable_keywords[i] = ' ' + actionable_keywords[i] + ' '
+
+def label_actionable_comments(df, comment_header):
+    labels = []
+    for row in df[comment_header]:
+        for keyword in actionable_keywords:
+            if keyword in row:
+                labels.append(1)
+            else:
+                labels.append(0)
+
+    df[actionable_comment] = labels
+
+    return df
+
+
