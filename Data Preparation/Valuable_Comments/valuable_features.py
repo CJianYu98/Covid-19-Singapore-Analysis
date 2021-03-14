@@ -1,11 +1,17 @@
+# Import utils packages
+import os
+import math
+from collections import defaultdict
+# Import Data Processing packages
 import pandas as pd
+import numpy as np
+# Import Text Processing packages
 import re
 import nltk
 from nltk.corpus import PlaintextCorpusReader
 from nltk import word_tokenize
 from nltk.tokenize import RegexpTokenizer
-from collections import defaultdict
-import math
+# Import scripts 
 from unigram import *
 from preprocess import *
 # import sys
@@ -28,7 +34,7 @@ def remove_hashtag_mentions_urls(text):
     return re.sub(r"(?:\@|\#|https?\://)\S+", "", text)
 
 
-# Thoughtful comment feature 1
+# Valuable comment feature 1
 def get_comment_length(text: str) -> int:
     """
     Count the number of words in a comment. Feature 1 for thoughtful comment (Structural feature). 
@@ -48,7 +54,7 @@ def get_comment_length(text: str) -> int:
     return len(tokenized_text)
 
 
-# Thoughtful comment feature 2
+# Valuable comment feature 2
 def news_articles_unigram(file_name: str) -> UnigramModel:
     """
     Creating a unigram model for news article by reputatable news sources. This unigram model will be used to calculate average loglikelihood for an user's comment. Feature 2 for thoughtful comment (Lexical feature).
@@ -102,7 +108,7 @@ def comment_unicounter(text: str) -> UnigramCounter:
     return cmt_text_counter
 
 
-# Thoughtful comment feature 3
+# Valuable comment feature 3
 verb_tags = ['VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ'] # POS tags for verbs 
 
 def get_num_verbs(text: str) -> int:
@@ -133,15 +139,15 @@ def get_num_verbs(text: str) -> int:
     return count
 
 
-# Thoughtful comment feature 4
+# Valuable comment feature 4
 # discourse_keywords = [' what’s more as a matter of fact ', ' at least partly because ', ' on the one hand indeed ', ' in large part because ', ' particularly because ', ' largely as a result ', ' particularly since ', ' especially because ', ' on the other hand ', ' primarily because ', ' at the same time ', ' especially since ', ' not only because ', ' reportedly after ', ' on the contrary ', ' in part because ', ' largely because ', ' particularly as ', ' perhaps because ', ' particularly if ', ' on the one hand ', ' simply because ', ' merely because ', ' in other words ', ' partly because ', ' mainly because ', ' in particular ', ' for one thing ', ' as if besides ', ' one day after ', ' especially as ', ' by comparison ', ' especially if ', ' also although ', ' consequently ', ' on the whole ', ' when if only ', ' particularly ', ' incidentally ', ' just because ', ' only because ', ' nevertheless ', ' specifically ', ' additionally ', ' not because ', ' for example ', ' in addition ', ' accordingly ', ' furthermore ', ' in response ', ' by contrast ', ' if and when ', ' in contrast ', ' nonetheless ', ' even though ', ' as a result ', ' separately ', ' in the end ', ' conversely ', ' as long as ', ' regardless ', ' ultimately ', ' even after ', ' as much as ', ' apparently ', ' presumably ', ' only after ', ' even still ', ' in return ', ' only when ', ' even then ', ' lest,once ', ' even when ', ' turns out ', ' as though ', ' similarly ', ' therefore ', ' typically ', ' meanwhile ', ' likewise ', ' moreover ', ' in short ', ' now that ', ' meantime ', ' although ', ' instead ', ' that is ', ' much as ', ' only if ', ' in fact ', ' even as ', ' neither ', ' further ', ' overall ', ' even if ', ' besides ', ' so that ', ' because ', ' in turn ', ' finally ', ' whereas ', ' thereby ', ' however ', ' indeed ', ' though ', ' unless ', ' rather ', ' in sum ', ' after ', ' until ', ' still ', ' while ', ' hence ', ' since ', ' first ', ' as if ', ' as it ', ' also ', ' when ', ' next ', ' thus ', ' plus ', ' then ', ' but ', ' yet ', ' nor ', ' for ', ' and ', ' if ', ' or ', ' as ', ' so '] # typical words used in a discoure relation 
 
-x = 'although, as though, but, by comparison, even if, even though, however, nevertheless, on the other hand, still, then, though, while, yet, and, meanwhile, in turn, next, ultimately, meantime, also, as if, even as, even still, even then, regardless, when, by contrast, conversely, if, in contrast, instead, nor, or, rather, whereas, while, yet, even after, by contrast, nevertheless, besides, much as, as much as, whereas, neither, nonetheless, even when, on the one hand indeed, finally, in fact, separately, in the end, on the contrary, while'
-x = x.split(', ')
-x = list(set(x))
-x.sort()
-for i, word in enumerate(x):
-    x[i] = ' ' + word + ' '
+discourse_keywords = 'although, as though, but, by comparison, even if, even though, however, nevertheless, on the other hand, still, then, though, while, yet, and, meanwhile, in turn, next, ultimately, meantime, also, as if, even as, even still, even then, regardless, when, by contrast, conversely, if, in contrast, instead, nor, or, rather, whereas, while, yet, even after, by contrast, nevertheless, besides, much as, as much as, whereas, neither, nonetheless, even when, on the one hand indeed, finally, in fact, separately, in the end, on the contrary, while'
+discourse_keywords = discourse_keywords.split(', ')
+discourse_keywords = list(set(discourse_keywords))
+discourse_keywords.sort()
+for i, word in enumerate(discourse_keywords):
+    discourse_keywords[i] = ' ' + word + ' '
 
 def num_discourse(text: str) -> int:
     """
@@ -166,14 +172,14 @@ def num_discourse(text: str) -> int:
 
         text_final = " ".join(tokenized_text)
 
-        for ele in x:
+        for ele in discourse_keywords:
             if ele in text_final:
                 count += 1
 
     return count
 
 
-# Thoughful comment feature 5
+# Valuable comment feature 5
 noun_tags = ['NN', 'NNS', 'NNP', 'NNPS'] # POS tags for nouns
 
 def topic_doc_unigram(doc_words: list, k: int = 1) -> (defaultdict, list):
@@ -272,6 +278,141 @@ def KLDiv_relevance_score(doc_unigram: dict, comment_unigram: dict, doc_nouns: l
     #     return 7.5 
     return kl_div
 
+
+# Valuable comment feature 6
+pronouns = [' i ', ' me ', ' my ', ' mine ', ' myself ', ' we ', ' us ', ' our ', ' ours ', ' ourselves ', ' you ', ' your ', ' yours ', ' yourself ', ' yourselves ']
+
+def get_num_pronouns(text: str) -> int:
+    """
+    Count the number of first and second person pronouns in a comment. 
+
+    Args:
+        text (str): Comment by a user
+
+    Returns:
+        int: Number of pronouns
+    """
+    text = remove_hashtag_mentions_urls(text)
+    text = remove_emoji(text)
+    text = replace_characters(text)
+
+    count = 0
+    for sentence in sent_tokenize(text):
+        word_tokenizer = RegexpTokenizer(r'[-\'\w]+')
+        tokenized_text = word_tokenizer.tokenize(sentence)
+        tokenized_text = [w.lower() for w in tokenized_text]
+
+        text_final = " ".join(tokenized_text)
+
+        for ele in pronouns:
+            if ele in text_final:
+                count += 1
+    return count
+
+
+# Creating features for comment
+NEWS_UNIGRAM = news_articles_unigram('/Users/chenjianyu/Desktop/Y2S2/SMT203 Computational Social Sci/Covid-19-Singapore-Analysis/Data/News Article/articles1.csv')
+
+def create_features(file_path):
+    df = pd.read_csv(file_path)
+    df.drop(['Unnamed: 0'], axis=1, inplace=True)
+
+    # Creating feature 1 (comment length)
+    comment_length = []
+    for row in df['Comment']:
+        length = get_comment_length(row)
+        comment_length.append(length)
+    df['Length'] = comment_length
+    df.drop(df[df.Length == 0].index, inplace=True)
+
+    length_category = []
+    for length in df['Length']:
+        if length <= 10:
+            length_category.append(0)
+        elif 11 <= length <= 25:
+            length_category.append(1)
+        elif 26 <= length <= 50:
+            length_category.append(2)
+        elif 51 <= length <= 100:
+            length_category.append(3)
+        else:
+            length_category.append(4)
+    df['Length Category'] = length_category
+
+    # Creating feature 2-4 and 6 (comment likelihood, num verbs, num discourse relations, num pronouns)
+    comment_likelihood = []
+    num_verbs = []
+    num_discourse_relations = []
+    num_pronouns = []
+
+    for row in df['Comment']:
+        # Creating feature 2 
+        cmt_text_counter = comment_unicounter(row)
+        cmt_loglikelihood = NEWS_UNIGRAM.evaluate(cmt_text_counter)
+        comment_likelihood.append(cmt_loglikelihood)
+
+        # Creating feature 3
+        verbs_count = get_num_verbs(row)
+        num_verbs.append(verbs_count)
+
+        # Creating feature 4
+        discourse_count = num_discourse(row)
+        num_discourse_relations.append(discourse_count)
+
+        # Creating feature 6
+        pronouns_count = get_num_pronouns(row)
+        num_pronouns.append(pronouns_count)
+
+    df['Average Loglikelihood'] = comment_likelihood
+    df['Num Verbs'] = num_verbs
+    df['Num Discourse Relations'] = num_discourse_relations
+    df['Num Pronouns'] = num_pronouns
+
+    #**************RELOOK*******************
+    # Creating feature 5
+        ## Reading in policy texts corpus
+    corpus = PlaintextCorpusReader('/Users/chenjianyu/Desktop/Y2S2/SMT203 Computational Social Sci/Covid-19-Singapore-Analysis/Data/Policy Documents', '.+\.txt', encoding='utf-8')
+    fid = corpus.fileids()
+    fid.sort()
+
+    doc_words = [corpus.words(f) for f in fid]
+
+        ## Splitting the labelled data to its own policy/topic
+    circuit_breaker_comments = df[df['Topic'] == 'Circuit Breaker']
+    safe_distancing_comments = df[df['Topic'] == 'Safe Distancing']
+    tracetogether_comments = df[df['Topic'] == 'Tracetogether']
+    vaccination_comments = df[df['Topic'] == 'Vaccination']
+    comments = [circuit_breaker_comments, safe_distancing_comments, tracetogether_comments, vaccination_comments]
+
+        ## Calculating KL-divergence relevance score for each comment to its respective policy topic
+    for i in range(4):
+        doc_unigram, doc_nouns = topic_doc_unigram(doc_words[i], k=1)
+        relavance_scores = []
+        for row in comments[i]['Comment']:
+            cmt_unigram, cmt_nouns = comment_unigram(row, k=1)
+            score = KLDiv_relevance_score(doc_unigram, cmt_unigram, doc_nouns, cmt_nouns)
+            relavance_scores.append(score)
+        comments[i]['Relevance score'] = relavance_scores
+
+    df_final = pd.concat(comments, ignore_index=True)
+
+    relev_score_category = []
+    for score in df_final['Relevance score']:
+        if score < 5:
+            relev_score_category.append(0)
+        elif 5 <= score < 10:
+            relev_score_category.append(1)
+        elif 10 <= score < 20:
+            relev_score_category.append(2)
+        elif 20 <= length < 35:
+            relev_score_category.append(3)
+        else:
+            relev_score_category.append(4)
+    df_final['Relevance Score Category'] = relev_score_category
+
+    # df_final.to_csv(file_path)
+
+    return df_final
 
 
 
