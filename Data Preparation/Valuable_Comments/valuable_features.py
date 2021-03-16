@@ -315,7 +315,7 @@ NEWS_UNIGRAM = news_articles_unigram('/Users/chenjianyu/Desktop/Y2S2/SMT203 Comp
 
 def create_features(file_path):
     df = pd.read_csv(file_path)
-    df.drop(['Unnamed: 0'], axis=1, inplace=True)
+    # df.drop(['Unnamed: 0'], axis=1, inplace=True)
 
     # Creating feature 1 (comment length)
     comment_length = []
@@ -379,13 +379,14 @@ def create_features(file_path):
 
         ## Splitting the labelled data to its own policy/topic
     circuit_breaker_comments = df[df['Topic'] == 'Circuit Breaker']
-    safe_distancing_comments = df[df['Topic'] == 'Safe Distancing']
+    foreign_worker_comments = df[df['Topic'] == 'Foreign Worker']
+    social_distancing_comments = df[df['Topic'] == 'Social Distancing']
     tracetogether_comments = df[df['Topic'] == 'Tracetogether']
     vaccination_comments = df[df['Topic'] == 'Vaccination']
-    comments = [circuit_breaker_comments, safe_distancing_comments, tracetogether_comments, vaccination_comments]
+    comments = [circuit_breaker_comments, foreign_worker_comments, social_distancing_comments, tracetogether_comments, vaccination_comments]
 
         ## Calculating KL-divergence relevance score for each comment to its respective policy topic
-    for i in range(4):
+    for i in range(5):
         doc_unigram, doc_nouns = topic_doc_unigram(doc_words[i], k=1)
         relavance_scores = []
         for row in comments[i]['Comment']:
@@ -404,7 +405,7 @@ def create_features(file_path):
             relev_score_category.append(1)
         elif 10 <= score < 20:
             relev_score_category.append(2)
-        elif 20 <= length < 35:
+        elif 20 <= score < 35:
             relev_score_category.append(3)
         else:
             relev_score_category.append(4)
