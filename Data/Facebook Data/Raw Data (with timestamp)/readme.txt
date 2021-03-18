@@ -1,12 +1,26 @@
-*** important***
-fbposts postid is in column M!
+Status: Incomplete
 
-Csv auto convert large numbers (>15 digits) to scientific format.
-To perserve original postid, had to concat into a different column (M).
+# Working on: Ministry of Health #
 
 
+Completed:  Gov.sg, TST, CNA
 
-#
-fbcomments format: postid, username, comment, timestamp
+Incomplete: Ministry of Health 
+              - missing general and mask csv
 
-if comment == ''; means theres no text (could be video, gif, sticker etc)
+Missing:    leehsienloong
+
+
+Categories available:
+1. circuit_breaker
+2. economic_measures
+3. foreign_worker
+4. general
+5. safe_entry
+6. social_distancing
+7. vaccination
+8. tracetogether
+*. mask (new!, does not have category number)
+
+
+* Each folder contains a 'Overview' folder. Stores the original fbposts and/or fbcomments 
