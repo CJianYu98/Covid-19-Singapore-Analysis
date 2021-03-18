@@ -1,0 +1,110 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+```{r Loading packages}
+packages = c('tidyverse')
+
+for(p in packages){
+  if(!require(p, character.only = T)){
+    install.packages(p)
+  }
+  library(p, character.only = T)
+}
+```
+
+```{r Reading each policy csv}
+cb_data = read_csv("C:/Users/user/Documents/R Shiny/CSS EDA/merged_eda_datasets/circuit_breaker.csv")
+cb_data <- data.frame(cb_data)
+
+economic_data = read_csv("C:/Users/user/Documents/R Shiny/CSS EDA/merged_eda_datasets/economic_measures.csv")
+economic_data <- data.frame(economic_data)
+
+fw_data = read_csv("C:/Users/user/Documents/R Shiny/CSS EDA/merged_eda_datasets/foreign_worker.csv")
+fw_data <- data.frame(fw_data)
+
+masks_data = read_csv("C:/Users/user/Documents/R Shiny/CSS EDA/merged_eda_datasets/masks.csv")
+masks_data <- data.frame(masks_data)
+
+phases_data = read_csv("C:/Users/user/Documents/R Shiny/CSS EDA/merged_eda_datasets/phases.csv")
+phases_data <- data.frame(phases_data)
+
+safeentry_data = read_csv("C:/Users/user/Documents/R Shiny/CSS EDA/merged_eda_datasets/safeentry.csv")
+safeentry_data <- data.frame(safeentry_data)
+
+social_distancing_data = read_csv("C:/Users/user/Documents/R Shiny/CSS EDA/merged_eda_datasets/social_distancing.csv")
+social_distancing_data <- data.frame(social_distancing_data)
+
+shn_data = read_csv("C:/Users/user/Documents/R Shiny/CSS EDA/merged_eda_datasets/stay_home_notice.csv")
+shn_data <- data.frame(shn_data)
+
+tt_data = read_csv("C:/Users/user/Documents/R Shiny/CSS EDA/merged_eda_datasets/tracetogether.csv")
+tt_data <- data.frame(tt_data)
+
+vaccination_data = read_csv("C:/Users/user/Documents/R Shiny/CSS EDA/merged_eda_datasets/vaccination.csv")
+vaccination_data <- data.frame(vaccination_data)
+```
+
+```{r Creating dataframe}
+counts <- c(nrow(cb_data), nrow(economic_data), nrow(fw_data), nrow(masks_data), nrow(phases_data), nrow(safeentry_data), nrow(shn_data), nrow(social_distancing_data), nrow(tt_data), nrow(vaccination_data))
+policy <- c("Circuit Breaker", "Economic measures", "Foreign workers", "Masks", "Phases", "SafeEntry", "SHN", "Social distancing", "TraceTogether", "Vaccination")
+
+df <- data.frame(policy, counts)
+df
+```
+
+```{r}
+par(mar = c(7, 4, 2, 2) + 0.2)
+barplot(counts, main="Number of comments across all platforms per policy", 
+        names.arg = "n",
+        xlab = "",
+        xaxt = "n",
+        ylab = "Policy", 
+        col = "steelblue",
+        ylim=c(0,20000))
+end_point = 0.5 + nrow(df) + nrow(df) - 1
+
+labels <- c("Circuit Breaker", "Economic measures", "Foreign workers", "Masks", "Phases", "SafeEntry", "SHN", "Social distancing", "TraceTogether", "Vaccination")
+
+text(seq(1, end_point, by = 1.2), par("usr")[1]-0.25, 
+     srt = 45, adj = 1, xpd = TRUE,
+     labels = labels, cex = 1)
+```
+```{r}
+barplot(counts, main="Number of comments across all platforms per policy", 
+        names.arg = c("Circuit Breaker", "Economic measures", "Foreign workers", "Masks", "Phases", "SafeEntry", "SHN", "Social distancing", "TraceTogether", "Vaccination"),
+        xlab = "Number of comments",
+        ylab = "Policy", 
+        col = "steelblue",
+        ylim=c(0,20000))
+```
+
+```{r}
+all <- read_csv("C:/Users/user/Documents/R Shiny/CSS EDA/raw_combined.csv")
+
+platform_totals <- all %>% 
+  group_by(platform) %>%
+  summarise(total=sum(text))
+platform_totals
+
+all_grouped <- all %>% 
+  group_by(platform, policy) %>%
+  summarise(count=sum(text))
+all_grouped
+
+combined <- inner_join(platform_totals, all_grouped, by=c("platform" = "platform")) %>%
+  mutate(proportion = count/total *100)
+combined
+```
+```{r}
+ggplot(combined, aes(x=platform, y=proportion, fill=policy)) + 
+  geom_col(colour="black", position="fill") +
+  scale_y_continuous(labels = scales::percent)
+```
+
