@@ -6,7 +6,7 @@ from nltk.tokenize import word_tokenize
 from nltk.tokenize import TweetTokenizer
 from nltk.corpus import stopwords
 from nltk.stem.porter import *
-import datetime
+import datetime as dt
 import emoji
 
 def remove_emoji(text):
@@ -117,20 +117,38 @@ def hardwarezone_preprocessing(comments):
 
     return comments_final
 
-def facebook_preprocessing(df, stopword_list):
+def facebook_preprocessing(comments):
+    # removing useless columns
+    comments = comments[['comments_raw', 'date_time']]
 
-    df.dropna(subset=['Comment'], inplace=True)
+    # drop na comments
+    comments.dropna(subset=['comments_raw'], inplace=True)
 
-    text_processed = text_preprocessing(df, 'Comment', stopword_list)
+    # renaming some columns for better readabilty
+    comments.rename(columns={'comments_raw': 'Comments', 'date_time': 'Datetime'}, inplace=True)
 
-    text_demojize = demojize_text(df, 'Comment')
+    # changing date/time to datetime format
+    dates = []
+    for row in comments['Datetime']:
+        if '2020' not in row:
+            row += ' 2021'
+        if 'at' in row:
+            try:
+                date_time = dt.datetime.strptime(row, '%b %d at %I:%M %p %Y')
+            except:
+                pass
+        elif '-' in row:
+            date_time = dt.datetime.strptime(row, '%b-%d %Y')
+        elif ',' in row: 
+            date_time = dt.datetime.strptime(row, '%b %d, %Y')
+        else:
+            pass
+        dates.append(date_time.date())
+    comments['Datetime'] = dates
 
-    df['processed_text'] = text_processed
-    df['demojize_text'] = text_demojize
+    comments_final = drop_short_comments(comments, 'Comments')
 
-    df.dropna(subset=['processed_text'], inplace=True)
-
-    return df 
+    return comments_final
 
 
 actionable_keywords = 'should, shd, shld, may be, may b, maybe, mayb, to be, needs to, nids to, need to, nid to, believe, suppose to, ought, hope, have to, hav to, hv to, suggest, must, advise, request, require, better, btr, why cant, why cnt, how about, how bout, expect, please, pls, plz, why not, y not, why nt, y nt'

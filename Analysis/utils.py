@@ -48,6 +48,7 @@ def get_vader_sentiment(file_path, comment_header):
     return df
 
 def get_textblob_sentiment(file_path, comment_header):
+    
     df = pd.read_csv(file_path)
 
     polarity_scores = []
@@ -62,3 +63,35 @@ def get_textblob_sentiment(file_path, comment_header):
     df['Textblob_subjectivity_score'] = subjectivity_scores
 
     return df
+
+
+def merge_policy_df(policy):
+    path_parent = "/Users/chenjianyu/Desktop/Y2S2/SMT203 Computational Social Sci" #change to your own path for whoever running
+
+    reddit_folder = f"{path_parent}/Covid-19-Singapore-Analysis/Data/Reddit Data/Cleaned Data/Policies/Combined"
+    reddit_files = [file for file in os.listdir(reddit_folder) if file != '.DS_Store']
+    for file in reddit_files:
+        if policy in file:
+            reddit_policy_file = file
+    reddit_df = pd.read_csv(f'{reddit_folder}/{file}')
+    reddit_df = reddit_df[['comment_body', 'comment_created_dts']]
+    reddit_df.rename({"comment_body": 'text', 'comment_created_dts':'datetime'}, inplace=True)
+
+    insta_folder = f"{path_parent}/Covid-19-Singapore-Analysis/Data/Instagram Data/Cleaned Data/Policies/Combined"
+    reddit_files = [file for file in os.listdir(reddit_folder) if file != '.DS_Store']
+    for file in reddit_files:
+        if policy in file:
+            reddit_policy_file = file
+    reddit_df = pd.read_csv(f'{reddit_folder}/{file}')
+    reddit_df = reddit_df[['comment_body', 'comment_created_dts']]
+    reddit_df.rename({"comment_body": 'text', 'comment_created_dts':'datetime'}, inplace=True)
+
+
+
+
+
+    final_df = pd.concat([reddit_df, insta_df.....])
+
+
+
+merge_policy_df(circuit_breaker)

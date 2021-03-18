@@ -64,7 +64,7 @@ def process_reddit_text(file_path):
                 df.to_csv(f'{folder_path}/{csv_name}.csv')
 
 def process_insta_text(file_path):
-    file_path = '../Data/Instagram Data/(Final) Raw Data'
+    # file_path = '../Data/Instagram Data/(Final) Raw Data'
     insta_acc_folders = [folder for folder in os.listdir(file_path) if folder != '.DS_Store']
 
     keywords = [] #
@@ -85,7 +85,7 @@ def process_insta_text(file_path):
             df.to_csv(f'{folder_path}/{policy}')
 
 def process_hwz_text(file_path):
-    file_path = f'../Data/Hardwarezone Data/Raw Data/New'
+    # file_path = f'../Data/Hardwarezone Data/Raw Data/New'
     files = [file for file in os.listdir(file_path) if file != '.DS_Store']
 
     keywords = [] #
@@ -99,17 +99,27 @@ def process_hwz_text(file_path):
         df.to_csv(f'../Data/Hardwarezone Data/Cleaned Data/{file}')
 
 def process_facebook_text(file_path):
-    mypath = ".."
-    folder_name='Data/Facebook Data/Raw Data'
-    file_path = f'{mypath}/{folder_name}/fb_merged_data.csv'
-    # folders = [folder for folder in os.listdir(file_path) if folder != '.DS_Store']
+    # file_path = f'..Data/Facebook Data/Raw Data (with timestamp)'
+    folders = [folder for folder in os.listdir(file_path) if folder != '.DS_Store' and folder != 'Old' and folder != 'readme.txt']
 
     keywords = [] #
     stopwords_list = stopwords_ls(keywords)
 
-    df = pd.read_csv(file_path)
+    for folder in folders:
+        folder_path = f'../Data/Facebook Data/Cleaned Data/{folder}'
+        if not os.path.exists(folder_path):
+            os.mkdir(folder_path)
 
-    df = facebook_text_processing(df, stopwords_list)
+        policies = [file for file in os.listdir(f'{file_path}/{folder}') if file.endswith('.csv') and file != '.DS_Store']
 
-    df.to_csv('../Data/Facebook Data/Cleaned Data/fb_merged_data.csv')
+        for policy in policies:
+            df = pd.read_csv(f'{file_path}/{folder}/{policy}')
+
+            df = facebook_preprocessing(df)
+
+            df.to_csv(f'{folder_path}/{policy}')
+
+
+process_facebook_text('../Data/Facebook Data/Raw Data (with timestamp)')
+
 
