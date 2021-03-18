@@ -6,6 +6,8 @@ from nltk.tokenize import word_tokenize
 from nltk.tokenize import TweetTokenizer
 from nltk.corpus import stopwords
 from nltk.stem.porter import *
+from nltk.tokenize import RegexpTokenizer, sent_tokenize
+from typing import Iterator
 import datetime as dt
 import emoji
 
@@ -58,6 +60,60 @@ def drop_short_comments(df, text_column):
     df_final = df.drop(df[df.num_words < 5].index)    
 
     return df_final
+
+def replace_characters(text: str) -> str:
+    """
+    Replace tricky punctuations that can mess up sentence tokenizers
+    :param text: text with non-standard punctuations
+    :return: text with standardized punctuations
+    """
+    replacement_rules = {'“': '"', '”': '"', '’': "'", '--': ','}
+    for symbol, replacement in replacement_rules.items():
+        text = text.replace(symbol, replacement)
+    return text
+
+def generate_tokenized_sentences(paragraph: str) -> Iterator[str]:
+    """
+    Tokenize each sentence in paragraph.
+    For each sentence, tokenize each words and return the tokenized sentence one at a time.
+    :param paragraph: text of paragraph
+    """
+    word_tokenizer = RegexpTokenizer(r'[-\'\w]+')
+
+    for sentence in sent_tokenize(paragraph):
+        tokenized_sentence = word_tokenizer.tokenize(sentence)
+        if tokenized_sentence:
+            tokenized_sentence.append('[END]')
+            yield tokenized_sentence
+
+def tokenize_raw_text(raw_text_path: str, token_text_path: str) -> None:
+    """
+    Read a input text file and write its content to an output text file in the form of tokenized sentences
+    :param raw_text_path: path of raw input text file
+    :param token_text_path: path of tokenized output text file
+    """
+    with open(raw_text_path) as read_handle, open(token_text_path, 'w') as write_handle:
+        for paragraph in read_handle:
+            paragraph = paragraph.lower()
+            paragraph = replace_characters(paragraph)
+
+            for tokenized_sentence in generate_tokenized_sentences(paragraph):
+                write_handle.write(','.join(tokenized_sentence))
+                write_handle.write('\n')
+
+def get_tokenized_sentences(file_name: str) -> Iterator[str]:
+    """
+    Return tokenized sentence one at a time from a tokenized text
+    :param file_name: path of tokenized text
+    """
+    # with open(file_name) as file_handle:
+    #     for sentence in file_handle.read().splitlines():
+    #         tokenized_sentence = sentence.split(',')
+    #         yield tokenized_sentence
+
+    for sent in file_name:
+        tokenized_sentence = sent.split(',')
+        yield tokenized_sentence
 
 def twitter_preprocessing(tweets):
     # remove those non english comments
@@ -169,4 +225,31 @@ def label_actionable_comments(df, comment_header):
 
     return df
 
+def train_vectorizer(train_df_path):
+    train_df = pd.read_csv(train_df_path)
+    sentences_train = train_df['Comment'].values
+    vectorizer = CountVectorizer(stop_words='english', max_features=10000)
+    return (vectorizer.fit(sentences_train))
 
+def label_valuable_comments(df, vectorizer):
+    m1 = open("best_recall.pickle", 'rb')
+    m2 = open("best_f1.pickle", 'rb')
+    m3 = open("best_countvec_nofeatures.pickle", 'rb')
+    clf1_load = pickle.load(m1)
+    clf2_load = pickle.load(m2)
+    clf3_load = pickle.load(m3)
+    m1.close()
+    m2.close()
+    m3.close()
+
+    X_test1 = df[['Num Pronouns', 'Average Loglikelihood', 'Relevance score']]
+    X_test2 = df[['Num Pronouns', 'Average Loglikelihood', 'Length Category', 'Num Verbs', 'Num Discourse Relations']]
+
+    predictions1 = clf1_load.predict(X_test1)
+    predictions2 = clf2_load.predict(X_test2)
+    predictions3 = clf3_load.predict(X_test3)
+
+    final_predictions = pd.DataFrame({"p1": predictions1, 'p2':predictions2, 'p3':predictions3})
+    df['final_p'] = round((final_predictions['p1'] + final_predictions['p2'] + final_predictions['p3'])/3)
+
+    return df

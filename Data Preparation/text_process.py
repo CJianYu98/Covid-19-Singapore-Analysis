@@ -120,6 +120,5 @@ def process_facebook_text(file_path):
             df.to_csv(f'{folder_path}/{policy}')
 
 
-process_facebook_text('../Data/Facebook Data/Raw Data (with timestamp)')
 
 
