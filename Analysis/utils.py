@@ -63,3 +63,15 @@ def get_textblob_sentiment(file_path, comment_header):
     df['Textblob_subjectivity_score'] = subjectivity_scores
 
     return df
+
+def get_actionable_comments(df, label = 1):
+    # df = pd.read_csv(file_path)
+    actionable_comments = df[df['actionable'] == label]
+
+    return actionable_comments
+
+def get_valuable_comments(df, label = 1.0):
+    # df = pd.read_csv(file_path)
+    valuable_comments = df[df['valuable'] == label]
+
+    return valuable_comments

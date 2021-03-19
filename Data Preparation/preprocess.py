@@ -346,12 +346,6 @@ def label_actionable_comments(df, comment_header):
 
     return df
 
-def get_actionable_comments(file_path, label = 1):
-    df = pd.read_csv(file_path)
-    actionable_comments = df[df['actionable'] == label]
-
-    return actionable_comments
-
 def train_vectorizer(train_df_path):
     train_df = pd.read_csv(train_df_path)
     sentences_train = train_df['Comment'].values
@@ -386,8 +380,3 @@ def label_valuable_comments(df, vectorizer):
 
     return df
 
-def get_thoughtful_comments(file_path, label = 1.0):
-    df.pd.read_csv(file_path)
-    valuable_comments = df[df['valuable'] == label]
-
-    return valuable_comments
