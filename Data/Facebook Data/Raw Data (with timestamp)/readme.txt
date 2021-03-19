@@ -1,12 +1,9 @@
 Status: Incomplete
 
-# Working on: Ministry of Health #
+# Working on: leehsienloong #
 
 
-Completed:  Gov.sg, TST, CNA
-
-Incomplete: Ministry of Health 
-              - missing general and mask csv
+Completed:  Gov.sg, TST, CNA, Minstry of Health
 
 Missing:    leehsienloong
 
