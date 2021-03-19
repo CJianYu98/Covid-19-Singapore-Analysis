@@ -1,11 +1,7 @@
-Status: Incomplete
-
-# Working on: leehsienloong #
+Status: Complete
 
 
-Completed:  Gov.sg, TST, CNA, Minstry of Health
-
-Missing:    leehsienloong
+Completed:  Gov.sg, TST, CNA, Minstry of Health, Lee Hsien Loong
 
 
 Categories available:
