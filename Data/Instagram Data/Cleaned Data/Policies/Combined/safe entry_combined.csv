@@ -1,4 +1,4 @@
-,Unnamed: 0,Post Description,Post Datetime,Comments,Comment Datetime,num_words
+Unnamed: 0,Unnamed: 0.1,Post Description,Post Datetime,Comments,Comment Datetime,num_words,Topic,Length,Length Category,Average Loglikelihood,Num Verbs,Num Discourse Relations,Num Pronouns,Relevance score,Relevance Score Category,actionable,valuable
 0,5,"Yesterday, some businesses such as barber shops, confectionery stores and pet supplies shops resumed operations again after a three-week closure due to stricter circuit breaker measures. These business premises will have to ensure strict precautionary measures to protect the public, such as safe distancing and wearing of face masks.
 
 Businesses and workplaces that reopen have to adopt the SafeEntry app — a digital check-in system developed by @smartnation.sg and Digital Government Office to facilitate contact tracing. I am sure many of you have already used this — scanning the QR code with your phones, or checking in with your NRIC or SingPass app when you enter and exit a supermarket or mall.
@@ -8,7 +8,7 @@ Tapping on technology to help with contact tracing is one of the ways to manage 
 Looking around the world, you will realise that it has not been easy for countries to resume activities — with many seeing infection rates increase after doing so. So even after the circuit breaker period, we must continue to take precautions. Do remember, there is no need to rush out to the shops — go out only if you have to, exercise social responsibility, wash your hands regularly and wear a mask when you are out. Let us continue to stay vigilant and fight this battle together!
 
 #SGUnited
-#SingaporeTogether",2020-05-13 10:05:13+00:00,"Mr Heng, my dad who is an essential worker security officer and only has a Nokia phone with no data. Luckily i have a spare smartphone with me and he’s going to buy data for his prepaid number. BIG SIGH.",2020-05-13 19:18:03+00:00,41
+#SingaporeTogether",2020-05-13 10:05:13+00:00,"Mr Heng, my dad who is an essential worker security officer and only has a Nokia phone with no data. Luckily i have a spare smartphone with me and he’s going to buy data for his prepaid number. BIG SIGH.",2020-05-13 19:18:03+00:00,41,Safe Entry,40,2,-11.327810551108136,6,2,3,2.214117669482705,0,0,1.0
 1,6,"Yesterday, some businesses such as barber shops, confectionery stores and pet supplies shops resumed operations again after a three-week closure due to stricter circuit breaker measures. These business premises will have to ensure strict precautionary measures to protect the public, such as safe distancing and wearing of face masks.
 
 Businesses and workplaces that reopen have to adopt the SafeEntry app — a digital check-in system developed by @smartnation.sg and Digital Government Office to facilitate contact tracing. I am sure many of you have already used this — scanning the QR code with your phones, or checking in with your NRIC or SingPass app when you enter and exit a supermarket or mall.
@@ -18,7 +18,7 @@ Tapping on technology to help with contact tracing is one of the ways to manage 
 Looking around the world, you will realise that it has not been easy for countries to resume activities — with many seeing infection rates increase after doing so. So even after the circuit breaker period, we must continue to take precautions. Do remember, there is no need to rush out to the shops — go out only if you have to, exercise social responsibility, wash your hands regularly and wear a mask when you are out. Let us continue to stay vigilant and fight this battle together!
 
 #SGUnited
-#SingaporeTogether",2020-05-13 10:05:13+00:00,The SingPass login was working initially then stopped.,2020-05-14 00:02:42+00:00,8
+#SingaporeTogether",2020-05-13 10:05:13+00:00,The SingPass login was working initially then stopped.,2020-05-14 00:02:42+00:00,8,Safe Entry,8,0,-12.745942257358914,3,1,0,17.93213213917937,2,0,0.0
 2,7,"Yesterday, some businesses such as barber shops, confectionery stores and pet supplies shops resumed operations again after a three-week closure due to stricter circuit breaker measures. These business premises will have to ensure strict precautionary measures to protect the public, such as safe distancing and wearing of face masks.
 
 Businesses and workplaces that reopen have to adopt the SafeEntry app — a digital check-in system developed by @smartnation.sg and Digital Government Office to facilitate contact tracing. I am sure many of you have already used this — scanning the QR code with your phones, or checking in with your NRIC or SingPass app when you enter and exit a supermarket or mall.
@@ -28,116 +28,116 @@ Tapping on technology to help with contact tracing is one of the ways to manage 
 Looking around the world, you will realise that it has not been easy for countries to resume activities — with many seeing infection rates increase after doing so. So even after the circuit breaker period, we must continue to take precautions. Do remember, there is no need to rush out to the shops — go out only if you have to, exercise social responsibility, wash your hands regularly and wear a mask when you are out. Let us continue to stay vigilant and fight this battle together!
 
 #SGUnited
-#SingaporeTogether",2020-05-13 10:05:13+00:00,Check In and Check Out!,2020-05-14 00:37:24+00:00,5
+#SingaporeTogether",2020-05-13 10:05:13+00:00,Check In and Check Out!,2020-05-14 00:37:24+00:00,5,Safe Entry,5,0,-11.233133003818065,1,1,0,34.168915631337235,3,0,0.0
 3,0,"The government is also trialing the deployment of SafeEntry at certain places which require the TraceTogether app or token to check in. #linkinbio
 
-Photos via GovTech.",2020-09-09 12:01:41+00:00,Have to link to phone n use my battery ah? Give handout$ 1st then say lo..,2020-09-10 05:36:15+00:00,15
+Photos via GovTech.",2020-09-09 12:01:41+00:00,Have to link to phone n use my battery ah? Give handout$ 1st then say lo..,2020-09-10 05:36:15+00:00,15,Safe Entry,16,1,-12.991883566325441,3,1,1,4.600799974507786,0,0,0.0
 4,1,"The government is also trialing the deployment of SafeEntry at certain places which require the TraceTogether app or token to check in. #linkinbio
 
-Photos via GovTech.",2020-09-09 12:01:41+00:00,Gov got drone in e sky liao leh,2020-09-10 05:37:26+00:00,8
+Photos via GovTech.",2020-09-09 12:01:41+00:00,Gov got drone in e sky liao leh,2020-09-10 05:37:26+00:00,8,Safe Entry,8,0,-14.691660177920813,1,0,0,6.7119549222774735,1,0,0.0
 5,3,"The government is also trialing the deployment of SafeEntry at certain places which require the TraceTogether app or token to check in. #linkinbio
 
-Photos via GovTech.",2020-09-09 12:01:41+00:00,Just put a drone on each one of us la... Non citizens get 2 drones..😆,2020-09-10 05:38:35+00:00,14
+Photos via GovTech.",2020-09-09 12:01:41+00:00,Just put a drone on each one of us la... Non citizens get 2 drones..😆,2020-09-10 05:38:35+00:00,14,Safe Entry,15,1,-11.032816281738935,3,0,1,8.595831892535434,1,0,1.0
 6,5,"The government is also trialing the deployment of SafeEntry at certain places which require the TraceTogether app or token to check in. #linkinbio
 
-Photos via GovTech.",2020-09-09 12:01:41+00:00,Soon it is going to be most places,2020-09-10 07:01:34+00:00,8
+Photos via GovTech.",2020-09-09 12:01:41+00:00,Soon it is going to be most places,2020-09-10 07:01:34+00:00,8,Safe Entry,8,0,-9.0773268832818,3,0,0,17.932132139179377,2,0,0.0
 7,7,"The government is also trialing the deployment of SafeEntry at certain places which require the TraceTogether app or token to check in. #linkinbio
 
-Photos via GovTech.",2020-09-09 12:01:41+00:00,so can we stop scanning safeentry with this?,2020-09-10 14:33:45+00:00,8
+Photos via GovTech.",2020-09-09 12:01:41+00:00,so can we stop scanning safeentry with this?,2020-09-10 14:33:45+00:00,8,Safe Entry,8,0,-11.595414479235199,2,0,1,34.168915631337235,3,0,0.0
 8,8,"The government is also trialing the deployment of SafeEntry at certain places which require the TraceTogether app or token to check in. #linkinbio
 
-Photos via GovTech.",2020-09-09 12:01:41+00:00,Hope this one entirely made in Singapore.,2020-09-11 04:11:59+00:00,7
+Photos via GovTech.",2020-09-09 12:01:41+00:00,Hope this one entirely made in Singapore.,2020-09-11 04:11:59+00:00,7,Safe Entry,7,0,-10.627443126309089,1,0,0,17.93213213917937,2,0,0.0
 9,9,"The government is also trialing the deployment of SafeEntry at certain places which require the TraceTogether app or token to check in. #linkinbio
 
-Photos via GovTech.",2020-09-09 12:01:41+00:00,All the CB-ian confirm like this. Dont say you dont like because you want this to happen.,2020-09-11 06:26:42+00:00,16
+Photos via GovTech.",2020-09-09 12:01:41+00:00,All the CB-ian confirm like this. Dont say you dont like because you want this to happen.,2020-09-11 06:26:42+00:00,16,Safe Entry,17,1,-11.087764439004092,4,0,1,17.93213213917937,2,0,0.0
 10,10,"The government is also trialing the deployment of SafeEntry at certain places which require the TraceTogether app or token to check in. #linkinbio
 
-Photos via GovTech.",2020-09-09 12:01:41+00:00,"So essentially they’re slowly enforcing the app, right? Cause you know, some places require the app for entry.",2020-09-11 07:17:37+00:00,19
+Photos via GovTech.",2020-09-09 12:01:41+00:00,"So essentially they’re slowly enforcing the app, right? Cause you know, some places require the app for entry.",2020-09-11 07:17:37+00:00,19,Safe Entry,18,1,-11.17952568340453,3,0,1,7.668256853636067,1,0,0.0
 11,11,"The government is also trialing the deployment of SafeEntry at certain places which require the TraceTogether app or token to check in. #linkinbio
 
-Photos via GovTech.",2020-09-09 12:01:41+00:00,Me when I recive TT tokens: 50 WAYS TO BREAK A TRACETOGETHER TOKEN,2020-09-14 10:38:59+00:00,12
-12,13,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Imaging working at a job that forces u to work on a public holiday and doesn’t pay you extra for that,2020-08-10 05:35:14+00:00,22
-13,17,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Petition to make a safe entry app,2020-08-10 05:53:21+00:00,7
-14,18,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Petition to make a safe entry app,2020-08-10 05:53:22+00:00,7
-15,19,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Please be reminded that we are still in DOSCON Orange.,2020-08-10 06:05:50+00:00,10
-16,20,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,isit just me or does any1 doesnt check out often bcuz their lazy?,2020-08-10 06:22:10+00:00,13
-17,21,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,CHECK OUT MY IG FOR SINGAPORE’s TOP STUDENT JOB SCAM!!!!!! 🤯 (all i want is for you to warn your friends),2020-08-10 06:52:51+00:00,21
-18,22,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"Haha, go to Vivo City and you know where social distancing doesn’t exist.",2020-08-10 06:58:43+00:00,14
-19,25,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,yes the check ins check outs,2020-08-10 07:10:38+00:00,6
-20,26,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Qr code : I'm I a joke to you?,2020-08-10 07:14:11+00:00,7
-21,27,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"Good day everyone don’t throw away your old money (coin or note) bring all to me and make a huge amount of money from your old items Malaysia 🇲🇾,Brunei , Singapore 🇸🇬 Jordan 🇯🇴 China 🇨🇳 with ALMIGHTY ALLAH everything is possible 💯💯💯",2020-08-10 07:24:25+00:00,39
-22,28,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,I buy old  money collector I buy old UAE 🇦🇪 🇲🇾MYR <10k> per one ☝ 🇸🇬SGD <10k> per one ☝ 🇧🇳BRU <10k> per one ☝ 🇨🇳CH or any country coin and note.Pm me!!!!!I buy old MAL 🇲🇾(coins$ notes)10kkmyr per☝️old Sin🇸🇬(coins$note)10ksgd per☝️OLD BRU🇧🇳(coins$notes)10ksgd per☝️ YA ALLAH 🙏🙏🙏✅🇲🇾🇲🇾🇲🇾🇲🇾🇲🇾STAY SAFE 🤙🤙🤙🤙,2020-08-10 08:07:00+00:00,44
-23,31,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,yes omg the number of tabs i have for safe entry,2020-08-10 13:21:39+00:00,11
-24,32,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Me need type why I phone why I phone y???,2020-08-11 19:15:06+00:00,10
-25,33,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Use wat app for iphone,2020-08-11 19:15:22+00:00,5
-26,34,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"My god, if is wasn’t for me to take opportunity to ride on",2020-08-12 06:42:04+00:00,14
-27,35,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,@jeremyltw they made a meme out of you bro 😭,2020-08-10 04:46:01+00:00,8
-28,36,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,😂😂 more like chicken in chicken out chicken in chicken out😅😅,2020-08-10 04:46:08+00:00,10
-29,37,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,The number of safepass tabs I have are as much as the cases daily.,2020-08-10 04:47:36+00:00,14
-30,38,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"Personally, i dont find safe entry check in and out bothersome. Its just like taking pictures of your food before you eat it..... Think about it.",2020-08-10 04:51:49+00:00,26
-31,40,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,QR code? Singpass lah ahdoi.,2020-08-10 05:02:50+00:00,5
-32,43,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,it is my right to stand in a group of 20 people,2020-08-10 05:07:57+00:00,11
-33,45,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"Get a trustworthy accountmanager, like @brilliant_mindfxt a man ofHis words, tomorrow is too late why don't youstart now",2020-08-10 05:14:09+00:00,16
-34,46,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"No matter how many breakthroughs , trials will exist and we're going to get through it . The zeal of staying strong is needed . I've been investing with the wrong people thinking I found people I could trust but everything turned out bad , I was at the brink of giving up until I met Mr @brilliant_mindfxt and I invested with him , right now me and my love family is very happy Click the link to connect him . @brilliant_mindfxt",2020-08-10 05:18:32+00:00,72
-35,49,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,I understand. Check in check out,2020-08-10 04:44:53+00:00,6
+Photos via GovTech.",2020-09-09 12:01:41+00:00,Me when I recive TT tokens: 50 WAYS TO BREAK A TRACETOGETHER TOKEN,2020-09-14 10:38:59+00:00,12,Safe Entry,13,1,-17.280034272083487,2,1,1,3.95630832896923,0,0,0.0
+12,13,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Imaging working at a job that forces u to work on a public holiday and doesn’t pay you extra for that,2020-08-10 05:35:14+00:00,22,Safe Entry,21,1,-10.015120394325429,5,1,1,6.7119549222774735,1,0,0.0
+13,17,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Petition to make a safe entry app,2020-08-10 05:53:21+00:00,7,Safe Entry,7,0,-11.172214124914536,1,0,0,11.752638235706199,2,0,0.0
+14,18,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Petition to make a safe entry app,2020-08-10 05:53:22+00:00,7,Safe Entry,7,0,-11.172214124914536,1,0,0,11.752638235706199,2,0,0.0
+15,19,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Please be reminded that we are still in DOSCON Orange.,2020-08-10 06:05:50+00:00,10,Safe Entry,10,0,-11.296138541459776,3,1,1,11.752638235706195,2,0,0.0
+16,20,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,isit just me or does any1 doesnt check out often bcuz their lazy?,2020-08-10 06:22:10+00:00,13,Safe Entry,13,1,-14.433487974468305,4,1,1,17.932132139179377,2,0,0.0
+17,21,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,CHECK OUT MY IG FOR SINGAPORE’s TOP STUDENT JOB SCAM!!!!!! 🤯 (all i want is for you to warn your friends),2020-08-10 06:52:51+00:00,21,Safe Entry,20,1,-14.652135358677338,4,0,4,2.752537258631188,0,0,0.0
+18,22,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"Haha, go to Vivo City and you know where social distancing doesn’t exist.",2020-08-10 06:58:43+00:00,14,Safe Entry,13,1,-11.98977513006918,3,1,1,4.391960544089705,0,0,0.0
+19,25,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,yes the check ins check outs,2020-08-10 07:10:38+00:00,6,Safe Entry,6,0,-13.025825656241688,2,0,0,17.932132139179377,2,0,0.0
+20,26,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Qr code : I'm I a joke to you?,2020-08-10 07:14:11+00:00,7,Safe Entry,8,0,-10.822989088053761,0,0,1,17.93213213917937,2,0,0.0
+21,27,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"Good day everyone don’t throw away your old money (coin or note) bring all to me and make a huge amount of money from your old items Malaysia 🇲🇾,Brunei , Singapore 🇸🇬 Jordan 🇯🇴 China 🇨🇳 with ALMIGHTY ALLAH everything is possible 💯💯💯",2020-08-10 07:24:25+00:00,39,Safe Entry,38,2,-11.96300075195932,4,2,2,1.6228604345110145,0,0,0.0
+22,28,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,I buy old  money collector I buy old UAE 🇦🇪 🇲🇾MYR <10k> per one ☝ 🇸🇬SGD <10k> per one ☝ 🇧🇳BRU <10k> per one ☝ 🇨🇳CH or any country coin and note.Pm me!!!!!I buy old MAL 🇲🇾(coins$ notes)10kkmyr per☝️old Sin🇸🇬(coins$note)10ksgd per☝️OLD BRU🇧🇳(coins$notes)10ksgd per☝️ YA ALLAH 🙏🙏🙏✅🇲🇾🇲🇾🇲🇾🇲🇾🇲🇾STAY SAFE 🤙🤙🤙🤙,2020-08-10 08:07:00+00:00,44,Safe Entry,52,3,-15.835075335241585,6,2,1,2.665965652858264,0,0,0.0
+23,31,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,yes omg the number of tabs i have for safe entry,2020-08-10 13:21:39+00:00,11,Safe Entry,11,1,-11.711585793316894,2,0,1,8.595831892535436,1,0,0.0
+24,32,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Me need type why I phone why I phone y???,2020-08-11 19:15:06+00:00,10,Safe Entry,10,0,-11.628606137569756,1,0,1,10.101383253318383,2,0,0.0
+25,33,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,Use wat app for iphone,2020-08-11 19:15:22+00:00,5,Safe Entry,5,0,-15.381852513830367,0,0,0,8.595831892535436,1,0,0.0
+26,34,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"My god, if is wasn’t for me to take opportunity to ride on",2020-08-12 06:42:04+00:00,14,Safe Entry,13,1,-9.805379730324363,3,1,1,11.752638235706195,2,0,0.0
+27,35,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,@jeremyltw they made a meme out of you bro 😭,2020-08-10 04:46:01+00:00,8,Safe Entry,8,0,-11.34258442193615,2,0,1,17.93213213917937,2,0,0.0
+28,36,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,😂😂 more like chicken in chicken out chicken in chicken out😅😅,2020-08-10 04:46:08+00:00,10,Safe Entry,10,0,-10.61105163834781,0,0,0,15.020444255716818,2,0,0.0
+29,37,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,The number of safepass tabs I have are as much as the cases daily.,2020-08-10 04:47:36+00:00,14,Safe Entry,14,1,-10.177075072425797,2,2,1,8.595831892535436,1,0,0.0
+30,38,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"Personally, i dont find safe entry check in and out bothersome. Its just like taking pictures of your food before you eat it..... Think about it.",2020-08-10 04:51:49+00:00,26,Safe Entry,26,2,-11.244470399432798,6,1,3,6.7119549222774735,1,0,0.0
+31,40,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,QR code? Singpass lah ahdoi.,2020-08-10 05:02:50+00:00,5,Safe Entry,5,0,-17.424504907740637,0,0,0,6.711954922277474,1,0,0.0
+32,43,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,it is my right to stand in a group of 20 people,2020-08-10 05:07:57+00:00,11,Safe Entry,12,1,-8.202155945408087,2,0,1,17.143427804681874,2,0,0.0
+33,45,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"Get a trustworthy accountmanager, like @brilliant_mindfxt a man ofHis words, tomorrow is too late why don't youstart now",2020-08-10 05:14:09+00:00,16,Safe Entry,17,1,-13.664043943567501,2,0,0,6.7119549222774735,1,0,0.0
+34,46,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,"No matter how many breakthroughs , trials will exist and we're going to get through it . The zeal of staying strong is needed . I've been investing with the wrong people thinking I found people I could trust but everything turned out bad , I was at the brink of giving up until I met Mr @brilliant_mindfxt and I invested with him , right now me and my love family is very happy Click the link to connect him . @brilliant_mindfxt",2020-08-10 05:18:32+00:00,72,Safe Entry,74,3,-10.48697532045143,20,3,3,2.421515734068082,0,0,1.0
+35,49,Also: Check in check out check in check out check in check out check in check out,2020-08-10 04:40:33+00:00,I understand. Check in check out,2020-08-10 04:44:53+00:00,6,Safe Entry,6,0,-9.3044363237044,1,0,0,34.168915631337235,3,0,0.0
 36,53,"There were also cases where Safe Distancing Ambassadors and Enforcement Officers encountered ""aggression and non-compliance"" when they advised large groups to disperse, according to Minister for the Environment and Water Resources Masagos Zulkifli. #linkinbio
 
-Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,why do yall have to get mad about being told to wear masks??? 😭😭 got nothing better to do sia,2020-07-23 17:27:36+00:00,19
+Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,why do yall have to get mad about being told to wear masks??? 😭😭 got nothing better to do sia,2020-07-23 17:27:36+00:00,19,Safe Entry,19,1,-11.034891539128585,9,0,0,17.932132139179377,2,0,0.0
 37,54,"There were also cases where Safe Distancing Ambassadors and Enforcement Officers encountered ""aggression and non-compliance"" when they advised large groups to disperse, according to Minister for the Environment and Water Resources Masagos Zulkifli. #linkinbio
 
-Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,lockdown the beaches since these ppl dont know how to behave lol,2020-07-23 17:28:25+00:00,12
+Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,lockdown the beaches since these ppl dont know how to behave lol,2020-07-23 17:28:25+00:00,12,Safe Entry,12,1,-12.797686283263626,2,0,0,11.752638235706195,2,0,0.0
 38,55,"There were also cases where Safe Distancing Ambassadors and Enforcement Officers encountered ""aggression and non-compliance"" when they advised large groups to disperse, according to Minister for the Environment and Water Resources Masagos Zulkifli. #linkinbio
 
-Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,"Close phase 2 la, don't bother do enforcement la. Wasting everyone's time only",2020-07-24 04:26:30+00:00,10
+Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,"Close phase 2 la, don't bother do enforcement la. Wasting everyone's time only",2020-07-24 04:26:30+00:00,10,Safe Entry,13,1,-13.011990958914744,1,0,0,7.383765915254125,1,0,0.0
 39,56,"There were also cases where Safe Distancing Ambassadors and Enforcement Officers encountered ""aggression and non-compliance"" when they advised large groups to disperse, according to Minister for the Environment and Water Resources Masagos Zulkifli. #linkinbio
 
-Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,"if can't chill at the beach,maybe longkang is the best place where nobody can be so kaypoh.",2020-07-24 06:35:41+00:00,17
+Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,"if can't chill at the beach,maybe longkang is the best place where nobody can be so kaypoh.",2020-07-24 06:35:41+00:00,17,Safe Entry,18,1,-11.666317655165985,3,0,0,8.222972447248168,1,0,0.0
 40,61,"There were also cases where Safe Distancing Ambassadors and Enforcement Officers encountered ""aggression and non-compliance"" when they advised large groups to disperse, according to Minister for the Environment and Water Resources Masagos Zulkifli. #linkinbio
 
-Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,@autismo_111  all the bitches jokes here tho lmao,2020-07-25 01:06:34+00:00,7
+Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,@autismo_111  all the bitches jokes here tho lmao,2020-07-25 01:06:34+00:00,7,Safe Entry,7,0,-14.829871624908426,1,0,0,11.752638235706195,2,0,0.0
 41,62,"There were also cases where Safe Distancing Ambassadors and Enforcement Officers encountered ""aggression and non-compliance"" when they advised large groups to disperse, according to Minister for the Environment and Water Resources Masagos Zulkifli. #linkinbio
 
-Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,Paint white circles on the beaches where a maximum of 5 people can stay within each circle.,2020-07-26 18:13:46+00:00,16
+Photos from Masagos/Facebook.",2020-07-22 10:19:43+00:00,Paint white circles on the beaches where a maximum of 5 people can stay within each circle.,2020-07-26 18:13:46+00:00,16,Safe Entry,17,1,-11.131593580499349,1,0,0,5.4726963388144085,1,0,0.0
 42,64,"Remember to use safe entry, preferably more than once. #linkinbio
 
-Photo from Pan Pacific Hotel",2020-07-03 11:02:47+00:00,Yay now can go downtown east to play at the www and stay there,2020-07-03 23:31:17+00:00,14
+Photo from Pan Pacific Hotel",2020-07-03 11:02:47+00:00,Yay now can go downtown east to play at the www and stay there,2020-07-03 23:31:17+00:00,14,Safe Entry,14,1,-10.958462043388577,3,1,0,17.932132139179377,2,0,0.0
 43,70,"Remember to use safe entry, preferably more than once. #linkinbio
 
-Photo from Pan Pacific Hotel",2020-07-03 11:02:47+00:00,Is it time for our staycay???? @_kxl__ @imseorimnoona @joyceeisawesome @maisarah_hassim 😔,2020-07-04 09:01:39+00:00,6
+Photo from Pan Pacific Hotel",2020-07-03 11:02:47+00:00,Is it time for our staycay???? @_kxl__ @imseorimnoona @joyceeisawesome @maisarah_hassim 😔,2020-07-04 09:01:39+00:00,6,Safe Entry,6,0,-15.115484934225115,1,0,1,8.268024125926852,1,0,0.0
 44,74,"Remember to use safe entry, preferably more than once. #linkinbio
 
-Photo from Pan Pacific Hotel",2020-07-03 11:02:47+00:00,Is it mean you have open international flights & allow tourist to come again?,2020-07-06 16:43:15+00:00,13
-45,3,"Starting next month, robots and drones will take on roles such as SafeEntry, temperature taking and surveillance at National University Health System hospitals. They can also deny entrance to visitors who do not comply with social distancing measures.",2020-09-25 10:06:00+00:00,Wait.. isn’t this ntfgh?,2020-09-26 04:23:51+00:00,5
+Photo from Pan Pacific Hotel",2020-07-03 11:02:47+00:00,Is it mean you have open international flights & allow tourist to come again?,2020-07-06 16:43:15+00:00,13,Safe Entry,13,1,-10.854973645729897,4,0,1,17.932132139179377,2,0,0.0
+45,3,"Starting next month, robots and drones will take on roles such as SafeEntry, temperature taking and surveillance at National University Health System hospitals. They can also deny entrance to visitors who do not comply with social distancing measures.",2020-09-25 10:06:00+00:00,Wait.. isn’t this ntfgh?,2020-09-26 04:23:51+00:00,5,Safe Entry,4,0,-13.601923349112484,0,0,0,8.595831892535436,1,0,0.0
 46,6,"Saw this giant QR code outside @singaporeartmuseum? ⁣
 You won't be able to get safe entry into the building with it yet though, as it is currently under renovation. ⁣
 Find out what the QR code is about - link in bio @straits_times⁣
 📸: Shintaro Tay⁣
-#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,I buy old  money collector I buy old UAE 🇦🇪 🇲🇾MYR <10k> per one ☝ 🇸🇬SGD <10k> per one ☝ 🇧🇳BRU <10k> per one ☝ 🇨🇳CH or any country coin and note.Pm me!!!!!I buy old MAL 🇲🇾(coins$ notes)10kkmyr per☝️old Sin🇸🇬(coins$note)10ksgd per☝️OLD BRU🇧🇳(coins$notes)10ksgd per☝️ YA ALLAH 🙏🙏🙏✅🇲🇾🇲🇾🇲🇾🇲🇾🇲🇾STAY SAFE 🤙🤙🤙🤙,2020-08-25 08:06:06+00:00,44
+#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,I buy old  money collector I buy old UAE 🇦🇪 🇲🇾MYR <10k> per one ☝ 🇸🇬SGD <10k> per one ☝ 🇧🇳BRU <10k> per one ☝ 🇨🇳CH or any country coin and note.Pm me!!!!!I buy old MAL 🇲🇾(coins$ notes)10kkmyr per☝️old Sin🇸🇬(coins$note)10ksgd per☝️OLD BRU🇧🇳(coins$notes)10ksgd per☝️ YA ALLAH 🙏🙏🙏✅🇲🇾🇲🇾🇲🇾🇲🇾🇲🇾STAY SAFE 🤙🤙🤙🤙,2020-08-25 08:06:06+00:00,44,Safe Entry,52,3,-15.835075335241585,6,2,1,2.665965652858264,0,0,0.0
 47,7,"Saw this giant QR code outside @singaporeartmuseum? ⁣
 You won't be able to get safe entry into the building with it yet though, as it is currently under renovation. ⁣
 Find out what the QR code is about - link in bio @straits_times⁣
 📸: Shintaro Tay⁣
-#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,Is it to buy the building AHAHAH,2020-08-25 08:09:53+00:00,7
+#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,Is it to buy the building AHAHAH,2020-08-25 08:09:53+00:00,7,Safe Entry,7,0,-10.789298049126382,2,0,0,17.93213213917938,2,0,0.0
 48,8,"Saw this giant QR code outside @singaporeartmuseum? ⁣
 You won't be able to get safe entry into the building with it yet though, as it is currently under renovation. ⁣
 Find out what the QR code is about - link in bio @straits_times⁣
 📸: Shintaro Tay⁣
-#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,"Rumour has it that if you scan this QR code,  you wont need to scan anymore SafeEntry QR codes for a year",2020-08-25 08:14:58+00:00,22
+#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,"Rumour has it that if you scan this QR code,  you wont need to scan anymore SafeEntry QR codes for a year",2020-08-25 08:14:58+00:00,22,Safe Entry,22,1,-13.021332256851911,5,1,1,5.088471017184117,1,0,0.0
 49,11,"Saw this giant QR code outside @singaporeartmuseum? ⁣
 You won't be able to get safe entry into the building with it yet though, as it is currently under renovation. ⁣
 Find out what the QR code is about - link in bio @straits_times⁣
 📸: Shintaro Tay⁣
-#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,For the convenience of safe entry scanning?,2020-08-25 08:30:11+00:00,7
+#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,For the convenience of safe entry scanning?,2020-08-25 08:30:11+00:00,7,Safe Entry,7,0,-11.126502294731408,1,0,0,11.752638235706195,2,0,0.0
 50,12,"Saw this giant QR code outside @singaporeartmuseum? ⁣
 You won't be able to get safe entry into the building with it yet though, as it is currently under renovation. ⁣
 Find out what the QR code is about - link in bio @straits_times⁣
 📸: Shintaro Tay⁣
-#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,Its gonna be a rick roll,2020-08-25 08:52:01+00:00,6
+#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,Its gonna be a rick roll,2020-08-25 08:52:01+00:00,6,Safe Entry,6,0,-12.490435536904485,1,0,0,17.932132139179377,2,0,0.0
 51,13,"Saw this giant QR code outside @singaporeartmuseum? ⁣
 You won't be able to get safe entry into the building with it yet though, as it is currently under renovation. ⁣
 Find out what the QR code is about - link in bio @straits_times⁣
 📸: Shintaro Tay⁣
-#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,Our lives are filled with QR codes right now haha.,2020-08-25 09:33:06+00:00,10
+#StraitsTimes #SafeEntry #SingaporeArtMuseum",2020-08-25 08:05:25+00:00,Our lives are filled with QR codes right now haha.,2020-08-25 09:33:06+00:00,10,Safe Entry,10,0,-12.960122031385255,3,0,0,11.752638235706195,2,0,0.0
 52,0,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -150,7 +150,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,"Now boomers can only complain ""gAhmEn tRacKinG u"" while using it",2020-10-21 10:18:30+00:00,11
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,"Now boomers can only complain ""gAhmEn tRacKinG u"" while using it",2020-10-21 10:18:30+00:00,11,Safe Entry,11,1,-14.119788032644294,2,1,0,11.752638235706195,2,0,0.0
 53,1,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -163,7 +163,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,why are they forcing us to use two different systems,2020-10-21 10:24:26+00:00,10
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,why are they forcing us to use two different systems,2020-10-21 10:24:26+00:00,10,Safe Entry,10,0,-10.065266352320824,3,0,1,34.168915631337235,3,0,0.0
 54,2,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -176,7 +176,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,"Make Trace Together user-friendly 1st please just like singpass mobile app.. i do not have to scan QR code, i just need to search for location... I do not wish to stand and block others way just because I have to scan in.. work on that before you would like to implement it.. Thank You!",2020-10-21 10:26:18+00:00,53
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,"Make Trace Together user-friendly 1st please just like singpass mobile app.. i do not have to scan QR code, i just need to search for location... I do not wish to stand and block others way just because I have to scan in.. work on that before you would like to implement it.. Thank You!",2020-10-21 10:26:18+00:00,53,Safe Entry,55,3,-11.304086374307873,13,1,3,2.035744838688452,0,0,1.0
 55,3,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -189,7 +189,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,what but i don’t bring phone to school then how ah,2020-10-21 11:23:05+00:00,12
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,what but i don’t bring phone to school then how ah,2020-10-21 11:23:05+00:00,12,Safe Entry,11,1,-11.105820546100388,3,2,1,8.595831892535436,1,0,0.0
 56,4,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -202,7 +202,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,1984. The monitor which is always in your house is now mobile. Good grief. The G is watching you 24/7🥶,2020-10-21 11:59:32+00:00,18
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,1984. The monitor which is always in your house is now mobile. Good grief. The G is watching you 24/7🥶,2020-10-21 11:59:32+00:00,18,Safe Entry,21,1,-10.133281450277485,4,0,2,8.595831892535436,1,0,0.0
 57,5,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -215,7 +215,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,Where’s my tolen then haha,2020-10-21 12:22:58+00:00,6
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,Where’s my tolen then haha,2020-10-21 12:22:58+00:00,6,Safe Entry,5,0,-15.048971698467595,1,1,1,34.168915631337235,3,0,0.0
 58,8,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -228,7 +228,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,*goverment wants to know your location*,2020-10-21 13:07:02+00:00,6
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,*goverment wants to know your location*,2020-10-21 13:07:02+00:00,6,Safe Entry,6,0,-11.619020129468625,2,0,1,17.932132139179377,2,0,0.0
 59,10,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -241,7 +241,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,What's the fucking point of tracetogether when you still have to scan the QR code like the same thing with safeentry? Seems like they're just digitizing for digitizing's sake to look like they're streamlining and making things more efficient 🤦,2020-10-21 20:11:03+00:00,35
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,What's the fucking point of tracetogether when you still have to scan the QR code like the same thing with safeentry? Seems like they're just digitizing for digitizing's sake to look like they're streamlining and making things more efficient 🤦,2020-10-21 20:11:03+00:00,35,Safe Entry,39,2,-11.979839074701244,5,3,1,3.9563083289692296,0,0,1.0
 60,11,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -254,7 +254,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,What if i forget to bring out my phone but only have IC on hand,2020-10-21 22:45:35+00:00,15
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,What if i forget to bring out my phone but only have IC on hand,2020-10-21 22:45:35+00:00,15,Safe Entry,15,1,-10.773165569836495,4,2,2,17.932132139179377,2,0,0.0
 61,12,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -267,7 +267,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,Iphone trying to make it easier to check in & check out with singpass only for govt to be like “Time for Trace Together”👀,2020-10-21 23:05:13+00:00,23
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,Iphone trying to make it easier to check in & check out with singpass only for govt to be like “Time for Trace Together”👀,2020-10-21 23:05:13+00:00,23,Safe Entry,23,1,-11.620782631316409,4,0,0,5.2740390219411815,1,0,0.0
 62,13,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -280,7 +280,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,tf. the app is fucking useless. drain so much battery,2020-10-22 05:06:52+00:00,10
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,tf. the app is fucking useless. drain so much battery,2020-10-22 05:06:52+00:00,10,Safe Entry,10,0,-11.677501746252572,2,0,0,11.752638235706195,2,0,0.0
 63,14,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -293,7 +293,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,Where to get tracetogether token?,2020-10-23 04:06:21+00:00,5
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,Where to get tracetogether token?,2020-10-23 04:06:21+00:00,5,Safe Entry,5,0,-13.075974932644751,1,0,0,135.05763719844123,4,0,0.0
 64,15,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -306,7 +306,7 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,So basically like safe entry but on an app....? Why need to change then.....,2020-10-23 05:18:10+00:00,14
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,So basically like safe entry but on an app....? Why need to change then.....,2020-10-23 05:18:10+00:00,14,Safe Entry,14,1,-10.118344959117325,1,1,0,11.752638235706195,2,0,0.0
 65,16,"not long now! 
 
 by december, it will be compulsory to use the tracetogether mobile application or token to check in at venues such as workplaces, schools, malls as well as food and beverage outlets under the government's plan to further reopen the economy.
@@ -319,58 +319,58 @@ currently, only the use of safeentry is compulsory.
 
 read on, when you click on the link in bio @todayonline 
 
-#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,sg government becoming like china. tracking the movements of all its citizens,2020-10-25 03:11:46+00:00,12
+#trace #tracker #tracetogether #covid_19 #corona #covid #government #sg #app",2020-10-21 10:11:00+00:00,sg government becoming like china. tracking the movements of all its citizens,2020-10-25 03:11:46+00:00,12,Safe Entry,12,1,-11.446527008934224,2,0,0,8.595831892535434,1,0,0.0
 66,17,"#ge2020 polling day morning highlights: face masks, gloves, temperature scanners and safeentry check-ins make this election a unique one, as singaporeans headed to the polls today amid the covid-19 pandemic.
 
-(today 📷: ili mansor, wee teck hian, ooi boon keong, raj nadarajan)",2020-07-10 15:28:50+00:00,How come my place did not hv Safe Entry scan at the polling station? I was wondering too... Punggol Green Primary school for Punggol West SMC,2020-07-10 16:12:43+00:00,26
+(today 📷: ili mansor, wee teck hian, ooi boon keong, raj nadarajan)",2020-07-10 15:28:50+00:00,How come my place did not hv Safe Entry scan at the polling station? I was wondering too... Punggol Green Primary school for Punggol West SMC,2020-07-10 16:12:43+00:00,26,Safe Entry,26,2,-13.278858471576937,6,0,1,2.8467744140682982,0,0,0.0
 67,19,"#ge2020 polling day morning highlights: face masks, gloves, temperature scanners and safeentry check-ins make this election a unique one, as singaporeans headed to the polls today amid the covid-19 pandemic.
 
-(today 📷: ili mansor, wee teck hian, ooi boon keong, raj nadarajan)",2020-07-10 15:28:50+00:00,Today I'm proud because I've gained more than I've lost in trading that's why I will forever be thankful to Mrs  @invest_with_elizabeth_morrison.,2020-07-10 16:54:52+00:00,17
+(today 📷: ili mansor, wee teck hian, ooi boon keong, raj nadarajan)",2020-07-10 15:28:50+00:00,Today I'm proud because I've gained more than I've lost in trading that's why I will forever be thankful to Mrs  @invest_with_elizabeth_morrison.,2020-07-10 16:54:52+00:00,17,Safe Entry,21,1,-11.620586406800873,4,0,1,11.752638235706195,2,0,0.0
 68,20,"#ge2020 polling day morning highlights: face masks, gloves, temperature scanners and safeentry check-ins make this election a unique one, as singaporeans headed to the polls today amid the covid-19 pandemic.
 
-(today 📷: ili mansor, wee teck hian, ooi boon keong, raj nadarajan)",2020-07-10 15:28:50+00:00,Take selfie no 1 meter distance 🤔,2020-07-12 18:10:28+00:00,5
+(today 📷: ili mansor, wee teck hian, ooi boon keong, raj nadarajan)",2020-07-10 15:28:50+00:00,Take selfie no 1 meter distance 🤔,2020-07-12 18:10:28+00:00,5,Safe Entry,6,0,-13.027873551204335,1,0,0,11.752638235706195,2,0,0.0
 69,1,"heading out to the malls? try to avoid crowds by checking crowd levels at www.spaceout.gov.sg, or by shopping during off-peak hours 🕞
 
 remember to keep your mask on and use tracetogether and safeentry to facilitate contact tracing. 😷
 
 if you're unwell, make sure you see a doctor right away and stay home 🛋️
 
-for more ways to keep yourself and your loved ones safe: go.gov.sg/safeshopping-ig (link in bio)",2021-01-22 08:37:09+00:00,So whats with China Town at this point of time? #contradictingwords,2021-02-01 12:27:35+00:00,10
+for more ways to keep yourself and your loved ones safe: go.gov.sg/safeshopping-ig (link in bio)",2021-01-22 08:37:09+00:00,So whats with China Town at this point of time? #contradictingwords,2021-02-01 12:27:35+00:00,10,Safe Entry,10,0,-11.241097529566288,0,0,0,6.461991358276104,1,0,0.0
 70,2,"heading out to the malls? try to avoid crowds by checking crowd levels at www.spaceout.gov.sg, or by shopping during off-peak hours 🕞
 
 remember to keep your mask on and use tracetogether and safeentry to facilitate contact tracing. 😷
 
 if you're unwell, make sure you see a doctor right away and stay home 🛋️
 
-for more ways to keep yourself and your loved ones safe: go.gov.sg/safeshopping-ig (link in bio)",2021-01-22 08:37:09+00:00,So whats with China Town at this point of time? #contradictingwords,2021-02-01 12:27:51+00:00,10
+for more ways to keep yourself and your loved ones safe: go.gov.sg/safeshopping-ig (link in bio)",2021-01-22 08:37:09+00:00,So whats with China Town at this point of time? #contradictingwords,2021-02-01 12:27:51+00:00,10,Safe Entry,10,0,-11.241097529566288,0,0,0,6.461991358276104,1,0,0.0
 71,3,"why must the safeentry and tracetogether app/token be used together? 📲
 
 dr @janilputhucheary explains how these 2 contracting tools work together to protect you and your loved ones.
 
 for more: go.gov.sg/explain-jp-ig (link in bio)
 
-#expertsexplain #whyah",2020-12-10 10:03:48+00:00,Do we need to 'check out' when we use our ID card to 'check in',2020-12-10 10:09:32+00:00,15
+#expertsexplain #whyah",2020-12-10 10:03:48+00:00,Do we need to 'check out' when we use our ID card to 'check in',2020-12-10 10:09:32+00:00,15,Safe Entry,15,1,-13.111357990183166,5,1,2,17.93213213917938,2,0,0.0
 72,4,"why must the safeentry and tracetogether app/token be used together? 📲
 
 dr @janilputhucheary explains how these 2 contracting tools work together to protect you and your loved ones.
 
 for more: go.gov.sg/explain-jp-ig (link in bio)
 
-#expertsexplain #whyah",2020-12-10 10:03:48+00:00,When can the phase 3 start in Singapore 🇸🇬? 🤔,2020-12-10 10:17:18+00:00,7
+#expertsexplain #whyah",2020-12-10 10:03:48+00:00,When can the phase 3 start in Singapore 🇸🇬? 🤔,2020-12-10 10:17:18+00:00,7,Safe Entry,8,0,-10.214353320236457,0,0,0,11.752638235706195,2,0,0.0
 73,6,"why must the safeentry and tracetogether app/token be used together? 📲
 
 dr @janilputhucheary explains how these 2 contracting tools work together to protect you and your loved ones.
 
 for more: go.gov.sg/explain-jp-ig (link in bio)
 
-#expertsexplain #whyah",2020-12-10 10:03:48+00:00,It will be good to incorporate some good features of Safe entry into Trace Together app. Personally I like the search feature of locations within close proximity .  I use that when I’m nearing the building to save time and straight to queue for entry instead of scanning the QR code.,2020-12-11 01:53:39+00:00,51
+#expertsexplain #whyah",2020-12-10 10:03:48+00:00,It will be good to incorporate some good features of Safe entry into Trace Together app. Personally I like the search feature of locations within close proximity .  I use that when I’m nearing the building to save time and straight to queue for entry instead of scanning the QR code.,2020-12-11 01:53:39+00:00,51,Safe Entry,50,2,-11.216176917507589,8,3,1,1.9775349355167424,0,0,1.0
 74,7,"why must the safeentry and tracetogether app/token be used together? 📲
 
 dr @janilputhucheary explains how these 2 contracting tools work together to protect you and your loved ones.
 
 for more: go.gov.sg/explain-jp-ig (link in bio)
 
-#expertsexplain #whyah",2020-12-10 10:03:48+00:00,Why sometimes scan using the trace together cannot capture the QR code?? Hv to used the normal QR scanner.,2020-12-12 23:46:35+00:00,19
+#expertsexplain #whyah",2020-12-10 10:03:48+00:00,Why sometimes scan using the trace together cannot capture the QR code?? Hv to used the normal QR scanner.,2020-12-12 23:46:35+00:00,19,Safe Entry,19,1,-12.980955501150612,2,0,0,6.135079381490804,1,0,0.0
 75,9,"spread cheer not fear 🥳
 
 looking forward to the holidays? remember to: 
@@ -381,7 +381,7 @@ looking forward to the holidays? remember to:
 
 #dontsabo #staysafe
 
-read more: go.gov.sg/safeholidays-ig (link in bio)",2020-12-08 12:42:34+00:00,Pls dont take any chances now. Just advise or recommend everyone to wear both facemask and faceshield and use hand sanitizer.Install in all cashier counters and customer service counters COUNTER SHIED GLASS or CLEAR PLASTICALL DINE in tables install TABLE CLEAR PLASTIC IN all food courts and hawker and restaursnts as people when eating remove mask In response to recent covid case in cruise ship.,2020-12-09 03:59:25+00:00,64
+read more: go.gov.sg/safeholidays-ig (link in bio)",2020-12-08 12:42:34+00:00,Pls dont take any chances now. Just advise or recommend everyone to wear both facemask and faceshield and use hand sanitizer.Install in all cashier counters and customer service counters COUNTER SHIED GLASS or CLEAR PLASTICALL DINE in tables install TABLE CLEAR PLASTIC IN all food courts and hawker and restaursnts as people when eating remove mask In response to recent covid case in cruise ship.,2020-12-09 03:59:25+00:00,64,Safe Entry,66,3,-14.591557886794654,7,3,0,0.5541089190751252,0,0,0.0
 76,10,"spread cheer not fear 🥳
 
 looking forward to the holidays? remember to: 
@@ -392,51 +392,51 @@ looking forward to the holidays? remember to:
 
 #dontsabo #staysafe
 
-read more: go.gov.sg/safeholidays-ig (link in bio)",2020-12-08 12:42:34+00:00,"Great campaign 👏, can be made clearer by showing positive examples instead of the negatives? So ppl don’t get confused on what IS allowed. Emphasis on CORRECT examples 👍",2020-12-09 08:57:14+00:00,28
+read more: go.gov.sg/safeholidays-ig (link in bio)",2020-12-08 12:42:34+00:00,"Great campaign 👏, can be made clearer by showing positive examples instead of the negatives? So ppl don’t get confused on what IS allowed. Emphasis on CORRECT examples 👍",2020-12-09 08:57:14+00:00,28,Safe Entry,27,2,-11.773541306461654,7,1,0,2.9586797382302654,0,0,0.0
 77,11,"why are some of our #covid19 safe management measures the way the are? #whyah 🤔
 
 swipe ➡️ to reveal the reasons behind some of the measures we encounter in our daily life.
 
-#staysafe use #tracetogether #safeentry",2020-11-26 02:34:04+00:00,Perhaps review the imported cases. More stringent requirements before they are allowed to fly to Sg esp for non-Singaporeans. It’s a waste of resources to manage them when they land in Sg infected and SHN.,2020-11-26 02:40:57+00:00,35
+#staysafe use #tracetogether #safeentry",2020-11-26 02:34:04+00:00,Perhaps review the imported cases. More stringent requirements before they are allowed to fly to Sg esp for non-Singaporeans. It’s a waste of resources to manage them when they land in Sg infected and SHN.,2020-11-26 02:40:57+00:00,35,Safe Entry,35,2,-11.939560406296158,7,2,0,4.331989757406174,0,0,0.0
 78,12,"why are some of our #covid19 safe management measures the way the are? #whyah 🤔
 
 swipe ➡️ to reveal the reasons behind some of the measures we encounter in our daily life.
 
-#staysafe use #tracetogether #safeentry",2020-11-26 02:34:04+00:00,Should repatriate them immediately instead of alloeing them to enter Singapore.,2020-11-26 03:51:24+00:00,11
+#staysafe use #tracetogether #safeentry",2020-11-26 02:34:04+00:00,Should repatriate them immediately instead of alloeing them to enter Singapore.,2020-11-26 03:51:24+00:00,11,Safe Entry,11,1,-12.627874352360337,3,1,0,34.168915631337235,3,0,0.0
 79,13,"why are some of our #covid19 safe management measures the way the are? #whyah 🤔
 
 swipe ➡️ to reveal the reasons behind some of the measures we encounter in our daily life.
 
-#staysafe use #tracetogether #safeentry",2020-11-26 02:34:04+00:00,Maybe we should review who we import into the country first,2020-11-26 04:38:40+00:00,11
+#staysafe use #tracetogether #safeentry",2020-11-26 02:34:04+00:00,Maybe we should review who we import into the country first,2020-11-26 04:38:40+00:00,11,Safe Entry,11,1,-10.015653252364967,2,0,1,34.168915631337235,3,1,0.0
 80,14,"why are some of our #covid19 safe management measures the way the are? #whyah 🤔
 
 swipe ➡️ to reveal the reasons behind some of the measures we encounter in our daily life.
 
-#staysafe use #tracetogether #safeentry",2020-11-26 02:34:04+00:00,Eh #WhyAh? my buddy @naimpromptu face got come out here... He kena saman isit? 🤔,2020-11-27 11:41:18+00:00,12
+#staysafe use #tracetogether #safeentry",2020-11-26 02:34:04+00:00,Eh #WhyAh? my buddy @naimpromptu face got come out here... He kena saman isit? 🤔,2020-11-27 11:41:18+00:00,12,Safe Entry,12,1,-14.882962826816941,3,0,1,6.711954922277474,1,0,0.0
 81,15,"have you seen any of these qr codes at malls, supermarkets or at your workplace?
 .
-🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,will there be extra layers of secure to prevent data leaks?,2020-05-06 09:19:15+00:00,11
+🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,will there be extra layers of secure to prevent data leaks?,2020-05-06 09:19:15+00:00,11,Safe Entry,11,1,-10.750189618890168,2,0,0,8.595831892535434,1,0,0.0
 82,16,"have you seen any of these qr codes at malls, supermarkets or at your workplace?
 .
-🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,🇸🇬🤗星期三 直播 Mambo Jambo Nite Live 40:00 大家一起跳💃 Swing Singapore😉🎑https://youtu.be/5e11TBY8ib4 #sgunited #sgcultureanywhere #sgyouthactionplan #sgexercises #Unstoppable🎐#四面臺 #勢不可擋 #西門町 #兰桂坊 #四小龙 #mediacorp #sphradio #sph #TVB #tvbs新聞 #gratefulheart #grateful #swingsingapore #感謝,2020-05-06 10:49:23+00:00,6
+🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,🇸🇬🤗星期三 直播 Mambo Jambo Nite Live 40:00 大家一起跳💃 Swing Singapore😉🎑https://youtu.be/5e11TBY8ib4 #sgunited #sgcultureanywhere #sgyouthactionplan #sgexercises #Unstoppable🎐#四面臺 #勢不可擋 #西門町 #兰桂坊 #四小龙 #mediacorp #sphradio #sph #TVB #tvbs新聞 #gratefulheart #grateful #swingsingapore #感謝,2020-05-06 10:49:23+00:00,6,Safe Entry,8,0,-21.815756899136414,1,0,0,4.600799974507786,0,0,0.0
 83,17,"have you seen any of these qr codes at malls, supermarkets or at your workplace?
 .
-🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,"I read that my details will be sent to the outlet using the safe entry. I am fine with providing my information via safe entry so that authority can contact me when need arises My question is if it is necessary to provide these info to the outlet. These information can be kept with the authority and only to provide the info for contact purpose when need arises. Yes, you can claim the info use is regulated and protected by laws. But it can be abused. For your consideration to keep the safe entry and contact information with the authority only please.  Thank you.",2020-05-07 00:13:49+00:00,104
+🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,"I read that my details will be sent to the outlet using the safe entry. I am fine with providing my information via safe entry so that authority can contact me when need arises My question is if it is necessary to provide these info to the outlet. These information can be kept with the authority and only to provide the info for contact purpose when need arises. Yes, you can claim the info use is regulated and protected by laws. But it can be abused. For your consideration to keep the safe entry and contact information with the authority only please.  Thank you.",2020-05-07 00:13:49+00:00,104,Safe Entry,104,4,-10.295315562199137,23,6,5,1.5546424965884411,0,0,1.0
 84,18,"have you seen any of these qr codes at malls, supermarkets or at your workplace?
 .
-🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,"I understand that government encourage people go to supermarkets must scan their IC or QR codes but yet don't know why NTUC & Sheng Siong ask their customers to fill up the form when their customers forgotten to bring their IC??? Really defeat the purpose of scanning IC & QR codes! How to trace whether the customers fill up their own particular or just simply fill up only (not their particular) as they just want to go into supermarkets only? Very appropriate if you could look into it seriously, thank you.",2020-05-07 01:44:01+00:00,88
+🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,"I understand that government encourage people go to supermarkets must scan their IC or QR codes but yet don't know why NTUC & Sheng Siong ask their customers to fill up the form when their customers forgotten to bring their IC??? Really defeat the purpose of scanning IC & QR codes! How to trace whether the customers fill up their own particular or just simply fill up only (not their particular) as they just want to go into supermarkets only? Very appropriate if you could look into it seriously, thank you.",2020-05-07 01:44:01+00:00,88,Safe Entry,89,3,-11.735961041372395,17,6,1,1.7499567252385322,0,0,1.0
 85,20,"have you seen any of these qr codes at malls, supermarkets or at your workplace?
 .
-🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,What happens if you don’t check out as it’s not intuitive - will you be recorded as still active at that location hours later even if you’ve left?,2020-05-08 11:13:28+00:00,30
+🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,What happens if you don’t check out as it’s not intuitive - will you be recorded as still active at that location hours later even if you’ve left?,2020-05-08 11:13:28+00:00,30,Safe Entry,28,2,-11.107985738388452,6,3,1,11.752638235706195,2,0,0.0
 86,21,"have you seen any of these qr codes at malls, supermarkets or at your workplace?
 .
-🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,"Great initiative to step up contact tracing capabilities. The more we can get comminity wide contact tracing, the better we will get at identifying potential hotspots and overcome this crisis.",2020-05-09 15:16:10+00:00,30
+🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,"Great initiative to step up contact tracing capabilities. The more we can get comminity wide contact tracing, the better we will get at identifying potential hotspots and overcome this crisis.",2020-05-09 15:16:10+00:00,30,Safe Entry,30,2,-11.738066516719774,7,1,1,4.331989757406174,0,0,1.0
 87,23,"have you seen any of these qr codes at malls, supermarkets or at your workplace?
 .
-🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,🇸🇬#家游#fighting 🎋🏞South Korea fighting to contain new outbreak amid homophobic backlash https://metro.co.uk/2020/05/12/south-korea-fighting-contain-new-outbreak-amid-homophobic-backlash-12692790/?ito=article.mweb.share.top.whatsapp🌪#來了喔 #2nd #wave #unstoppable #勢不可擋 #covid19 #sgdurian #sgch8 #sgexercise #sgig #mediacorp #sphradio #TVB #tvbs新聞 #foxnews #chosun #kbs #mbc #monde #dw #rt #bbc #gaia #breathes #again #eathday2020 #grateful #四小龙,2020-05-12 22:44:44+00:00,10
+🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,🇸🇬#家游#fighting 🎋🏞South Korea fighting to contain new outbreak amid homophobic backlash https://metro.co.uk/2020/05/12/south-korea-fighting-contain-new-outbreak-amid-homophobic-backlash-12692790/?ito=article.mweb.share.top.whatsapp🌪#來了喔 #2nd #wave #unstoppable #勢不可擋 #covid19 #sgdurian #sgch8 #sgexercise #sgig #mediacorp #sphradio #TVB #tvbs新聞 #foxnews #chosun #kbs #mbc #monde #dw #rt #bbc #gaia #breathes #again #eathday2020 #grateful #四小龙,2020-05-12 22:44:44+00:00,10,Safe Entry,10,0,-19.37178606850892,2,0,0,3.9563083289692282,0,0,0.0
 88,24,"have you seen any of these qr codes at malls, supermarkets or at your workplace?
 .
-🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,Does it require internet connection? What if someone doesn't have internet connection?,2020-05-14 07:28:06+00:00,11
+🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,Does it require internet connection? What if someone doesn't have internet connection?,2020-05-14 07:28:06+00:00,11,Safe Entry,12,1,-11.116728387004033,4,1,0,14.459601199875774,2,0,0.0
 89,26,"have you seen any of these qr codes at malls, supermarkets or at your workplace?
 .
-🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,"Ur token not widely accepted,give like no use",2020-10-03 10:00:42+00:00,9
+🤳 by scanning the safeentry qr code, you can help contact tracers in our fight against covid-19.",2020-05-06 00:00:35+00:00,"Ur token not widely accepted,give like no use",2020-10-03 10:00:42+00:00,9,Safe Entry,9,0,-12.409026290633106,2,0,0,17.93213213917937,2,0,0.0

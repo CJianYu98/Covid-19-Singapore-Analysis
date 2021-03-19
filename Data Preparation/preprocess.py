@@ -8,8 +8,10 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import *
 from nltk.tokenize import RegexpTokenizer, sent_tokenize
 from typing import Iterator
+from sklearn.feature_extraction.text import CountVectorizer
 import datetime as dt
 import emoji
+import pickle
 
 def remove_emoji(text):
     emoji_pattern = re.compile("["
@@ -206,24 +208,149 @@ def facebook_preprocessing(comments):
 
     return comments_final
 
+def process_twitter_text(file_path):
+    # file_path = f'../Data/Twitter Data/Raw Data'
+    folders = [folder for folder in os.listdir(file_path) if folder != '.DS_Store']
 
-actionable_keywords = 'should, shd, shld, may be, may b, maybe, mayb, to be, needs to, nids to, need to, nid to, believe, suppose to, ought, hope, have to, hav to, hv to, suggest, must, advise, request, require, better, btr, why cant, why cnt, how about, how bout, expect, please, pls, plz, why not, y not, why nt, y nt'
+    keywords = [] #
+    stopwords_list = stopwords_ls(keywords)
+
+    for f in folders:
+        policies_folders = [f_name for f_name in os.listdir(f'{file_path}/{f}') if f_name != '.DS_Store']
+
+        f_path = f'../Data/Twitter Data/Cleaned Data/{f}'
+        if not os.path.exists(f_path):
+            os.mkdir(f_path)
+        
+        for folder in policies_folders:
+            files = [filename for filename in os.listdir(f'{file_path}/{f}/{folder}') if filename.endswith('.csv')]
+
+            folder_path = f'../Data/Twitter Data/Cleaned Data/{f}/{folder}'
+            if not os.path.exists(folder_path):
+                os.mkdir(folder_path)
+
+            for file in files:
+                tweets = pd.read_csv(f'{file_path}/{f}/{folder}/{file}')
+
+                df = twitter_preprocessing(tweets)
+
+                df.to_csv(f'{folder_path}/{file}')
+
+def process_reddit_text(file_path): 
+    # file_path = f'../Data/Reddit Data/Raw Data'
+    folders = [folder for folder in os.listdir(file_path) if folder != '.DS_Store']
+
+    keywords = [] #
+    stopwords_list = stopwords_ls(keywords)
+
+    for f in folders:
+        policies_folders = [f_name for f_name in os.listdir(f'{file_path}/{f}') if f_name != '.DS_Store']
+
+        f_path = f'../Data/Reddit Data/Cleaned Data/{f}'
+        if not os.path.exists(f_path):
+            os.mkdir(f_path)
+        
+        for folder in policies_folders:
+            files = [filename for filename in os.listdir(f'{file_path}/{f}/{folder}') if filename.endswith('.csv')]
+            files.sort()
+
+            folder_path = f'../Data/Reddit Data/Cleaned Data/{f}/{folder}'
+            if not os.path.exists(folder_path):
+                os.mkdir(folder_path)
+
+            for i in range(0, len(files), 2):
+                comments = pd.read_csv(f'{file_path}/{f}/{folder}/{files[i]}')
+                posts = pd.read_csv(f'{file_path}/{f}/{folder}/{files[i+1]}')
+
+                merged_df = comments.merge(posts, left_on="comment_link_id", right_on="name")
+
+                df = reddit_preprocessing(merged_df)
+
+                csv_name = files[i][7:-13]
+                df.to_csv(f'{folder_path}/{csv_name}.csv')
+
+def process_insta_text(file_path):
+    # file_path = '../Data/Instagram Data/(Final) Raw Data'
+    insta_acc_folders = [folder for folder in os.listdir(file_path) if folder != '.DS_Store']
+
+    keywords = [] #
+    stopwords_list = stopwords_ls(keywords)
+
+    for insta_acc in insta_acc_folders:
+        folder_path = f'../Data/Instagram Data/Cleaned Data/Final/{insta_acc}'
+        if not os.path.exists(folder_path):
+            os.mkdir(folder_path)
+        
+        policies = [file for file in os.listdir(f'{file_path}/{insta_acc}') if file != '.DS_Store']
+        
+        for policy in policies:
+            df = pd.read_csv(f'{file_path}/{insta_acc}/{policy}')
+
+            df = instagram_preprocessing(df)
+
+            df.to_csv(f'{folder_path}/{policy}')
+
+def process_hwz_text(file_path):
+    # file_path = f'../Data/Hardwarezone Data/Raw Data/New'
+    files = [file for file in os.listdir(file_path) if file != '.DS_Store']
+
+    keywords = [] #
+    stopwords_list = stopwords_ls(keywords)
+
+    for file in files:
+        comments = pd.read_csv(f'{file_path}/{file}')
+
+        df = hardwarezone_preprocessing(comments)
+
+        df.to_csv(f'../Data/Hardwarezone Data/Cleaned Data/{file}')
+
+def process_facebook_text(file_path):
+    # file_path = f'..Data/Facebook Data/Raw Data (with timestamp)'
+    folders = [folder for folder in os.listdir(file_path) if folder != '.DS_Store' and folder != 'Old' and folder != 'readme.txt']
+
+    keywords = [] #
+    stopwords_list = stopwords_ls(keywords)
+
+    for folder in folders:
+        folder_path = f'../Data/Facebook Data/Cleaned Data/{folder}'
+        if not os.path.exists(folder_path):
+            os.mkdir(folder_path)
+
+        policies = [file for file in os.listdir(f'{file_path}/{folder}') if file.endswith('.csv') and file != '.DS_Store']
+
+        for policy in policies:
+            df = pd.read_csv(f'{file_path}/{folder}/{policy}')
+
+            df = facebook_preprocessing(df)
+
+            df.to_csv(f'{folder_path}/{policy}')
+
+
+
+actionable_keywords = 'should, shd, shld, may be, may b, maybe, mayb, to be, need, needs to, nids to, need to, nid to, believe, suppose to, ought, hope, have to, hav to, hv to, suggest, must, advise, request, require, better, btr, why cant, why cnt, how about, how bout, expect, please, pls, plz, why not, y not, why nt, y nt'
 actionable_keywords = actionable_keywords.split(',')
 for i in range(len(actionable_keywords)):
     actionable_keywords[i] = ' ' + actionable_keywords[i] + ' '
 
-def label_actionable_comments(df, comment_header):
+def label_actionable_comments(df, comment_header):    
     labels = []
     for row in df[comment_header]:
-        for keyword in actionable_keywords:
+        for i, keyword in enumerate(actionable_keywords):
             if keyword in row:
                 labels.append(1)
-            else:
+                break
+            if i == len(actionable_keywords)-1:
                 labels.append(0)
 
-    df[actionable_comment] = labels
+    df['actionable'] = labels
 
     return df
+
+def get_actionable_comments(file_path, label = 1):
+    df = pd.read_csv(file_path)
+    actionable_comments = df[df['actionable'] == label]
+
+    return actionable_comments
 
 def train_vectorizer(train_df_path):
     train_df = pd.read_csv(train_df_path)
@@ -231,10 +358,12 @@ def train_vectorizer(train_df_path):
     vectorizer = CountVectorizer(stop_words='english', max_features=10000)
     return (vectorizer.fit(sentences_train))
 
+vectorizer = train_vectorizer('/Users/chenjianyu/Library/Mobile Documents/com~apple~CloudDocs/SMU/SMU Module Materials/Y2S2/SMT203 Computational Social Sci/Covid-19-Singapore-Analysis/Data/Thoughtful Comments/thoughtful_comments_final(1).csv')
+
 def label_valuable_comments(df, vectorizer):
-    m1 = open("best_recall.pickle", 'rb')
-    m2 = open("best_f1.pickle", 'rb')
-    m3 = open("best_countvec_nofeatures.pickle", 'rb')
+    m1 = open("./valuable_classifiers/best_recall.pickle", 'rb')
+    m2 = open("./valuable_classifiers/best_f1.pickle", 'rb')
+    m3 = open("./valuable_classifiers/best_countvec_nofeatures.pickle", 'rb')
     clf1_load = pickle.load(m1)
     clf2_load = pickle.load(m2)
     clf3_load = pickle.load(m3)
@@ -242,14 +371,23 @@ def label_valuable_comments(df, vectorizer):
     m2.close()
     m3.close()
 
+    sentences = df['Comments'].values
+
     X_test1 = df[['Num Pronouns', 'Average Loglikelihood', 'Relevance score']]
     X_test2 = df[['Num Pronouns', 'Average Loglikelihood', 'Length Category', 'Num Verbs', 'Num Discourse Relations']]
+    X_test3 = vectorizer.transform(sentences)
 
     predictions1 = clf1_load.predict(X_test1)
     predictions2 = clf2_load.predict(X_test2)
     predictions3 = clf3_load.predict(X_test3)
 
     final_predictions = pd.DataFrame({"p1": predictions1, 'p2':predictions2, 'p3':predictions3})
-    df['final_p'] = round((final_predictions['p1'] + final_predictions['p2'] + final_predictions['p3'])/3)
+    df['valuable'] = round((final_predictions['p1'] + final_predictions['p2'] + final_predictions['p3'])/3)
 
     return df
+
+def get_thoughtful_comments(file_path, label = 1.0):
+    df.pd.read_csv(file_path)
+    valuable_comments = df[df['valuable'] == label]
+
+    return valuable_comments

@@ -311,7 +311,7 @@ def get_num_pronouns(text: str) -> int:
 
 
 # Creating features for comment
-NEWS_UNIGRAM = news_articles_unigram('/Users/chenjianyu/Desktop/Y2S2/SMT203 Computational Social Sci/Covid-19-Singapore-Analysis/Data/News Article/articles1.csv')
+NEWS_UNIGRAM = news_articles_unigram('/Users/chenjianyu/Library/Mobile Documents/com~apple~CloudDocs/SMU/SMU Module Materials/Y2S2/SMT203 Computational Social Sci/Covid-19-Singapore-Analysis/Data/News Article/articles1.csv')
 
 def create_features(file_path):
     df = pd.read_csv(file_path)
@@ -319,7 +319,7 @@ def create_features(file_path):
 
     # Creating feature 1 (comment length)
     comment_length = []
-    for row in df['Comment']:
+    for row in df['Comments']:
         length = get_comment_length(row)
         comment_length.append(length)
     df['Length'] = comment_length
@@ -345,7 +345,7 @@ def create_features(file_path):
     num_discourse_relations = []
     num_pronouns = []
 
-    for row in df['Comment']:
+    for row in df['Comments']:
         # Creating feature 2 
         cmt_text_counter = comment_unicounter(row)
         cmt_loglikelihood = NEWS_UNIGRAM.evaluate(cmt_text_counter)
@@ -371,7 +371,7 @@ def create_features(file_path):
     #**************RELOOK*******************
     # Creating feature 5
         ## Reading in policy texts corpus
-    corpus = PlaintextCorpusReader('/Users/chenjianyu/Desktop/Y2S2/SMT203 Computational Social Sci/Covid-19-Singapore-Analysis/Data/Policy Documents', '.+\.txt', encoding='utf-8')
+    corpus = PlaintextCorpusReader('/Users/chenjianyu/Library/Mobile Documents/com~apple~CloudDocs/SMU/SMU Module Materials/Y2S2/SMT203 Computational Social Sci/Covid-19-Singapore-Analysis/Data/Policy Documents', '.+\.txt', encoding='utf-8')
     fid = corpus.fileids()
     fid.sort()
 
@@ -379,17 +379,22 @@ def create_features(file_path):
 
         ## Splitting the labelled data to its own policy/topic
     circuit_breaker_comments = df[df['Topic'] == 'Circuit Breaker']
+    economic_measures_comments = df[df['Topic'] == 'Economic Measures']
     foreign_worker_comments = df[df['Topic'] == 'Foreign Worker']
+    mask_comments = df[df['Topic'] == 'Mask']
+    phases_comments = df[df['Topic'] == 'Phases']
+    safe_entry_comments = df[df['Topic'] == 'Safe Entry']
     social_distancing_comments = df[df['Topic'] == 'Social Distancing']
+    stay_home_notice_comments = df[df['Topic'] == 'Stay Home Notice']
     tracetogether_comments = df[df['Topic'] == 'Tracetogether']
     vaccination_comments = df[df['Topic'] == 'Vaccination']
-    comments = [circuit_breaker_comments, foreign_worker_comments, social_distancing_comments, tracetogether_comments, vaccination_comments]
+    comments = [circuit_breaker_comments, economic_measures_comments ,foreign_worker_comments, mask_comments, phases_comments, safe_entry_comments, social_distancing_comments, stay_home_notice_comments, tracetogether_comments, vaccination_comments]
 
         ## Calculating KL-divergence relevance score for each comment to its respective policy topic
-    for i in range(5):
+    for i in range(10):
         doc_unigram, doc_nouns = topic_doc_unigram(doc_words[i], k=1)
         relavance_scores = []
-        for row in comments[i]['Comment']:
+        for row in comments[i]['Comments']:
             cmt_unigram, cmt_nouns = comment_unigram(row, k=1)
             score = KLDiv_relevance_score(doc_unigram, cmt_unigram, doc_nouns, cmt_nouns)
             relavance_scores.append(score)
