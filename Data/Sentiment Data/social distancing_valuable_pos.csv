@@ -1,0 +1,990 @@
+,index,Sentences,Comment Datetime,Textblob_polarity_score,Textblob_subjectivity_score,Vader_neg_score,Vader_neu_score,Vader_pos_score,Vader_compound_score,Emotions
+0,0,Another smart aleck \x93People should limit themselves to visiting a maximum of 2 households per day as much as possible.\x94 Got say can only receive a maximum of 2 households per day?,21/2/21,0.13809523809523808,0.6142857142857143,0.0,0.909,0.091,0.4019,joy
+6,6,"Additional measures currently in place include a cap of eight unique visitors per household each day, as well as stepped up enforcement checks on business operators.",20/2/21,0.1875,0.7,0.0,0.92,0.08,0.2732,neutral
+11,11,Police only know how to catch indiviual holding a smiley face card on the street?,12/1/21,0.0,1.0,0.0,0.828,0.172,0.4019,fear
+17,17,Only this one is the best outcome.,16/2/21,0.5,0.65,0.0,0.588,0.412,0.6369,sadness
+31,31,Lol,23/1/21,0.8,0.7,0.0,0.0,1.0,0.4215,fear
+34,34,Management talk .... Talk easy but let the ground do the work,23/1/21,0.43333333333333335,0.8333333333333334,0.0,0.849,0.151,0.2382,anger
+38,38,No need SD ambassadors Yea good idea,23/1/21,0.7,0.6000000000000001,0.218,0.495,0.287,0.1779,neutral
+56,66,They will be equipped with many Kums and new clothes and they will be like ur normal peeps.,23/1/21,0.26212121212121214,0.5348484848484848,0.0,0.872,0.128,0.3612,joy
+64,76,"Si many loopholes, it's just u want or don't want nia.",23/1/21,0.5,0.5,0.0,0.755,0.245,0.1531,anger
+91,117,coldish wrote: They will just catch some kumgongs flouting the rules and tell the whole world they doing a good job Waiting for people to self-pwn on Instagram,23/1/21,0.44999999999999996,0.5,0.0,0.9,0.1,0.4404,anger
+128,154,"That will be more efficient way to enforce the ""max 8 visitors"" and ""2 household"" rules.",23/1/21,0.5,0.5,0.0,0.819,0.181,0.4754,joy
+131,157,"If they were caught not bringing nor installed the app, give reasonable fine.",23/1/21,0.30833333333333335,0.55,0.0,0.87,0.13,0.2023,fear
+139,165,So he just open a little gap and claim compassion.,23/1/21,-0.09375,0.5,0.0,0.727,0.273,0.4588,neutral
+140,166,"Also if totally disallow no visiting and if there is increase in community cases, cannot blame the people again.",23/1/21,0.0,0.75,0.109,0.701,0.19,0.2162,anger
+142,174,Exactly Advised not to more than 2 households Say like no say Rules liked no rules,23/1/21,0.45,0.5166666666666667,0.213,0.531,0.256,0.2263,neutral
+145,181,All the Boomers scared here and there one.. anybody free can go LW house on CNY spot check his visitors is it 8...,23/1/21,0.4,0.8,0.107,0.772,0.121,0.1027,fear
+148,185,govt spend $200 per residential unit and install people counter + ERP charge for moving in and out of house - can easily push total reserves up to 2T instead of teh current paltry amount of 1.2T,23/1/21,0.14444444444444446,0.6611111111111111,0.0,0.934,0.066,0.34,anger
+178,228,Stay condo better don\x92t yaya papaya ...,24/1/21,0.5,0.5,0.0,0.674,0.326,0.4404,neutral
+181,231,"Got 1 was NSF who is resident book out come home, once inside condo compound but not yet in their own home, don\x92t wear mask and scold security when told to wear mask, the NSF\x92s details recorded by condo security were sent to Mindef.",24/1/21,0.6,1.0,0.071,0.804,0.125,0.3919,anger
+183,233,"Those at the crematorium, also considered as corruption... don\x92t play play... https://www.channelnewsasia.com/news...-cpib-11921530 ahphilz wrote: 8 person per day, but it doesn't specify how this ""per day"" is defined which means it is open to differing interpretations.",26/1/21,0.0,0.5,0.0,0.952,0.048,0.1779,anger
+194,248,"Among these, six F&B outlets have been ordered to close, while five outlets and 29 people were fined for breaching safe management measures, said the Ministry of Sustainability and the Environment (MSE) in a press release on Wednesday (Feb 10).",10/2/21,0.5,0.5,0.0,0.929,0.071,0.4404,anger
+202,256,Crystal Jade Jiang Nan at VivoCity accepted a booking for 16 diners from different households and seated them across two tables on Feb 6.,10/2/21,0.0,0.6,0.0,0.913,0.087,0.2732,joy
+216,270,"In addition, a total of 73 people were fined $300 each for flouting safe management measures on Feb 6 and 7 in parks and beaches.",10/2/21,0.25,0.625,0.0,0.879,0.121,0.4404,anger
+221,275,do your part as a responsible citizen!!,12/2/21,0.3125,0.55,0.0,0.634,0.366,0.4374,anger
+230,287,"WhatsApp so common now, can easily arrange ba..",23/1/21,0.06666666666666668,0.6666666666666667,0.0,0.745,0.255,0.34,neutral
+236,293,Sure a lot creative ideas la haha,23/1/21,0.39999999999999997,0.7296296296296295,0.0,0.268,0.732,0.802,fear
+250,311,You very free can eat free food at cage nearby changi??,23/1/21,0.46,0.9,0.0,0.544,0.456,0.8199,fear
+258,323,God now looking for unlucky family to be made example of with full force of the law.,28/1/21,0.35,0.55,0.0,0.884,0.116,0.2732,anger
+267,332,Where think if not wrong people are allowed to go out in small group within the family to exercise and such.,28/1/21,0.0,0.6,0.0,0.887,0.113,0.3724,fear
+269,334,"Think if not wrong, many kpkb then about that even though think the different groups by themselves are not doing wrong.",28/1/21,0.0625,0.725,0.0,0.788,0.212,0.6259,fear
+270,335,"Those who intend to break the rule and confident won\x92t get caught, I can only say, yeah chances are high that you won\x92t get caught.",28/1/21,0.22,0.7911111111111112,0.0,0.745,0.255,0.7351,fear
+273,338,"So those who wanna gamble, I can only say, good luck!",28/1/21,0.4375,0.8,0.0,0.564,0.436,0.7345,neutral
+274,339,"leon24 wrote: Those who intend to break the rule and confident won\x92t get caught, I can only say, yeah chances are high that you won\x92t get caught.",28/1/21,0.22,0.7911111111111112,0.0,0.762,0.238,0.7351,fear
+277,347,MPs will be damn happy to follow the rules.,12/2/21,0.8,1.0,0.201,0.522,0.276,0.25,joy
+280,350,"I have made my own observation and, interestingly, discovered that the crowds are not well spread out across the few kilometres along the seafront.",11/2/21,0.30000000000000004,0.5333333333333333,0.071,0.823,0.106,0.223,fear
+288,358,"The beachfront is one of the most popular playgrounds for families, as it is a cheap and convenient place to cycle and to keep fit.",11/2/21,0.475,0.6249999999999999,0.0,0.797,0.203,0.6801,sadness
+289,359,"When residents are healthy, it is good for the economy and the country as a whole.",11/2/21,0.4666666666666666,0.5,0.0,0.699,0.301,0.6808,joy
+291,361,People should be encouraged to go to the beach for more fresh air.,11/2/21,0.4,0.5,0.0,0.684,0.316,0.624,joy
+293,363,"if a crime is committed, it's the duty of a good citizen to report it.",11/2/21,0.7,0.6000000000000001,0.189,0.541,0.27,0.128,fear
+297,367,KPO_SAHM wrote: Don allow travelling or incoming flights in the first place sure singapore is covid free .,11/2/21,0.3833333333333333,0.674074074074074,0.0,0.651,0.349,0.7579,fear
+322,392,"""We strongly encourage all individuals in the identified community groups to come forward for testing.""",22/1/21,0.4333333333333333,0.7333333333333333,0.0,0.707,0.293,0.6597,sadness
+331,406,"No one would care one lah they don't need to track.. but you better pray no one kenna covid because if you do, u will be uncovered",22/1/21,0.5,0.5,0.128,0.612,0.259,0.6705,fear
+332,407,sizzy6 wrote: those who dont intend to invite their brothers and sister heng lo else 8 person where got enough 3 son and daughter in law + brother and wife + sister + niece/nephew now easy lah.. just have son and daughter in law can liao I know someone won't be inviting his siblings for sure.,22/1/21,0.3111111111111111,0.7407407407407408,0.062,0.842,0.095,0.4203,anger
+334,409,Talk is easy.,22/1/21,0.43333333333333335,0.8333333333333334,0.0,0.408,0.592,0.4404,neutral
+339,414,Sure got people more than willing to bk them.,22/1/21,0.4166666666666667,0.7129629629629629,0.0,0.777,0.223,0.3182,anger
+358,433,I read it as normally allow 3.,22/1/21,0.15,0.6499999999999999,0.0,0.725,0.275,0.2263,anger
+365,440,the k9 cluster is a good example.,22/1/21,0.7,0.6000000000000001,0.0,0.633,0.367,0.4404,neutral
+368,443,Will be camping at FB and IG to report people sure will have people break the rule and post on FB and IG one.,22/1/21,0.5,0.8888888888888888,0.0,0.909,0.091,0.3182,fear
+380,456,As a useless BBFA I also dun want to visit my successful relatives.,22/1/21,0.125,0.575,0.176,0.503,0.321,0.3182,joy
+396,478,westernbarn wrote: Each household should implement book in/book out log to track Might as well ask every household paste safe entry for visitors to scan.,22/1/21,0.5,0.5,0.0,0.821,0.179,0.6124,joy
+400,482,Just visit your closest loved ones...those 1 year see 1 time people can skip,22/1/21,0.7,0.8,0.0,0.738,0.262,0.5994,fear
+407,489,You \x93hope\x94 that people have it in them to be socially responsible?,23/1/21,0.2,0.55,0.0,0.827,0.173,0.3182,anger
+427,510,Better to keep all visitor shoes inside the house.,10/2/21,0.5,0.5,0.0,0.734,0.266,0.4404,anger
+429,512,Better don't give the neighbours chance to catch you.,10/2/21,0.5,0.5,0.0,0.588,0.412,0.5994,anger
+430,513,Happy CNY.,10/2/21,0.8,1.0,0.0,0.213,0.787,0.5719,joy
+438,522,They fine all the restaurants and cafes but instances like this nothing happen,10/2/21,0.4166666666666667,0.5,0.0,0.703,0.297,0.5647,anger
+446,532,"Tonight, across Singapore, families will enjoy dinners with their loved ones.",11/2/21,0.55,0.65,0.0,0.559,0.441,0.7964,joy
+448,534,"""The warmth, comfort and support of our families have given all of us strength to get through the most trying times of COVID-19.""",11/2/21,0.5,0.5,0.0,0.625,0.375,0.886,fear
+456,542,But the precautions are essential to keep our loved ones safe.,11/2/21,0.39999999999999997,0.5333333333333333,0.0,0.57,0.43,0.7783,sadness
+457,543,"\x93I am sure you will find other ways to hold your reunions and connect with family members and friends, perhaps through video calls or teleconferencing.\x94 People can look forward to \x93more carefree"" celebrations when the pandemic is over, he added.",11/2/21,0.1875,0.6319444444444444,0.0,0.82,0.18,0.7964,fear
+462,548,"\x93Vaccination protects ourselves, and our loved ones.",11/2/21,0.7,0.8,0.0,0.446,0.554,0.7351,fear
+464,550,"\x93But we are not there yet, so in the meantime please keep up our safe distancing precautions, even if you yourself have been vaccinated,\x94 he added.",11/2/21,0.5,0.5,0.0,0.822,0.178,0.6369,sadness
+465,551,"READ: More frequent tests, additional requirements likely for those who do not take COVID-19 vaccine: Lawrence Wong Keeping people safe from COVID-19, especially seniors, has been the Government\x92s top priority, said the Prime Minister.",11/2/21,0.26666666666666666,0.6333333333333333,0.0,0.872,0.128,0.5719,anger
+470,556,"They deserve our heartfelt thanks,\x94 said Mr Lee.",11/2/21,0.0,1.0,0.0,0.667,0.333,0.5423,joy
+471,557,"\x93I wish all Singaporeans good health, and a very happy Chinese New Year.\x94 https://www.channelnewsasia.com/news...ssage-14166300",11/2/21,0.4590909090909091,0.5136363636363637,0.0,0.51,0.49,0.8622,joy
+478,564,laopokcar_g wrote: If some of them are being honest I can empathise Cos the SDA might not be consistent on how they like the tables to be spaced apart thats why I hope some of them dont plea guilty and contest the charges,10/2/21,0.11666666666666665,0.7166666666666667,0.043,0.733,0.225,0.8373,anger
+487,574,"STB, together with relevant agencies and community partners such as the Chinatown Business Association and Chinatown Festivals Organising Committee, has implemented additional measures from 5 February 2021 to better manage the crowds.",10/2/21,0.3,0.6333333333333333,0.0,0.843,0.157,0.6597,sadness
+494,581,"We strongly urge members of the public to plan visits to Chinatown and other potentially crowded areas such as shopping malls, F&B outlets, markets, supermarkets and parks, during off peak hours.",10/2/21,0.06166666666666666,0.5349999999999999,0.0,0.935,0.065,0.2732,anger
+495,582,This will help mitigate the risk of COVID-19 transmission during the festive period and keep us all safe.,10/2/21,0.5,0.5,0.085,0.567,0.348,0.7579,neutral
+500,588,We strongly advise F&B operators to double-check the reservations they have already received to ensure that the bookings are in order.,10/2/21,0.4333333333333333,0.7333333333333333,0.0,0.802,0.198,0.5719,anger
+501,589,"We also urge diners to not try to circumvent the rules, for the sake of their loved ones and the well-being of the community.",10/2/21,0.7,0.8,0.0,0.855,0.145,0.5994,anger
+503,591,Let us be socially responsible in observing all these measures to prevent a resurgence in community transmission.,10/2/21,0.2,0.55,0.0,0.805,0.195,0.34,anger
+533,622,The Chinatown Business Association (CBA) said on Saturday that barriers were put in place and additional security staff and safe distancing ambassadors would be deployed in crowded areas.,8/2/21,0.5,0.5,0.0,0.831,0.169,0.6486,anger
+540,629,Most of the shopkeepers approached by TNP said they were fine with the stepped-up enforcement.,8/2/21,0.45833333333333337,0.5,0.0,0.886,0.114,0.2023,joy
+541,630,"One of them, who wanted to be known only as Ms Jessica, 50, said: ""I think that it is better this way because I am worried too.",8/2/21,0.25,0.75,0.076,0.825,0.1,0.1779,sadness
+544,633,"When shown the new photographs of the crowds, infectious disease specialist Leong Hoe Nam said: ""Singaporeans are absolutely becoming complacent... but we can also 'share the cheer' by doing something else.",8/2/21,0.2931818181818182,0.6522727272727273,0.0,0.8,0.2,0.8047,anger
+573,662,Making sure that people get to enjoy CNY as much as possible while keeping risk of new covid spread low.,8/2/21,0.20727272727272728,0.6286868686868686,0.163,0.623,0.214,0.3182,fear
+582,673,put more officers there to fine ppl can already.,8/2/21,0.45833333333333337,0.5,0.0,0.816,0.184,0.2023,neutral
+584,675,"A company that manages the deployment of some taggers, ushers and administrators at Changi Airport will increase the frequency of*temperature taking and disinfecting counters*after one of its employees tested positive for COVID-19.",9/2/21,0.22727272727272727,0.5454545454545454,0.0,0.831,0.169,0.7096,joy
+594,685,The HR company has about 30 people who are actively deployed in shifts at the airport currently.,9/2/21,-0.06666666666666667,0.5,0.0,0.874,0.126,0.3182,anger
+597,688,"We clean and disinfect our equipment before and after every passenger is tagged,\x94 said BGC Group.",9/2/21,0.3666666666666667,0.7000000000000001,0.0,0.847,0.153,0.4019,fear
+612,703,CNY visiting: What happens for large S'pore families with over 30 people & only 8 visitors allowed per day Soft truths to keep Singapore from stalling.,7/2/21,0.10476190476190476,0.5928571428571429,0.068,0.827,0.105,0.25,anger
+613,704,"PERSPECTIVE: From Jan. 26 onwards, safe management restrictions only allow Singapore homes to entertain up to eight visitors per day.",7/2/21,0.25,0.75,0.0,0.705,0.295,0.7269,neutral
+617,708,"Perhaps it's when a throng of relatives you hardly see suddenly gather to exchange greetings, niceties and angpows.",7/2/21,-0.14583333333333334,0.5208333333333333,0.0,0.739,0.261,0.6486,anger
+619,710,It's like a typical family gathering filled with lots of food and laughter.,7/2/21,0.11666666666666668,0.7,0.0,0.637,0.363,0.6908,joy
+624,715,"With households only able to accept eight visitors per day, the biggest question is: How will families organise themselves?",7/2/21,0.25,0.8125,0.0,0.874,0.126,0.3818,neutral
+627,718,Friend: Which is perfectly fine.,7/2/21,0.4166666666666667,0.5,0.0,0.179,0.821,0.8481,neutral
+628,719,"But for most families, mine included, my guess is that they will still try to ensure that some form of visiting still takes place.",7/2/21,0.5,0.5,0.0,0.898,0.102,0.3818,sadness
+642,733,But who is to be entrusted with the laborious task of coordinating different families?,7/2/21,0.0,0.6,0.0,0.878,0.122,0.2023,joy
+644,735,"More importantly, the chat allows everyone to coordinate requests in real-time.",7/2/21,0.45,0.75,0.0,0.794,0.206,0.3804,anger
+668,759,"Particularly for some older folks, who are used to having large gatherings as a sign of a happy and prosperous family.",7/2/21,0.33690476190476193,0.5238095238095237,0.0,0.714,0.286,0.7783,joy
+671,762,"But when my dad called her to explain our visitation plans, reiterating the new restrictions, she seemed pretty accepting of it.",7/2/21,0.19318181818181818,0.7272727272727273,0.0,0.766,0.234,0.7003,anger
+673,764,"Nevertheless, there is consensus that this rule is ""inconvenient"" but important.",7/2/21,-0.09999999999999998,1.0,0.0,0.82,0.18,0.296,anger
+685,843,Ikea safe distancing practise at the restaurant should continue after the  phases.,13/11/20,0.5,0.5,0.0,0.791,0.209,0.4404,joy
+686,844,It is more efficient to guide customers to the tables.,13/11/20,0.5,0.5,0.0,0.744,0.256,0.4754,neutral
+705,872,This is unprecedented due to the COVID 19 and safe distancing measures.,10/7/20,0.325,0.5916666666666667,0.0,0.791,0.209,0.4404,sadness
+708,875,"group of more than 5 non complying to safe distancing measures will get fined, but all these PAP rallies and walkabouts going on???",9/7/20,0.5,0.5,0.0,0.894,0.106,0.3591,neutral
+713,880,I am happy to explain.,7/5/20,0.8,1.0,0.0,0.448,0.552,0.5719,joy
+715,882,Stay safe :),7/5/20,0.5,0.75,0.0,0.145,0.855,0.7096,neutral
+721,888,Day 11 of #circuitbreaker Trains had already increased its frequency to 5 mins or more during peak hours.,17/4/20,0.5,0.5,0.0,0.884,0.116,0.2732,fear
+722,889,This had resulted in the breaking of the safe distancing which is beyond the authority control.,17/4/20,0.5,0.5,0.0,0.769,0.231,0.4939,fear
+724,891,"During CNY, there was a lot of ""rich"" food like abalone, crabs, etc.",23/2/21,0.375,0.75,0.0,0.815,0.185,0.3612,fear
+725,892,"Like having it 2 days in a row and the only thing I had in mind after was ""I could use some cheap instant noodles right about now"".",23/2/21,0.17142857142857143,0.7255952380952381,0.0,0.906,0.094,0.3612,joy
+727,894,Much better than sg.,23/2/21,0.5,0.5,0.0,0.508,0.492,0.4404,neutral
+736,903,@sowmiyashok @JBuch7 @tajmahalfoxtrot That would be great.,21/2/21,0.8,0.75,0.0,0.594,0.406,0.6249,joy
+744,911,"Always great to sit down with the team, have some good food and catch up.",20/2/21,0.4481481481481482,0.5462962962962964,0.0,0.65,0.35,0.7906,joy
+745,912,We are fortunate that at both a leadership level and team level we do this pretty much every month.,20/2/21,0.2833333333333334,0.6333333333333333,0.0,0.706,0.294,0.7684,anger
+747,914,"Join for the career opportunities, stay for the good food and people 😂🤷🏽‍♂️  https://t.co/Aacp8uOSHN",20/2/21,0.7,0.6000000000000001,0.0,0.588,0.412,0.7717,neutral
+750,917,"People say making dumplings for CNY is a Chinese tradition but honestly I don't know anyone in Singapore who makes their own dumplings, unless they are first generation Singaporeans.",12/2/21,0.3625,0.5583333333333333,0.085,0.784,0.131,0.5267,neutral
+771,938,Every religion have their own festive season to celebrate.,23/1/20,0.6,1.0,0.0,0.511,0.489,0.7717,joy
+773,940,CNY is coming in 1 more day and this year is a special one for me.,23/1/20,0.4285714285714286,0.5357142857142857,0.0,0.828,0.172,0.4019,joy
+785,953,We share a video from the children of EtonHouse Thomson wishing us a Happy New Year.,18/2/21,0.4681818181818182,0.7272727272727273,0.0,0.585,0.415,0.7783,joy
+787,955,Happy Birthday everyone!,18/2/21,1.0,1.0,0.0,0.334,0.666,0.6114,joy
+798,966,Let the persistent nature of Oxes reflect in your life and work hard to fulfill all your goals.,12/2/21,-0.2916666666666667,0.5416666666666666,0.069,0.788,0.143,0.3612,joy
+799,967,It is going to be lucky for all.,12/2/21,0.3333333333333333,0.8333333333333334,0.0,0.714,0.286,0.4215,neutral
+800,968,So enjoy while it lasts!,12/2/21,0.5,0.5,0.0,0.514,0.486,0.5838,joy
+809,983,@CovidSerology @cjsnowdon These are mobility numbers from owners of smart phones right?,9/2/21,0.25,0.5892857142857143,0.0,0.803,0.197,0.4019,joy
+816,990,"We were delighted to welcome new students to the ISS learning community this morning, and so pleased to see so many familiar faces returning after the summer break.",20/8/20,0.5018939393939393,0.6757575757575758,0.0,0.713,0.287,0.8762,joy
+820,994,And it will result to getting fine.,30/7/20,0.4166666666666667,0.5,0.0,0.769,0.231,0.2023,neutral
+823,997,But it’s okay man.,18/7/20,0.5,0.5,0.0,0.612,0.388,0.2263,neutral
+837,1011,I’m thankful for whatever has returned to normal.,3/6/20,0.15,0.6499999999999999,0.0,0.654,0.346,0.5719,joy
+839,1013,"Again: better to provide increased frequency to cut crowding, no?",3/6/20,0.5,0.5,0.281,0.392,0.327,0.1779,neutral
+841,1015,We loved it that our classes were full and had a 90% attendance.,2/6/20,0.5249999999999999,0.675,0.0,0.738,0.262,0.5994,joy
+842,1016,"Students, parents and teachers were so happy to see each other.",2/6/20,0.3375,0.6875,0.0,0.678,0.322,0.6948,joy
+845,1019,"@harshmadhusudan Airlines will have to spend to Ensure the SOP’s are followed, social@distancing measures are adhered to which means they will operate with around 50% capacity and at a higher operating cost.",21/5/20,0.25,0.5,0.0,0.92,0.08,0.3818,sadness
+850,1024,We will require more offices that encourage employees to come to the workplace once things start to normalise.,18/5/20,0.5,0.5,0.0,0.827,0.173,0.552,fear
+858,1037,@KRUDLER62 @hashbrowne I can guarantee you that if there is a GF the social distancing rules will have magically been lifted by then,4/5/20,0.26666666666666666,0.5333333333333333,0.0,0.909,0.091,0.25,fear
+867,1046,"Be religious, not stupid.",26/4/20,0.19999999999999998,0.625,0.0,0.519,0.481,0.4168,anger
+880,1059,At the time the CDC and most governments were saying - don’t wear masks if you’re not sick!,4/4/20,0.4732142857142857,0.6785714285714286,0.0,0.842,0.158,0.4577,anger
+894,1073,Social distancing works only for the rich and elite.,2/4/20,0.1361111111111111,0.6055555555555555,0.0,0.69,0.31,0.5574,sadness
+913,1092,It is pretty amazing to see some wanting to achieve much in this temporary era of social distancing.,25/3/20,0.27083333333333337,0.5416666666666667,0.0,0.696,0.304,0.7906,joy
+914,1093,Maybe it is a good time to revisit some of the priorities that we hold so dear to us   https://t.co/5Ve5yGitEa,25/3/20,0.7,0.6000000000000001,0.0,0.731,0.269,0.7404,joy
+928,1107,"Or maybe strong, far but strong.",24/3/20,0.3222222222222222,0.8222222222222223,0.0,0.377,0.623,0.765,neutral
+932,1111,Bright and bursting.,21/3/20,0.7000000000000001,0.7999999999999999,0.0,0.408,0.592,0.4404,neutral
+949,1128,Hope things get better when we return stateside in June.,15/3/20,0.5,0.5,0.0,0.58,0.42,0.7003,neutral
+954,1133,Very nice to give a face to face (behind a mask) talk at NUS today.,24/2/21,0.19,0.85,0.0,0.795,0.205,0.4754,joy
+957,1136,One thing that I also noticed: Face-to-face classes are still not being allowed but children who are not wearing any face covering are freely playing on the streets of their barangays.,24/2/21,0.4,0.8,0.0,0.822,0.178,0.7227,fear
+959,1138,you better fucking apologize to her face to face.,20/2/21,-0.04999999999999999,0.65,0.0,0.604,0.396,0.5563,fear
+961,1140,you would have catch my hand if i’m there right now,20/2/21,0.2857142857142857,0.5357142857142857,0.0,0.758,0.242,0.4939,sadness
+962,1141,"It is amazing how whenever I am handed a difficult potential customer/bride, I will never get to meet them face to face.",19/2/21,0.03333333333333336,0.9666666666666667,0.107,0.73,0.163,0.3182,neutral
+964,1143,I'm glad it was over before it started.,19/2/21,0.5,1.0,0.0,0.7,0.3,0.4588,joy
+966,1145,I forgot I have a love hate relationship with face to face class.,27/1/21,-0.15000000000000002,0.75,0.233,0.503,0.264,0.128,sadness
+981,1160,Very safe and easy to move around.,5/2/21,0.5416666666666667,0.7416666666666667,0.0,0.44,0.56,0.7474,neutral
+982,1161,Singaporeans should be extremely proud of their country and leadership under H.E PM Lee Hsien Loong.,5/2/21,0.8,1.0,0.0,0.816,0.184,0.5256,fear
+987,1166,Prevention is better than cure Covid is not going to wrap up anytime soon!,24/1/21,0.625,0.5,0.0,0.803,0.197,0.4926,neutral
+989,1168,People  need to be more vigilant than ever!,24/1/21,0.625,0.5,0.0,0.754,0.246,0.3149,fear
+993,1172,People listen to you because they love you too.,24/1/21,0.5,0.6,0.0,0.656,0.344,0.6369,anger
+994,1173,Otherwise Covid is sure to limit your lifespan!,24/1/21,0.625,0.8888888888888888,0.0,0.73,0.27,0.3802,neutral
+1009,1188,"Citing major upcoming events and positive case(s) detected in this group of visitors, please consider keeping meeting attendees at the Expo Hotel and meeting venue whilst piloting MICE events again.",23/1/21,0.14488636363636365,0.5227272727272727,0.0,0.826,0.174,0.7096,joy
+1012,1191,The more safeguards in place the better we can manage and protect the interests of the population.,23/1/21,0.5,0.5,0.0,0.561,0.439,0.8479,joy
+1019,1198,It is great to know that the vaccine is being provided to frontline workers and the elderly as priority.,24/1/21,0.8,0.75,0.0,0.814,0.186,0.6249,sadness
+1024,1203,"Plugging the loop holes from imports  is very important and urgent  It is proven 14 days quarantine for imports may not be enough , we should increase to 21 days or more .",23/1/21,0.34,0.6666666666666666,0.0,0.813,0.187,0.6659,fear
+1026,1205,Tightening community safe distancing measure may not be hitting the nail on the head !😊,23/1/21,0.625,0.5,0.0,0.814,0.186,0.4926,fear
+1028,1207,There's not enough posters reminding people about this and it can also empower others to tell people to shut up for safety reason.,23/1/21,0.0,0.5,0.0,0.887,0.113,0.4215,anger
+1034,1213,"Good afternoon sir but a funny thing happened at Changi airport last night, we arrived from Sydney on 24jan 7.30pm but we were not tested although we have already paid for co.19 tests at Sg airlines counter over in Aust.",25/1/21,0.31666666666666665,0.5555555555555556,0.0,0.864,0.136,0.7003,sadness
+1040,1219,Wish you and family have a happy reunion dinner and happy Chinese New Year holidays.,25/1/21,0.4340909090909091,0.6136363636363636,0.0,0.441,0.559,0.9136,joy
+1042,1221,I know many people already planning to hold food and drinking gatherings for different groups of 8 friends on different days....,26/1/21,0.16666666666666666,0.5666666666666668,0.0,0.853,0.147,0.4767,anger
+1043,1222,"Very wise and timely move , indeed !",25/1/21,1.0,1.0,0.0,0.576,0.424,0.5697,neutral
+1051,1230,I hope brochures can be handed to every household and be posted in the house to remind everyone of such measures during CNY.,25/1/21,0.0,0.5,0.0,0.879,0.121,0.4404,fear
+1057,1236,"of Enforcement Officers, and SG Clean and Safe Distancing Ambassadors",24/1/21,0.43333333333333335,0.6000000000000001,0.0,0.588,0.412,0.6808,neutral
+1060,1239,Would it be fine for someone to visit only one household during CNY period and that household only receive up to 8 distinct visitor per day.,25/1/21,0.17916666666666667,0.7,0.0,0.93,0.07,0.2023,neutral
+1061,1240,This clarification is important given the high number of Our foreign friend in Singapore who might only have friends in Singapore and not family members.,25/1/21,0.10875000000000001,0.66625,0.0,0.691,0.309,0.8126,sadness
+1062,1241,We want to make them feel the warmth and welcome in this difficult time.,25/1/21,0.15000000000000002,0.95,0.126,0.505,0.369,0.5859,joy
+1065,1244,"PM Sir, can you make sure that the default WFH is observed by all companies.",24/1/21,0.5,0.8888888888888888,0.0,0.859,0.141,0.3182,neutral
+1070,1249,"How about those facing customers especially in beauty, hair and massage with close contact?",23/1/21,0.0,1.0,0.0,0.761,0.239,0.6222,joy
+1083,1262,Truly amazing these things cld b overlooked!,24/1/21,0.7500000000000001,0.9,0.099,0.27,0.63,0.784,joy
+1088,1267,Better to  be safe then sorry.,24/1/21,0.16666666666666666,0.6666666666666666,0.129,0.297,0.574,0.6705,sadness
+1099,1278,"The government of the day that is responsible and has painstakingly put and does things right for the betterment of her people and Singapore 🇸🇬 regardless of race, language or religion deserves the unwavering support  for many years to come.....",9/11/20,0.32857142857142857,0.5285714285714286,0.0,0.884,0.116,0.6124,joy
+1101,1280,Well done and continue to keep up the good work!,23/6/20,0.875,0.6000000000000001,0.0,0.602,0.398,0.6476,sadness
+1103,1282,"PM Lee, the buses are getting too crowded with students, the market places and food court are pretty bad as well.",23/6/20,-0.22499999999999992,0.8333333333333333,0.131,0.672,0.198,0.2023,anger
+1106,1285,Dear PM we had gone through many ups and downs there we made it.,23/6/20,0.5,0.5,0.0,0.833,0.167,0.3818,neutral
+1107,1286,We will with positive thinking and also taking all the precautionary measures will make again.,23/6/20,0.22727272727272727,0.5454545454545454,0.0,0.795,0.205,0.5574,neutral
+1116,1295,Yesterday was a day of victory to celebrate us successfully fast in the month of Ramadhan.,25/5/20,0.2,0.6,0.0,0.653,0.347,0.7845,fear
+1118,1297,"Despite the restriction, we still embrace Hari Raya with open heart & mind & celebrate within the capacity of the situation.",25/5/20,0.0,0.5,0.0,0.672,0.328,0.7791,joy
+1124,1303,"Unlike previous years, we sat at our family sofa or any area in the comfort of our own home & meet our family, relatives & friends via Zoom, Google Meet or any other video-conferencing app.",25/5/20,0.10277777777777779,0.513888888888889,0.0,0.847,0.153,0.6808,joy
+1125,1304,We made this huge sacrifice to ensure we stay safe & able to see one another again.,25/5/20,0.46666666666666673,0.6749999999999999,0.0,0.615,0.385,0.7978,joy
+1129,1308,"Please inform doctors and nurses in states where people are dying and give them gold Only for those who control death..If you are informed about the research, be sure to give it gold..Researchers Scientists Know that technicians are gold for everyone Viral drug If found..Tell Researchers, Scientists, Technicians to Give Equal Rights to All Don't be the difference between being great and yours at this point in the virus..Advertise on TV and websites that give equal gifts to everyone Only if the virus is unaffected..Only if there is no death..For people in the country who are informing about the research..For viral drug detectors..🙏",26/5/20,0.21666666666666667,0.6898148148148149,0.02,0.901,0.079,0.7579,fear
+1132,1311,"During this hard time,your True leadership and The humanity you have shown will be always remembered and remains example to the world.God bless singapore.Happy Eid",23/5/20,0.029166666666666646,0.5958333333333333,0.048,0.759,0.193,0.6369,joy
+1133,1312,Have a little space in yr heart 💓 have a little say in yr mind 💓 All ppl aren’t they make equal irrelevant of all race and religion  We are to partake the goodness of one another and give our best  Let all be a great nation together  We live and fight for our future and our children future may god bless us  I love my gov as he is one great person who will see us thru this is a crucial time and moment but everybody is here to make a difference and live a better future 💓👍🏻🉐 Salamat Hari Raya,24/5/20,0.19984848484848483,0.5016666666666666,0.017,0.797,0.186,0.9413,joy
+1136,1315,"All you teams are treating of us friendly with love2 as of a family member, really it's unbelievable.",24/5/20,0.0625,0.75,0.0,0.74,0.26,0.6461,anger
+1139,1318,Make Singapore great and United.,24/5/20,0.8,0.75,0.0,0.303,0.697,0.7845,neutral
+1140,1319,Love you all.,24/5/20,0.5,0.6,0.0,0.323,0.677,0.6369,joy
+1141,1320,Lovely wish to all Happy Hari Raya Aidilfitry                      Bangladeshi Migrant,24/5/20,0.65,0.875,0.0,0.407,0.593,0.8807,joy
+1146,1325,We are really happy and blessed.,24/5/20,0.8,1.0,0.0,0.329,0.671,0.8464,joy
+1150,1329,Thank you sir.for wishing.we will remember with respect you.you are real leader  to lead for a wonderful country.so much appriciated,24/5/20,0.4666666666666666,0.5,0.0,0.632,0.368,0.8519,joy
+1152,1331,I enjoy having a charismatic PM.,24/5/20,0.45,0.75,0.0,0.484,0.516,0.4939,joy
+1156,1335,He brought the many poor slumps to having good income and comfortable living.,24/5/20,0.3,0.625,0.161,0.518,0.321,0.4767,sadness
+1167,1346,I know my mind is normally strong but not now.,24/5/20,0.4333333333333333,0.7333333333333333,0.0,0.788,0.212,0.2846,neutral
+1169,1348,#staysafe more importantly #staysane.,24/5/20,0.45,0.75,0.0,0.536,0.464,0.3804,neutral
+1172,1351,"His manner, gesture and statesmanship is remarkable.",24/5/20,0.75,0.75,0.0,0.625,0.375,0.5574,neutral
+1173,1352,Wishing his long life and good health.,24/5/20,0.32499999999999996,0.5,0.0,0.51,0.49,0.5859,joy
+1174,1353,"Prime Minister Sir, first of all I salute you from the bottom of my heart, and I wish you a happy Eid-ul-Fitr.",24/5/20,0.525,0.6666666666666666,0.0,0.726,0.274,0.7506,joy
+1175,1354,I'm really surprised to see you behave like this angel.,24/5/20,0.1,0.9,0.0,0.63,0.37,0.5709,joy
+1177,1356,"And one more thing I want to tell you, every expatriate in my country who works in Singapore, millions of people are praying for you, and I think you will be a model for all the prime ministers of the world for the rest of your life.",24/5/20,0.5,0.5,0.0,0.911,0.089,0.4728,anger
+1178,1357,"And they need to learn from those who do not establish human rights by sitting on their knees, oppressing people and oppressing them, they only benefit themselves.",24/5/20,0.0,0.55,0.0,0.897,0.103,0.4588,fear
+1180,1359,"Sir, in the end I will say that you continue your great good deeds, may Allah have mercy on you inshaAllah.",24/5/20,0.75,0.675,0.0,0.642,0.358,0.8591,neutral
+1184,1364,"I’m thankful that I’m comfortable and staying in my own home, surrounded by my comforts and the people I love.",24/5/20,0.5,0.7999999999999999,0.0,0.512,0.488,0.936,fear
+1187,1367,"I’m grateful I have the means to support my part time help, driver, etc., (as and where relevant) as they quarantine themselves too.",24/5/20,0.4,0.9,0.0,0.693,0.307,0.8126,joy
+1189,1369,"I’m thankful that my family, friends and I are safe and healthy.",24/5/20,0.5,0.5,0.0,0.361,0.639,0.9081,sadness
+1191,1371,I pray that all those away from their families and homes are well and safe.,24/5/20,0.5,0.5,0.0,0.601,0.399,0.743,sadness
+1192,1372,"I extend my prayers and thanks to the doctors, nurses, health practitioners, government officials, scientists and everyone else working tirelessly and at the risk to their own health to trace and treat every possible case and to do all they can to find a cure, curb the spread and eradicate the threat.",24/5/20,0.26666666666666666,0.7333333333333334,0.095,0.779,0.126,0.2023,fear
+1196,1376,"I pray we all come out of this, stronger and may we recognise, appreciate and respect everyday life.",24/5/20,-0.2,0.6,0.0,0.539,0.461,0.8779,fear
+1203,1383,"MOST EFFECTIVE AND SAFE DRUG TO CURE COVID 19 IN JUST THREE (3) DAYS MAY 24, 2020 PLEASE MANUFACTURE THE INGREDIENTS OR COMPONENTS OF FABUNAN ANTI VIRAL INJECTION OR F.A.I.",24/5/20,0.5333333333333333,0.6,0.073,0.627,0.3,0.8864,fear
+1207,1387,DRUG ARE WRITTEN AND INDICATED IN THESE THREE (3) WEBSITES AND SINGAPORE CAN MANUFACTURE THE INGREDIENTS OR COMPONENTS OF THIS DRUG FOR COVID 19: 1. https://webcache.googleusercontent.com/search?q=cache%3Aj85f-XIISPoJ%3Ahttps%3A%2F%2Flibres.uncg.edu%2Fir%2Funcg%2Ff%2FElbourakadi_uncg_0154D_10788.pdf+&cd=2&hl=fil&ct=clnk&gl=ph 2. https://patents.google.com/patent/US6172053B1/en 3. https://patents.google.com/patent/US5492901A/en We must NOT stop at just testing if a person is positive for Covid 19 or not.,24/5/20,0.22727272727272727,0.5454545454545454,0.0,0.889,0.111,0.6692,fear
+1210,1390,This Fabunan Anti-viral Injection is the only true drug for Covid 19.,24/5/20,0.175,0.825,0.0,0.797,0.203,0.4215,sadness
+1213,1393,"According to the Nobel-prize winning scientist who discovered and identified the HIV AIDS virus, Dr. Luc Montagnier,the Covid 19 virus is very similar to the drug resistant strains of the HIV AIDS virus.",24/5/20,0.25,0.635,0.06,0.847,0.093,0.296,joy
+1225,1405,is safe for use even in INFANTS with Covid 19 as F.A.I.,24/5/20,0.5,0.5,0.0,0.791,0.209,0.4404,anger
+1228,1408,"Dr. Ethan Will Taylor, PhD, Principal HIV/AIDS investigator at the University of North Carolina at Greensboro, stated “currently there is only one drug combination in the universe that we are aware of that possesses this rare pharmacologic activity and Fil-Am Tech., Inc. holds the patent on that combination.” ELBOURAKADI, NAJOUA, Ph.D. A Novel Method For The Selective Elimination Of HIV Infected Cells: Dexamethasone And Procaine As A C ELBOURAKADI, NAJOUA, Ph.D. A Novel Method For The Selective Elimination ...",24/5/20,0.1375,0.6375,0.04,0.902,0.058,0.1027,joy
+1230,1410,Tourniquet test was positive with presence of petechial hemorrhage indicative of dengue fever.,24/5/20,0.22727272727272727,0.5454545454545454,0.0,0.769,0.231,0.5574,fear
+1234,1414,"It is important to note that if you are a drug company and want your drug to be studied at the UNCG, you have to pay millions, if not billions, of US dollars before UNCG will accept your request.",24/5/20,0.4,1.0,0.034,0.827,0.139,0.5106,anger
+1239,1419,Thank you sir you are really  Great,23/5/20,0.8,0.75,0.0,0.42,0.58,0.7841,neutral
+1241,1421,I also wish all my fellow buddhist members a Happy Vesak Day.,7/5/20,0.8,1.0,0.0,0.556,0.444,0.7506,joy
+1242,1422,"We experienced a different Vesak Day this year, but we still practice the buddhist way that is to be compassionate and be kind to all beings.",7/5/20,0.4666666666666666,0.7999999999999999,0.0,0.721,0.279,0.872,fear
+1245,1425,May all be blessed with great wisdom and good health and strong mind.,7/5/20,0.6444444444444445,0.6944444444444445,0.0,0.312,0.688,0.9559,joy
+1246,1426,"PM Lee, thank you and team for managing the CoVid19 crisis with hardwork and care...do take care and Happy Vesak Day..",7/5/20,0.8,1.0,0.134,0.557,0.308,0.6486,joy
+1247,1427,Happy wesak to all ...,7/5/20,0.8,1.0,0.0,0.519,0.481,0.5719,joy
+1248,1428,"Wish all safe, well and happy.",7/5/20,0.65,0.75,0.0,0.149,0.851,0.886,joy
+1249,1429,Compassion is the greatest gift.,7/5/20,1.0,1.0,0.0,0.165,0.835,0.8779,joy
+1256,1436,"Happy ""Vesak"" Day to all.",7/5/20,0.8,1.0,0.0,0.519,0.481,0.5719,joy
+1257,1437,"May all beings be well, happy, peaceful, free from enmity and sufferings.",7/5/20,0.4833333333333334,0.7666666666666666,0.0,0.394,0.606,0.9062,joy
+1258,1438,May the world be free from Corona pandemic.,7/5/20,0.4,0.8,0.0,0.68,0.32,0.5106,fear
+1259,1439,"Please stay home, be safe and save lives.",7/5/20,0.5,0.5,0.0,0.373,0.627,0.8126,joy
+1261,1441,TRACE-TOGETHER APP ( Providing an incentive to use it ) This App could be a great help in our efforts to contain COVID-19.,7/5/20,0.8,0.75,0.0,0.646,0.354,0.8519,joy
+1265,1445,Happy Vesak Day to all Singaporeans and the whole world 🙏🙏🙏 I'm sure this year everyone of us regard of others part of the world..we had a historic year to celebrate our festive season ..like today the great lord of Buddha birthday anniversary ..we can only stay at home to do our dharma chanting at home.,7/5/20,0.3833333333333333,0.6731481481481482,0.0,0.749,0.251,0.9501,joy
+1269,1449,Happy Vesak Day!,8/5/20,1.0,1.0,0.0,0.334,0.666,0.6114,joy
+1271,1451,"🙏Let’s commemorate Vesak Day today by reaffirming our vow as Buddhists to strive for the peace and happiness in our world, our lives and that of others just before his passing, Shakyamuni Buddha urged his disciples to regard his teachings as their teacher because only the truth,the Law of life, is eternal .",8/5/20,0.35,0.6,0.0,0.876,0.124,0.7964,joy
+1272,1452,"💁‍♀️  He stressed that the way to pay homage to him was not merely by offering flowers, incense, and lights, but by truly and sincerely striving to follow his teachings.",8/5/20,0.375,0.5,0.079,0.705,0.217,0.7964,anger
+1273,1453,"🙏  The Essence of Shakyamuni’s teachings is contained in his highest teaching, the Lotus Sutra, which states that Buddhahood , a condition of absolute happiness and freedom from all fear and illusions, is inherent in all life, and is eternal.",8/5/20,0.44999999999999996,0.55,0.071,0.756,0.173,0.6808,joy
+1277,1457,The sutras were translated into different languages and teachings were adopted and merged into different cultures in Asia- the origin of the great variety and diversity of the Buddhist teachings that exist today.,8/5/20,0.26666666666666666,0.65,0.0,0.886,0.114,0.6249,fear
+1278,1458,🙏  Great Buddhist Teachers like.,8/5/20,0.8,0.75,0.0,0.233,0.767,0.765,joy
+1279,1459,"T’ien-t’ai and Chang-an confirmed the Lotus Sutra as the greatest of the Buddha’s teachings, because of its teaching that everyone can manifest the Buddha state in their lives.",8/5/20,0.7,1.0,0.0,0.865,0.135,0.6369,anger
+1283,1463,"🇷🇴 💙💛❤️The spirit is expressed in the objective of the SGI, as explained by President Ikeda states: “ Our goals is become happy not only ourselves, but to enable others to become happy as well.",8/5/20,0.4,0.775,0.0,0.725,0.275,0.886,joy
+1294,1474,"So time to revise dining out,  increase the number to 12 pax max but with safe distance measures still...",23/9/20,0.5,0.5,0.0,0.706,0.294,0.6858,sadness
+1295,1475,Visitors to different household also should be increased to 10pax this allow family members to bond...  We also want to encourage bonding  which this Covid 19 has caused a lot of isolation,23/9/20,0.0,0.6,0.072,0.693,0.235,0.628,sadness
+1304,1484,"Yes, there are having safe distancing rules.",26/9/20,0.5,0.5,0.0,0.472,0.528,0.6808,neutral
+1310,1490,"Until the number of transmissions are reduced, the chances of transmissions are still high.",26/9/20,0.16,0.5399999999999999,0.0,0.795,0.205,0.2732,sadness
+1322,1502,I thought i read that they are supposed to be tested covid free before departure but apparently seems not so.,23/9/20,0.225,0.575,0.0,0.888,0.112,0.2846,sadness
+1325,1505,Wondering if you will relook at it if there is better way?,23/9/20,0.5,0.5,0.0,0.791,0.209,0.4404,neutral
+1337,1517,So plz also take a responsibility  for those kind of people,3/4/20,0.6,0.9,0.0,0.85,0.15,0.1513,fear
+1338,1518,"yes, please be more stern and assertive.",5/4/20,0.5,0.5,0.0,0.5,0.5,0.6124,neutral
+1340,1520,"we can try our best to educate and advice, but some really, it just won't get into their head.. ""drinking together only what"".. ""not so near what"".. ""aiyah, ok one lah"".. many are still complacent, especially those who've never been critically ill or have a critically ill love ones.. so please, for stubborn people, please do have authorities to help make sure they disperse and go home, not loiter and later regroup to catch up, chillout, jam, game together etc...",5/4/20,0.14615384615384613,0.5991452991452992,0.052,0.655,0.293,0.9778,fear
+1341,1521,"Ministry of Health, Singapore Good job .",3/4/20,0.7,0.6000000000000001,0.0,0.633,0.367,0.4404,neutral
+1348,1528,I do hope the officials will consider also suspending all passenger arrivals and departures for this one month and to only allow cargo flights to operate.,3/4/20,0.0,1.0,0.0,0.827,0.173,0.5859,neutral
+1352,1532,We thank Minister Wong and Gan for finally making the correct decision to encourage wearing mask in public.,3/4/20,0.0,0.5333333333333333,0.0,0.734,0.266,0.7003,fear
+1353,1533,The communication should be more focus on stopping the spreaders rather than keeping one safe.,3/4/20,0.5,0.5,0.105,0.732,0.163,0.2585,anger
+1356,1536,Peer pressure is the most effective.,3/4/20,0.55,0.65,0.229,0.417,0.354,0.2944,fear
+1358,1542,These are good measures.,27/3/20,0.7,0.6000000000000001,0.0,0.508,0.492,0.4404,neutral
+1380,1564,"If you are going to enforce anything, please enforce in full cycle and not halfway, enforce at employees' end and yet not enforcing it on the employers' end.",27/3/20,0.35,0.55,0.0,0.922,0.078,0.3182,anger
+1381,1565,"PS: Doctors now give MCs as if it is free, as long as you cough a little, running nose a little, also give 5 days MC.",27/3/20,-0.006249999999999992,0.55,0.0,0.87,0.13,0.5106,sadness
+1391,1575,Could related department kindly look in this matter?,29/3/20,0.3,0.65,0.0,0.581,0.419,0.5147,joy
+1403,1588,I am afraid these people will do us in and infect countless innocent people.,24/3/20,-0.033333333333333326,0.6999999999999998,0.0,0.833,0.167,0.34,fear
+1405,1590,"If this carry on, viruse outbreak is a true issue in front of us.",24/3/20,0.35,0.65,0.0,0.811,0.189,0.4215,fear
+1422,1607,Strict quarantine and hard rules on social distancing are extremely important.,24/3/20,0.04722222222222222,0.5361111111111111,0.112,0.72,0.168,0.1761,fear
+1430,1615,Their government only cares on $ and $ and $ Olympics.,24/3/20,0.0,1.0,0.0,0.7,0.3,0.4588,anger
+1431,1616,Good move to let returnee to observe SHN at dedicated accommodation with the transport arranged from airport!,24/3/20,0.875,0.6000000000000001,0.0,0.708,0.292,0.7345,joy
+1436,1621,"For traveller or residents , would there be informative video on the apps to encourage more people to use it ?",24/3/20,0.5,0.5,0.0,0.845,0.155,0.5106,fear
+1449,1634,Would appreciate clarification soonest as we have classes coming up in a few days and we need to make the necessary arrangements,24/3/20,-0.1,0.55,0.0,0.881,0.119,0.4019,sadness
+1452,1637,Good move and well done #taskforce.,20/3/20,0.7,0.6000000000000001,0.0,0.444,0.556,0.6124,neutral
+1471,1656,How many Mee Siam does he need to sell to cover the fine?,2/3/21,0.45833333333333337,0.5,0.0,0.87,0.13,0.2023,neutral
+1482,1667,"This will result in the condo implementing more stringent measures, affecting everyone else, just because 1 joker canâ€™t stick to the rules...",2/3/21,0.5,0.5,0.0,0.93,0.07,0.128,anger
+1486,1671,The only part of a show I liked watching him is the one he hopped on and off the underground tunnel wall and nearly punched Chan Han Wei,2/3/21,0.2333333333333333,0.7333333333333334,0.0,0.899,0.101,0.4215,fear
+1488,1673,Why wear so nice to court?,3/3/21,0.6,1.0,0.0,0.58,0.42,0.5598,anger
+1491,1676,"good thing do not spread, but bad news spread like wild fire.",2/3/21,0.033333333333333375,0.5555555555555555,0.154,0.399,0.447,0.7073,sadness
+1493,1678,"Just wondering,  they can hide personal life and secrets (I'm sure they have many being ppl of more power), dont understand how they can overlook this.",2/3/21,0.375,0.5472222222222223,0.061,0.857,0.082,0.1531,joy
+1494,1679,Singapore government doesn't want you to be happy.,2/3/21,0.8,1.0,0.112,0.549,0.339,0.5389,joy
+1501,1686,"At the most they will just get a gentle slap on the wrist and a ""don't do it again"" warning.",2/3/21,0.35,0.65,0.11,0.685,0.205,0.2732,anger
+1508,1693,"And i didn't see even 1 officer making rounds to do spot check...they should come every weekends and see the crowds...i can easy get 5- 6 groups gathering more then 8, its crazy!",24/2/21,0.061111111111111116,0.7444444444444445,0.071,0.834,0.095,0.2003,anger
+1512,1697,"Human beings Muslims pray together in the Mosques or wherever you are, closely side to side, shoulder to shoulder touch each other, and feet to feet touch each other, facing the 1 and only Kaaba, 1 of the biggest reasons is we humans Muslims, rich or poor this or that, together do the same style of praying and worshipping only GOD Almighty ALLAH SWT.... For the first time ever since Religion of Peace Islam exist 1400 years ago, humans Muslims praying not closely since covid-19 pandemic start all over the earth.",25/2/21,-0.00277777777777778,0.5175925925925926,0.03,0.779,0.191,0.9406,fear
+1513,1698,"So, we humans Muslims can change the rules of Glorious Holy Scripture of Quran and Authentic Scriptures of Saheeh Hadeeth if something like this pandemic happen, but not against the rules of Quran and Hadeeth, and so far we keep on doing it nicely since this pandemic start... Oh ya.",25/2/21,0.39999999999999997,0.9166666666666666,0.0,0.851,0.149,0.802,anger
+1514,1699,Well done to Sg PAP Gov too for handling superbly covid-19 pandemic in Singapore... ðŸ’ªðŸ–’ðŸ‘â¤âœŒðŸ˜ðŸ‘,25/2/21,1.0,1.0,0.0,0.87,0.13,0.2732,sadness
+1515,1700,I just read this article which stated that 29 individuals had been breached safe distancing rules yet there was not one name given.,10/2/21,0.5,0.5,0.0,0.879,0.121,0.4404,sadness
+1531,1716,The coup regime is working hard to pass a cyber security law.,10/2/21,-0.2916666666666667,0.5416666666666666,0.109,0.703,0.187,0.25,fear
+1535,1720,"Once this is confirmed, they will consider the public a criminal and engage in online conversations, Telecommunications Freedom of speech should not be a dream, as the whole country will be under the ironclad.",10/2/21,0.05,0.5041666666666667,0.129,0.705,0.166,0.3527,fear
+1539,1724,Good catch on the companies and the restrictions on the festive celebration.,6/2/21,0.7,0.6000000000000001,0.0,0.629,0.371,0.7096,anger
+1540,1725,These are all for the good cause to curb the spread of virus.,6/2/21,0.7,0.6000000000000001,0.0,0.805,0.195,0.4404,anger
+1542,1727,Fine those who flew in w Covid19 symptoms as well...,6/2/21,0.4166666666666667,0.5,0.0,0.816,0.184,0.2023,fear
+1553,1754,"Itâ€™s a store of value for me, Itâ€™s also a good investment vehicle if you have an appetite for risk.",6/2/21,0.7,0.6000000000000001,0.094,0.67,0.237,0.4939,joy
+1577,1778,"Out of sudden, everyone has so many friends want to dine in together.",28/12/20,0.25,0.5,0.0,0.69,0.31,0.6049,anger
+1579,1780,Now itâ€™s easily to get a table for 2 or 4.,28/12/20,0.43333333333333335,0.8333333333333334,0.0,0.769,0.231,0.34,joy
+1589,1790,"How does that constitute being safe from covid, might as well slowly open from 5 to 8 to 10 and so on before opening up to general travellers.",27/8/20,0.18333333333333335,0.5,0.0,0.828,0.172,0.6124,fear
+1590,1791,"Why blame the restaurants only , most dine in customers are grown adults who know the rules, but I seen a lot of them hack Care and mingle across tables.",28/8/20,0.25,0.75,0.055,0.806,0.139,0.5574,anger
+1591,1792,"Itâ€™s like â€œaiyah caught also fine restaurant not fine meâ€ attitude.Look the servers are usually occupied, especially during peak hours; they have to take orders, serve and clean itâ€™s not like they are standing there Zou bo.",28/8/20,0.06500000000000002,0.5900000000000001,0.0,0.739,0.261,0.8519,anger
+1597,1798,"Hopefully, we have â€œambassadorsâ€ who prowl the hawker centres during lunch time and call out to those who leave messy tables to clean up after themselves...fine them if they donâ€™t do so...",22/8/20,0.08333333333333334,0.55,0.1,0.755,0.146,0.4019,anger
+1605,1806,Our people just do not have what it takes to  be socially responsible citizens.,22/8/20,0.2,0.55,0.0,0.85,0.15,0.3182,anger
+1613,1814,And be kind and loving toward cleaner .,21/8/20,0.6,0.925,0.0,0.308,0.692,0.8402,anger
+1614,1815,It's easy and requires to be kind to your boss manager and head of the office.,21/8/20,0.5166666666666666,0.8666666666666667,0.0,0.69,0.31,0.743,neutral
+1624,1825,I wandering who is the stupid person from gov.to have this ideal to implement this !!,30/8/20,0.10000000000000003,1.0,0.162,0.62,0.218,0.2924,anger
+1625,1826,"He dont understand what is business, we have been lockdown for more than 2 months and now just starting have abit more better business, come out this ideal again to hit us, I think this person no brain",30/8/20,0.48,0.52,0.052,0.778,0.17,0.7178,neutral
+1634,1835,Good for them.,28/6/20,0.7,0.6000000000000001,0.0,0.408,0.592,0.4404,joy
+1641,1842,Most people who flout safe distancing rules do not understand the seriousness of this virus.,28/6/20,0.5,0.5,0.0,0.763,0.237,0.4675,anger
+1646,1847,"At the coffeeshops, I always see many men having their good time to have beer with friends after their meal without wearing mask.",28/6/20,0.6,0.55,0.0,0.769,0.231,0.7184,joy
+1649,1850,Must let them get infected then they will know how super deadly is this virus.,28/6/20,0.06666666666666665,0.5333333333333333,0.159,0.647,0.194,0.1779,neutral
+1651,1852,"I am so grateful to Mr Cj arÃªte have made my dreams come true, after i try to invest with so many expert forex and binary traders who scammed me, I finally met Mr Cj arÃªte through someone he helped, I took a bold step invested $500 which was all I got at the moment and unbelievably I got my profit worth $5,500.00 within 5 days I am happy right now  Contact:  https://www.facebook.com/Cj.arete658",26/6/20,0.28988095238095235,0.681547619047619,0.0,0.739,0.261,0.9593,joy
+1653,1854,The government wonâ€™t stand in your way if you have a good precaution taken and make sure all are safe.,20/6/20,0.5666666666666667,0.662962962962963,0.0,0.664,0.336,0.7964,neutral
+1654,1855,"Also to those who had been jail during the CB, I know days in CB are boring but is for your own good and also good for others donâ€™t be a selfish person.",20/6/20,0.06666666666666664,0.7000000000000001,0.143,0.667,0.19,0.4404,anger
+1656,1857,Its nice to see action being taken.,20/6/20,0.35,0.55,0.0,0.682,0.318,0.4215,joy
+1657,1858,Its only fair to those who have complied and did their part during CB.,20/6/20,0.35,0.95,0.0,0.85,0.15,0.3182,anger
+1658,1859,Our government is good and act fast to prevent spread of COVID-19.,20/6/20,0.44999999999999996,0.6000000000000001,0.0,0.714,0.286,0.4588,fear
+1665,1867,It is good that we stand firm to the rules and regulation.,20/6/20,0.24999999999999997,0.5,0.0,0.791,0.209,0.4404,neutral
+1697,1899,"Closed for dine in for a week, but free advertising in so many different channels.",20/6/20,0.2,0.5,0.0,0.745,0.255,0.6652,neutral
+1702,1904,I think they have not gather for months and chats happily.,21/6/20,0.8,1.0,0.0,0.714,0.286,0.5574,sadness
+1703,1905,But I am happy to see them like that.,21/6/20,0.8,1.0,0.0,0.492,0.508,0.7351,joy
+1714,1916,Mind me saying see people flocking the mall huge crow isnâ€™t going to be safe and health   In the current situation   And donâ€™t mind me saying with huge crow   Thehigh sight that safe distancing would be in place would be none :   And it would be quite scary because everyone it coming together all at once   Ex specially u dk where have they came because that maybe the person might be ill u wonâ€™t know because the crow it so huge   And also if the crow it too huge they wonâ€™t have any social distancing at all it quite scary in the sense that when there a huge crow within the crow u dk if the person is ill a not and still goes around,20/6/20,0.09931972789115652,0.7527210884353741,0.091,0.783,0.125,0.4047,fear
+1720,1922,They want to enjoy only...,21/6/20,0.2,0.75,0.0,0.4,0.6,0.5423,joy
+1726,1928,"Do what the Rome do, is safe.",16/6/20,0.5,0.5,0.0,0.674,0.326,0.4404,neutral
+1731,1933,Or think they are more superior be as they are expats or tourists?,16/6/20,0.6,0.7,0.0,0.76,0.24,0.5849,sadness
+1733,1935,I donâ€™t get why the cna the being  which I happen to come across was charged and that happen more than once invited Friend to the person house even fam and even so during cb when the gov meantioned not cannot invite any Friend or fam,16/6/20,0.5,0.5,0.036,0.808,0.156,0.7121,anger
+1742,1944,"If your free speech can be made into a legislative process where u have to apply with the police to talk at a venue, it is not free.",16/6/20,0.1,0.8,0.0,0.777,0.223,0.765,fear
+1747,1949,It would be interesting to see what sort of justice will be done.,16/6/20,0.5,0.5,0.0,0.654,0.346,0.701,joy
+1758,1960,Vietnam and Thailand - are the people able to have access to doctors easily like in Singapore?,16/6/20,0.4666666666666667,0.7291666666666667,0.0,0.741,0.259,0.5994,joy
+1763,1965,"While they and their families sitting high and dry, everyday fine weather with rich fields in front of them.",15/6/20,0.137,0.598,0.0,0.759,0.241,0.6597,fear
+1771,1973,"Whether it's effective or not, I really don't care.",10/6/20,0.25,0.5,0.0,0.521,0.479,0.6716,anger
+1776,1978,Now The virus is on the shield and table now how is clearers going to clean it?,10/6/20,0.3666666666666667,0.7000000000000001,0.0,0.856,0.144,0.4019,neutral
+1777,1979,Use the same cloth clean the table then clean the shield?,10/6/20,0.24444444444444446,0.5083333333333334,0.0,0.625,0.375,0.6597,neutral
+1780,1983,Easy as that.,10/6/20,0.43333333333333335,0.8333333333333334,0.0,0.408,0.592,0.4404,anger
+1785,1988,Thailand and Malaysia people are all out and about with their mask and still keeping clean.,10/6/20,0.3666666666666667,0.7000000000000001,0.0,0.847,0.153,0.4019,anger
+1788,1991,It will be a nightmare if they clean the tables and with the same cloth clean the pants.,10/6/20,0.24444444444444446,0.5083333333333334,0.0,0.735,0.265,0.6597,anger
+1790,1993,It can be unbelievable,10/6/20,-0.25,1.0,0.0,0.625,0.375,0.2023,neutral
+1806,2009,Safe distancing?,7/6/20,0.5,0.5,0.0,0.256,0.744,0.4404,neutral
+1807,2010,What safe distancing?,7/6/20,0.5,0.5,0.0,0.408,0.592,0.4404,neutral
+1820,2023,"WHO need to assure, with the truth, so most countries will not panic and lockdown again.",4/6/20,0.5,0.5,0.0,0.637,0.363,0.7508,neutral
+1822,2025,"Be strong, stay confident, it is not the end of the world, peoples with bad luck will get infected, do not push the blame to other for spreading the virus, it will always be around, everywhere within the universe, like the common flu.",4/6/20,-0.038333333333333296,0.6216666666666667,0.159,0.6,0.241,0.577,anger
+1823,2026,"May good luck be with us always, without doing anything we remain healthy.",4/6/20,0.6,0.55,0.0,0.538,0.462,0.8225,joy
+1828,2031,Help given to individual is already so minimal!,4/6/20,-0.0625,0.5,0.0,0.701,0.299,0.4574,fear
+1844,2047,"Sirs and mdm, please provide more touch and go timing.",4/6/20,0.5,0.5,0.0,0.796,0.204,0.3182,neutral
+1846,2049,Most of the company do not like sick workers may force to terminate or sack.,4/6/20,-0.10714285714285715,0.6785714285714286,0.118,0.73,0.152,0.1511,sadness
+1858,2061,My boss very good to me.,4/6/20,0.9099999999999999,0.7800000000000001,0.0,0.61,0.39,0.4927,neutral
+1869,2072,Only those who are *not well need to be tested.,3/6/20,0.0,1.0,0.0,0.811,0.189,0.2732,fear
+1880,2083,"This epidemic can be eliminated if we do not travel and move from one country to another, so it is possible to reopen, but traveling for holiday will have serious consequences.",29/5/20,-0.16666666666666666,0.8333333333333333,0.043,0.853,0.104,0.4767,neutral
+1886,2089,I donâ€™t think so .. the only way out is lockdown then they can distance themselves  toward the ppl ..but their livelihood will definitely get affected ...,22/3/20,0.0,0.75,0.055,0.79,0.155,0.4404,fear
+1891,2094,"Because one is easy just talk only, while other is hard to implement?",20/3/20,0.004166666666666666,0.6875,0.092,0.719,0.19,0.3612,anger
+1898,2101,Ok. Granted that the mask is not full proof.,20/3/20,-0.175,0.55,0.0,0.625,0.375,0.4939,neutral
+1911,2116,Can our govt please  produce more masks and enforce compulsory mask wearing ?,20/3/20,0.5,0.5,0.0,0.827,0.173,0.3182,joy
+1922,2127,They want to shorten the hours to gather bigger crowd inside each cabin so that can contain the virus easier inside the cabin and lock down with the virus totally contained to be Virus Flyer!,21/3/20,-0.051851851851851864,0.512962962962963,0.0,0.883,0.117,0.5255,anger
+1925,2130,Idea of having 1 metre distance is just ideal but not feasible.,16/3/20,0.9,1.0,0.0,0.82,0.18,0.296,sadness
+1952,2157,?Is that ok??,20/3/20,0.5,0.5,0.0,0.422,0.578,0.4098,neutral
+1954,2160,Speak to a decision maker today and open up new opportunities to achieve your financial goals kindly contact us with the details below  and get attended to by a loan consultant from our company thank you our loans are easy access to hard money at affordable loan interest rate transactions.,7/4/20,0.14633838383838382,0.5382575757575757,0.024,0.729,0.247,0.9153,joy
+1980,2187,Also provide in the app a function for recording of key details like times/dates of onset of various symptoms.,11/3/20,0.0,0.75,0.0,0.872,0.128,0.3612,joy
+1985,2192,I thought there are smart scholars in public service who can come up with amazing solutions?,22/1/21,0.27142857142857146,0.5365079365079365,0.0,0.594,0.406,0.802,fear
+1991,2198,Even individuals are allowed to buy 50k boxes easily now.,25/3/20,0.43333333333333335,0.8333333333333334,0.0,0.789,0.211,0.34,neutral
+1994,2201,"there is no ""safe distancing "" practised at all since they have to squeezed together now!",25/3/20,-0.3125,0.5,0.12,0.707,0.174,0.2481,sadness
+2006,2214,"When loved ones are removed from your home by ambulance because the virus has hit them hard, you are not going to be able to follow them there, sit by their hospital bed and hold their hand.",25/3/20,0.30277777777777776,0.6555555555555556,0.033,0.8,0.167,0.7717,fear
+2009,2217,They are not going to be well enough to text you.,25/3/20,0.0,0.5,0.0,0.826,0.174,0.2732,anger
+2012,2220,Imagine that person is someone you love dearly.,25/3/20,0.5,0.6,0.0,0.462,0.538,0.7906,neutral
+2015,2223,Please stay home and only go out if absolutely necessary.,25/3/20,0.0,1.0,0.0,0.796,0.204,0.3182,neutral
+2018,2226,Sure can catch many people flouting rules.,23/1/21,0.5,0.6944444444444444,0.0,0.723,0.277,0.3182,anger
+2031,2239,COVID 19 could be a plot or a gift that successfully wash cards and reset the order.,28/6/20,0.75,0.95,0.0,0.681,0.319,0.7269,joy
+2046,2254,Just take the advice and be happy to ppl helps you willing... they are also taking risks n at the same time their families do worried for them too,20/4/20,0.35000000000000003,0.625,0.124,0.694,0.182,0.4588,joy
+2050,2258,how about ask them to bring out their phone and flash a QR code and make sure person read the webpage in front of you.,21/4/20,0.5,0.8888888888888888,0.0,0.909,0.091,0.3182,joy
+2072,2280,Hope the decision is wise.,28/3/20,0.7,0.9,0.0,0.333,0.667,0.7184,sadness
+2076,2284,Our leaders are very smart.,28/3/20,0.2785714285714286,0.8357142857142859,0.0,0.572,0.428,0.4576,anger
+2077,2285,Instead of lockdown the came with safe distancing and min 10 pax outing.,28/3/20,0.5,0.5,0.0,0.805,0.195,0.4404,joy
+2085,2293,Teach them the values of helping others to stay at home and not go out not unless to do important things like buy essentials (food).,28/3/20,0.4,1.0,0.0,0.695,0.305,0.802,anger
+2089,2297,"For some of us, we are so comfortable with our lives and things around us, we cannot fathom there are many who go without everyday.",28/3/20,0.2333333333333333,0.6333333333333333,0.0,0.85,0.15,0.6418,sadness
+2103,2311,It is difficult to have safe distancing in public transports.,3/4/20,0.0,0.5222222222222223,0.187,0.597,0.216,0.1027,sadness
+2105,2313,"Go to Chong Pang food market, the crowd is amazing.",10/2/21,0.6000000000000001,0.9,0.0,0.703,0.297,0.5859,fear
+2109,2317,"So to tell me,me and wife should safe distance at home to ah?",10/3/21,0.5,0.5,0.0,0.805,0.195,0.4404,neutral
+2110,2318,"Understand the need for rules,if its too rigid and there is no efficiency on ground, kinda just paper law.regardless all stay safe and go out when needed imo.",10/3/21,0.5,0.5,0.112,0.725,0.163,0.4019,neutral
+2114,2322,Or buildings put away the machines after certain hours.,7/2/21,0.21428571428571427,0.5714285714285714,0.0,0.792,0.208,0.2732,fear
+2118,2326,"Virus is very courteous, it knows when to attack and when to allow you to eat.",10/2/21,0.78,1.0,0.144,0.602,0.254,0.3384,anger
+2125,2333,"Some people I see in my area, walking about smoking using hand phones , or masks down walking about with a bottle of drink but not drinking so that didn’t have to wear mask... almost daily in the evenings I see a group of mothers/ helpers chatting and children (4,5yr olds) with them playing together without any masks or face shields ... the popular spots, beaches & parks are not the only places that need more monitoring.",25/7/20,0.18888888888888888,0.5377777777777778,0.0,0.863,0.137,0.8641,anger
+2131,2339,"people make mistakes thats part of life and I'm sure you will make some as well, and when you do, should you expect this kind judgement.. try not to be so bitter, be better",7/3/21,0.375,0.6972222222222222,0.134,0.613,0.253,0.6649,anger
+2132,2340,This offence is not justified in a country that hardly practices safe distancing ..and so yes we must be in a group of 8 and not more or we must be this and that but at the end of the day everyone is still walking pass each other by the hundreds in the malls a d shopping centers .. so what's a another 2 extra persons on a yacht ..they are more safe distanced being only 10 people on a yacht then the thousands of families that are out in malls ..just go to Ngee Ann city basement where the food court is and try justifying safe distancing  or look at the 6 or 7 people who walked into the lift wheres the safe distancing...,6/3/21,0.14848484848484847,0.5378787878787878,0.026,0.859,0.115,0.9027,anger
+2133,2341,Even though there is one table gap in hawker centers people are still mask free when they are eating and there are hundreds of them there eating and one table gap away is not that safe without a mask ..so i think such laws should use more discretion ..if you're talking about a bar or restaurant having indoors gatherings then maybe yes but 10 people on a boat away from everyone else ???,6/3/21,0.35,0.575,0.024,0.914,0.063,0.4285,anger
+2134,2342,Lol ..,6/3/21,0.8,0.7,0.0,0.263,0.737,0.4215,fear
+2136,2344,Always respect and obey the law of the country u are in .. dun bring their own country law into another country .,6/3/21,0.6,1.0,0.0,0.866,0.134,0.4767,fear
+2141,2349,"They are a ""special breed"" bros",7/3/21,0.35714285714285715,0.5714285714285714,0.0,0.597,0.403,0.4019,joy
+2159,2367,"Malaysians may not be excellent with their speaking abilities and let alone writing forms but I know they’re friendly, radical, helpful, rational and mostly don’t live a delusional life, being fake to one another and grow up under the love and care of a caretaker or an underpaid foreign worker yearning for parents love later becomes a brat who has so much time to criticise without thinking before hand.",7/3/21,0.25863636363636366,0.5025,0.157,0.557,0.286,0.935,sadness
+2162,2370,I dont feel sorry for them because the 1st rule when living in a foreign country is to respect and follow its rules... and Spore is extremely clear about that!,1/3/21,-0.16666666666666666,0.5027777777777778,0.0,0.769,0.231,0.7584,sadness
+2167,2376,Seriously $3k is peanuts for these rich expats who are likely to be earning at least 5-figure sums !!!,3/3/21,-0.13606770833333331,0.7041666666666666,0.073,0.734,0.193,0.5826,joy
+2175,2384,"Fine, fine and more fine.",2/3/21,0.43750000000000006,0.5,0.0,0.27,0.73,0.5267,neutral
+2183,2392,This profile will destroy talent and vulnerable to foreign power infiltration and once they could erode privacy snd law  The true evilness and nastiness of human vulnerability will reveal thenselves They only do in the surface thing  They feel that as long as you dun do wrong thing in the open or hurt and cheat in the open  You do it with cover up or lack of evidence  It is ok  What rubbish This generation of pap leadership suck big time Drawing own fat pay-check taking others wealth talent and tech through money lending  Strictly speaking they corrupted the whole population  I won’t be surprised rising number of sabotages in the pipelines Reward and punishment state controlled top down system dun nurture good people  A free and fair market plus a good education led by cohesive loyalists will,2/3/21,0.15330687830687834,0.5363756613756614,0.176,0.61,0.215,0.6124,anger
+2184,2393,This is an utter joke to give these idiots SGD3000 fine only.,1/3/21,-0.09583333333333334,0.825,0.0,0.714,0.286,0.4588,anger
+2188,2397,Singapore is a very small country and virus can spread like wildfire.,1/3/21,-0.325,0.52,0.0,0.8,0.2,0.3612,joy
+2190,2399,"I'm very sure, these ppl will not do what they did back in their own country.",1/3/21,0.4166666666666667,0.6666666666666666,0.0,0.853,0.147,0.3804,neutral
+2192,2401,That looks like a good list of dining establishments to support.,24/2/21,0.7,0.6000000000000001,0.0,0.464,0.536,0.7964,joy
+2193,2402,I heard the cage at kallang also like that .. say only 8 people can play.,24/2/21,0.0,1.0,0.0,0.71,0.29,0.5994,fear
+2194,2403,But more than 10 people playing.,24/2/21,0.5,0.5,0.0,0.735,0.265,0.2023,anger
+2202,2411,Always think it won't happen to me lah so lucky meh!.,24/2/21,0.41666666666666663,0.8333333333333334,0.0,0.719,0.281,0.6005,neutral
+2206,2415,"There is still a lot FDW, FW can't go out to enjoy their rest day, only stuck at home or dormitory, yet this bunch of cividiot act like they are is own this country😐😐",24/2/21,0.3333333333333333,0.8333333333333334,0.053,0.796,0.151,0.5719,joy
+2211,2420,"You probably think it's too late to invest in it but the truth of the matter is, it isn't.",24/2/21,-0.3,0.6,0.0,0.806,0.194,0.4767,neutral
+2219,2428,use law to penalise is an easy way out.,23/2/21,0.43333333333333335,0.8333333333333334,0.0,0.734,0.266,0.4404,anger
+2238,2447,It's looks for towards rich association.,17/2/21,0.375,0.75,0.0,0.581,0.419,0.5574,anger
+2247,2458,Since am in trading career my Forexthen was lucky enough to get to know Mr Sani Yusuf trading has increased a lot.,17/2/21,0.16666666666666666,0.6666666666666667,0.0,0.795,0.205,0.5994,fear
+2249,2460,It is really one of a kind and has it's own league.,17/2/21,0.4666666666666666,0.7000000000000001,0.0,0.732,0.268,0.5667,neutral
+2252,2463,"Good job ma Mr Sani Yusuf God will continue to increase you and your family,, you can also invest with him safely.",17/2/21,0.6,0.55,0.0,0.632,0.368,0.8591,neutral
+2258,2469,I think better check throughly what the family think of Muslims and what influence they had on his views.,28/1/21,0.5,0.5,0.0,0.854,0.146,0.4404,sadness
+2271,2482,I started living a good and a happier life since I started investing on Binary Option Trading.,27/1/21,0.7,0.6000000000000001,0.0,0.636,0.364,0.743,joy
+2276,2487,"When i started trading, i passed through a lot of losses, i almost lost hope in binary trading, i don't have any idea of investing with an honest manager.",27/1/21,0.6,0.9,0.154,0.653,0.193,0.2992,joy
+2277,2488,"Not until i got in Contact with Mrs Genet Tadese i have always invested with him  and since then i have no complains  and my profit was paid without no delay or stress, you can give him a trial and become  a successful trader like me.",27/1/21,0.75,0.95,0.182,0.612,0.207,0.3318,anger
+2293,2504,It no easy to seat at this place.,24/9/20,-0.21666666666666667,0.8333333333333334,0.198,0.541,0.261,0.1779,anger
+2295,2506,Who ever can achieved the place is very lucky.,24/9/20,0.43333333333333335,1.0,0.0,0.721,0.279,0.4754,joy
+2297,2508,PM Muhyiddin  is performing very well.Just look at how he was able to overcome with drastic measures pertaining to the pandemic.He modest sincere n humble.,24/9/20,0.21999999999999997,0.545,0.0,0.895,0.105,0.4019,joy
+2301,2512,"I wondered ours working hours can/will be rescheduled to 3 batches base on locations of examples 08:00-16:00 ,09:00-17:00, 10:00-18:00 and will this help to reduce the crowd of the public transportation and the eating places",2020-03-25,-0.4,0.5333333333333333,0.0,0.911,0.089,0.481,fear
+2302,2513,"Take a time to read this please👇👇👇👇💃💃 haaaa how happy I am now ,Mrs  @beverlyhanderson5  make my heart feels with so much joy ,after the pandimic I and my family was left without nothing i don't know how to get my skull bill I go around to friend but no help ,I was just on my country group just keeping myself busy and some posted a short note about Mrs @beverlyhanderson5 great help in Bitcoin online earn ,I step in to give a try and I was so much afraid because it was the only money left with me $376,I inbox him and tell him about my situation at the moment he give words of encourage and he set-up and online trading account for me so I can benefit from their company and I invested the money he told me to wait for 48hours of trade and I will get my money and my profit , surprisely I received 3'800$ as a money and my profit ,I'm super excited at this moment ,I'm sharing this because I was instructed to share the my testimony and the link by the company to impress invite more that want to earn online click below to inbox her👇👇👇@beverlyhanderson5",2020-11-27,0.2590277777777778,0.5305555555555556,0.012,0.735,0.253,0.9954,joy
+2310,2521,"I don't understand why we helpers are only one being watched  during our offdays, we try our best to follow all the protocols, while the other public places , mrt stations, malls no social  distancing, and only 5 group is not followed, but why you focus on FDWs group of 5 or less only and try to talk , even yell at them 😊🤣, we helpers often clean , wash our hands than you.",2020-09-10,0.1175925925925926,0.5083333333333333,0.021,0.841,0.138,0.8294,anger
+2315,2526,"And now when Singaporeans are helping the government to have the FORESIGHT to identify potential cluster outbreak events like the GE, you dismiss it off as not jumping to conclusions and waiting to see if it really happens.",2020-07-17,0.1,0.6,0.0,0.885,0.115,0.5719,fear
+2320,2531,Public and opposition already given you free consultation feedback on this kind issue will happen.,2020-07-17,0.3333333333333333,0.5888888888888889,0.0,0.64,0.36,0.8074,neutral
+2323,2534,"Lucky we not hk or west certain country, if not govt please don’t anyhow.",2020-07-17,0.2738095238095238,0.7023809523809523,0.11,0.616,0.274,0.4475,fear
+2324,2535,We want peaceful country.,2020-07-17,0.25,0.5,0.0,0.308,0.692,0.5423,neutral
+2327,2538,Stop being in your own era like you not wrong when you suppose to hold accountability with apology.,2020-07-20,0.425,0.95,0.098,0.623,0.279,0.4685,anger
+2329,2540,Let someone else who can do better do the work please?,2020-07-20,0.5,0.5,0.0,0.634,0.366,0.6369,neutral
+2333,2544,"So, Lawrence Wong, make sure u take them to task lah like how u lawa says 'take them to task'",2020-07-19,0.5,0.8888888888888888,0.0,0.769,0.231,0.5859,anger
+2336,2548,Totally agree.,2020-06-16,0.0,0.75,0.0,0.264,0.736,0.4201,joy
+2337,2549,"Nvr think u are lucky everyday, when the virus come, then u would say, why me!!!",2020-06-16,-0.028645833333333343,0.7166666666666667,0.0,0.78,0.22,0.5684,fear
+2347,2560,I feel like this is a possible overstep in privacy of people.,2020-06-09,0.0,1.0,0.0,0.783,0.217,0.3612,joy
+2348,2561,The govt has already made it almost impossible for our free voices to be heard and now they want to trace our every step.,2020-06-09,-0.1333333333333333,0.9,0.0,0.827,0.173,0.5574,fear
+2354,2567,"hope ppl can respect the government’s decisions and understand it from their perspective, to keep singapore as safe as possible, gradually re-opening up",2020-06-09,0.25,0.75,0.0,0.692,0.308,0.836,anger
+2361,2574,The train is to help transport as many people as it can to their destination.,2020-06-10,0.5,0.5,0.0,0.838,0.162,0.4019,anger
+2362,2575,"So if there’re contact tracing procedures in place, why aren’t the contact tracers already using Safe Entry data to reach out to the people who checked in and checked out within the identified periods?",2020-06-08,0.5,0.5,0.0,0.889,0.111,0.4588,anger
+2364,2577,Okay.,2020-05-31,0.5,0.5,0.0,0.0,1.0,0.2263,neutral
+2365,2578,But the authorities must also HOLD people responsible with CONSEQUENCES.,2020-05-31,0.2,0.55,0.0,0.796,0.204,0.3182,anger
+2366,2579,It appears that those who flouted the rules at Robertson Quay are getting away scot free.,2020-05-31,0.4,0.8,0.0,0.82,0.18,0.5106,fear
+2371,2584,The comments in here truly make me realise the number of idiots in Singapore.,2020-05-30,-0.8,0.8,0.0,0.741,0.259,0.4939,anger
+2379,2592,Don't post useless comments and make yourself look like an idiot.,2020-05-30,-0.65,0.5,0.205,0.496,0.3,0.1361,anger
+2380,2593,Why delete your thread if you did nothing wrong?,2020-04-11,-0.5,0.9,0.0,0.758,0.242,0.3724,neutral
+2409,2622,"Even marriage, events postponed and upcoming Bazaar Ramadhan for Fasting month also didn't have this year to prevent the mass gathering.. What I want to say, If we all want to be Safe and fight this covid-19, we must work together to make it done.. To all My Friends out there, Stay Safe and Stay At Home.. 😉😉",2020-04-07,0.5,0.5,0.067,0.742,0.191,0.7351,anger
+2418,2631,Early I told my friend before about the airplane cause .....why they only quarantine China people ???,2020-03-25,0.05,0.65,0.0,0.8,0.2,0.5775,anger
+2421,2634,It’s a good call to close the tuition centres instead of schools cos students at tuition centres are coming from different schools.,2020-03-25,0.35,0.6000000000000001,0.0,0.873,0.127,0.4404,joy
+2426,2642,"During that time, they will be completely alone, while you sit at home waiting to hear whether they have made it through.Imagine that person is someone you love dearly.",2020-03-25,0.3,0.5,0.065,0.737,0.198,0.6915,fear
+2433,2649,Y’all might feel that why everyone so srs as y’all claim to be just joking and y’all joke about ur own religion to .,2020-02-19,0.6,1.0,0.0,0.837,0.163,0.4767,fear
+2448,2665,Happy that the sales for my parents stall increased.,2021-01-23,0.8,1.0,0.132,0.441,0.426,0.6124,joy
+2449,2666,"However, wishes that the safety measurement become better.",2021-01-23,0.5,0.5,0.0,0.407,0.593,0.743,fear
+2454,2671,I can stay at home but my parents have to work so they need to be out.Thank you for providing free covid testing for people who work at Chinatown.,2021-01-23,0.4,0.8,0.0,0.859,0.141,0.6652,sadness
+2455,2672,But this method can only help to spot the virus and prevent it from spreading.,2021-01-23,0.0,1.0,0.0,0.774,0.226,0.4215,sadness
+2457,2674,Although we all know temperature taking doesn't mean anything but it better than nothing.,2021-01-23,0.09375,0.59375,0.0,0.772,0.228,0.5927,neutral
+2458,2675,Please look into it!Thanks for all the hard work.,2021-01-23,-0.2916666666666667,0.5416666666666666,0.127,0.637,0.236,0.2942,joy
+2464,2681,The fight against covid is far from over :) we can do it together,2021-01-23,0.3,1.0,0.148,0.682,0.17,0.1027,sadness
+2465,2682,Possible to suggest for the 1m rule to be applied on public transport as well?,2020-04-01,0.0,0.5333333333333333,0.0,0.87,0.13,0.2732,anger
+2470,2687,I seen in hawker not every stall that doing business have mark for safe distance.,2020-04-01,0.5,0.5,0.0,0.728,0.272,0.5411,joy
+2472,2689,How can this be judged by good or no business or queue.,2020-04-01,0.7,0.6000000000000001,0.146,0.662,0.192,0.1779,neutral
+2473,2690,Everyone need to keep safe distance.,2020-04-01,0.5,0.5,0.0,0.633,0.367,0.4404,neutral
+2475,2692,"If this is the measure, that not standardise for all safe mark which keep encourage people to do so.",2020-04-01,0.5,0.5,0.0,0.733,0.267,0.7351,anger
+2476,2693,"Singapore has a really blessed leader, he's a spirited true leader.",2020-04-07,0.3499999999999999,0.6166666666666667,0.0,0.392,0.608,0.8516,anger
+2480,2697,If everyone cooperate would  be better.,2021-02-21,0.5,0.5,0.0,0.633,0.367,0.4404,neutral
+2484,2701,How is this supposed to be ok with 8 people?,2021-01-23,0.5,0.5,0.0,0.784,0.216,0.296,anger
+2491,2715,"It takes two hands to clap, but it needs the millions to sanitise to reopen... well done to everyone and the ministers, especially the Ministry Of Bonus and Relief, and not to mention the frontline workers.",2020-12-28,0.0,1.0,0.0,0.741,0.259,0.9109,anger
+2494,2719,Now the cases are still fluctuating.by allowing everyone to go out to tuition centres etc just means the virus has a high chance to spread againand cause a high number of deaths.,2020-06-15,0.16,0.5399999999999999,0.0,0.895,0.105,0.3182,fear
+2496,2721,what a totallyy good use of money.,2020-05-08,0.7,0.6000000000000001,0.0,0.633,0.367,0.4404,anger
+2504,2729,"to everyone: stay safe and drink loads of water, if sick, see the doc asap okays!!",2020-04-09,-0.25,0.6785714285714286,0.144,0.568,0.288,0.508,fear
+2509,2734,"People want to be free...we want to do whatever we want...but if you close all these places, more people will stay home.",2020-04-09,0.5,0.5,0.0,0.885,0.115,0.1531,neutral
+2517,2742,"So my dear Singaporeans, be careful what you wish for.",2020-03-28,-0.1,1.0,0.0,0.494,0.506,0.7334,neutral
+2519,2744,I think a lockdown would be better than advising ppl to stay at home.,2020-03-28,0.5,0.5,0.0,0.791,0.209,0.4404,sadness
+2520,2745,Since news ard the world has shown some ppl are juz not taking this seriously or thinking they won't be infected,2020-03-28,-0.3333333333333333,0.6666666666666666,0.08,0.808,0.112,0.1909,sadness
+2521,2746,"To encourage more ppl to stay home, why not have tv organiser to introduce 10 min exercise every 1 hour or more as well as quiz programmes with some rewards exclusively only on local TV.",2020-03-28,0.25,0.5,0.0,0.779,0.221,0.8307,anger
+2522,2747,Better if there is a live tv programme that engage viewers at a stipulated time.,2020-03-28,0.3181818181818182,0.5,0.0,0.675,0.325,0.6486,joy
+2530,2755,You might look healthy but there are a lot of cases where the infected and positive doesn't have symptoms and become carrier to the surrounding ..,2020-03-28,0.36363636363636365,0.5227272727272727,0.13,0.666,0.204,0.3506,fear
+2541,2766,I don’t see the 1m safe distancing at all!,2020-03-27,0.625,0.5,0.0,0.687,0.313,0.4926,anger
+2547,2773,Every citizen SHOULD obey this rule to safe your own life and other S’porean are well 😊educated to do so 👍👍❤️,2020-03-28,0.325,0.625,0.0,0.792,0.208,0.6124,anger
+2552,2778,Safe distancing.,2020-03-27,0.5,0.5,0.0,0.256,0.744,0.4404,neutral
+2554,2780,I love how our government is treating us like kids as if we do not know what is 1 meter apart means 😑😑😑,2020-03-27,0.5,0.6,0.0,0.739,0.261,0.7717,fear
+2559,2785,You guys are already going out and walking together which I'm sure most of us won't be standing 1m apart when going out together with our friends right,2020-03-27,0.42857142857142855,0.6415343915343915,0.0,0.828,0.172,0.6597,joy
+2574,2801,"The virus doesnt only affect the health, it also seems to affect the brain with the thought of “i want to travel!”.",2020-03-27,0.0,1.0,0.0,0.93,0.07,0.1511,joy
+2578,2805,"Each time they come closer to you, you can also fine them for coming 1m close to you",2020-03-27,0.4166666666666667,0.5,0.0,0.904,0.096,0.2023,joy
+2590,2817,I myself experienced in MRT many times people standing near to me sneezing or coughing and they just don’t care at all 🤷‍♀️,2020-03-22,0.46666666666666673,0.6,0.0,0.868,0.132,0.4939,anger
+2598,2825,"Just curious, is wearing a mask when you are outside better off?",2020-03-22,0.13333333333333333,0.5166666666666667,0.0,0.634,0.366,0.6369,fear
+2603,2830,Super crowded and people pushing each other.,2020-03-22,0.10416666666666666,0.5208333333333333,0.0,0.606,0.394,0.5994,neutral
+2613,2840,Are people doing it because someone said to do it or is such a setting going to help ease the spread of the virus?,2020-03-22,0.0,0.5,0.0,0.802,0.198,0.6369,anger
+2650,2877,I love it.,2020-03-14,0.5,0.6,0.0,0.192,0.808,0.6369,joy
+2651,2878,"Stay safe, Singapore.",2020-03-14,0.5,0.5,0.0,0.408,0.592,0.4404,neutral
+2662,2890,It’s a powerful feeling for them and HR.,2020-12-15,0.3,1.0,0.0,0.538,0.462,0.5106,sadness
+2665,2893,the fact that they’d rather allow schs to open and like in a sch there are clearly more then 600 people and every is in a 1km radius so like wtf is this,2020-10-20,0.0,0.6666666666666666,0.103,0.655,0.242,0.5456,sadness
+2666,2894,"To be honest, this piece of news means nothing to me.",2020-10-20,0.6,0.9,0.0,0.752,0.248,0.5106,anger
+2669,2897,"I promise, when life does get normal it will be phase 10.",2020-10-20,0.15,0.6499999999999999,0.0,0.813,0.187,0.3182,joy
+2670,2898,(Don't get me wrong tho.,2020-10-20,-0.5,0.9,0.0,0.61,0.39,0.3724,fear
+2671,2899,I'm quite glad the govt is so strict to keep us safe),2020-10-20,0.5,0.75,0.0,0.77,0.23,0.5095,anger
+2674,2902,More interested to know when can live and move around without the mask,2020-10-20,0.29545454545454547,0.5,0.0,0.8,0.2,0.4576,joy
+2681,2909,Stay away to be safe Stay healthy to be safe tommorow.abd STAY STRONG.AND DILIGENT.,2020-10-05,0.5,0.5,0.0,0.564,0.436,0.8176,anger
+2694,2922,They can enjoy to dine together even it’s 6 pax.,2020-10-05,0.4,0.5,0.0,0.714,0.286,0.4939,joy
+2697,2925,Not allowed to have more than 5 per table for meals but allow more staffs in the office?,2020-09-23,0.5,0.5,0.0,0.872,0.128,0.3291,anger
+2698,2926,"Don’t just go to Clarke key and catch, go round the coffeeshop islandwide, you have plenty to catch, plenty to fine and plenty to close.",2020-09-09,0.07222222222222223,0.6333333333333333,0.0,0.93,0.07,0.2023,anger
+2703,2931,Too many people pretending to eat while chatting.,2020-09-10,0.5,0.5,0.0,0.833,0.167,0.1027,anger
+2706,2934,It may seemed harsh but hv a heart for the F&B people who are trying to make n earn a living during these hard times..i hv seemed ppl disobey the safe distancing rules with total disregard of others...so though it may seemed harsh ..let's just cooperate n help n remind each other to keep safe distancing if not for the sake of others but at least for ourselves n our families n loved ones....let's stay united n conquer this virus together n not let this virus divide us as One Singapore.,2020-09-10,0.06481481481481481,0.5851851851851851,0.097,0.706,0.196,0.9224,sadness
+2711,2939,There are so many cross-contamination touch points in this method which appears to also add to the already difficult task of taking an effective uncontaminated swab from a patient.,2020-06-10,0.19999999999999998,0.7666666666666666,0.079,0.823,0.098,0.1531,fear
+2715,2943,Awesome job!!!,2020-06-10,1.0,1.0,0.0,0.167,0.833,0.7163,neutral
+2717,2945,If you’re fearful of it good because it is deadly and safety and security must be ensured to the fullest to make sure we end it.,2020-06-10,0.02499999999999998,0.7222222222222222,0.092,0.607,0.301,0.7351,fear
+2724,2952,In order to save us all the fine has to be enforce  where it hurts ppl the most in order to obey the safe distancing regulations which protects everyone eventually,2020-04-12,0.47222222222222227,0.5,0.081,0.653,0.266,0.7269,fear
+2727,2955,"Enforcement officers should petrol the heartland’s Parks in the morning, and hope they don’t close the only place we can exercise due to some  ignorance people.",2020-04-14,-0.0625,0.6875,0.085,0.816,0.099,0.1027,anger
+2728,2956,"Govt, just execute it lah..look at ECP pic today...isn't that pure disaster?",2020-04-11,0.21428571428571427,0.5,0.0,0.77,0.23,0.5096,sadness
+2738,2966,Yeah because “freedom” is important at times like this?,2020-04-11,0.4,1.0,0.0,0.48,0.52,0.6705,anger
+2741,2970,Awesome.,2020-04-11,1.0,1.0,0.0,0.0,1.0,0.6249,neutral
+2744,2973,To encourage the car owner to go out more ?,2020-04-04,0.5,0.5,0.0,0.708,0.292,0.5106,fear
+2747,2976,"From Day One, if we have use our Heart, you will be wearing mask is for your loved ones, if we use our brain, will be thinking no need to wear mask cos you are well, cos you are thinking only you and yourSELF.",2020-04-05,0.35,0.9,0.045,0.833,0.122,0.5859,neutral
+2758,2988,"which is the reason why i get all confident and wild at the end of the year, my long hair just gives me faith in myself.",2021-01-09,0.18333333333333332,0.5444444444444444,0.0,0.793,0.207,0.7184,joy
+2759,2989,"it’s not about style or aesthetics or looking good, it’s the strength it gives me.",2021-01-09,0.7,0.6000000000000001,0.0,0.681,0.319,0.7269,sadness
+2768,2998,"I remember on my eldest child’s first day of school, the principal gave a short briefing and assured all anxious parents that their children will be well taken care of.",2021-01-04,0.0,0.5444444444444444,0.059,0.71,0.231,0.7003,joy
+2777,3007,Hope enforcer should patrol more on those likely crowded places.,2020-07-26,0.25,0.75,0.0,0.756,0.244,0.4404,fear
+2780,3011,It's very hot so bosses and floor managers please take note let workers know it's ok to let dishwashers run full cycle and let the dishes cool down abit before taking then out.,2020-07-27,0.27388888888888885,0.5977777777777777,0.0,0.815,0.185,0.7003,neutral
+2781,3012,May take some time but this will secure one area of safety at dining places,2020-07-27,0.4,0.6,0.0,0.657,0.343,0.7783,fear
+2784,3015,Everyone eating out please help to do this we all want to remain open for business and working .,2020-07-27,0.0,0.5,0.0,0.704,0.296,0.6486,neutral
+2785,3016,"Ask them go prinsep Street there and catch, sure can get more fines and close more shop.",2020-07-26,0.5,0.6296296296296297,0.0,0.874,0.126,0.3182,neutral
+2787,3018,Good to fine and suspend these restaurants and cafes!,2020-07-26,0.6104166666666666,0.55,0.173,0.451,0.376,0.4003,neutral
+2793,3024,Please issue fine to offenders without warning.,2020-07-22,0.4166666666666667,0.5,0.215,0.258,0.527,0.3891,anger
+2799,3030,Like that how to ease the restrictions further.,2020-07-24,0.0,0.5,0.0,0.545,0.455,0.6124,joy
+2801,3032,We observed there are many cycling and running interest groups commencing their activities at ECP.,2020-06-13,0.5,0.5,0.0,0.824,0.176,0.4588,joy
+2806,3037,"Dear Mr Wong @lawrencewongst, this has been happening for many weeks already and people are getting bolder.",2020-06-13,0.5,0.5,0.0,0.758,0.242,0.5859,fear
+2818,3049,"Sir, we hope your task force seriously reconsider the opening up of phases in such quick time.",2020-06-13,0.0,0.5555555555555555,0.087,0.765,0.148,0.296,fear
+2831,3062,"People very much desire to cooperate at such a difficult time as this but because new implementations and advisories are ever so fast changing, I feel it is important to state loud and clear in plain terms and esp the rationale behind each stricter level of advisory.",2020-04-01,0.008207792207792209,0.6055021645021645,0.035,0.814,0.151,0.704,fear
+2833,3064,Feedback from a Pro Govt supporter : it takes an individual Razer Tan Min-Liang to do this : Produce our own masks (a couple of millions masks each month).,2020-04-01,0.3,0.7,0.0,0.923,0.077,0.2732,joy
+2834,3065,"Finally someone with ""great common sense"" is doing it.",2020-04-01,0.16666666666666666,0.75,0.0,0.661,0.339,0.6249,joy
+2836,3067,What are our top civil servants doing ?,2020-04-01,0.5,0.5,0.0,0.769,0.231,0.2023,neutral
+2838,3069,"Dear Minister, you are a good & hardworking Minister.",2020-04-01,0.7,0.6000000000000001,0.0,0.476,0.524,0.6705,joy
+2840,3071,"Can our Govt support Razer in (1) help him to expedite in setting up the factory with our ""Govt agencies"" rich resources and industrial contacts (2) our Govt to chip in and ramp up the production scale to at least 15  mil to 30 mil masks a month.",2020-04-01,0.037500000000000006,0.575,0.0,0.83,0.17,0.8402,anger
+2847,3078,Thank you Mr Lawrence Wong too for ur good leadership & hardwork.,2020-04-01,0.7,0.6000000000000001,0.0,0.625,0.375,0.6597,neutral
+2849,3080,"*Suggestion / Feedback* for ""Enhanced Safe Distancing Measures announced by PM Lee on 3 Apr"" : NTUC FAIRPRICE SHOULD * 1.",2020-04-03,0.5,0.5,0.0,0.847,0.153,0.4404,neutral
+2871,3103,Thank you Minister for your kind attention & consideration.,2020-04-03,0.6,0.9,0.0,0.504,0.496,0.7096,neutral
+2880,3112,"Dear Minister, good afternoon.",2020-03-28,0.7,0.6000000000000001,0.0,0.267,0.733,0.6705,neutral
+2881,3113,"I can see that you are working very hard as the Taskaforce Co-Chair,  so thank you for that.",2020-03-28,-0.3791666666666667,0.7041666666666666,0.085,0.752,0.163,0.3712,joy
+2883,3115,"As an indvidual, I can only help by being ""socially responsible"", which I have been doing since Jan.",2020-03-28,0.1,0.775,0.0,0.847,0.153,0.4019,anger
+2892,3125,Was it very effective ?,2020-03-28,0.78,1.0,0.0,0.469,0.531,0.5256,neutral
+2893,3126,"After so many weeks, still think it worked like SARS ?",2020-03-28,0.5,0.5,0.0,0.783,0.217,0.3612,neutral
+2898,3131,China enforced this and was quite successful.,2020-03-28,0.75,0.95,0.0,0.594,0.406,0.624,neutral
+2909,3142,"FEEDBACK : Another ""piece of evidence"" why masks are important in the containment efforts.",2020-03-28,0.4,1.0,0.0,0.87,0.13,0.2023,fear
+2918,3151,"After sometime, it will become almost impossible to do ""effective contact tracing"" and Singapore will then be at high risks of becoming the next Italy or Spain (sudden spikes in cases, exploded, healthcare system breakdown etc) This is highly possible if our Govt become complacent (means while doing good in some areas but also flawed / overlook in other areas) @leehsienloong @gankimyong @ongyekung @khawboonwan @teocheehean @lawrencewongst",2020-03-28,0.06183333333333332,0.6164999999999999,0.04,0.901,0.059,0.3182,fear
+2920,3153,Link :  https://www.scmp.com/week-asia/health-environment/article/3077345/coronavirus-why-so-few-infections-singapores-health (UNQUOTE) This article in some ways praised Singapore Govt and this will make many Singaporeans proud.,2020-03-28,0.65,0.75,0.0,0.717,0.283,0.743,neutral
+2921,3154,"However, there is one important info in this article : (QUOTE) "" Experts suggest this has been more than just luck, pointing to a case in which 41 health workers were exposed to the coronavirus in a Singapore hospital yet evaded infection.The workers had all come within two metres of a middle-aged man with Covid-19 who was being intubated, a procedure which involves a tube being inserted into the patient’s trachea.",2020-03-28,0.05000000000000001,0.8333333333333334,0.019,0.906,0.075,0.5809,fear
+2923,3156,The workers had not known at the time that the man had the virus and all were quarantined after he tested positive.,2020-03-28,0.22727272727272727,0.5454545454545454,0.0,0.854,0.146,0.5574,anger
+2927,3160,Strong Evidence: WEARING MASKS ARE EFFECTIVE PROTECTION.,2020-03-28,0.5166666666666666,0.7666666666666666,0.0,0.412,0.588,0.7983,fear
+2928,3161,"Govt must act fast to produce our own masks, enforce everyone in public to wear masks, this will surely help in the overall containment.",2020-03-28,0.26,0.5111111111111111,0.0,0.797,0.203,0.6808,anger
+2930,3164,"Thank you Mr Wong for your dedication to SG, your heartfelt message made me cry too!",2020-03-25,0.0,1.0,0.138,0.581,0.281,0.4926,joy
+2934,3168,"Honestly to me, the symptoms of COVID-19 is confusing - it seems like normal flu, normal tick in the throat, normal pneumonia,  or asthma or sinus & some of us will just wait it out for it to heal by itself.",2020-03-25,0.15,0.6499999999999999,0.1,0.778,0.122,0.25,fear
+2936,3170,I trust this is much more NEEDED.,2020-03-27,0.5,0.5,0.0,0.602,0.398,0.5106,anger
+2938,3172,"Yes, its possible.",2020-03-27,0.0,1.0,0.0,0.426,0.574,0.4019,neutral
+2943,3177,"And not only to a sometbing certain, but to everyting.",2020-03-27,0.10714285714285714,0.7857142857142857,0.0,0.838,0.162,0.1406,fear
+2947,3181,Wanna set an example jolly well start right from the top.,2020-03-27,0.39285714285714285,0.5178571428571428,0.0,0.526,0.474,0.7351,joy
+2949,3183,"Dear Minister, thank you for your hard work.",2020-03-25,-0.2916666666666667,0.5416666666666666,0.122,0.435,0.443,0.5719,neutral
+2955,3189,It is very challenging and yet all of you are taking it in good stride.,2020-03-23,0.675,0.8,0.0,0.731,0.269,0.5849,joy
+2957,3191,Being disciplined and responsible will bring us far and wide.,2020-03-23,0.06666666666666668,0.65,0.0,0.796,0.204,0.3182,neutral
+2959,3193,Easier to enforce too because hotel security and cctv system can easily detect if people exit their rooms.,2020-03-23,0.43333333333333335,0.8333333333333334,0.0,0.664,0.336,0.765,neutral
+2966,3201,It would be wise if both countries Singapore and Malaysia work out together to extend the borders lockdown.,2020-03-23,0.7,0.9,0.0,0.769,0.231,0.5859,fear
+2972,3207,"Once exploded, no amount of contact tracing can help to do effective containment.",2020-03-23,0.6,0.8,0.122,0.556,0.322,0.5574,joy
+2977,3212,So our Govt most important task now : to prevent Singapore from becoming the next Italy.,2020-03-23,0.3375,0.5875,0.0,0.803,0.197,0.2944,fear
+2983,3218,Should allow only one pax at a time per household unless old people who required assistant...,2020-06-05,0.05,0.6,0.0,0.881,0.119,0.2263,anger
+3003,3238,Government already say wear mask be good be safe why she special 😂😂😂 why she want go hospital sleep at the bed let her go la.,2020-05-04,0.5190476190476191,0.5571428571428572,0.0,0.692,0.308,0.8316,fear
+3004,3239,whats the fine is like?,2020-04-23,0.4166666666666667,0.5,0.0,0.411,0.589,0.5106,neutral
+3023,3258,"Her nontoxic method is cheap, simple and very effective.",2020-04-17,0.39333333333333337,0.6857142857142856,0.0,0.702,0.298,0.5256,joy
+3025,3260,I urge the leaders in the world to contact Jessica Seah at aceofaceent@yahoo.com so this pandemic can swiftly end before a great depression becomes a reality!🇸🇬,2020-04-17,0.8,0.75,0.122,0.66,0.218,0.4389,sadness
+3029,3264,Our local Indians are mostly pretty law and rules abiding.,2020-04-17,0.125,0.5,0.0,0.738,0.262,0.4939,anger
+3035,3270,"While the ""circuit breaker"" is in place, we should also implement universal testing (a local lab has devised a 5min test with a 95% accuracy rate) and round up all Covid infected persons to maximise the effectiveness of cutting off viral transmission within the community... then once the month is up, we should legally mandate (and strictly enforce) all noses and mouths to be covered in public (once u step outta your house for no matter how long and for no matter what purpose)... this will enable us to embrace both defensive (semi-lockdown) and offensive (testing + treatment) measures in tandem to combat Covid so we can resume a greater semblance of domestic socioeconomic normalcy as soon as possible... the living conditions of our FWs also need urgent and significant improvement bcoz we're only as strong as our weakest link, and right now the FW dorms are looking pretty dodgy...",2020-04-08,0.07960317460317459,0.514047619047619,0.106,0.759,0.135,0.2023,fear
+3037,3272,It’s heart warming to see Singaporeans being socially responsible to help the front liners.,2020-04-08,0.2,0.55,0.0,0.625,0.375,0.6808,joy
+3039,3274,Pls find a way to allow employees to also report on employers who don't allow wfh with no good reason,2020-04-04,-0.35,0.6000000000000001,0.091,0.579,0.331,0.5859,anger
+3050,3307,"The brilliant author discovered we could use appropriate cheap food to activate the immune system to fight and subdue infections, pathogens, diseases, free radicals and cancer cells.",2020-03-19,0.5499999999999999,0.75,0.183,0.574,0.243,0.3182,sadness
+3053,3310,"It is cheap, simple and very effective.",2020-03-19,0.39333333333333337,0.6857142857142856,0.0,0.639,0.361,0.5256,neutral
+3060,3317,"To be honest, look at the streets.",5/10/20,0.6,0.9,0.0,0.645,0.355,0.5106,fear
+3062,3319,"Ultimately, the government has to relax the rules at some point in time and the virus will not disappear.",5/10/20,0.0,1.0,0.0,0.788,0.212,0.5523,anger
+3074,3331,"The risk is considerably higher than activities which we can keep our masks on and maintain a safe distance.""",5/10/20,0.375,0.5,0.1,0.762,0.138,0.2023,sadness
+3082,3339,"> Related Story Places of worship slowly open up to more worshippers as Covid-19 rules eased
+
+> Museums and libraries have also reopened, and small-scale live performances are being trialled to prepare Singapore to eventually be able to resume such activities safely, added Mr Gan.",5/10/20,0.23376623376623376,0.5035714285714286,0.0,0.801,0.199,0.8268,fear
+3083,3340,"> He added that the authorities here are being careful in reopening society, as they have learnt from the experiences of other countries.",5/10/20,-0.1125,0.6875,0.0,0.929,0.071,0.1531,sadness
+3086,3343,"> So the Government has taken a carefully calibrated approach in moving towards phase three, and will share more details in the coming weeks.",5/10/20,0.2,0.75,0.0,0.844,0.156,0.4019,neutral
+3087,3344,"> Minister for Education Lawrence Wong also said earlier on Monday that his ministry is studying how to resume more activities, and will share more details when ready.",5/10/20,0.3,0.5,0.0,0.834,0.166,0.6077,neutral
+3093,3350,"My friends have organised a meeting of 8 but split into groups of four and the key thing was finding a place with enough seats to dine ""together"".",5/10/20,0.0,0.75,0.0,0.921,0.079,0.2617,joy
+3097,3354,"The cases will spike up for sure, but as long as they are manageable from an ICU perspective and hospital load, we are more than fine.",5/10/20,0.3416666666666667,0.5722222222222222,0.0,0.849,0.151,0.5052,fear
+3101,3358,"> limited seating
+
+Pretty sure that seating is limited due to the limit on group pax.",5/10/20,0.09642857142857145,0.5099206349206349,0.187,0.542,0.271,0.4019,neutral
+3120,3377,I mean army personels are immune to covid right?,7/12/20,-0.01339285714285715,0.6116071428571428,0.0,0.761,0.239,0.296,fear
+3122,3379,Yes it’s idiotic for people to gather like that in front of the store.,5/12/20,-0.6666666666666666,0.8333333333333334,0.182,0.556,0.263,0.1531,joy
+3125,3382,It seems that even Adidas SG made necessary precaution as they knew launching the product in stores would draw a huge crowd so why can't Footlocker do the same?,5/12/20,0.13333333333333336,0.6749999999999999,0.0,0.922,0.078,0.3182,fear
+3135,3392,"Well we dont have safe distancing ambassadors, but there are some people like this in America.",17/11/20,0.5,0.5,0.087,0.667,0.246,0.4761,sadness
+3150,3407,"And on top of that, he has the cheek to say that people are politicising the issue when all they want is equality.",28/4/20,0.5,0.5,0.0,0.871,0.129,0.2732,anger
+3160,3417,"> ""playing the role of a safe distancing ambassador"".",28/4/20,0.5,0.5,0.0,0.515,0.485,0.5719,fear
+3174,3431,"> # MP Seah Kian Peng explains visit to market after Facebook post on 'playing role of safe distancing ambassador'
+
+> SINGAPORE: Member of Parliament Seah Kian Peng has explained why he was out and about at his constituency on Sunday (Apr 26), after netizens questioned his Facebook post that said he was ""playing the role of a safe distancing ambassador"".",28/4/20,0.5,0.5,0.022,0.828,0.15,0.7906,anger
+3182,3439,At all times observing safe distancing rules.,28/4/20,0.5,0.5,0.0,0.674,0.326,0.4404,anger
+3183,3440,"Based on what I saw, happy that things are all in order,"" he explained.",28/4/20,0.8,1.0,0.0,0.764,0.236,0.5719,joy
+3187,3444,"All parties concerned observed the safe distancing rules.""",28/4/20,0.5,0.5,0.0,0.517,0.483,0.6808,fear
+3191,3448,> Safe distancing ambassadors have been appointed to remind people of these rules.,28/4/20,0.5,0.5,0.0,0.791,0.209,0.4404,anger
+3192,3449,Those who do not comply will be issued a fine.,28/4/20,0.4166666666666667,0.5,0.0,0.816,0.184,0.2023,fear
+3193,3450,"> In his Facebook post on Sunday, Mr Seah said he observed that compliance with safe distancing measures was high, and temperature screening and crowd control measures were in place at popular places like supermarkets and wet markets.",28/4/20,0.29,0.585,0.0,0.806,0.194,0.802,anger
+3194,3451,"> ""Take care and stay safe,"" he wrote, adding hashtags like #socialdistancing and #walkabout.",28/4/20,0.5,0.5,0.0,0.659,0.341,0.6908,joy
+3201,3459,"> 
+
+> Another MP, Liang Eng Hwa of Holland-Bukit Timah GRC, also posted about being a safe distancing ambassador on Sunday.",28/4/20,0.5,0.5,0.0,0.854,0.146,0.4404,fear
+3203,3461,"> Mr Liang wrote: ""Joined as one of the Safe Distancing Ambassador (SDA) this evening.",28/4/20,0.5,0.5,0.0,0.818,0.182,0.4404,fear
+3208,3466,"If the feedback were positive like he was hoping (“wow, such a caring guy!",30/4/20,0.10909090909090909,0.6818181818181818,0.0,0.421,0.579,0.908,neutral
+3211,3469,So yes I’m watching carefully,29/4/20,-0.1,1.0,0.0,0.4,0.6,0.5413,neutral
+3212,3470,Many people like to use the “70% voted for this /s” meme but it’s true.,29/4/20,0.425,0.575,0.0,0.705,0.295,0.6652,anger
+3215,3473,They clarify it's so that the mic can better pick up on what they're saying - which I can close one eye for.,29/4/20,0.5,0.5,0.0,0.873,0.127,0.4404,anger
+3218,3476,What you guys think about removing your face makes to adjust in public would that considered fine worthy.,18/4/20,0.25,0.5222222222222223,0.0,0.773,0.227,0.5719,fear
+3223,3481,> Investigations suggested that the safe distancing ambassador had advised the man not to loiter along Hougang Avenue 8.,21/4/20,0.5,0.5,0.0,0.854,0.146,0.4404,sadness
+3233,3491,"> ""Everyone should take the circuit breaker measures seriously, and cooperate and comply with the instructions of the enforcement officers and safe distancing ambassadors,"" said the police.",21/4/20,0.08333333333333334,0.5833333333333333,0.059,0.839,0.101,0.296,fear
+3234,3492,"> ""They are doing an important duty to keep our population safe.",21/4/20,0.45,0.75,0.0,0.657,0.343,0.5719,anger
+3237,3496,"It is good that MPs, who represent their constituencies, have an idea of how the new rules have played out and can convey any feedback to the COVID task force.",27/4/20,0.41818181818181815,0.5272727272727273,0.0,0.841,0.159,0.6486,anger
+3242,3535,"I think it's fair that these incidents are seen with a political lens
+
+If Parliament (by extension, the ruling party) is happy to make law to allow for GE (with a year to go when the changes were made then) to take place within the pandemic climate, politicians (especially those from the ruling party) should be ready to be viewed as acting for political means",27/4/20,0.24285714285714285,0.5142857142857143,0.0,0.848,0.152,0.8555,joy
+3245,3538,If he wants to do than sure just make sure he practises what he preaches.,27/4/20,0.39999999999999997,0.6259259259259259,0.0,0.739,0.261,0.5574,neutral
+3252,3545,2000 ambassadors is a huge operation.,8/4/20,0.4000000000000001,0.9,0.0,0.635,0.365,0.3182,fear
+3260,3553,I can't imagine this is any good for their reputation either.,8/4/20,0.7,0.6000000000000001,0.0,0.756,0.244,0.4404,joy
+3268,3561,"For a pop of 5 million, 7,000 doesn't seem crazy.",8/4/20,-0.6,0.9,0.0,0.775,0.225,0.2584,anger
+3270,3563,"I saw two domestics sitting on the  PCN pathway eating KFC...
+
+Be interesting to see if the numbers go up fm 7K or reduce.",8/4/20,0.5,0.5,0.0,0.891,0.109,0.4019,fear
+3278,3571,"> Safe Distancing measures at Singapore's Bedok Interchange Hawker Centre on Apr 7, 2020.",8/4/20,0.5,0.5,0.0,0.805,0.195,0.4404,neutral
+3284,3577,"> More than 2,000 Safe Distancing and SG Clean Ambassadors, and enforcement officers were sent to HDB estates across the island on Tuesday.",8/4/20,0.45555555555555555,0.5666666666666668,0.0,0.773,0.227,0.7063,fear
+3297,3590,Be nice to each other and be cooperative.,8/4/20,0.2375,0.6875,0.0,0.714,0.286,0.4215,joy
+3302,3595,But end of day they are there to do a job and I have enough faith in Singaporeans that vast majority will try to do their jobs properly.,8/4/20,0.0,0.5333333333333333,0.0,0.899,0.101,0.4215,sadness
+3303,3596,And vast majority of Singaporeans will allow them to do so.,8/4/20,0.0,1.0,0.0,0.84,0.16,0.2263,anger
+3308,3601,"There is an underlying reason, we must understand it to better formulate a collective response.",18/4/20,0.5,0.5,0.0,0.818,0.182,0.4404,anger
+3320,3613,"> Meanwhile on Tuesday, a 35-year-old man and a 33-year-old woman ""hurled vulgarities"" at three safe distancing ambassadors who had told the man not to sit on a crossed-out seat at a hawker centre along Toa Payoh Lorong 5.",18/4/20,0.5,0.5,0.0,0.919,0.081,0.4404,fear
+3346,3639,"I mean, it is hard to enforce safe distancing in a crowded mall or even on the escalator.",8/10/20,-0.034722222222222245,0.5763888888888888,0.077,0.765,0.158,0.3612,fear
+3355,3648,Not cutting onions here but honestly not returning to your homeland during the festive period to see your relatives is just saddening on all levels.,25/1/21,0.0,0.9,0.125,0.609,0.266,0.5974,sadness
+3358,3651,"To all Malaysians who are unable to return to your homeland during this festive season and also some on this sub, treasure your loved ones and keep them in contact every now and then cause you will never know until when they will be around in this world.",25/1/21,0.09999999999999998,0.65,0.0,0.824,0.176,0.8625,sadness
+3359,3652,Stay safe and cheer up!,25/1/21,0.625,0.5,0.0,0.316,0.684,0.7574,neutral
+3360,3653,"The 8 people rule has been a blessing in disguise for my family, we get to skip on the toxic relatives and only visit the ones we are closer to in the first place",25/1/21,0.125,0.6666666666666666,0.057,0.852,0.091,0.296,fear
+3377,3670,"My grandma were stubborn at 1st(since she didn't knew how dangerous Covid is),but she finally accepted the situation after hearing about her friend son got covid.",20/1/21,-0.3,0.95,0.083,0.676,0.241,0.6315,sadness
+3382,3675,"I really think we should reduce gathering as a precaution, better be safe than sorry.",21/1/21,0.175,0.55,0.076,0.585,0.339,0.6705,sadness
+3385,3678,(3) Make sure everyone washes their hands before eating.,20/1/21,0.5,0.8888888888888888,0.0,0.777,0.223,0.3182,neutral
+3389,3682,"At the first sign of someone having flu-like symptoms, quickly inform everyone, and make sure everyone in your household monitor their health carefully.",20/1/21,0.24583333333333332,0.6805555555555556,0.0,0.847,0.153,0.4215,joy
+3394,3687,A lot of elderly folks feel lonely and CNY is a good occasion for them to see their friends and relatives.,20/1/21,0.3,0.65,0.102,0.653,0.245,0.5423,sadness
+3409,3702,Just get ready for CB 2.0.,8/2/21,0.2,0.5,0.0,0.667,0.333,0.3612,neutral
+3413,3706,"So we have 2 ways to go from here:
+
+\- Lockdowns and border controls become the norms or
+
+\- Update the vaccines every year and hope that whoever makes the vaccines guess the right upcoming strain.",8/2/21,0.2857142857142857,0.5357142857142857,0.032,0.889,0.078,0.4019,fear
+3415,3708,"Great job, humanity.",8/2/21,0.8,0.75,0.0,0.328,0.672,0.6249,neutral
+3419,3712,"They know the extent to which their particular population will tend to comply (fortunately, here, we're pretty compliant).",8/2/21,0.2722222222222222,0.6777777777777777,0.0,0.842,0.158,0.4939,sadness
+3421,3714,"So, you may be right, but also, things won't be too bad as a result, hopefully.",8/2/21,-0.20714285714285707,0.6011904761904762,0.0,0.64,0.36,0.8087,neutral
+3423,3716,Tell them your neighbour is working as a safe distancing officer.,8/2/21,0.5,0.5,0.0,0.756,0.244,0.4404,fear
+3424,3717,"If they want to pay $300 to stay overnight, please feel free because neighbour sure come and catch.",8/2/21,0.45,0.8444444444444444,0.059,0.551,0.39,0.7783,neutral
+3425,3718,"Bonus points if you got a neighbour that you are not on good terms with, say he confirm targeting you this cny.",8/2/21,0.7,0.6000000000000001,0.097,0.763,0.141,0.2718,anger
+3434,3727,My post didn't mean to blame any individual or party.,8/2/21,-0.15625,0.54375,0.0,0.628,0.372,0.577,anger
+3436,3729,">Pandemic fatigue is very real, and I'm sure quite a number of us have felt it by now.",8/2/21,0.38,0.6394444444444445,0.101,0.704,0.196,0.2247,fear
+3439,3732,"Be responsible, be safe.",8/2/21,0.35,0.525,0.0,0.278,0.722,0.6369,anger
+3444,3737,"So yeah, I can wait patiently for othe vaccines to develop since they can't even schedule me now considering I'm not in a ""high"" risk group.",8/2/21,0.16,0.5399999999999999,0.0,0.836,0.164,0.5118,sadness
+3445,3738,Definitely agree that the regulations are going to be incredibly difficult to enforce.,8/2/21,-0.25,0.75,0.155,0.556,0.289,0.3415,joy
+3451,3744,Then can kindly tell the government to be more prudent in managing borders can or not?,8/2/21,0.55,0.7,0.0,0.824,0.176,0.4939,fear
+3465,3758,"Ultimately, the government can only lead, but it is the people who enact these policies or procedures that have to ensure it’s all followed.",8/2/21,0.0,1.0,0.0,0.871,0.129,0.5267,anger
+3468,3761,By all means grab the pitch fork but make sure you point it at the right person.,8/2/21,0.39285714285714285,0.7123015873015872,0.0,0.844,0.156,0.4497,neutral
+3470,3763,"Since a good portion of the numbers of community cases come from those who work at airports, I feel the next wisest decision is to scrutinize the airport’s own policies and protective measures and see if it’s strong enough or if there are gaps that we need to fix.",8/2/21,0.3466666666666666,0.5666666666666667,0.0,0.826,0.174,0.8519,fear
+3481,3775,"But if the government is prudent enough to reduce the amount of foreigners entering, we could easily ease restrictions earlier, thereby reducing said pandemic fatigue.",8/2/21,0.14444444444444446,0.6111111111111112,0.069,0.761,0.17,0.4404,fear
+3495,3790,it's easy to sit on a high horse and deride the government for not being prudent when you only make considerations upon a small window of factors.,10/2/21,0.08583333333333334,0.6933333333333332,0.075,0.821,0.104,0.2023,fear
+3499,3794,"and don't get me wrong, i hold the govt of singapore to the same high standards i hold the people of singapore.",10/2/21,-0.11333333333333333,0.5216666666666666,0.0,0.882,0.118,0.3724,fear
+3502,3797,"this growing ""superiority complex of the collective people"" idea needs to be kept in check, otherwise it can lead to our own downfall.",10/2/21,0.15,0.7,0.0,0.837,0.163,0.4767,anger
+3508,3803,Are you sure you're not projecting?,8/2/21,0.5,0.8888888888888888,0.0,0.685,0.315,0.3182,anger
+3509,3804,"Yeah, well, you're entitled to your opinion, even if it's wrong.",8/2/21,-0.5,0.9,0.188,0.424,0.388,0.3182,anger
+3510,3805,I think it's oversensitive of you to assume that OP is on a high horse and that he is smug because he's ready for cases to spike after CNY.,8/2/21,0.18,0.52,0.0,0.853,0.147,0.5106,fear
+3517,3812,"Sure, I try to ask them to do it, but I can't catch every person.",8/2/21,0.5,0.8888888888888888,0.0,0.879,0.121,0.1655,anger
+3523,3818,Who goes to Singapore and decides to casually break the law?,18/1/21,-0.5000000000000001,0.8666666666666667,0.0,0.855,0.145,0.1779,sadness
+3528,3823,We don't have people crying on the grocery store floors because they have to wear a mask.,18/1/21,-0.2,0.6,0.0,0.855,0.145,0.3724,anger
+3530,3825,Now we can have guilt-free dinner parties and open tourist attractions.,18/1/21,0.0,0.5,0.0,0.621,0.379,0.6705,neutral
+3532,3827,Just bloody stay in a comfortable hotel room for 14 days.,18/1/21,-0.2,0.8500000000000001,0.204,0.563,0.232,0.1027,fear
+3536,3831,I guess endangering an entire nation with a potentially fatal disease is the trendiest way of proving your love these days.,18/1/21,0.16666666666666666,0.7416666666666667,0.142,0.688,0.17,0.1779,joy
+3541,3836,"Yea, I’d say 6 months is quite justified.",19/1/21,0.4,0.9,0.0,0.667,0.333,0.4576,neutral
+3582,3877,We understand it that they hit you 5 times and you walk out pretty sore.,18/1/21,0.25,1.0,0.141,0.678,0.181,0.1779,neutral
+3585,3880,You heal fairly well with some swelling and maybe a scar or two.,18/1/21,0.7,0.9,0.0,0.84,0.16,0.2732,joy
+3600,3896,"Ok, so here's a question that I'm sure the Singapore government won't like to hear, because they are so busy pretending to be a SimCity simulation in reality and getting hard from it... but...
+
+Why on earth were they separated?",19/1/21,0.20208333333333334,0.5576388888888889,0.082,0.773,0.145,0.3956,anger
+3607,3903,"\*\*Edit - was lazy, didn't research - got destroyed!",18/1/21,-0.3125,1.0,0.24,0.48,0.28,0.1078,anger
+3611,3907,6 months in jail would surely be pretty disproportionate even is the guy is a selfish asshole.,18/1/21,-0.11666666666666665,0.6666666666666666,0.146,0.566,0.288,0.4588,neutral
+3614,3910,Needs to be better.,18/1/21,0.5,0.5,0.0,0.508,0.492,0.4404,neutral
+3643,3939,The infection numbers are incredibly low here and we have had only 29 deaths the entire time because of how clear and how well enforced those rules are.,18/1/21,0.025000000000000005,0.5770833333333334,0.075,0.779,0.146,0.3197,sadness
+3646,3942,"His fiancée as a guest was free to come and go from the hotel as she pleased - if he was sick, she could have passed Covid on to multiple people in the community leading to a surge in infections.",18/1/21,0.04642857142857143,0.6642857142857143,0.076,0.782,0.143,0.4404,joy
+3654,3950,"The connotations of that word choice are, ""Everyone knows that the Singaporean justice system gives short shrift to rule breakers, especially those that do so knowingly.",18/1/21,0.0,0.65,0.0,0.88,0.12,0.5267,anger
+3655,3951,"Frankly he's lucky it's only six months.""",18/1/21,0.16666666666666666,0.9166666666666667,0.0,0.682,0.318,0.4215,neutral
+3656,3952,"Compared to the UK, definitely.",18/1/21,0.0,0.5,0.0,0.597,0.403,0.4019,neutral
+3658,3954,"Yeah, I don’t know of any country where sneaking out of quarantine is ok.",18/1/21,0.5,0.5,0.0,0.714,0.286,0.5267,neutral
+3661,3957,It sounds like it would be better to classify the rest of the world as “idiotically lax”.,18/1/21,0.5,0.5,0.0,0.735,0.265,0.6597,joy
+3666,3962,They're lucky it's only 6 months if anything.,19/1/21,0.16666666666666666,0.9166666666666667,0.0,0.682,0.318,0.4215,joy
+3673,3969,Pretty bold to try it.,18/1/21,0.29166666666666663,0.8333333333333333,0.0,0.341,0.659,0.7003,neutral
+3682,3978,"Fair, objective, but opinionated.",18/1/21,0.35,0.5,0.0,0.645,0.355,0.1655,anger
+3685,3981,It’s really a very nice place to visit - though maybe come after the pandemic when you wouldn’t have to quarantine :-),19/1/21,0.64,1.0,0.0,0.76,0.24,0.688,joy
+3691,3987,Imagine living in a country where wearing a mask is not controversial and has only had 7 deaths from the virus while being inside 150km of the country of origin.,18/1/21,-0.1375,0.975,0.0,0.942,0.058,0.1511,fear
+3706,4003,They all acted like it didn't exist until the 3 of them got hit hard.,18/1/21,-0.2916666666666667,0.5416666666666666,0.088,0.755,0.157,0.2732,anger
+3707,4004,"Not hospital hard, just everything feels like you're dying when you're not type of hard.",18/1/21,-0.2916666666666667,0.5416666666666666,0.0,0.702,0.298,0.4753,sadness
+3722,4019,](https://www.todayonline.com/singapore/24-new-covid-19-infections-singapore-including-4-community-cases-and-1-foreign-worker-dorm) So we only have about 300 active cases.,18/1/21,-0.06666666666666667,0.8,0.0,0.748,0.252,0.4019,sadness
+3732,4029,Our border quarantines are working fine.,18/1/21,0.4166666666666667,0.5,0.0,0.735,0.265,0.2023,neutral
+3739,4036,"It's true, people are dying but we're not dropping in the streets.",18/1/21,0.35,0.65,0.0,0.853,0.147,0.2263,sadness
+3741,4038,"Now that a vaccine is being distributed, it'll eventually revert to some form of normal, but I'm glad the world reacted the way it did vs doing nothing.",18/1/21,0.325,0.825,0.0,0.867,0.133,0.6124,sadness
+3744,4041,This allows for much greater freedom for the general population.,18/1/21,0.275,0.5,0.0,0.544,0.456,0.7717,anger
+3753,4050,"These wankers joined two great wars, had the arse kicked on both, nearly invaded by the Germans until help arrived.",19/1/21,0.45,0.575,0.131,0.62,0.248,0.4939,fear
+3771,4068,"But yes, seeing loved ones is not important.",19/1/21,0.24999999999999997,0.9,0.121,0.379,0.5,0.7191,neutral
+3777,4074,All a mask does is make idiots feel comfortable.,18/1/21,-0.2,0.8,0.0,0.68,0.32,0.5106,joy
+3782,4079,Or enjoy chocolate or use a iphone or wear adidas.,18/1/21,0.4,0.5,0.0,0.714,0.286,0.4939,joy
+3787,4084,"Funny, that.",18/1/21,0.25,1.0,0.0,0.256,0.744,0.4404,joy
+3788,4085,I live in the Cayman Islands and we've been covid free since June.,18/1/21,0.2681818181818182,0.65,0.0,0.769,0.231,0.5106,neutral
+3800,4098,"Also, the system that is responsible to list the names & addresses of those needing to quarantine, is not yet online.",18/1/21,0.2,0.55,0.0,0.892,0.108,0.3182,neutral
+3802,4100,So now you know a country in which plain ignoring quarantine is pretty much the default.,18/1/21,0.07857142857142858,0.5190476190476191,0.143,0.688,0.169,0.128,neutral
+3803,4101,I think they messed up the words but from what I remember their overall laws are pretty strict.,18/1/21,0.125,0.5,0.085,0.7,0.215,0.5574,sadness
+3810,4108,"Usually in those type scenarios they talk pretty nebulous, i think because they prefer not to imply that someone might be doing drugs on a business trip.",19/1/21,0.0,0.625,0.0,0.882,0.118,0.4939,fear
+3814,4112,"Our government will not be able to do anything to help you"".",19/1/21,0.5,0.625,0.0,0.803,0.197,0.4019,anger
+3815,4113,It was actually an awesome trip.,19/1/21,1.0,1.0,0.0,0.549,0.451,0.6249,fear
+3816,4114,Some really cool stuff to see and literally some of the best food I've had in my entire life.,19/1/21,0.45,0.525,0.0,0.714,0.286,0.7778,anger
+3821,4119,"They don't openly say it, but they definitely do.",18/1/21,0.0,0.5,0.0,0.693,0.307,0.5499,neutral
+3844,4142,What a brave platform you shared.,18/1/21,0.8,1.0,0.0,0.341,0.659,0.7003,anger
+3859,4157,They only deep clean after your stay.,18/1/21,0.12222222222222223,0.7000000000000001,0.0,0.69,0.31,0.4019,neutral
+3871,4169,Someone I know had her beloved family member pass away while she was overseas.,19/1/21,0.7,1.0,0.0,0.784,0.216,0.5106,sadness
+3883,4183,"Instead, we are lenient and put in these policies in place.",18/1/21,0.5,0.9,0.0,0.826,0.174,0.2732,anger
+3896,4196,Fucking taking away someones freedom for 6 months because he saw his fiancee during quarantine?,19/1/21,-0.6,0.8,0.0,0.756,0.244,0.6369,fear
+3900,4201,Covid is just further demonstrating the west’s ineptitude and privilege with shit like this,18/1/21,-0.1,0.65,0.184,0.561,0.255,0.1027,joy
+3901,4202,"I don’t think it is funny, either.",19/1/21,0.25,1.0,0.0,0.633,0.367,0.4404,neutral
+3906,4207,Nothing about rape is funny.,19/1/21,0.25,1.0,0.0,0.311,0.689,0.7676,neutral
+3923,4224,Jets skies are pretty much fibreglass and floatation foam and are made for pretty extreme usage as long as you don't hit a log or something.,18/1/21,0.10499999999999998,0.72,0.0,0.782,0.218,0.7506,joy
+3928,4229,Its not that bad compared to the surrounding countries in the region.,19/1/21,-0.6999999999999998,0.6666666666666666,0.0,0.794,0.206,0.431,fear
+3933,4234,"Do not fuck with a country that doesn't give a fuck if anyone else knows that they make people disappear for just thinking thoughts/having ideas, which deviates from the state mandated thought process.",18/1/21,-0.1,0.6,0.053,0.787,0.16,0.5859,fear
+3937,4238,"And chewing gum isn't illegal, selling it is.",18/1/21,-0.5,0.5,0.0,0.705,0.295,0.4449,neutral
+3942,4243,"early on in quarantine, when they just mandated facemasks, after giving everyone on the island a free mask.",18/1/21,0.25,0.55,0.0,0.725,0.275,0.6908,joy
+3947,4248,lol,18/1/21,0.8,0.7,0.0,0.0,1.0,0.4215,fear
+3949,4250,The boyfriend got pretty lucky.,18/1/21,0.29166666666666663,0.9166666666666667,0.0,0.333,0.667,0.7184,joy
+3964,4265,"This fellow travelled from the airport on a special bus, with both a police and army escort, was led to a room, and not allowed into even the corridor for a fortnight.",18/1/21,0.35714285714285715,0.5714285714285714,0.0,0.909,0.091,0.4019,anger
+3973,4274,Recreational drug use does exist there but users have to be really careful and maintain some semblance of self control especially in public ie.,19/1/21,-0.05,0.5666666666666667,0.0,0.908,0.092,0.3269,anger
+3974,4275,"Try to look sober or if that's not possible, do the drugs at house parties.",19/1/21,0.05,0.6,0.0,0.838,0.162,0.4019,fear
+3977,4278,"I'd be interested in reading about that too if you find anything (credible, of course).",19/1/21,0.325,0.6,0.0,0.838,0.162,0.4019,joy
+3978,4279,"I was curious and did a little searching myself but found nothing, and that really would've been a notable case.",19/1/21,0.10312500000000001,0.55,0.0,0.907,0.093,0.1655,sadness
+3981,4282,":)  Sometimes in the news too, you'll hear about one aspect of a case, and the writer will just kinda forget that there were also some very legally-aggravating circumstances.",19/1/21,0.35,0.65,0.053,0.849,0.098,0.3384,fear
+3989,4291,"If Singaporeans are irked by the littering, the noise and the jaywalking in Little India, they'll certainly and quickly sense that there exists a hint of lawlessness in Geylang"" (""1,000 more cops needed to boost force: Police chief"", The Straits Times, A2)
+
+2.",18/1/21,0.2150297619047619,0.5178571428571428,0.0,0.892,0.108,0.5908,fear
+4001,4303,This sounds like a hilarious white supremacist make belief.,18/1/21,0.25,0.5,0.0,0.427,0.573,0.6908,joy
+4002,4304,"But sure, don't worry, you already are undesired in most of East Asia, and with your recessive genes and non existent birth rates it really won't take long lol.",18/1/21,0.39,0.5377777777777778,0.071,0.787,0.142,0.3343,neutral
+4016,4318,I put my money where my mouth is by swearing to never visit that shithole until they clean up their act.,19/1/21,0.3666666666666667,0.7000000000000001,0.088,0.793,0.119,0.1779,anger
+4017,4319,I'm not stupid enough to fly over and start waving rainbow flags.,19/1/21,0.39999999999999997,0.7999999999999999,0.0,0.798,0.202,0.4168,anger
+4025,4327,"Honestly, as a foreigner who has lived years in Singapore, you get the sense that they caned one guy in 1992 and have been coasting ever since.",18/1/21,0.6,0.9,0.0,0.893,0.107,0.4588,joy
+4028,4330,It's super safe though.,18/1/21,0.41666666666666663,0.5833333333333333,0.0,0.227,0.773,0.7783,joy
+4029,4331,It's obviously not attempted murder because there was no premeditation or intent.,18/1/21,0.0,0.5,0.138,0.627,0.235,0.3691,anger
+4042,4344,The models were actually pretty well on.,18/1/21,0.25,1.0,0.0,0.485,0.515,0.6486,neutral
+4052,4354,> Fucking taking away someones freedom for 6 months because he saw his fiancee during quarantine?,19/1/21,-0.6,0.8,0.0,0.756,0.244,0.6369,fear
+4074,4377,Glad it worked out for him though I have a healthy fear of the sea and would never attempt something like that.,19/1/21,0.5,0.75,0.197,0.592,0.211,0.1002,fear
+4078,4381,Singapore is a lovely place as long as you behave and do what you are told.,19/1/21,0.225,0.575,0.0,0.787,0.213,0.5859,joy
+4083,4387,"Nobody wants to go through that again so yes, everyone is really annoyed when there are people (locals or otherwise) who try to flout the rules and think they’re really clever in doing so.",19/1/21,-0.011111111111111118,0.5777777777777778,0.071,0.762,0.167,0.5982,anger
+4087,4391,"The strictest measure in the US is in the county of Kaua’i, which is the whole island so easy to enforce.",18/1/21,0.31666666666666665,0.6166666666666667,0.0,0.842,0.158,0.5777,fear
+4089,4393,Feel free to let me know what Taiwan or New Zealand do.,18/1/21,0.2681818181818182,0.6272727272727273,0.0,0.769,0.231,0.5106,neutral
+4094,4398,That's pretty wild.,19/1/21,0.175,0.7,0.0,0.385,0.615,0.4939,neutral
+4096,4400,"For some reason the clubs seemed to be a little more upscale than they are other places, but that could have just been because alcohol was pretty expensive...",19/1/21,-0.0125,0.615,0.0,0.858,0.142,0.6486,anger
+4112,4416,> This sounds like a hilarious white supremacist make belief.,18/1/21,0.25,0.5,0.0,0.427,0.573,0.6908,joy
+4115,4419,2 K-pop albums on top 100?!,18/1/21,0.625,0.5,0.0,0.657,0.343,0.2714,neutral
+4116,4420,"lmao give me fucking break..
+
+https://www.billboard.com/charts/year-end/2020/top-album-title-sales",18/1/21,0.0,0.9,0.0,0.562,0.438,0.5994,fear
+4122,4426,"Don't fuck around, don't find out is a solid policy to observe when visiting anywhere, but especially somewhere that takes special efforts to maintain civil order.",18/1/21,-0.010714285714285718,0.5678571428571428,0.0,0.765,0.235,0.698,fear
+4130,4434,"I'm willing to concede that 6 months is a long while, but what's a slap on the wrist supposed to do?",19/1/21,0.1,0.575,0.0,0.899,0.101,0.2263,joy
+4139,4443,Pretty stupid take to be honest.,18/1/21,0.01666666666666668,0.9666666666666667,0.264,0.233,0.504,0.4767,anger
+4143,4447,Learn to be respectful of other cultures and rules.,18/1/21,0.1875,0.5375,0.0,0.727,0.273,0.4588,anger
+4155,4459,I was just checking my own understanding that they could only go out for things like daily supervised exercise/outside time during the two weeks.,18/1/21,0.19999999999999998,0.6666666666666666,0.0,0.898,0.102,0.3612,anger
+4156,4460,We've had our share of idiots breaking out of course.,18/1/21,-0.8,0.8,0.0,0.804,0.196,0.296,anger
+4159,4463,All clubs are alcohol focused cause that's pretty much the only option.,19/1/21,0.15,0.7333333333333334,0.0,0.633,0.367,0.7003,sadness
+4161,4465,They target traffickers and dealers and people who possess huge amounts.,19/1/21,0.4000000000000001,0.9,0.0,0.813,0.187,0.3182,neutral
+4166,4470,"Anyway, I'm pretty sure the police knows which clubs/parties they'll find recreational drug users and if they wanted to arrest anyone at any point, they would've done so.",19/1/21,0.2333333333333333,0.6296296296296297,0.073,0.76,0.167,0.4767,anger
+4171,4475,"These people are also educated, functional, intelligent people who go on to lead normal lives after release.",19/1/21,0.47500000000000003,0.7749999999999999,0.0,0.842,0.158,0.4588,joy
+4172,4476,"There's nothing wrong with a little fun now and then, and the war on drugs needs to end.",19/1/21,-0.12916666666666668,0.5333333333333333,0.166,0.597,0.237,0.1682,fear
+4175,4479,Its not really illegal to be gay in Saudi.,18/1/21,0.33333333333333337,0.5416666666666667,0.0,0.718,0.282,0.4838,fear
+4182,4486,"Lmao, this reads like a textbook white supremacist nonsense.",18/1/21,0.3,0.5,0.185,0.274,0.541,0.6369,fear
+4187,4491,"China's growth is bound to massively slow down but that will only be after they've overtaken America, which will continue its decline.",18/1/21,-0.15185185185185188,0.562962962962963,0.0,0.921,0.079,0.2023,neutral
+4189,4493,>2 K-pop albums on top 100?!,18/1/21,0.625,0.5,0.0,0.705,0.295,0.2714,neutral
+4190,4494,"lmao
+
+I can see 3 albums from just BTS.",18/1/21,0.6,1.0,0.0,0.606,0.394,0.5994,joy
+4191,4495,That's one more than Swift :) IN AMERICA.,18/1/21,0.5,0.75,0.0,0.529,0.471,0.6533,anger
+4192,4496,Lmao,18/1/21,0.6,1.0,0.0,0.0,1.0,0.5994,fear
+4194,4498,My hair length has very little impact on anything and if I like it long for any reason why does anyone care?,18/1/21,-0.146875,0.525,0.0,0.769,0.231,0.6908,fear
+4204,4508,"Calling this an attempt to enforce groupthink would be fair, but ""the groupthink is strong in that society""?",18/1/21,0.5666666666666667,0.8166666666666667,0.0,0.724,0.276,0.7269,fear
+4205,4509,Not on this issue lmao,18/1/21,0.6,1.0,0.0,0.506,0.494,0.5994,fear
+4208,4512,The food is amazing and the attractions are something different.,18/1/21,0.30000000000000004,0.75,0.0,0.548,0.452,0.765,fear
+4213,4517,Singapore is one of the most popular tourist destinations in Asia and you're not likely to face any problems with the law just living life as per normal and not stealing or robbing.,18/1/21,0.3125,0.7625,0.07,0.773,0.157,0.5253,fear
+4214,4518,That's perfectly fine.,18/1/21,0.4166666666666667,0.5,0.0,0.143,0.857,0.7184,joy
+4218,4522,Curious where you're from?,18/1/21,-0.1,1.0,0.0,0.566,0.434,0.3182,joy
+4220,4524,"It's the safest, easiest and most efficient place I've ever lived.",18/1/21,0.5,0.5,0.0,0.482,0.518,0.8221,neutral
+4222,4526,Singapore is maybe just a bit more brutally honest and efficient about it.,18/1/21,0.55,0.7,0.218,0.458,0.324,0.2698,neutral
+4226,4530,They’re really fair.,18/1/21,0.7,0.9,0.0,0.435,0.565,0.3804,anger
+4239,4543,Strict rules are for a reason and proven effective.,18/1/21,0.6,0.8,0.0,0.693,0.307,0.4767,anger
+4246,4550,"I wouldn't make suppositions about what he was planning to do, and I agree 10k fines for rich families are worthless.",19/1/21,-0.21250000000000002,0.825,0.116,0.64,0.244,0.4939,neutral
+4260,4564,Wow thats intense!,18/1/21,0.175,1.0,0.0,0.156,0.844,0.6588,neutral
+4261,4565,The consequences of letting this virus get out of control is pretty damning.,18/1/21,0.25,1.0,0.145,0.663,0.193,0.2023,anger
+4268,4572,Good luck USA.,18/1/21,0.7,0.6000000000000001,0.0,0.145,0.855,0.7096,neutral
+4282,4586,Yes it's been a fairly partisan debate recently.,18/1/21,0.35,0.575,0.0,0.69,0.31,0.4019,joy
+4287,4591,My life is so fucking good.,19/1/21,0.7,0.6000000000000001,0.0,0.59,0.41,0.5379,fear
+4288,4592,I try to remind myself constantly how lucky I am.,19/1/21,0.16666666666666666,0.5833333333333334,0.0,0.714,0.286,0.4215,sadness
+4289,4593,"My parents are alive and healthy and still together, I live in a great home and have a daughter I love, my sisters all live around the area with their kids and if anything ever happened to my livelihood I have friends and family everywhere who would take care of me.",19/1/21,0.36212121212121207,0.5416666666666666,0.0,0.643,0.357,0.967,joy
+4290,4594,I have a great job in the IT industry and all my needs are met.,19/1/21,0.8,0.75,0.0,0.745,0.255,0.6249,joy
+4292,4596,Covid gave me and my family a headache for two days and we're all healthy and happy.,19/1/21,0.65,0.75,0.0,0.686,0.314,0.7506,joy
+4293,4597,"A wife would be nice, but you can't have it all.",19/1/21,0.6,1.0,0.0,0.826,0.174,0.2263,anger
+4301,4605,Everyone that doesn’t live here loves to harp on the harsh laws and draconian government.,18/1/21,-0.03181818181818183,0.6,0.148,0.663,0.189,0.2023,sadness
+4302,4606,Yeah that’s if you love breaking the law.,18/1/21,0.5,0.6,0.0,0.484,0.516,0.7506,neutral
+4309,4613,"Do you want to spend the only time you have in your only life working for you, or for the greater good?",18/1/21,0.3,0.775,0.0,0.739,0.261,0.6908,joy
+4314,4618,**Do not skirt quarantine rules for your own perceived benefit.,18/1/21,0.6,1.0,0.0,0.75,0.25,0.4588,anger
+4315,4619,The sooner this thing is over the better all our lives will be.,18/1/21,0.5,0.5,0.0,0.805,0.195,0.4404,joy
+4323,4627,"Sure, but the point stands.",19/1/21,0.5,0.8888888888888888,0.0,0.708,0.292,0.1655,neutral
+4333,4637,You’re free to stay away from Singapore and stay at some place that allows you to romp freely mask-free and breathe into someone’s face about your rights.,19/1/21,0.4,0.8,0.0,0.801,0.199,0.7351,anger
+4339,4643,That’s the kind of superb control Singapore has.),19/1/21,0.8,0.95,0.0,0.648,0.352,0.5868,fear
+4340,4644,Singapore has a superbly strong economy.,19/1/21,0.4333333333333333,0.7333333333333333,0.0,0.548,0.452,0.5106,fear
+4343,4647,"A good economy, freedom to work & play, minimal infection rate & all there is to complain is about a mask or quarantine rules of 2 weeks????",19/1/21,0.3,0.6000000000000001,0.081,0.581,0.338,0.8385,joy
+4347,4651,"Our economy is fine, everything is open, and we're living our lives like normal.",19/1/21,0.18888888888888888,0.5499999999999999,0.0,0.736,0.264,0.5106,joy
+4353,4657,"Sure they have harsh punishments for drug possession and trafficking, but it is one of the most safest places in the world to live.",18/1/21,0.2340909090909091,0.6472222222222221,0.131,0.678,0.191,0.4194,sadness
+4354,4658,You can freely walk around past midnight even as a Woman.,18/1/21,0.07500000000000001,0.525,0.0,0.756,0.244,0.4404,neutral
+4375,4679,We all know India will be a powerful economy one day but their GDPPC isn't going to reach that of developed world's this century.,18/1/21,0.2,0.65,0.046,0.875,0.079,0.1996,fear
+4377,4681,"Also LMAO if you are basing your hopes of white supremacy or ""the west"" surviving on fucking INDIA.",18/1/21,0.0,0.6,0.0,0.564,0.436,0.87,fear
+4380,4684,"India is not your colony anymore, bud :) UK might just wind up as India's colony in the future, reverse uno.",18/1/21,0.25,0.5625,0.0,0.87,0.13,0.4588,fear
+4400,4704,I mean sure.,18/1/21,0.09375,0.7881944444444444,0.0,0.303,0.697,0.3182,neutral
+4405,4709,It's great and is actually designed to make it possible to own a home.,18/1/21,0.35,0.7125,0.0,0.745,0.255,0.6249,joy
+4409,4713,The idea that you can go out everyday and it's cheaper to eat and sit down with family and friends than to eat at home (unless super frugal) still blows my mind.,18/1/21,-0.007407407407407436,0.5185185185185185,0.0,0.811,0.189,0.7906,joy
+4420,4724,The greater good overlaps with your personal good and mine.,18/1/21,0.475,0.5,0.0,0.458,0.542,0.8074,neutral
+4421,4725,No littering means a cleaner and more pleasant environment.,18/1/21,0.6166666666666667,0.7333333333333334,0.176,0.4,0.424,0.4754,neutral
+4429,4733,"Well, going by game theory, an individual should realise if they act purely in their own self interest, everyone else will, too.",18/1/21,0.10357142857142856,0.575,0.0,0.797,0.203,0.6249,fear
+4430,4734,"By working for the ""greater good"" everyone is cooperating.",18/1/21,0.6,0.55,0.0,0.565,0.435,0.6597,neutral
+4439,4743,"People like you love to export ""democracy"" but don't give a shit about freedom.",19/1/21,0.15,0.7,0.0,0.391,0.609,0.9329,anger
+4444,4748,The idea of a government shelling out money being a good option to keep an economy afloat as being a viable solution is crazy.,19/1/21,0.033333333333333326,0.5333333333333333,0.094,0.703,0.203,0.4215,anger
+4446,4750,Then feel free to do you head count on all of those affected.,19/1/21,0.4,0.8,0.101,0.692,0.208,0.4019,neutral
+4447,4751,"Yes you have a famous gay person, congrats!",18/1/21,0.5104166666666667,0.7916666666666667,0.0,0.439,0.561,0.75,neutral
+4457,4761,"[https://en.wikipedia.org/wiki/Misuse\_of\_Drugs\_Act\_(Singapore)](https://en.wikipedia.org/wiki/Misuse_of_Drugs_Act_(Singapore))
+
+>**The law creates a presumption of trafficking for certain threshold amounts**, e.g.",18/1/21,0.21428571428571427,0.5714285714285714,0.0,0.704,0.296,0.4939,anger
+4472,4776,"I couldn't give a fuck if you told me you had covid or know people who have had covid and did not have many ill effects, because I know perfectly nice young people who stayed isolated and only went out to get groceries and still got Covid because of these very people who break the law.",19/1/21,0.07142857142857142,0.6857142857142857,0.037,0.768,0.195,0.8715,anger
+4480,4784,"P.s we have way more freedom than these idiots who are out protesting lockdowns btw, and that's because we chose to obey the rules set to keep our countrymen safe.",19/1/21,0.06666666666666665,0.6,0.075,0.726,0.199,0.6801,anger
+4489,4793,"They're both antisocial degenerates, but the rioter at least has the good sense to stay in his own fucking country.",18/1/21,0.1,0.7,0.0,0.832,0.168,0.5927,sadness
+4497,4801,I'd say the policy is much more about putting money before people than xenophobia but I understand how it comes across that way and anyone and if you were xenophobic you would also support the policy.,18/1/21,0.5,0.5,0.0,0.905,0.095,0.5499,fear
+4520,4824,"Do you want people to be healthy and thrive, maybe only when it works for you?",19/1/21,0.25,0.75,0.0,0.778,0.222,0.4588,joy
+4525,4829,"I'm sure I'm not missed, but it is the reason.",18/1/21,0.5,0.8888888888888888,0.0,0.721,0.279,0.2718,sadness
+4526,4830,"I certainly wouldn't fault anyone for not wanting to visit Canada for our treatment of indigenous people, even if they only make up 5% of the population.",18/1/21,0.10714285714285714,0.7857142857142857,0.0,0.837,0.163,0.5659,anger
+4529,4833,I just didn't like the implication that all you have to have a good quality of life in Singapore is not be an asshole.,18/1/21,0.7,0.6000000000000001,0.084,0.8,0.116,0.1999,sadness
+4530,4834,"Up to a point I agree with you, the problem is this creates two classes of citizens, and those with two nationalities or even two potential nationalities are clearly second class.. if a uk citizen with only one natiinality is sentenced for serious fraud, well, does the time, a free person.",19/1/21,0.013333333333333341,0.6933333333333334,0.149,0.638,0.213,0.5859,anger
+4549,4853,I dislike certain behaviours so I do not visit certain countries.,19/1/21,0.21428571428571427,0.5714285714285714,0.203,0.469,0.328,0.1531,neutral
+4550,4854,"If the citizens of Country X are happy with their laws, who is to judge a life that is not lived by you?",19/1/21,0.8,1.0,0.0,0.844,0.156,0.5719,joy
+4551,4855,"Love your rules, stay in your own zone.",19/1/21,0.55,0.8,0.0,0.625,0.375,0.6369,neutral
+4553,4857,> I just didn't like the implication that all you have to have a good quality of life in Singapore is not be an asshole.,19/1/21,0.7,0.6000000000000001,0.084,0.8,0.116,0.1999,sadness
+4559,4863,"> If you think KPop’s growth is entirely organic then idk what else what to tell you lol 
+
+I don't know how else to call a fast expanding fanbase consisting of humans ""non organic"".",19/1/21,0.3333333333333333,0.6416666666666666,0.047,0.799,0.154,0.577,fear
+4582,4886,"You could have just said, ""yeah being gay can hinder certain things.""",19/1/21,0.31547619047619047,0.5773809523809523,0.0,0.699,0.301,0.5106,anger
+4583,4887,"Or ""that's not really relevant to cheap food and internet""
+Or even like your comment above""for the average person that is enough"" Instead you respoded that a famous gay comedian wasn't in jail, as if that was somehow proof that discrimination isn't a thing?",19/1/21,0.10833333333333335,0.5229166666666667,0.0,0.887,0.113,0.6249,anger
+4591,4895,ANYONE buying a spot on charts isn’t good.,19/1/21,0.7,0.6000000000000001,0.0,0.674,0.326,0.4404,anger
+4606,4910,"Just like chewing gum, you can bring them from Malaysia as long as it’s for own consumption and you don’t sell.",18/1/21,0.27499999999999997,0.7,0.0,0.889,0.111,0.3612,joy
+4613,4917,Special treatment.,19/1/21,0.35714285714285715,0.5714285714285714,0.0,0.27,0.73,0.4019,joy
+4617,4921,Singaporeans are very happy with the pandemic being in control.,19/1/21,1.0,1.0,0.0,0.693,0.307,0.6115,joy
+4618,4922,"(A shoutout to NZ, TW & Australia Aat certain parts too.)",19/1/21,0.21428571428571427,0.5714285714285714,0.0,0.811,0.189,0.2732,fear
+4621,4925,"It is a massive success, whether you like it or not.",19/1/21,0.15,0.5,0.0,0.563,0.437,0.7351,neutral
+4629,4933,It's completely fair for people to contribute to this discussion who both agree with and disagree with the authorities response.,19/1/21,0.7,0.9,0.105,0.688,0.206,0.3597,anger
+4630,4934,Your attempts to remove me from this discussion is amusing though.,19/1/21,0.6,1.0,0.0,0.794,0.206,0.3818,joy
+4633,4937,Are you willing to even consider the opportunity cost involved?,19/1/21,0.25,0.75,0.0,0.763,0.237,0.4215,neutral
+4636,4940,"And if that is true then shouldn't we ban everything, literally anything can cause harm.",19/1/21,0.35,0.65,0.165,0.565,0.27,0.3013,neutral
+4642,4946,"Lastly, stop giving about ours to island nations that have the pandemic under control, there is an inherent advantage geographically that is doing far more work than any government response.",19/1/21,0.19999999999999998,0.5222222222222223,0.065,0.804,0.131,0.296,anger
+4652,4956,Religious freedom covers shit on your own time bud.,19/1/21,0.13333333333333333,0.6833333333333332,0.243,0.473,0.284,0.1531,neutral
+4654,4958,"If i am muslim, and only if i am muslim, i am also entitled to have more breaks from work throughout the day so that i can pray at the proper times.",19/1/21,0.16666666666666666,0.5333333333333333,0.0,0.848,0.152,0.5667,fear
+4658,4962,We don't have police murdering people randomly on the street.,18/1/21,-0.5,0.5,0.0,0.723,0.277,0.5334,anger
+4667,4971,"Its hypocritical to be ""its ok to break laws when protesting for this reason but not for this other reason"" You want my honest opinion?",19/1/21,0.325,0.5916666666666667,0.124,0.637,0.239,0.5574,anger
+4668,4972,I am ok with all of this stuff and i welcome all sort of immigrants to my hillbilly ass town because the food is fucking awesome and the people are generally pretty nice.,19/1/21,0.63,0.8800000000000001,0.079,0.567,0.354,0.902,joy
+4675,4979,As far as I can see the impact of a new cluster of cases spreading through the community might lead to lots of people being inconvenienced with lockdowns and tracing and potential hospital cases and a small chance of somebody dying.,18/1/21,-0.0034090909090909102,0.7136363636363636,0.0,0.949,0.051,0.25,fear
+4684,4988,"Keeping love apart is wrong!’ 
+
+This guy leaves his hotel to see his fiancé and gets 6 months and everyone is all for it...
+
+What’s the difference?",19/1/21,-0.0625,0.75,0.0,0.848,0.152,0.6696,neutral
+4685,4989,I totally agree with you.,18/1/21,0.0,0.75,0.0,0.518,0.482,0.4201,joy
+4689,4993,Maybe if we had stricter enforcement of quarantine we'd be in a better place too.,18/1/21,0.5,0.5,0.0,0.818,0.182,0.4404,neutral
+4691,4995,"Although awareness is much higher now, it's still an enormously difficult task to keep an entire country covid free.",18/1/21,0.037500000000000006,0.73125,0.121,0.736,0.143,0.1298,anger
+4692,4996,So yes I think it's fairly justified to respond robustly to those evading quarantine.,18/1/21,0.4,0.9,0.0,0.659,0.341,0.6901,neutral
+4721,5025,"When people read about autistic people being exempt and sigh, they probably picture someone like the socially awkward, but highly functioning type of person that might work in their IT department or a chess champion.",18/1/21,-0.21333333333333335,0.58,0.033,0.731,0.236,0.7935,anger
+4734,5038,"If they can't live independently, then surely they'll have some kind of support system in place.",19/1/21,0.3090909090909091,0.6034722222222222,0.0,0.725,0.275,0.6494,neutral
+4741,5045,"Don't be so quick to assume everyone has help, especially with the government's attitude towards PIP claimants.",19/1/21,0.16666666666666666,0.75,0.0,0.856,0.144,0.4019,anger
+4743,5047,You can't base sentencing on a tiny chance of something happening.,18/1/21,-0.4,0.75,0.0,0.699,0.301,0.3493,anger
+4751,5055,"Driving 10 mph over the limit is not likely to kill hundreds of people potentially, and cost millions to the economy.",18/1/21,0.0,1.0,0.0,0.843,0.157,0.5773,fear
+4754,5058,"The spread in the “community” in Singapore is tiny, and considering the population density is actually impressive.",18/1/21,0.5,0.75,0.0,0.829,0.171,0.5106,joy
+4758,5062,Vaccinations are intended to protect the entire community.,19/1/21,0.0,0.625,0.0,0.729,0.271,0.3818,fear
+4760,5064,"That's ok, vaccines can still do their job if those that can get them are adults about it and don't make up fake excuses to avoid their social responsibility.",19/1/21,0.011111111111111112,0.5222222222222223,0.067,0.789,0.144,0.3724,anger
+4762,5066,"I started typing up this response about to shoot down your analogy, but it’s actually pretty good.",19/1/21,0.2648148148148148,0.6296296296296297,0.074,0.569,0.357,0.8151,anger
+4765,5069,"It’s value is in preventing droplets becoming airborne, which is generally more of a benefit to other people (at least for the strips of cloth worn by the average shopper).",19/1/21,0.07499999999999998,0.505,0.097,0.736,0.167,0.5233,fear
+4771,5075,"If they have it, they can easily spread it to 2-3 people in every shop they visit.",19/1/21,0.43333333333333335,0.8333333333333334,0.0,0.87,0.13,0.34,anger
+4772,5076,"If one of those are staff, or somebody who works closely with many others, that one trip to Tesco can easily start a wave that infects literally thousands.",19/1/21,0.4666666666666667,0.6666666666666667,0.0,0.915,0.085,0.34,fear
+4774,5078,"Unfortunately, the vast majority of antimaskers are perfectly capable of wearing a mask, they’re just being dickheads for the sake of rebellion.",19/1/21,-0.09999999999999999,0.7999999999999999,0.141,0.614,0.245,0.5994,joy
+4798,5103,The people coming out of the woodwork in this thread to support authoritarian laws of a flawed democracy on a UK sub is alarming.,19/1/21,-0.3,0.55,0.062,0.826,0.112,0.296,fear
+4801,5106,5% chance of a false negative).,18/1/21,-0.35000000000000003,0.5,0.0,0.667,0.333,0.25,sadness
+4818,5123,Would the company be responsible for the one employee who gave his friend a mere cold.,19/1/21,-0.3,0.6833333333333332,0.0,0.703,0.297,0.6705,anger
+4819,5124,Or would the company be responsible for causing a worldwide pandemic?,19/1/21,0.2,0.55,0.0,0.796,0.204,0.3182,anger
+4834,5139,What about that 0.01% chance multiplied by the entire population!,19/1/21,0.0,0.625,0.0,0.797,0.203,0.3164,anger
+4835,5140,"If he infects one person and the chain of transmission starts, he is responsible for the entire spread of the virus.",19/1/21,0.1,0.5875,0.0,0.897,0.103,0.3182,anger
+4846,5152,We've actually done amazingly well in the UK in building testing capacity.,19/1/21,0.30000000000000004,0.5,0.0,0.821,0.179,0.3384,joy
+4875,5181,"I totally agreed that he should be convicted, but that a potential sentence of 6 months was insane, it benefits no one, a fine (perhaps large) would be far more appropriate.",19/1/21,0.09136904761904763,0.7098214285714286,0.176,0.582,0.242,0.1018,anger
+4889,5195,Close to 80% of jobs can be done remotely and much more effectively.,1/6/20,0.3333333333333333,0.5,0.0,0.79,0.21,0.4927,sadness
+4893,5199,"Because it would be super awkward if people were sitting on every alternate seat, while the standing people are packed like sardines, and no one dares to sit on the marked seats to relieve the crowding just a bit.",1/6/20,-0.041666666666666664,0.5666666666666667,0.083,0.722,0.195,0.7269,anger
+4897,5203,> “We have been able to ensure safe distancing so far because commuter numbers have plunged.,1/6/20,0.3666666666666667,0.7083333333333334,0.0,0.703,0.297,0.6705,sadness
+4903,5209,"> Noting that many are looking forward to the end of the circuit breaker, which began on 7 April, he added that the easing of measures needed to be done “gradually and carefully”.",1/6/20,0.2,0.75,0.0,0.938,0.062,0.25,anger
+4931,5238,That's a good qn.,1/6/20,0.7,0.6000000000000001,0.0,0.408,0.592,0.4404,joy
+4945,5252,My company's idea of working from home is to strongly encourage us to take at least 4 days to work from home in a 2 week period.,20/3/20,0.06666666666666665,0.5666666666666667,0.0,0.803,0.197,0.6597,joy
+4948,5255,"> Keeping a safe space around individuals is especially important for vulnerable segments of the population, Health Minister Gan Kim Yong said at a press conference.",20/3/20,0.26666666666666666,0.6666666666666666,0.08,0.736,0.184,0.4271,fear
+4952,5259,"> Employers have also been strongly advised to allow their employees to work from home, or implement staggered working hours where telecommuting is not possible.",20/3/20,0.21666666666666665,0.8666666666666667,0.0,0.846,0.154,0.4588,anger
+4955,5262,"> He added : ""Our healthcare professionals are working hard to take care of patients.",20/3/20,-0.2916666666666667,0.5416666666666666,0.09,0.705,0.205,0.4215,anger
+4956,5263,"We don't want to add to their load, and therefore, it is important to add these measures to ensure our healthcare workers have the capacity to look after our patients.""",20/3/20,0.4,1.0,0.037,0.828,0.135,0.4902,anger
+4974,5282,"If community spread starts to increase (as it might with all the returning Singaporeans), restaurants might need to turn to delivery or take away only and cinemas might close.",20/3/20,0.0,1.0,0.0,0.924,0.076,0.3182,fear
+4981,5289,On top of that schools will really have to close if not it's just another potential cluster at this point.,20/3/20,0.2333333333333333,0.5666666666666667,0.0,0.913,0.087,0.2023,anger
+5005,5313,It definitely can be done.,20/3/20,0.0,0.5,0.0,0.597,0.403,0.4019,neutral
+5011,5319,"how about test everyone once, those who tested positive, get all their close contacts and quaratine them for 2 weeks, get people to isolate with 0 interaction.",21/3/20,0.22727272727272727,0.5454545454545454,0.063,0.81,0.127,0.4215,joy
+5012,5321,"how about test every high risk person like those who are traveling into the country, anyone with symptoms and quaratine all their close contacts for 2 weeks, get people to minimise their interactions.",21/3/20,0.16,0.5399999999999999,0.061,0.867,0.072,0.1027,joy
+5034,5343,"Honestly the emphasis should have been ""**at least** 1m apart"", since like you said, the better way is to avoid contact in the first place.",7/4/20,0.2625,0.5333333333333333,0.07,0.665,0.266,0.7351,anger
+5043,5352,"Also, all this research does not mean that it is clinically significant, meaning that it would cause people to kena.",7/4/20,0.265625,0.78125,0.0,0.913,0.087,0.2023,sadness
+5054,5363,"Standing apart from one another while in crowded areas (e.g queueing, going to the market etc) is probably not going to be effective.",7/4/20,0.6,0.8,0.0,0.876,0.124,0.4767,fear
+5055,5364,The most effective way is to stay at home.,7/4/20,0.55,0.65,0.0,0.702,0.298,0.5256,sadness
+5068,5377,I mean it could definitely be worded better.,7/4/20,0.0625,0.5625,0.0,0.472,0.528,0.6808,neutral
+5078,5387,"The main point is - **Singaporeans are taking this ""1m apart rule"" as a sure win method to keep themselves safe.",7/4/20,0.4916666666666667,0.5305555555555556,0.0,0.64,0.36,0.8402,anger
+5084,5395,"I think it's important that we use jargon like asymptomatic responsibly, when some people are subconsciously thinking it can be everywhere in the air.",7/4/20,0.20000000000000004,0.7000000000000001,0.0,0.83,0.17,0.5106,fear
+5090,5401,"How many COVID-19 positive subjects did you recruit for your study before determining that ""if you wash hands and wear a mask and don't touch your face can liao""?",8/4/20,0.36363636363636365,0.5227272727272727,0.0,0.882,0.118,0.5574,anger
+5092,5403,That's great right?,8/4/20,0.5428571428571429,0.6428571428571428,0.0,0.328,0.672,0.6249,joy
+5095,5407,That's pretty significant.,8/4/20,0.3125,0.9375,0.0,0.167,0.833,0.6124,neutral
+5100,5412,"This is a pandemic, and we should treat it seriously.",7/4/20,-0.3333333333333333,0.6666666666666666,0.149,0.614,0.237,0.25,anger
+5106,5418,"On the positive side, this paper found that viral load was decreased at least 10 fold by wearing a mask.",8/4/20,-0.1575757575757576,0.5484848484848485,0.0,0.833,0.167,0.5574,anger
+5107,5419,"While inadequate for reducing PPE recommendations in healthcare settings - which could be a relevant takeaway for stakeholders - it would reduce exposure during transient contact while breathing, especially in well ventilated areas like queuing for bubble tea outdoors facing the open air.",8/4/20,0.13333333333333333,0.7999999999999999,0.061,0.83,0.109,0.2911,fear
+5120,5432,"It would also increase anxiety for essential workers, who do not have the luxury of distancing themselves that far apart.",7/4/20,0.05,0.65,0.077,0.818,0.105,0.1531,sadness
+5127,5439,">  On the positive side, this paper found that viral load was decreased at  least 10 fold by wearing a mask.",8/4/20,-0.1575757575757576,0.5484848484848485,0.0,0.833,0.167,0.5574,anger
+5128,5440,"While inadequate for reducing PPE  recommendations in healthcare settings - which could be a relevant  takeaway for stakeholders - it would reduce exposure during transient  contact while breathing, especially in well ventilated areas like  queuing for bubble tea outdoors facing the open air.",8/4/20,0.13333333333333333,0.7999999999999999,0.061,0.83,0.109,0.2911,fear
+5143,5455,"> It would also increase anxiety for essential workers, who do not have the luxury of distancing themselves that far apart.",7/4/20,0.05,0.65,0.077,0.818,0.105,0.1531,sadness
+5144,5456,"It is what it is, it's a pandemic and you can't hide the hard truths for comfortable lies.",7/4/20,0.05416666666666667,0.6708333333333334,0.118,0.506,0.376,0.6266,neutral
+5151,5463,It has never been my intention and I don't see how I have been supportive of unnecessary going out.,8/4/20,0.04999999999999999,0.95,0.0,0.879,0.121,0.296,anger
+5157,5469,"I take this situation very seriously as well, but I'm not going to stop thinking about other ways to interpret the findings that we learn, or the potential ways good faith attempts at science communication can be interpreted for unwanted outcomes.",7/4/20,0.03541666666666665,0.7104166666666667,0.078,0.688,0.234,0.8279,sadness
+5161,5473,"Due to the sheep like mentality of a portion of Singaporeans, they're only going to follow what's most convenient to them.",7/4/20,0.125,0.625,0.0,0.884,0.116,0.3612,anger
+5169,5481,"Not only this, but others have mentioned, but the trains and busses are places where social distancing clearly cannot be done unless the government takes much more serious measures, such as mandating work from home.",28/3/20,0.049999999999999996,0.5194444444444445,0.049,0.858,0.092,0.394,sadness
+5179,5491,This virus could spread more easily.,28/3/20,0.4666666666666667,0.6666666666666667,0.0,0.65,0.35,0.4005,joy
+5184,5496,It’s a good effort but not good enough.,28/3/20,0.11666666666666665,0.5666666666666668,0.0,0.463,0.537,0.7003,joy
+5198,5510,"If we allow exceptions, then it will be hard to implement.",28/3/20,-0.2916666666666667,0.5416666666666666,0.114,0.732,0.154,0.128,sadness
+5201,5513,"Are you prepared to live with the fact that because you flout this rule, make it difficult to enforce and cause the next wave of exponential growth?",28/3/20,-0.12121212121212122,0.5,0.081,0.774,0.145,0.25,sadness
+5216,5528,"Fining someone $10k for sitting next to their own spouse whom they share a bed with at home isn't a ""minor inconvenience"", it's a lot of money, especially in this period when many people's incomes have already been affected.",28/3/20,0.20999999999999996,0.54,0.042,0.899,0.058,0.1531,anger
+5228,5540,But it does make sense to include friends since it's kinda rare to have a family of 10 unless specific occasions.,29/3/20,0.15,0.5125,0.0,0.86,0.14,0.4767,sadness
+5229,5541,With the source I will be able to convince others as well.,29/3/20,0.5,0.625,0.0,0.687,0.313,0.4767,joy
+5232,5544,"If you are allowed to break the rules others will also follow, even if you have a good reason and they don’t.",28/3/20,0.7,0.6000000000000001,0.0,0.873,0.127,0.4404,anger
+5241,5553,"Its easy to say ""well, lets just give exceptions for essential services, like healthcare workers, people working in critical industries like water, telecoms etc"".",29/3/20,0.14444444444444446,0.6444444444444445,0.076,0.662,0.262,0.6808,joy
+5244,5556,"But what about hotels where you house the people in SHN: these need to be somewhat staffed as well, right?",29/3/20,0.2857142857142857,0.5357142857142857,0.0,0.912,0.088,0.2111,neutral
+5247,5559,"Even if you allow only for takeouts, the eateries still have to be open.",29/3/20,0.0,0.75,0.0,0.872,0.128,0.2263,anger
+5249,5561,"Once you think about it further, you'd realize that after provisioning for these exemptions, you get something that is not too different from what we already have (and most certainly something that we're heading to).",29/3/20,0.17857142857142858,0.5428571428571429,0.0,0.927,0.073,0.4005,joy
+5254,5566,Will that make things better?,29/3/20,0.5,0.5,0.0,0.58,0.42,0.4404,neutral
+5259,5571,"(I'm not planning on meeting anyone anytime soon, just curious about how this is going to be enforced)",28/3/20,-0.1,1.0,0.0,0.881,0.119,0.3182,joy
+5261,5573,"We all need to do our part, and better still, influence people around us to do the right thing, even if it is unpopular and inconvenient.",29/3/20,0.06190476190476191,0.6785714285714285,0.082,0.819,0.099,0.128,neutral
+5272,5585,It's still super packed during morning and evening rush hours.,27/3/20,0.3333333333333333,0.6666666666666666,0.0,0.698,0.302,0.5994,anger
+5288,5601,"If you're eating out, do takeaways only please.",27/3/20,0.0,1.0,0.0,0.753,0.247,0.3182,joy
+5296,5609,I'm honestly not sure how they're going to enforce this for individuals.,27/3/20,-0.25,0.8888888888888888,0.131,0.668,0.201,0.2589,anger
+5297,5610,Are NEA people going to fine people now for not standing far enough like they do for littering?,27/3/20,0.17222222222222225,0.6666666666666666,0.0,0.788,0.212,0.5106,anger
+5307,5620,Then fine people or something?,27/3/20,0.4166666666666667,0.5,0.0,0.69,0.31,0.2023,neutral
+5312,5625,"But from what I know, people finish their workday lunch in 15-20 mins and leave while a bus ride is easily 30 mins +.",27/3/20,0.43333333333333335,0.8333333333333334,0.051,0.847,0.102,0.296,anger
+5315,5628,Our infection graph was quite nice in Feb but started to spike once the overseas Singaporeans returned.,27/3/20,0.6,1.0,0.0,0.887,0.113,0.2609,joy
+5316,5629,Singapore is a small country and our enforcement is good.,27/3/20,0.22499999999999998,0.5,0.0,0.734,0.266,0.4404,joy
+5317,5630,"From the generous budget, we know the govt can afford to pay full wages up to median salary for more than 2 mths (ie 25% salary over 3 quarters).",27/3/20,0.425,0.525,0.047,0.842,0.111,0.4404,joy
+5332,5645,"> Public venues, such as retail malls, museums, and attractions, where contact is more transient, may remain open but only with precautionary measures in place.",27/3/20,0.1,0.5133333333333333,0.0,0.924,0.076,0.2263,neutral
+5347,5660,"If you think someone in your life may be unable to grasp and understand the new rules, kindly explain the rules to them.",27/3/20,0.07878787878787878,0.6181818181818182,0.0,0.873,0.127,0.4939,anger
+5348,5661,"Ideally more education would be good, but those things take time.",27/3/20,0.6,0.55,0.0,0.7,0.3,0.431,joy
+5362,5675,"The sooner the situation gets better, the earlier you can have your threesome dinner at the hawkers.",28/3/20,0.25,0.5,0.0,0.847,0.153,0.4404,joy
+5363,5676,"Just hope is paper deterrent and not strict enforcing, to give ppl/staff more power if social distancing is not enforce for ppl that like to say “ advisory only mah.",27/3/20,0.17777777777777778,0.5222222222222223,0.0,0.833,0.167,0.6597,fear
+5368,5681,Needs more clarity I think.,27/3/20,0.5,0.5,0.0,0.501,0.499,0.4576,neutral
+5370,5683,I think a lot of the people calling for lockdowns are those that benefit from it (lazy students) or aren't really affected by it (they can easily work from home).,27/3/20,0.1277777777777778,0.6777777777777777,0.0,0.78,0.22,0.7236,fear
+5384,5697,"The reverse is true as well, we may not need a lockdown to stop the virus spreading.",27/3/20,0.35,0.65,0.109,0.647,0.244,0.4019,fear
+5390,5704,Sorry if I am ignorant but hopefully someone has an answer here.,21/1/21,-0.5,1.0,0.189,0.561,0.249,0.431,fear
+5425,5739,"> Of greater concern is that these two groups are not the only ones being investigated for possible violation of Covid-19 safety measures, nor are they even the biggest group.",14/11/20,0.16666666666666666,0.8333333333333334,0.093,0.754,0.154,0.2732,fear
+5430,5744,"> Noting the recent increase in such gatherings, the spokesman added: ""It is important for all of us to remain vigilant and adhere to safe distancing measures to avoid a resurgence of cases as seen in other countries.",14/11/20,0.155,0.525,0.053,0.74,0.208,0.6705,anger
+5432,5746,"> ""With the festive season coming up, and as we make the transition to phase three, it is even more crucial for us to adhere to these measures so that we can continue to keep our community safe.""",14/11/20,0.3333333333333333,0.6666666666666666,0.0,0.923,0.077,0.4588,sadness
+5440,5754,"I urge you to continue to observe the measures to keep your family and friends safe from infection.""",14/11/20,0.5,0.5,0.0,0.714,0.286,0.7184,joy
+5445,5759,"> ""I would encourage everyone to not give up the huge gains that we have achieved.""",14/11/20,0.4000000000000001,0.9,0.0,0.6,0.4,0.7906,fear
+5451,5766,Big groups meeting and no super spreader events highlight how rare it is to meet someone in this country with COVID-19.,15/11/20,0.044444444444444446,0.5555555555555555,0.083,0.679,0.238,0.6249,neutral
+5454,5769,Safe distancing is a joke now.,15/11/20,0.5,0.5,0.0,0.37,0.63,0.6249,neutral
+5458,5773,I can only sit with 4 other people in a pub but I can be cramped into a bus or MRT like sardines?,16/11/20,-0.0625,0.6875,0.0,0.84,0.16,0.5023,anger
+5461,5776,Very easy for these STB officers to do their jobs these days.,17/11/20,0.5633333333333334,1.0,0.0,0.775,0.225,0.4927,joy
+5463,5778,>A reader tipped off TNP on the latest alleged incident and claimed it involved six women and two men who held significant influence over youth here.,17/11/20,0.25833333333333336,0.625,0.0,0.933,0.067,0.2023,neutral
+5466,5781,It takes a special kind of person to believe that all of their followers will help them keep a secret.,17/11/20,0.1857142857142857,0.7238095238095239,0.0,0.748,0.252,0.6597,joy
+5472,5787,"> ""STB takes a serious view of any breach in safe management measures,"" he said.",17/11/20,0.08333333333333334,0.5833333333333333,0.086,0.724,0.191,0.3818,anger
+5475,5790,"> Safe management measures are highlighted to guests during check-in, and signs are displayed at common areas as a reminder.",17/11/20,0.1,0.5,0.0,0.854,0.146,0.4404,anger
+5476,5791,"> He said: ""We strongly urge all guests to strictly observe and adhere to all safe management measures for the health, safety and well-being of the Singapore community.""",17/11/20,0.4666666666666667,0.6166666666666667,0.0,0.755,0.245,0.7783,joy
+5480,5795,> A reader tipped off TNP on the latest alleged incident and claimed it involved six women and two men who held significant influence over youth here.,17/11/20,0.25833333333333336,0.625,0.0,0.93,0.07,0.2023,neutral
+5495,5811,Surely you can't blame the hotel.,17/11/20,0.5,0.8888888888888888,0.0,0.448,0.552,0.6041,anger
+5496,5812,Would be all too easy for guests to stagger visits to a room in ones and twos.,17/11/20,0.43333333333333335,0.8333333333333334,0.0,0.838,0.162,0.4404,anger
+5502,5818,most rooms just have a sleeping area which I hope won't have cameras.,17/11/20,0.5,0.5,0.0,0.775,0.225,0.4404,neutral
+5507,5825,Kimberly Lim is a journalist based in Singapore who is interested in stories on politics and business.,11/4/20,0.25,0.5,0.0,0.847,0.153,0.4019,joy
+5512,5830,Most likely they saw people do the same without getting problems so they assumed it was tolerated.,25/9/20,0.16666666666666666,0.5416666666666666,0.0,0.876,0.124,0.3089,anger
+5515,5833,Not sure whether they are better off or not.,25/9/20,0.125,0.6944444444444444,0.165,0.59,0.244,0.2354,neutral
+5518,5836,"Yep the punishment in itself is unfair to foreigners but its singapore, there has to be a difference between citizens and foreigners, any country would treat their citizens leniently.",25/9/20,0.0,0.95,0.125,0.721,0.155,0.25,sadness
+5522,5840,Wishing those April birthdays people have a happy and safe one at home and May your wishes come true come what May.,8/4/20,0.5499999999999999,0.7166666666666667,0.0,0.554,0.446,0.8979,joy
+5528,5846,"We all saw what happened with the light slap on the wrist for the MediaCorp celebs, we saw what happened with the members club at Halloween (75 ppl - never named) restaurant booking.",6/2/21,0.4,0.7,0.0,0.951,0.049,0.1531,neutral
+5531,5849,"Prove you’re better than that, Singapore.",6/2/21,0.5,0.5,0.0,0.633,0.367,0.4404,anger
+5536,5862,"If it's for ""WORK"" I am really surprised.",5/2/21,0.1,0.9,0.0,0.732,0.268,0.2944,neutral
+5537,5863,Most likely these are entry level jobs which our SG youth can happily take.,5/2/21,0.43333333333333335,0.8333333333333334,0.0,0.783,0.217,0.5574,joy
+5549,5881,They all paid their fines and hoped life would move on normally - it didn't.,5/2/21,0.15,0.6499999999999999,0.0,0.833,0.167,0.3818,neutral
+5551,5883,Play stupid games - win stupid prizes,5/2/21,-0.2666666666666666,0.7999999999999999,0.4,0.059,0.541,0.34,anger
+5554,5897,Edit: SOME Brits (those dumb enough to be caught and charged) don't like being told what to do and they LOVE to drink.,6/2/21,0.041666666666666664,0.5333333333333333,0.178,0.659,0.163,0.1338,fear
+5571,5938,"You must be joking, right?",6/2/21,0.2857142857142857,0.5357142857142857,0.0,0.678,0.322,0.2263,neutral
+5580,5956,"To be fair, a number (including 3 of my ex bosses) are very good at what they do.",5/2/21,0.8049999999999999,0.8400000000000001,0.0,0.657,0.343,0.6997,anger
+5588,5967,I’m sure the market rental rates can easily be acquired online with a few quick searches.,5/2/21,0.26666666666666666,0.5805555555555556,0.0,0.734,0.266,0.5719,joy
+5603,6003,"I agree with you, I believe that there is a majority of smart, respectful expats (of all races) in Singapore who follow the rules set, and this is why even tho we wear masks 100% of the time, we can still do almost everything that those in lockdown CAN'T do in the UK right now.",6/2/21,0.3333333333333333,0.6261904761904762,0.0,0.857,0.143,0.802,joy
+5610,6174,"They say that Singapore is in a precarious situation where they can't afford an outbreak, being an island and 90% of their economy is dependent on the outside world, and such, they've decided to act disproportionately and keep their heads way above water to make sure infections are well contained because it would be difficult to afford otherwise.",14/2/20,0.0,0.5077777777777778,0.041,0.887,0.072,0.2263,fear
+5614,6178,There are many elderly in my church as well.,14/2/20,0.5,0.5,0.0,0.792,0.208,0.2732,neutral
+5615,6179,I think it's a good move.,14/2/20,0.7,0.6000000000000001,0.0,0.508,0.492,0.4404,neutral
+5622,6186,"Combining it with his urge to keep holy the Lord's Day in other ways, it's a beautiful gesture that is yet small in a way compared to life in Singapore in general.",15/2/20,0.13125,0.56875,0.0,0.881,0.119,0.5994,joy
+5631,6195,"> ""STB takes a serious view of any breach in safe management measures, and will not hesitate to take actions against individuals and businesses that do not comply with them,"" said STB's director for safe management operations Ms Ranita Sundramoorthy.",5/12/20,0.22222222222222224,0.5555555555555555,0.03,0.792,0.177,0.7441,anger
+5634,6198,"> Sole Superior Singapore, a sneaker and streetwear community, called on Foot Locker to shift to a contactless system for ""hyped"" - or very popular - releases, and that a traditional queue system ""is not the way during such dangerous times"".",5/12/20,0.14666666666666667,0.7166666666666667,0.074,0.768,0.158,0.5413,fear
+5639,6203,"PHOTO: FACEBOOK/SOLE SUPERIOR SG
+
+> 
+
+> Foot Locker Singapore had earlier marketed itself as the place to snag the exclusive shoes.",5/12/20,0.35,0.7,0.0,0.748,0.252,0.694,anger
+5640,6204,"> ""These trainers are hot - the hype is real...Foot Locker is at the head of the latest trends, so you know it'll stock Yeezy boost trainers online and in select stores,"" it said on its website prior to the launch.",5/12/20,0.25,0.5833333333333334,0.0,0.934,0.066,0.4019,neutral
+5644,6208,"> Under the Covid-19 (Temporary Measures) Act passed in Parliament in April, those found flouting safe management measures face a fine of up to S$10,000, imprisonment of up to six months, or both.",5/12/20,0.45833333333333337,0.5,0.0,0.861,0.139,0.5719,fear

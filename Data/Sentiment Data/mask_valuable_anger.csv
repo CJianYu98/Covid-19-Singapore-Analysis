@@ -1,0 +1,915 @@
+,index,Sentences,Comment Datetime,Textblob_polarity_score,Textblob_subjectivity_score,Vader_neg_score,Vader_neu_score,Vader_pos_score,Vader_compound_score,Emotions
+20,20,How come I try to put on the mask feels very warm leh.,3/1/21,0.78,0.78,0.0,0.834,0.166,0.2944,anger
+21,21,Some more the smell very strong not nice to wear.,3/1/21,0.2544444444444445,0.8177777777777777,0.183,0.564,0.253,0.2494,anger
+51,60,"No joke....somemore not as if my side/hose no manpower to take care (wife coming bk soon liao 1700h)) Asked her to wear at least a KN95 in the house and put on flat mask for the kid she told me not to kua zhang, kid is stick, wear mask uncomfortable.",3/3/21,-0.27499999999999997,0.5083333333333333,0.127,0.815,0.058,-0.4215,anger
+76,114,"IndigoEyes wrote: To be fair, I don't know why some Singaporeans who not travelling joined that group also.",18/1/21,0.7,0.9,0.0,0.874,0.126,0.3182,anger
+79,117,"People like TS joined a group not meant for them, hear something they don't like then spread to edmw... abit lol.",18/1/21,0.8,0.7,0.0,0.685,0.315,0.7783,anger
+94,132,ichinisan wrote: This type of machine which is only used for collecting masks can have issues so easily.,3/1/21,0.21666666666666667,0.9166666666666667,0.0,0.845,0.155,0.4795,anger
+123,163,So audacious and totally disregard the law and others safety.,15/1/21,0.0,0.75,0.166,0.487,0.347,0.3818,anger
+134,174,I'll be glad to get rid of the cuck muzzle once they stop slapping fine on people for not wearing.,24/2/21,0.45833333333333337,0.75,0.092,0.708,0.2,0.3818,anger
+153,194,"Hong: this is not aids, healthy still got to wear.",22/2/21,0.5,0.5,0.201,0.799,0.0,-0.3089,anger
+187,253,"While waiting for his drinks order to be completed, he said he ""lightly coughed twice"" as his throat had been feeling irritated.",21/2/21,0.4,0.7,0.122,0.816,0.061,-0.3612,anger
+193,259,Chen told Lianhe Wanbao that he understands that people might be more wary of others' coughing during this period.,21/2/21,0.0,0.6,0.0,1.0,0.0,0.0,anger
+203,290,"In the end I ordered from watsons Taiwan and send to sg.. Watsons mask is kyky, dk why sg stops selling them If you can't handle me at my worst, then you sure as hell don't deserve me at my best.",21/2/21,0.16666666666666666,0.7296296296296295,0.199,0.676,0.125,-0.5859,anger
+208,295,"First-time offenders who breach safe distancing measures are fined $300, and second-time wrongdoers $1,000.",21/2/21,0.5,0.5,0.144,0.69,0.167,0.1027,anger
+209,296,Offenders may also face prosecution in court for egregious cases and higher fines if convicted.,21/2/21,0.25,0.5,0.305,0.695,0.0,-0.6908,anger
+211,298,"Fines for not wearing masks totalled more than $510,000.",21/2/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+222,309,"In response to queries from The Sunday Times, the police said it supports other agencies to enforce safe management measures at known hot spots.",21/2/21,0.20833333333333334,0.5750000000000001,0.0,0.803,0.197,0.6597,anger
+223,310,"Meanwhile, the Ministry of Manpower (MOM) conducts inspections of workplaces to ensure that companies abide by safe management measures.",21/2/21,0.5,0.5,0.0,0.756,0.244,0.6705,anger
+250,340,Have to tell them off nicely.,20/2/21,0.6,1.0,0.0,0.633,0.367,0.4404,anger
+252,342,"like only when take public transport, go wet markets, cinemas, supermarkets, shopping malls and other potential crowded places then need to wear masks?",21/2/21,-0.045,0.5683333333333334,0.0,0.898,0.102,0.3612,anger
+261,354,Yes some guys look good with mask on But the moment they remove.....,19/2/21,0.7,0.6000000000000001,0.0,0.663,0.337,0.6808,anger
+264,357,"Anyways, I've tried both surgical and different types of n95 masks.",20/2/21,0.0,0.6,0.0,1.0,0.0,0.0,anger
+266,359,"However, n95 masks with a vent only protect the user but not others so I would say the best has to be without a vent.",20/2/21,0.5,0.65,0.0,0.725,0.275,0.8225,anger
+269,362,It's really just wear for show only.,20/2/21,0.1,0.6,0.0,1.0,0.0,0.0,anger
+311,433,Ye_Rongtian wrote: Our borders will open when everyone have been shot.,16/2/21,0.0,0.5,0.0,1.0,0.0,0.0,anger
+345,475,"Maybe this also applies a bit to the cheaper non-surgical $2.50 for 50pcs MIC ones, coz i did measure significantly lower levels of filtration on my laser particle counter.",13/2/21,0.375,0.875,0.078,0.922,0.0,-0.296,anger
+349,479,"Even if this Sundry shop uncle did not wear a mask at all, there is still a chance that he has not spread to the festive crowd @ chinatown blk 335 even if he has come across a total of say 50 customers.",13/2/21,0.0,0.75,0.0,0.881,0.119,0.6124,anger
+354,484,"Then people will be proclaiming ""see, this chinatown uncle did not spread at all other than to his own family"".",13/2/21,0.2375,0.6875,0.0,1.0,0.0,0.0,anger
+418,551,The jogger is quite far away and he is complaining.,2/9/21,0.1,1.0,0.167,0.833,0.0,-0.2023,anger
+440,580,They think that they are talented and a class above locals now.,2/9/21,0.35,0.5,0.0,0.752,0.248,0.5106,anger
+445,585,Damn weird.,2/9/21,-0.5,1.0,1.0,0.0,0.0,-0.5267,anger
+455,599,Only sinkies are wise to wear (fishing peoole all also wear).,2/9/21,0.35,0.95,0.0,0.763,0.237,0.4767,anger
+463,607,will be hard for TS to prove otherwise.,2/9/21,-0.2916666666666667,0.5416666666666666,0.167,0.833,0.0,-0.1027,anger
+467,611,"Stupid, selfish Indian woman btw",2/9/21,-0.6499999999999999,1.0,0.684,0.316,0.0,-0.7579,anger
+475,620,I don't think TS is wrong.,2/9/21,-0.5,0.9,0.437,0.563,0.0,-0.4767,anger
+481,627,"wendychan202 wrote: soory hor, before you attack here are the facts i was wearing a mask i didnt go up close hence i had to speak louder to which she used the word barking since she more educated than me and since she beelive that talk no mask, no saliva will fall on anyone Mask is to protect others not to protect yourself.",2/9/21,0.5,0.5,0.112,0.81,0.078,-0.3182,anger
+482,628,U are taking unnecessary risk and putting yourself and many others in harm\x92s way.,2/9/21,0.04999999999999999,0.7,0.149,0.851,0.0,-0.2732,anger
+484,630,U should have just let the authorities who are better equipped handle this.,2/9/21,0.5,0.5,0.0,0.791,0.209,0.4404,anger
+485,631,U are not just a potential mass murderer but an uneducated idiot as well!!!!,2/9/21,-0.5,0.9,0.457,0.543,0.0,-0.8562,anger
+495,642,The fact is our MIW favours them more than us.,2/10/21,0.5,0.5,0.0,0.763,0.237,0.4215,anger
+498,645,Wa they keep pretending and deluding themselves that they can go about normally and not get covid simply because they wear a mask which is not 100% foolproof.,2/10/21,0.075,0.5035714285714286,0.076,0.875,0.049,-0.1984,anger
+499,646,then proceed to go many places which have lots of people.,2/10/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+500,647,Rokusaburo wrote: Wa they keep pretending and deluding themselves that they can go about normally and not get covid simply because they wear a mask which is not 100% foolproof.,2/10/21,0.075,0.5035714285714286,0.071,0.883,0.046,-0.1984,anger
+503,651,wear mask is good enough at these rates.,2/10/21,0.35,0.55,0.0,0.707,0.293,0.4404,anger
+506,654,Most people erroneously think that wearing a mask is to prevent catching the virus from another person.,2/10/21,0.19999999999999998,0.6666666666666666,0.0,0.932,0.068,0.0258,anger
+509,657,"This is why when the infection rate in the population is low, only the infected need to wear mask and there is no point for a healthy person to wear mask.",2/10/21,0.16666666666666666,0.6,0.207,0.718,0.075,-0.5859,anger
+510,658,A healthy person wearing a mask can still easily get the virus through his/her eyes if he/she is exposed to the virus.,2/10/21,0.4666666666666667,0.6666666666666667,0.056,0.726,0.218,0.5859,anger
+515,663,BHills wrote: Most people erroneously think that wearing a mask is to prevent catching the virus from another person.,2/10/21,0.19999999999999998,0.6666666666666666,0.0,0.939,0.061,0.0258,anger
+526,682,"This has been discussed so many times and well known in the news etc, some people so do not get it.",2/10/21,0.5,0.5,0.0,0.905,0.095,0.2732,anger
+536,694,Dumb people are destined to be eradicated from the face of the earth.. unfortunately.. some of the people who follow the rules will also be brought down along with them.. this is how it works in the real world... a.sholes... kills...,2/10/21,-0.20763888888888893,0.5222222222222223,0.076,0.924,0.0,-0.5106,anger
+557,726,(AC places might be viable for a bit longer tho) The unlinked cases that pop up from time to time/sick don't go GP as well.... (sometimes cannot totally blame them for some cases) Fatigue or something....,2/10/21,0.0,0.75,0.054,0.886,0.06,0.0651,anger
+579,750,"snap99 wrote: The chances of people following the rules at Makan places is close to zero Hmm...since you mentioned that, they do makan during the flight as well, and that is the only time when the infectors are potentially unmasked, if you know what i mean.",2/10/21,-0.078125,0.696875,0.0,0.917,0.083,0.4404,anger
+604,781,funding them is Not as good as bribing them.,2/10/21,0.7,0.6000000000000001,0.231,0.769,0.0,-0.3412,anger
+610,789,"Bus MRT, so many people standing,sitting beside u for 20 to 30s mins.",2/9/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+612,791,Just that it's gonna be rare.,2/9/21,0.3,0.9,0.0,1.0,0.0,0.0,anger
+615,794,But be wary of some of the DIY type / Shopee Lazada Taobao cloth masks that claim to be comfortable to wear and airy etc.,2/9/21,-0.04999999999999999,0.75,0.0,0.875,0.125,0.5106,anger
+643,822,"So for this fella to be infected by the imports (infected + possibly at peak of viral shedding) by helping them to wear the tracking device in just 30-60 seconds at very possibly close up distances of 30-40cm or so even though duration is very short, not impossible.",2/8/21,0.08333333333333333,0.8475,0.063,0.893,0.044,-0.25,anger
+667,868,"Driver straight away tell her wear otherwise cannot board And a lot of times now I see people at lift lobby will take off mask whilst waiting for lift ... the moment someone else show up (that someone else being me), kanchiong faster wear mask ... like, already wear until here, just continue wear until go up the lift to your home, so difficult?",2/7/21,-0.15,0.7,0.049,0.869,0.082,0.0667,anger
+701,930,"Haha~ I already know they were not telling the truth cos WHO was pretty complacence on the Corona virus as there was mere few cases in Europe & US back then~ Also when LW said they heard from the experts advice, he didn't quote it was from WHO, he also didn't explain who are this ""experts"" were~ then in Feb the four local doctors came out their own health 2M advisory, wear mask & stop mingling~ MOH chief was quick to rebut them, he didn't quote WHO as well~ when CCS audio leak came out, he said he took a gamble to give out 4 masks to make sinkies shiok shiok~ if it was WHO advise, then there wasn't a need to give fake advise~ Worst thing is people like Calvin Cheng and his readers are defending hard for the ministers u-turn advisory~ unbelievable~",4/5/20,-0.11319444444444444,0.5784722222222223,0.101,0.862,0.038,-0.8157,anger
+703,932,"As situation changes we need to respond correspondingly sunsetbay wrote: Haha~ I already know they were not telling the truth cos WHO was pretty complacence on the Corona virus as there was mere few cases in Europe & US back then~ Also when LW said they heard from the experts advice, he didn't quote it was from WHO, he also didn't explain who are this ""experts"" were~ then in Feb the four local doctors came out their own health 2M advisory, wear mask & stop mingling~ MOH chief was quick to rebut them, he didn't quote WHO as well~ when CCS audio leak came out, he said he took a gamble to give out 4 masks to make sinkies shiok shiok~ if it was WHO advise, then there wasn't a need to give fake advise~ Worst thing is people like Calvin Cheng and his readers are defending hard for the ministers u-turn advisory~ unbelievable~",4/5/20,-0.11319444444444444,0.5784722222222223,0.094,0.87,0.035,-0.8157,anger
+708,938,PAP are time travellers.....better to say than admit they no integrity.....hide behind a post-dated WHO advisory which didn't existed when they tell Sinkies not to wear masks in January.....and printed millions of flyers....you dare say WHO already issued their Masks advisory when they printed these flyers??,4/5/20,-0.4,0.7,0.054,0.908,0.038,-0.1926,anger
+709,940,"sunsetbay wrote: Haha~ I already know they were not telling the truth cos WHO was pretty complacence on the Corona virus as there was mere few cases in Europe & US back then~ Also when LW said they heard from the experts advice, he didn't quote it was from WHO, he also didn't explain who are this ""experts"" were~ then in Feb the four local doctors came out their own health 2M advisory, wear mask & stop mingling~ MOH chief was quick to rebut them, he didn't quote WHO as well~ when CCS audio leak came out, he said he took a gamble to give out 4 masks to make sinkies shiok shiok~ if it was WHO advise, then there wasn't a need to give fake advise~ Worst thing is people like Calvin Cheng and his readers are defending hard for the ministers u-turn advisory~ unbelievable~ Bro, you very sharp hor.....before March, all PeeAhPee never dare to quote WHO wor.....why huh why now then quote WHO?",4/5/20,-0.1169871794871795,0.608974358974359,0.088,0.879,0.033,-0.8157,anger
+711,942,"sunsetbay wrote: Haha~ I already know they were not telling the truth cos WHO was pretty complacence on the Corona virus as there was mere few cases in Europe & US back then~ Also when LW said they heard from the experts advice, he didn't quote it was from WHO, he also didn't explain who are this ""experts"" were~ then in Feb the four local doctors came out their own health 2M advisory, wear mask & stop mingling~ MOH chief was quick to rebut them, he didn't quote WHO as well~ when CCS audio leak came out, he said he took a gamble to give out 4 masks to make sinkies shiok shiok~ if it was WHO advise, then there wasn't a need to give fake advise~ Worst thing is people like Calvin Cheng and his readers are defending hard for the ministers u-turn advisory~ unbelievable~ The MOH chief is really a scum.",4/5/20,-0.12756410256410258,0.5647435897435898,0.095,0.869,0.036,-0.8157,anger
+714,945,"They are doing the right thing now, let\u2019s not harp on it anymore.",4/5/20,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,anger
+715,946,"It is true that both WHO and CDC has dished out only the sick should wear masks once day one, with the main reason being the conservation of masks for the healthcare workers.",4/5/20,-0.04940476190476192,0.7101190476190476,0.089,0.836,0.075,-0.128,anger
+719,950,Maybe they were complacent and thought they could contain this pandemic easily with or without masks.,4/5/20,0.43333333333333335,0.8333333333333334,0.073,0.791,0.136,0.2732,anger
+730,961,"They are doing the right thing now, let\x92s not harp on it anymore.",4/5/20,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,anger
+735,973,"1) When evidence has been published, the PAP Ministers and MOH Chief Scientist cannot pretend to be blind and say no evidence was seen.",4/5/20,-0.5,0.6666666666666666,0.18,0.772,0.048,-0.558,anger
+736,974,Did MOH Chief Scientist spread fake news when he claimed he saw no evidence of community spread on 27 Feb?,4/5/20,-0.5,1.0,0.227,0.773,0.0,-0.6486,anger
+741,979,"Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected.",4/5/20,-0.25,0.8888888888888888,0.275,0.725,0.0,-0.8106,anger
+744,982,"33% of confirmed cases were unlinked according to MOH report on 28 Feb, so on what basis did MOH Chief Scientist claim that he did not see any evidence of community spread?",4/5/20,0.4,1.0,0.0,1.0,0.0,0.0,anger
+751,990,He was arrested for fake news.,4/5/20,-0.5,1.0,0.608,0.392,0.0,-0.7351,anger
+776,1015,"At Emory, Ribner is responsible for the care of patients treated for Ebola, Lassa fever, and other serious pathogen diseases.",4/5/20,-0.0861111111111111,0.5305555555555556,0.055,0.714,0.231,0.6369,anger
+787,1026,"""They behave so similar, it's very hard to pick up the difference.""",4/5/20,-0.18958333333333335,0.5520833333333333,0.133,0.867,0.0,-0.1761,anger
+797,1036,"If we don't do all we can to protect them, they will quickly transition from providers to patients, further stressing already overburdened facilities.""",4/5/20,0.16666666666666666,0.5,0.096,0.805,0.1,0.0258,anger
+804,1054,It should be judged or rather determined by the victim instead My stand is sinkie should have every right to blame the naive government for totall believe\x94 or following\x94 WHO.,4/5/20,-0.029761904761904767,0.5285714285714286,0.189,0.743,0.069,-0.4939,anger
+810,1071,They brainwash on tv with that stupid ad of chenshucheng laughing at his friend for wearing a mask.,4/5/20,-0.7999999999999999,1.0,0.143,0.588,0.269,0.4588,anger
+818,1093,"But I believe its cos there have the at war mentality.. survival at stake... And they have close monitoring of mainland developments and insider info because of the tensions Not only that, they are very transparent about their masks supplies as well Over here sg is very bullish and citizens got scolded by authorities.",4/5/20,0.13333333333333333,0.5333333333333333,0.112,0.852,0.036,-0.6705,anger
+829,1106,"Their gov got brainwash, advocates, lie to citizens that wear mask no use, no need to wear mask, mask give you fake sense of security.",4/5/20,-0.5,1.0,0.243,0.68,0.078,-0.6249,anger
+836,1116,This made us very uncomfortable everytime we got out.,4/5/20,-0.65,1.0,0.266,0.734,0.0,-0.4391,anger
+842,1124,"If govt keep too much edmwer will scold them for overspending and being kiasu if this pandemic didn't happen I am not referring to CCS but Lawrence Wong statements during the month of jan which lead to CCS infamous masks gambling To your million mask inventory, I am thinking Why our world class ministers do not have the 20/20 foresight as they had claimed as per every election...",4/5/20,-0.15,0.6,0.028,0.972,0.0,-0.2144,anger
+855,1137,plexxor wrote: They don't have enough masks.,4/5/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+857,1139,Sent from The Matrix using GAGT If whole population wear a mask everyday surely not enough He already said he took a gamble But it\x92s impressive now they are giving free reusable mask to everyone,4/5/20,0.27999999999999997,0.6599999999999999,0.0,0.709,0.291,0.8979,anger
+869,1153,"Up for debate Poomer wrote: If not enough masks, why are the still allowing face masks to be exported.",4/5/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+871,1161,"But I dun see the reason for calling them names .like scums..xia suay etc... Let's have some respect for our institution and govt If they had any respect for us, they will not ask us not to wear masks unless sick, bombarding the tv with that message as late as a few days ago before LHL u-turn on Friday.",4/5/20,-0.4047619047619047,0.5190476190476191,0.051,0.815,0.134,0.6597,anger
+875,1170,"[ QUOTE=ahdotx;126146722]I am not referring to CCS but Lawrence Wong statements during the month of jan which lead to CCS infamous masks gambling To your million mask inventory, I am thinking Why our world class ministers do not have the 20/20 foresight as they had claimed as per every election... [/QUOTE] I agree they done well for others, that is why I only singled out masks management.",4/5/20,-0.25,1.0,0.0,0.912,0.088,0.7096,anger
+887,1182,"In fact, their constant advertisements to ask people not to wear face masks when sick.",4/5/20,-0.35714285714285715,0.5952380952380952,0.191,0.809,0.0,-0.5106,anger
+888,1183,This contributed to the increase in people catching the virus.,4/5/20,0.6,0.9,0.0,0.796,0.204,0.3182,anger
+894,1189,Be honest we us.,4/5/20,0.6,0.9,0.0,0.476,0.524,0.5106,anger
+902,1199,I won't argue if ur opinion is that u think not gud enuf I only ask u to respect our govt and civil service.. dun abuse them  or call them names... its uncalled for I don't see how having ample stockpile could justify all the lies.,4/5/20,0.0,1.0,0.142,0.753,0.105,-0.4337,anger
+903,1200,"Take taiwan/china for example, they are also facing shortage problem, but instead of lying to citizens, they come clean with the massive shortage.",4/5/20,0.18333333333333335,0.8500000000000001,0.327,0.562,0.111,-0.7096,anger
+908,1205,But govt wisely chose to emphasise on personal hygiene And for people to stay home if unwell Poomer wrote: So you agree the government lied?,4/5/20,0.35,0.6,0.086,0.729,0.185,0.4549,anger
+925,1252,70percentile wrote: Wearing masks is not more important than practise personal hygiene or safe distancing.. i agree with him U can disagree but it shouldn't prompt u to call for his resignation..,4/5/20,0.1625,0.575,0.1,0.784,0.116,0.1269,anger
+927,1254,Why police never arrest PAP Ministers and charge them under POFMA for fake news?,4/5/20,-0.2375,0.5,0.181,0.7,0.119,-0.2649,anger
+929,1256,"The public only knew about this because someone recorded the meeting and leaked it online, which spread viral before finally picked up by MSM and reported as news.",4/5/20,0.0,0.6888888888888888,0.078,0.922,0.0,-0.3182,anger
+960,1309,Pure 0/0 foresight to me.,4/5/20,0.21428571428571427,0.5,0.0,1.0,0.0,0.0,anger
+982,1331,"They have their own supply chains, that's not an issue at all.",4/5/20,0.6,1.0,0.0,1.0,0.0,0.0,anger
+987,1342,"In before PAP IBs reply Since you are so stupid, here let me spoon feed you with the facts.",4/5/20,-0.7999999999999999,1.0,0.195,0.805,0.0,-0.656,anger
+988,1343,Lie definition: to say or write something that is not true in order to deceive someone: https://dictionary.cambridge.org/dictionary/english/lie Your evidence of the amount of stockpile is not proof that someone lied.,4/5/20,-0.175,0.65,0.22,0.78,0.0,-0.7672,anger
+1002,1359,"Similar analogy to bank run..if everyone rush to withdraw large sum .there will never be enuf But in general circumstances.cash in banks are enough for everyone to use clon33 wrote: In before PAP IBs reply Since you are so stupid, here let me spoon feed you with the facts.",4/5/20,-0.10714285714285712,0.5657142857142856,0.083,0.917,0.0,-0.656,anger
+1004,1370,Similar analogy to bank run..if everyone rush to withdraw large sum .there will never be enuf But in general circumstances.cash in banks are enough for everyone to use In before PAP IBs reply So I put it to you that you agree PAP Ministers lied: - when they tried to reassure public in response to panic buying - only told the truth to SCCI members behind closed door meeting Thank you for finally stating on the record that PAP Ministers lied.,4/5/20,-0.026190476190476195,0.5216931216931217,0.095,0.796,0.109,0.0516,anger
+1005,1371,Now why police never arrest PAP Ministers for spreading fake news?,4/5/20,-0.2375,0.5,0.219,0.637,0.144,-0.2649,anger
+1008,1375,To b very specific Please quote verbatim what the ministers said wif respect to the masks availability.. clon33 wrote: In before PAP IBs reply So I put it to you that you agree PAP Ministers lied: - when they tried to reassure public in response to panic buying - only told the truth to SCCI members behind closed door meeting Thank you for finally stating on the record that PAP Ministers lied.,4/5/20,-0.08333333333333333,0.5048611111111111,0.103,0.712,0.186,0.7076,anger
+1023,1400,300k to cab and bus drivers..few million more to retailers..,4/5/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+1043,1421,"Don't have enough of the N95 one, what did we do?",4/5/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1055,1433,This is only relevant in the event of aerosol transmission of virus.,4/5/20,0.2,0.95,0.0,1.0,0.0,0.0,anger
+1069,1483,The issue isn't insufficient stock.or lying about it The issue is the usual way of multi sources only works in events of localised or regional epidemic When pandemic of such scale occurs..all supply chain were broken as countries implement export ban Grading wise.i would give sgp a B We were prepared but not enough Taiwan a A.. We can go beg Taiwan to share some of their mask making capacity with us.,4/5/20,-0.13,0.53,0.058,0.859,0.082,0.1994,anger
+1071,1485,pm_me_your_nudes wrote: The premise of your arguments are all flawed.,4/5/20,-0.5,0.5,0.231,0.769,0.0,-0.4019,anger
+1077,1491,"Okay, let's give you benefits of doubt that he was indeed referring to WHO but just because you don't have all the information he did doesn't mean he is lying.",4/5/20,0.09375,0.59375,0.178,0.73,0.091,-0.6249,anger
+1086,1501,PAP are time travellers.....better to say than admit they no integrity.....hide behind a post-dated WHO advisory which didn't existed when they tell Sinkies not to wear masks in January.....and printed millions of flyers....you dare say WHO already issued their Masks advisory when they printed these flyers???,4/5/20,-0.4,0.7,0.058,0.905,0.038,-0.2359,anger
+1087,1502,"sunsetbay wrote: Haha~ I already know they were not telling the truth cos WHO was pretty complacence on the Corona virus as there was mere few cases in Europe & US back then~ Also when LW said they heard from the experts advice, he didn't quote it was from WHO, he also didn't explain who are this ""experts"" were~ then in Feb the four local doctors came out their own health 2M advisory, wear mask & stop mingling~ MOH chief was quick to rebut them, he didn't quote WHO as well~ when CCS audio leak came out, he said he took a gamble to give out 4 masks to make sinkies shiok shiok~ if it was WHO advise, then there wasn't a need to give fake advise~ Worst thing is people like Calvin Cheng and his readers are defending hard for the ministers u-turn advisory~ unbelievable~",4/5/20,-0.11319444444444444,0.5784722222222223,0.099,0.864,0.037,-0.8157,anger
+1110,1526,Eric A Blair wrote: PAP Government had been pushing for \x93those who are well do not need to wear surgical masks\x94 message since 24 January 2020.....for more than two months!!,4/6/20,0.78125,0.5,0.0,0.913,0.087,0.3987,anger
+1112,1528,Problem is WHO's 'Advice on the use of masks' was dated 19 March 2020.... Are PAP Government time travellers or they lied and have serious integrity problems?,4/6/20,-0.3333333333333333,0.6666666666666666,0.274,0.649,0.077,-0.6908,anger
+1127,1543,"If you are unware of mask prices, please dont be a smart alex and assuming everyone is lying Throw IB label around is not going to help you win your argument.",4/6/20,0.5071428571428571,0.5214285714285715,0.257,0.592,0.151,-0.5132,anger
+1129,1550,They lie all the time but with good reasons.,4/6/20,0.7,0.6000000000000001,0.0,0.675,0.325,0.5927,anger
+1136,1557,"They so poor thing, can\x92t sleep, work hard, trying take care of us, then let people like you guys complain about everything",4/6/20,-0.3458333333333333,0.5708333333333333,0.243,0.567,0.19,-0.1513,anger
+1140,1561,These r priorities..if the govt didn't do..then I will complain Mask advisory is very clear..if sick please wear masks.. but given shortage pls leave it for frontliners.. u dun have to wear it well...,4/7/20,-0.2571428571428571,0.5785714285714285,0.17,0.697,0.133,-0.3187,anger
+1143,1564,Stop twisting the facts Eric A Blair wrote: You mean the virus changed from Day One??,4/7/20,-0.3125,0.6875,0.155,0.845,0.0,-0.3736,anger
+1152,1574,The only reason why they advocates not wearing is purely plain complacency.,4/7/20,-0.10714285714285714,0.6785714285714286,0.0,1.0,0.0,0.0,anger
+1158,1580,HK didn't give free masks.,4/7/20,0.4,0.8,0.403,0.597,0.0,-0.4023,anger
+1184,1621,Pls dun post misleading comments https://www.google.com/url?sa=t&sour...B_EEnPve9ENU84 pm_me_your_nudes wrote: The premise of your arguments are all flawed.,4/8/20,-0.5,0.5,0.274,0.66,0.066,-0.6249,anger
+1188,1636,"However, the use of a mask alone is insufficient to provide the adequate level of protection and other equally relevant measures should be adopted.",4/8/20,0.2027777777777778,0.5361111111111111,0.08,0.843,0.076,-0.0258,anger
+1191,1640,"Saw the news earlier, when Wuhan was in the midst of the outbreak, a Wuhan girl in Sg managed to get NGO's to help her send thousands of mask to Wuhan (I don't blame her, she did what she'd felt necessary), that was a good publicity stunt by those involved, but it certainly didn't help us one bit, did it?.",4/8/20,0.22857142857142856,0.6678571428571429,0.0,0.816,0.184,0.8741,anger
+1198,1647,Nothing wrong for Lawrence to heed the experts advice.,4/10/20,-0.5,0.9,0.0,0.758,0.242,0.3724,anger
+1202,1651,Accusing govt of lying is a serious matter..,4/10/20,-0.3333333333333333,0.6666666666666666,0.615,0.385,0.0,-0.6597,anger
+1208,1657,PAP are time travellers.....better to say than admit they no integrity.....hide behind a post-dated WHO advisory which didn't existed when they tell Sinkies not to wear masks on January 24..... And printed millions of flyers before Jan 29 for distribution....you dare say WHO already issued their Masks advisory when they printed these flyers??,4/10/20,-0.4,0.7,0.047,0.92,0.033,-0.1926,anger
+1213,1663,tbh this was the worst.,19/4/20,-1.0,1.0,0.506,0.494,0.0,-0.6249,anger
+1214,1664,In workplaces it was seen as undesirable to be wearing a mask cause it tells everyone you are sick and of course some people will auto assume you have Covid.,19/4/20,-0.7142857142857143,0.8571428571428571,0.187,0.813,0.0,-0.7351,anger
+1215,1665,That's why alot of people don't mask up until they are super super sick,19/4/20,-0.01587301587301589,0.7301587301587301,0.149,0.498,0.353,0.6705,anger
+1225,1680,"but after 4th may, if CB lifted, you can be sure masks will still be compulsory, or people will still want to wear mask to protect themselves .",19/4/20,0.5,0.8888888888888888,0.0,0.755,0.245,0.7783,anger
+1236,1691,"What a stupid Fox News thread ""When the facts change, I change my mind.",26/4/20,-0.7999999999999999,1.0,0.236,0.764,0.0,-0.5267,anger
+1238,1693,"- John Maynard Keynes Those who keep going on and on and on about the masks, aren't thinking clearly If indeed the masks were that important, WHY DID CASELOADS NOT SHOOT UP MUCH EARLIER?",26/4/20,0.16666666666666666,0.6277777777777778,0.062,0.819,0.12,0.2779,anger
+1240,1695,"If mask so important and key driver of caseload, should have gone up A LOT EARLIER.",26/4/20,0.13333333333333333,0.8333333333333334,0.0,0.855,0.145,0.3327,anger
+1244,1699,Mask was not key driver of caseload.,26/4/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+1248,1704,"Arcspeed wrote: What a stupid Fox News thread ""When the facts change, I change my mind.",26/4/20,-0.7999999999999999,1.0,0.207,0.793,0.0,-0.5267,anger
+1265,1754,I reckon we probably only need 1-2mil masks everyday even without a lockdown... Plus how long did it takes the multi millions dollar ministers and their group of medical experts to come out with a more sustainable Idea by making and distributing reusable masks?,24/5/20,0.05,0.5,0.0,1.0,0.0,0.0,anger
+1276,1765,Note that you can only catch COVID from someone who has been infected.,24/5/20,0.0,1.0,0.211,0.789,0.0,-0.4939,anger
+1297,1786,"The government\x92s mistakes is extremely costly, the monies incurred could have been used to transform our economy post covid19",24/5/20,-0.125,1.0,0.198,0.802,0.0,-0.4927,anger
+1312,1831,"Given the choices, none of them good, a decision had to be made.",24/5/20,0.7,0.6000000000000001,0.179,0.821,0.0,-0.3412,anger
+1323,1842,Employers were sending workers for test en masse for selfish reasons.,24/5/20,-0.5,1.0,0.237,0.763,0.0,-0.4767,anger
+1328,1867,Pap say have enough masks for everyone.,24/5/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1330,1869,And mostly importantly they listened to WHO blindly.,24/5/20,-0.04999999999999999,0.8333333333333333,0.0,0.753,0.247,0.3182,anger
+1331,1870,"If they had been more transparent and honest, it would put a strong message across to the people.",24/5/20,0.5111111111111112,0.7111111111111111,0.0,0.686,0.314,0.7823,anger
+1341,1880,taiwan did the right thing and the results shows.,24/5/20,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,anger
+1384,1952,"YES The government was openly spouting lies in our face, just to save face because they had insufficient masks to go around and had to prioritise.",24/5/20,0.0,0.5,0.086,0.709,0.205,0.5904,anger
+1388,1956,"All this suggests, along with that kee chiu backroom audio, is that the government is having a very dim view of its population's IQ.",24/5/20,0.13,0.65,0.0,1.0,0.0,0.0,anger
+1393,1961,I stopped reading nus one when he said: Let\x92s use an army analogy to make the situation more obvious.,24/5/20,0.25,0.5,0.101,0.899,0.0,-0.2263,anger
+1394,1966,WRONG ANALOGY.,24/5/20,-0.5,0.9,0.756,0.244,0.0,-0.4767,anger
+1400,1972,Damn lousy lah.,24/5/20,-0.5,0.5,0.861,0.139,0.0,-0.7351,anger
+1408,1993,"The government\x92s mistakes is extremely costly, the monies incurred could have been used to transform our economy post covid19 Contact tracing was a 10 year or should i say 17 year series model answer.",24/5/20,-0.125,1.0,0.123,0.877,0.0,-0.4927,anger
+1419,2009,"BUT unfortunately, virus don't listen to prayers",24/5/20,-0.5,1.0,0.341,0.659,0.0,-0.4767,anger
+1420,2010,"The mask part, I can uds that the gov did not have enough masks for everyone at that point of time.",24/5/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1422,2012,"NS_Hippo wrote: The mask part, I can uds that the gov did not have enough masks for everyone at that point of time.",24/5/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1423,2014,his whole rebuttal on masks is moot because something like a reusable mask exists.. and people in the us who don't have any make their own from household materials,24/5/20,0.4,0.7,0.0,0.915,0.085,0.3612,anger
+1425,2021,He went on to further criticize them for not listening to four doctors who wrote to ST Forum to advise that masks MUST be worn.,24/5/20,0.0,0.5,0.173,0.827,0.0,-0.5859,anger
+1431,2034,"With people having such mindset, are u sure they won\x92t wipe out the mask stockpile leaving little or none for the frontline?",24/5/20,0.10416666666666667,0.6296296296296297,0.0,0.897,0.103,0.3182,anger
+1444,2052,Taiwan's and Hong Kong's Government did not discourage their people to wear mask even there wasn't enough to go along.,24/5/20,0.0,0.5,0.0,0.891,0.109,0.3252,anger
+1447,2055,As it is better to at least having a mask than no mask be it not as effective as a surgical mask.,24/5/20,0.26666666666666666,0.5666666666666668,0.193,0.69,0.118,-0.2153,anger
+1452,2061,They should in fact just leave it to the public to make their own judgement.,24/5/20,0.3,0.5333333333333333,0.079,0.921,0.0,-0.0516,anger
+1490,2112,The NTU prof's argument also quite flawed.,24/5/20,-0.5,0.5,0.294,0.706,0.0,-0.3612,anger
+1501,2123,this only made them condemning the 4 doctors\x92 mask advice even sillier.,24/5/20,0.0,1.0,0.0,0.833,0.167,0.25,anger
+1503,2125,can just tell from the number of dl their stupid tracing app have.,24/5/20,-0.7999999999999999,1.0,0.217,0.701,0.083,-0.4767,anger
+1507,2133,this only made them condemning the 4 doctors\u2019 mask advice even sillier.,24/5/20,0.0,1.0,0.0,0.833,0.167,0.25,anger
+1511,2138,"You fk up, fine, take the responsibility of it and learn from it.",24/5/20,0.4166666666666667,0.5,0.0,0.87,0.13,0.2023,anger
+1524,2159,They should have enough N95s and surgical mask in Singapore to tahan for SARS-like period.,24/5/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1553,2215,"SaGu wrote: sagu understand that for some countries even when the government had not enforced wearing face masks, the people had already started wearing their own face masks which had been part of the culture and conversely when the Singapore government had not asked the people to wear face masks there is nothing to stop the people from wearing face masks and indeed some smart Singaporeans and more residents from China including a few members here had started wearing face masks back then as sagu did too #saguwisdom want to distort the facts also tactical la, this thing how long ago only?",24/5/20,0.1520408163265306,0.5204081632653061,0.022,0.922,0.056,0.3794,anger
+1555,2217,SaGu wrote: sagu suggest this Covid-19 virus pandemic as unfortunate as it is creates a golden learning opportunity ergo baptism of fire for the 4G leadership which augurs good for Singapore\x92s future and the many critical posts in this forum and others have helped to sharpen their abilities #saguwisdom spending billions of reserves a bunch of wannabees never earned is never a baptism of fire for any leaders.,25/5/20,0.16666666666666666,0.5875,0.131,0.741,0.127,-0.0772,anger
+1560,2222,All you have to do is to dissolve organizations and societies and banish and detain the key political workers in these societies.,25/5/20,0.0,0.55,0.222,0.778,0.0,-0.6908,anger
+1563,2225,"\u5e9f\u7269 will always take the easy way out juz like your 5G, especially when they started the mess with not doing anything about overcrowding dorms and downplaying masks.......",25/5/20,0.08611111111111112,0.6694444444444444,0.076,0.76,0.164,0.4404,anger
+1575,2238,It's not to say that Singapore do not have enough masks.,24/5/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1592,2269,SaGu wrote: sagu suspect the initial face mask policy might have been different and better if Singapore had not been caught off-guard by Taiwan who stop the exporting of surgical face masks for supply to their own Taiwanese population even if the face masks were produced by non-Taiwanese companies #saguwisdom Preparing since SARS... but kenna caught off guard... Stop blaming others lah... if we admitted we got not enough masks in the first place... and start educating pple to make their own masks using simple materials... things WOULD have been much better than now...,24/5/20,0.27222222222222225,0.5322751322751322,0.098,0.831,0.071,-0.4404,anger
+1597,2274,wongkc wrote: Preparing since SARS... but kenna caught off guard... Stop blaming others lah... if we admitted we got not enough masks in the first place... and start educating pple to make their own masks using simple materials... things WOULD have been much better than now...,24/5/20,0.27,0.5380952380952381,0.13,0.77,0.1,-0.3919,anger
+1598,2278,SaGu wrote: sagu suspect the initial face mask policy might have been different and better if Singapore had not been caught off-guard by Taiwan who stop the exporting of surgical face masks for supply to their own Taiwanese population even if the face masks were produced by non-Taiwanese companies #saguwisdom Don't blame tw la Ownself already wrote off the face mask idea.,24/5/20,0.275,0.525,0.065,0.861,0.073,0.1371,anger
+1610,2299,"stillgottheblues wrote: If there is no stock they should have told the citizenry honestly, and suggested an alternative.",24/5/20,0.6,0.9,0.104,0.755,0.142,0.2023,anger
+1611,2300,"E.g., in certain americunt states, their governor asked them to put on some or any form of face covering when going out.",24/5/20,0.21428571428571427,0.5714285714285714,0.0,0.909,0.091,0.2732,anger
+1615,2304,muddywaters wrote: Wah he made such allegations....,24/5/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1627,2318,"don't fire bullets at the enemy, then shout bang bang bang and vulgar words at the enemy??",24/5/20,-0.7,0.8,0.315,0.598,0.087,-0.7449,anger
+1635,2327,"but the opening of the city and stupid policies of not shutting down country, stopping of construction work is terribly wrong and which can be avoidable.",24/5/20,-0.48518518518518516,0.7296296296296297,0.414,0.586,0.0,-0.9481,anger
+1638,2330,Enough of the rubbish of the news portraying them walking the ground.,24/5/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1655,2360,"It's not just lying to people that we have enough, when we dont.",24/5/20,0.0,0.5,0.0,0.812,0.188,0.4168,anger
+1666,2380,it would still be necessary because josephine teo farked up big time,24/5/20,0.0,0.55,0.0,1.0,0.0,0.0,anger
+1670,2386,"To be honest, imposing compulsory mask wearing at the start is not warranted lah.",24/5/20,0.6,0.9,0.084,0.719,0.198,0.4404,anger
+1671,2387,"When I say compulsory, I mean putting in a $300 fine if you are not wearing a mask.",24/5/20,0.05208333333333334,0.59375,0.0,0.878,0.122,0.2023,anger
+1680,2399,To say it now is just putting the canon behind the horse.,24/5/20,-0.4,0.7,0.0,1.0,0.0,0.0,anger
+1681,2400,"On Jan, there's already calls for banning China visitors but govt no action so someone had to start a petition on 26 Jan~ https://www.change.org/p/immigration...ring-singapore It gathered more then 100k signatures, the response from LW was don't overreact & xeno, OYK said don't do unto others~ Many supporters said there was a shortage of mask and it should reserve for front liners that's why this healthy don't wear mask advisory came about~ true but there's no need to give wrong info that only wear mask when you are sick~ those that worn masks in public places on early days were faced with discrimination like plague~ Not only that, LPM said there's sufficient mask and show a picture of himself in the ""mask"" warehouse~ in the beginning, they didn't come clean on the mask shortage~ they took a gamble , CCS said it himself, to give out 4 masks to each household to make them shiok shiok~ Why can't they just say the true,  in Thailand they made their own cotton masks cos mask shortage~ the 4 doctors came out with their own advisory wearing mask and social distancing on 10 Feb~ before you say it was a hindsight, the task force wasn't aware of such advisory, Kenneth Mak rebutted their advisories on the 12 Feb~ The whole thing is definitely not horse before cannon~",24/5/20,0.1542857142857143,0.5720238095238096,0.074,0.826,0.1,0.8131,anger
+1682,2401,"sunsetbay wrote: On Jan, there's already calls for banning China visitors but govt no action so someone had to start a petition on 26 Jan~ https://www.change.org/p/immigration...ring-singapore It gathered more then 100k signatures, the response from LW was don't overreact & xeno, OYK said don't do unto others~ Many supporters said there was a shortage of mask and it should reserve for front liners that's why this healthy don't wear mask advisory came about~ true but there's no need to give wrong info that only wear mask when you are sick~ those that worn masks in public places on early days were faced with discrimination like plague~ Not only that, LPM said there's sufficient mask and show a picture of himself in the ""mask"" warehouse~ in the beginning, they didn't come clean on the mask shortage~ they took a gamble , CCS said it himself, to give out 4 masks to each household to make them shiok shiok~ Why can't they just say the true,  in Thailand they made their own cotton masks cos mask shortage~ the 4 doctors came out with their own advisory wearing mask and social distancing on 10 Feb~ before you say it was a hindsight, the task force wasn't aware of such advisory, Kenneth Mak rebutted their advisories on the 12 Feb~ The whole thing is definitely not horse before cannon~ really shows sg ""experts""; got how much foresight and overvalued, dunning kreuger effect is real",24/5/20,0.16024844720496897,0.5278467908902692,0.069,0.838,0.094,0.8131,anger
+1683,2402,"tok_kok wrote: To be honest, imposing compulsory mask wearing at the start is not warranted lah.",24/5/20,0.6,0.9,0.075,0.749,0.176,0.4404,anger
+1685,2407,You are an obvious idiot !...,24/5/20,-0.5,0.65,0.418,0.582,0.0,-0.5562,anger
+1687,2409,... ... .. it is this - ... .. telling healthy people not to wear masks is sure to result in more infections!......,24/5/20,0.5416666666666666,0.6296296296296297,0.0,0.791,0.209,0.6476,anger
+1690,2412,Although I do think she is getting more than her fair share.,24/5/20,0.6,0.7,0.0,0.654,0.346,0.5809,anger
+1691,2413,Seniors civil servants under her ministry should be investigated for tolerating this kind of systemic lapses with the fw dorms.,24/5/20,0.6,0.9,0.0,1.0,0.0,0.0,anger
+1699,2426,Imposing fine wasn\x92t warranted but wearing a mask is.,24/5/20,0.4166666666666667,0.5,0.14,0.698,0.163,0.0516,anger
+1704,2431,It\x92s naive to keep rolling the dice and yet we did anyway.,24/5/20,-0.3,1.0,0.16,0.84,0.0,-0.2732,anger
+1722,2459,"No, but people don't complain because we know that when push comes to shove, we are better off having those than not.",24/5/20,0.5,0.5,0.059,0.701,0.24,0.7109,anger
+1724,2461,The fact that we didn't learn our lessons by prepping better just goes to show the flaws in our administration Sent from Rain Rain Go Away using GAGT,24/5/20,0.5,0.5,0.0,0.903,0.097,0.4404,anger
+1725,2468,"She push then push, punish then for what they sow....ask the DORM to pay for their own cost......BUT now taxpayers are asked to pay for the expenses in the DORM.",24/5/20,0.6,1.0,0.187,0.813,0.0,-0.6369,anger
+1729,2478,"They ask MOM, 'Are people prepared to pay more?'""",24/5/20,0.5,0.5,0.136,0.68,0.184,0.128,anger
+1736,2485,You need to wear PAPR on top of the N95 mask in them.,5/9/20,0.5,0.5,0.0,0.87,0.13,0.2023,anger
+1763,2512,FW will never complain being in Expo/Changi/TP because those community facilities are many times better than being sick in others or their own countries.,5/10/20,0.22142857142857142,0.7142857142857143,0.113,0.716,0.171,0.1803,anger
+1768,2517,Some Singaporeans I saw in FB are praising the expo out of sense of patriotism and only because they thought they will never ever get infected with the virus.,5/10/20,0.0,1.0,0.0,0.809,0.191,0.7293,anger
+1791,2540,We have more than enough hotels...,5/10/20,0.25,0.5,0.0,1.0,0.0,0.0,anger
+1802,2606,If people not happy straight way this penis lover will try seek out and shame the people Sent from By Baba yaga At Your Pigu Dong using GAGT,5/10/20,-0.1,0.7,0.218,0.675,0.107,-0.4523,anger
+1844,2648,Hard for the layman on the street to catch up.,15/4/20,-0.2916666666666667,0.5416666666666666,0.135,0.865,0.0,-0.1027,anger
+1845,2649,Should have been more decisive earlier.,15/4/20,0.25,0.5,0.0,0.695,0.305,0.2944,anger
+1854,2658,Pls ask the ex actresses/ actors  to re- announce the important of using mask now.,14/4/20,0.4,1.0,0.0,0.807,0.193,0.2732,anger
+1876,2680,Some were also given gentle warnings when they were out but no fines.,15/4/20,0.2,0.8,0.269,0.612,0.119,-0.3506,anger
+1883,2687,This is worst than people doing exercise.,15/4/20,-1.0,1.0,0.406,0.594,0.0,-0.6249,anger
+1894,2698,Every wrong decision cost lives.,14/4/20,-0.5,0.9,0.437,0.563,0.0,-0.4767,anger
+1895,2699,Be wise.,14/4/20,0.7,0.9,0.0,0.244,0.756,0.4767,anger
+1911,2715,Many lost over hundreds or thousands of dollars per month of their income.,15/4/20,0.5,0.5,0.161,0.839,0.0,-0.3182,anger
+1918,2722,Those who  did not get this news update will be slap with $300 fine.,15/4/20,0.4166666666666667,0.5,0.0,0.779,0.221,0.34,anger
+1945,2749,Especially on the revoking passes/ PR status on foreigners.,15/4/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+1952,2756,As easy as that .,17/4/20,0.43333333333333335,0.8333333333333334,0.0,0.508,0.492,0.4404,anger
+1971,2776,This is ridiculous Loh.. delivery guys who cycle to deliver - they have to wear masks Cycling under the hot sun.,17/4/20,-0.04166666666666666,0.925,0.116,0.884,0.0,-0.3612,anger
+1982,2787,Stop your crap and tighten the rules please!,17/4/20,-1.0,0.8,0.411,0.403,0.186,-0.4199,anger
+1999,2805,Some of us have problems with some of member of the house but can’t afford to get another housing for example they do need some space ... [ we never know ]   So please don’t judge others and be kind coz every house members fighting their own war ..,24/4/20,0.6,0.95,0.221,0.702,0.077,-0.8233,anger
+2019,2826,Obviously not everyone is considerate to wear mask when they're sick.,28/1/20,-0.35714285714285715,0.6785714285714286,0.388,0.612,0.0,-0.6914,anger
+2081,2890,"Unlike runners, this period of time, most smokers just stand at smoking point to smoke.",17/4/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+2095,2908,"If so, please do not ever, ever implement such potentially fatal policy again and by using WHO advice as an excuse!",6/4/2020,-0.020833333333333332,0.5166666666666667,0.136,0.701,0.163,-0.2261,anger
+2105,2919,"I will not throw this away, since you guys take such a effort to source them, I will probably keep it in my drawer or use it to wipe some dust off the shelves",5/4/2020,0.0,0.5,0.0,1.0,0.0,0.0,anger
+2125,2939,Stop saying people shouldn’t wear mask because it may make things worse due to bad hygiene habits!!,1/2/2020,-0.5083333333333333,0.5472222222222222,0.401,0.599,0.0,-0.855,anger
+2135,2949,If this ppls got the virus because of your word as he kept mentioning the expert said not necessarily to wear.. Do you want to respond for your word?,31/1/20,0.0,1.0,0.0,0.956,0.044,0.0772,anger
+2148,2962,So many of us have no choice because we have to protect ourselves against those sick ones who don’t wear masks.,31/1/20,-0.10714285714285715,0.6785714285714286,0.211,0.69,0.1,-0.4404,anger
+2150,2964,Wearing a mask is uncomfortable but why do you think they are being snapped up?,31/1/20,-0.5,1.0,0.122,0.878,0.0,-0.2023,anger
+2151,2965,It’s annoying to keep hearing our leaders say only wear if you are unwell.,31/1/20,-0.4,0.95,0.172,0.828,0.0,-0.4019,anger
+2154,2968,Can you blame citizens for accusing the leaders for sitting in their ivory towers and not understanding the problems healthy ones are facing in the trains?,31/1/20,0.5,0.5,0.132,0.708,0.16,0.2163,anger
+2155,2969,"In these circumstances, the way to stay healthy IS to wear a mask.",31/1/20,0.5,0.5,0.0,0.803,0.197,0.4019,anger
+2161,2975,"Are you sure that it is safe, it is unnecessary to wear a mask?",31/1/20,0.19999999999999998,0.762962962962963,0.0,0.679,0.321,0.6369,anger
+2193,3008,Isn’t using needle and thread way better than using staples which can pose a risk when you wear or wash the mask?,6/4/2020,0.5,0.5,0.088,0.792,0.121,0.2023,anger
+2194,3009,"And with that masking tape, confirm damage after one wash. With the use of thread, staples and masking tape become redundant 💆🏻‍♀️  Yes, its simple but not practical (and ugly).",6/4/2020,-0.3,0.5190476190476191,0.066,0.876,0.058,-0.0644,anger
+2222,3045,"It is VERY IRRESPONSIBLE to dish out this kind of advisory ""Do not wear a mask if you are well"".",1/2/2020,0.4,0.6,0.206,0.794,0.0,-0.6867,anger
+2224,3047,I have my own masks at home at all times (due to annual haze).,1/2/2020,0.2375,0.6875,0.0,1.0,0.0,0.0,anger
+2226,3049,"If you do not want people to mis-use the FOUR PRECIOUS SURGICAL MASKS PER HOUSEHOLD you are dishing out now, you can tell people to USE THOSE 4 MASKS only when they are sick cos those 4 masks are meant to be used that way.",1/2/2020,-0.07142857142857144,0.9523809523809524,0.092,0.817,0.091,0.229,anger
+2229,3052,Such advisory just serves to further stigmatise mask-wearing & promote wrong behaviors.,1/2/2020,-0.16666666666666666,0.6333333333333333,0.211,0.612,0.177,-0.128,anger
+2266,3089,"I was in Tampines shopping, but got to use my token only once.",7/2/2021,0.0,1.0,0.0,1.0,0.0,0.0,anger
+2268,3091,"Virus is very courteous, it knows when to attack and when to allow you to eat.",10/2/2021,0.78,1.0,0.144,0.602,0.254,0.3384,anger
+2276,3099,"Almost 6 months ago when we were experiencing a maj outbreak in workers dorms, many negative minded people seemed not to have faith in our gov/ 4G leaders, mocking our leaders, making all kind of nasty comments on them, saying that they were incompetent and useless.",20/10/20,-0.17499999999999996,0.5611111111111111,0.328,0.672,0.0,-0.9554,anger
+2279,3102,"Besides having a team of selfless and committed healthcare workers and other frontline heroes, another reason is due to we have a capable and competent gov with strong leadership.",20/10/20,0.17666666666666667,0.51,0.0,0.618,0.382,0.9118,anger
+2281,3104,Thank you to our 4G leaders that never stop to make our Singapore safe for everyone here.,20/10/20,0.5,0.5,0.0,0.658,0.342,0.7421,anger
+2332,3155,Are you controlling the wrong people?,14/9/20,-0.5,0.9,0.383,0.617,0.0,-0.4767,anger
+2345,3168,"Nah phase 3 will not start, unless  we and the whole world is free from covid 19, even if we are free from it like 0 case for week.. we should be grateful to be living in sg since we dun have to have movement lock in own town like other country in their own city and can't go work in another town or so",13/9/20,0.3458333333333334,0.7291666666666666,0.019,0.781,0.2,0.9217,anger
+2349,3172,But there will be more complaints because everyone will be late for work etc.,13/9/20,0.1,0.55,0.187,0.813,0.0,-0.4576,anger
+2353,3176,Widely reported asymptomatic incubation period was the critical blind spot that the MTF failed to address in Feb when the Wuhan couple started the church cluster resulting in unnecessary Circuit Breaker and drawing down more than necessary from our reserves.,13/9/20,-0.14444444444444446,0.6069444444444444,0.183,0.817,0.0,-0.8074,anger
+2404,3228,Just be socially responsible and have as little cases as possible.,28/5/20,0.00416666666666667,0.6833333333333332,0.0,0.813,0.187,0.3182,anger
+2411,3235,Are they trying to take advantage of their cheap labor to employ students during their internship to replace their work force while exposing them to this dangerous virus.,28/5/20,-0.09999999999999998,0.8,0.175,0.764,0.061,-0.5754,anger
+2431,3255,"(I wouldn't believe the government will say 'wear mask swimming or playing soccer....that sounds awful and illogical to me) And wouldn't that increase the community cases again, get the country in the lockdown again, make businesses suffer again, people suffering again and the entire island no good?",29/5/20,-0.45,0.7416666666666667,0.235,0.684,0.08,-0.8427,anger
+2440,3264,most important is to ask the gov to make it a rule when a stranger talk to another stranger they must be at least 1 meter apart from each other coz some ppl when talking or scolding will push out lots of air in their lungs that become droplets of saliva.,29/5/20,0.11875000000000002,0.56875,0.0,0.957,0.043,0.2716,anger
+2441,3265,a good example is that viral video of security guard at golden mile complex scolding taxi drivers so loud that dunno how many millions of virus came out from his lungs and landed on taxi drivers' face if he has covid19.,29/5/20,0.25999999999999995,0.5599999999999999,0.0,0.878,0.122,0.6486,anger
+2458,3282,"There are so many people out there, who were just walking (not even quick walk) did not wear mask.",29/5/20,0.41666666666666663,0.5,0.0,1.0,0.0,0.0,anger
+2459,3283,This is scary as people start to relax and don't comply,29/5/20,-0.5,1.0,0.212,0.596,0.192,-0.0772,anger
+2476,3300,"😉😅😷  Households with more than five people who would like to dine out may book more than one table, said co-chair of the COVID-19 multi-ministry task force Lawrence Wong on Friday (Aug 21).",22/8/20,0.5,0.5,0.0,0.928,0.072,0.3612,anger
+2493,3317,how do we know how many people were already tested to show Singapore is truly managed?,23/1/21,0.5,0.5,0.0,0.838,0.162,0.4404,anger
+2509,3333,"As many of us try to take medicine ourselves and continue driving, because of the rental payment.",24/1/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+2512,3336,"Yea we need stricter restrictions, especially when we have people like this ignorant fool who basically said ""yea"" when I asked her to put on her mask, yet carried on eating her bowl of fruit on the bus for 20 minutes.",23/1/21,0.0,1.0,0.118,0.826,0.056,-0.4166,anger
+2516,3340,"Worst, some get attended at stall and no one ask them to put on, their business comes first.",19/1/21,-0.375,0.6666666666666666,0.351,0.649,0.0,-0.7964,anger
+2517,3341,Some after eating their meals walk freely without the mask and walk stall to stall looking at the food.,19/1/21,0.4,0.8,0.16,0.711,0.129,0.0772,anger
+2529,3353,"People need to be assured that they do not get punished by their employers for being socially responsible, especially if their employers require them to travel physically for work instead of working from home.",20/1/21,0.06666666666666667,0.5642857142857143,0.0,0.81,0.19,0.7415,anger
+2545,3369,"There is no point trying to fool the local population, and not allow your doctors at NCID to share epidemiological information that is important for protecting our health.",19/1/21,0.2,0.5,0.2,0.681,0.118,-0.4149,anger
+2555,3379,All our sacrifices doing CB are being wasted because the government sees it necessary to let in unnecessary imported cases from high risk countries!,19/1/21,-0.10000000000000002,0.61,0.203,0.797,0.0,-0.68,anger
+2563,3387,"Many are leaving their homes to walk to the carpark with no mask, neither wearing them in the lifts they use.",19/1/21,0.5,0.5,0.099,0.901,0.0,-0.296,anger
+2564,3388,"Some get off taxi's and GRAB vehicles, only to properly wear their mask once out of the vehicle.",19/1/21,0.0,0.55,0.0,1.0,0.0,0.0,anger
+2567,3391,"And if ambassadors don't enforce or take notice, they continue to break the rules so many of us are trying to follow!",19/1/21,0.625,0.5,0.0,1.0,0.0,0.0,anger
+2596,3420,"You are putting those service industry, front liners and enforcer in a difficult position as citizens can use it as an argue point.",29/8/20,-0.5,1.0,0.197,0.803,0.0,-0.5994,anger
+2619,3444,Probably better off to just tell everyone that after 2 months of CB you are still not confident that you can control the situation hence an indefinite phase 1 AKA another name for CB without admitting its CB.,20/5/20,0.125,0.6666666666666667,0.066,0.86,0.073,0.0701,anger
+2665,3492,"Then all shall become crazy face,u all want??????",20/5/20,-0.6,0.9,0.324,0.676,0.0,-0.5204,anger
+2670,3498,Pls do consider seriously Ministers to allow F&B to reopen dine in as we are suffering with zero revenue as we are not needed for their services and very painful to say we are still paying all our employees salary.,19/5/20,-0.6216666666666666,0.8333333333333333,0.173,0.758,0.069,-0.6997,anger
+2671,3499,"Hi MOH, among all the preparations called upon us towards 2/6 safe reopening, none of the ministers mentioned anything about reopening the borders.",19/5/20,0.5,0.5,0.0,0.884,0.116,0.4404,anger
+2687,3515,The Gov should also implement a rule which forbids people to talk or whisper to one another unnecessarily even in a safe distance with mask on as I believe more or less the respiratory droplets will still be aerosolised causing an airborn spread of any existing viruses in that aerosolised form of the droplets....hence texting should be the only type of way for any communications to be done in the public....just a humble opinion,20/5/20,0.03888888888888889,0.5611111111111111,0.031,0.929,0.04,0.1531,anger
+2696,3524,Only mention school reopens but never mention about the students care center at all?,19/5/20,-0.05,0.55,0.0,0.751,0.249,0.6486,anger
+2698,3526,Restaurants should be allowed to accept 1 diner (without company) if they were to dine-in to help restaurant owner to recover from major losses.,20/5/20,0.0625,0.5,0.096,0.714,0.189,0.3818,anger
+2704,3532,"This is absolute madness... and let's not address all the retail and F&B outlets that will close down burdened by their overheads and employee salaries resulting in lost livelihoods, families losing income and increased suffering in all areas.",20/5/20,0.022222222222222213,0.5944444444444444,0.229,0.685,0.086,-0.7717,anger
+2709,3537,"This is not a joke let the government to their job l don't think they like the the way it is at the moment,  it is bad for the economy.",19/5/20,-0.6999999999999998,0.6666666666666666,0.231,0.769,0.0,-0.7578,anger
+2726,3554,"Cannot visit your siblings what rubbish stop treating people like we are brainless of course we will take good measure, the ladt person we want to get ill is our love ones , and what's with the phases .",19/5/20,0.2333333333333333,0.7333333333333334,0.107,0.661,0.232,0.7096,anger
+2757,3587,?🤔🤔 It's unfortunately a very annoying and not very sensible move...,20/5/20,-0.55,0.65,0.403,0.597,0.0,-0.659,anger
+2760,3590,"Please, dear Ministers, kindly ask the  citizens on the ground who voted for you on the first place, for our opinions too.. You can't treat your citizens like prisoners of war, and dictate..",20/5/20,0.425,0.6166666666666667,0.205,0.565,0.23,0.0366,anger
+2775,3606,How can a exposure to virus  be safe ?,19/5/20,0.5,0.5,0.0,0.674,0.326,0.4404,anger
+2792,3623,The pay subsidies are great but not enough to keep business owners from nightmares each night if you are talking about a 3 months and longer business shutdown.,20/5/20,0.4,0.625,0.043,0.865,0.092,0.3291,anger
+2815,3646,This city seems to have existed far above humanity.,11/5/2020,0.05,0.55,0.0,1.0,0.0,0.0,anger
+2833,3664,My company has put in place measures like making mask wearing mandatory during work and discouraging huge gatherings of staff by staggering meal times.,9/5/2020,0.4000000000000001,0.9,0.1,0.69,0.21,0.296,anger
+2834,3665,"However, staff are not cooperative and the various departments do not strongly enforce the measures set.",9/5/2020,-0.10833333333333332,0.6166666666666667,0.108,0.892,0.0,-0.2057,anger
+2863,3694,Most of the time lifts were packed.,9/5/2020,0.5,0.5,0.0,1.0,0.0,0.0,anger
+2864,3695,I can't imagine how many lifts we have to wait for with safe distancing impose inside a lift... 4 to 6 to a lift,9/5/2020,0.5,0.5,0.1,0.769,0.131,0.1779,anger
+2865,3696,"Honestly not all people can stand with a mask on the whole day while working, even in aircon environment.",9/5/2020,-0.04999999999999999,0.65,0.0,0.85,0.15,0.4588,anger
+2870,3701,Safe Entry is that a lousy Government app that tracks people movement and lousy because it can get hacked?,9/5/2020,-0.16666666666666666,0.5,0.365,0.526,0.109,-0.7783,anger
+2880,3711,I saw many of them did not wear when ride bicycle.,9/5/2020,0.5,0.5,0.0,1.0,0.0,0.0,anger
+2916,3747,"This new norm that we have to get used to it until end of Covid19 , or otherwise resumption of businesses will create more Covid19 transmissions as it is more dangerous than SARS as virus carrier can be asymptomatic.",2/5/2020,0.13409090909090907,0.5886363636363636,0.082,0.868,0.051,-0.3167,anger
+2943,3774,"As difficult as it is, this is not the time to be flexible until the virus is controlled.",2/5/2020,-0.5,1.0,0.123,0.784,0.093,-0.1531,anger
+2950,3781,While certain TCM practioners are allowed to provide services I feel those retailing TCM herbal products should be allowed as many items are as essential as medication sold in pharmacies especially to older folks.,2/5/2020,0.2619047619047619,0.5095238095238095,0.0,0.938,0.062,0.2732,anger
+2956,3787,"If I am not able to board any transport, my pay will be badly affected.",2/5/2020,-0.4749999999999999,0.6458333333333333,0.357,0.643,0.0,-0.6249,anger
+2961,3792,Should just sit out the CB period to be safe.,2/5/2020,0.5,0.5,0.0,0.756,0.244,0.4404,anger
+2971,3802,"Even during this period of enhanced CB, many of the measure were not well implemented, people do not follow them (I’ve seen this myself during my once a week grocery runs).",2/5/2020,0.5,0.5,0.059,0.941,0.0,-0.2057,anger
+2973,3804,"Yet unfortunately, if people do not adhere to the measures during strict enforcement, chances are it will be worse once the gov relaxes the measures.",2/5/2020,-0.45,0.8,0.179,0.682,0.14,-0.296,anger
+3014,3845,The most is just give advisory to people who exercise to avoid common PCN at peak hours.,16/4/20,0.1,0.5,0.121,0.879,0.0,-0.296,anger
+3016,3847,"Dear MOH, its a bit hard to follow new rules being created everyday.",15/4/20,-0.11843434343434345,0.532070707070707,0.093,0.6,0.307,0.4939,anger
+3024,3855,Would this be fair and effective?,17/4/20,0.6499999999999999,0.8500000000000001,0.0,0.426,0.574,0.6597,anger
+3043,3874,Worst part its not being explain HOW to wear a mask CORRECTLY ?!,14/4/20,-1.0,1.0,0.285,0.715,0.0,-0.6588,anger
+3054,3885,May I urge the taskforce to totally disallow jogging and cycling as these often ended up as group activities.,14/4/20,0.0,0.75,0.0,1.0,0.0,0.0,anger
+3058,3889,I believe most of us citizens can bear with this.,14/4/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+3081,3912,Why don’t you take control of the entire supply chain of face masks?,15/4/20,0.0,0.625,0.0,1.0,0.0,0.0,anger
+3088,3919,"Singaporeans finally start to join the game of monkeys see monkeys do, catching up wearing masks.",15/4/20,0.06666666666666665,0.7666666666666666,0.0,0.872,0.128,0.296,anger
+3099,3930,Seriously if people who want to continue to exercise outdoors.,18/4/20,-0.3333333333333333,0.6666666666666666,0.155,0.727,0.118,-0.1027,anger
+3105,3936,Especially since during this time (CB).,18/4/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+3125,3956,The government rather ban all outdoor activities and restrict to 1 person movement only to get essentials .,11/4/2020,0.0,1.0,0.307,0.693,0.0,-0.7351,anger
+3155,3987,Don’t waste tremendous efforts and resources for this period.,10/4/2020,0.06666666666666665,0.5,0.259,0.741,0.0,-0.4215,anger
+3157,3989,"You allow people to go out without mask, many people don’t wear even if they have!",10/4/2020,0.625,0.5,0.0,0.872,0.128,0.2942,anger
+3161,3993,I thought the rule is to allow only one member of a household to be out buying essentials.,10/4/2020,0.0,1.0,0.0,0.888,0.112,0.2263,anger
+3169,4001,Please advise if the rule applies to only one person in the household allowed out to buy essentials.,10/4/2020,0.0,1.0,0.0,0.881,0.119,0.3182,anger
+3171,4004,All these rules are not taken seriously.,10/4/2020,-0.3333333333333333,0.6666666666666666,0.0,0.798,0.202,0.1326,anger
+3180,4013,Our friends in China (in non-Hubei province) says only one person from the whole household are only allowed to be outside of their household once every two days (to get groceries and etc).,10/4/2020,0.05,0.6124999999999999,0.0,0.912,0.088,0.4767,anger
+3195,4028,"Since netizens are nonchalant, then these group of people are not worthy to receive the various packages lined up by the government in view of Covid-19 outbreak.",10/4/2020,-0.08333333333333333,0.75,0.085,0.915,0.0,-0.3412,anger
+3216,4053,"By then people instead of staying home, they decided to make use of this free off to do some things as life as usual.",10/4/2020,0.07500000000000001,0.525,0.0,0.856,0.144,0.596,anger
+3218,4055,"Perhaps they thought if I am well and can still exercise I should be free from virus, likewise if the other people r doing exercise they should be fine right.",10/4/2020,0.2443452380952381,0.5526785714285715,0.0,0.769,0.231,0.7351,anger
+3219,4056,So that notion continues to make them so comfortably to behave in that manner.,10/4/2020,0.4,0.8,0.0,0.782,0.218,0.5598,anger
+3231,4068,"These measures, albeit implemented in an effort to curb the spread, are but knee jerk reactions that affect an entire country’s citizens.",10/4/2020,0.0,0.625,0.129,0.871,0.0,-0.4767,anger
+3232,4069,"You want to close all non-essential offices, yet it is not possible to stop work completely because this has an impact on the economy — so we are made to work from home; no two hoots given about the difficulties we face both at home and at work.",10/4/2020,0.05,0.7,0.087,0.85,0.063,-0.2987,anger
+3233,4070,"You want to force everyone to stay home, yet you still need your essential workers (which make up a significant number of your population) — many of whom are now lost and helpless after the announcement of these stricter measures.",10/4/2020,0.2916666666666667,0.5583333333333333,0.124,0.773,0.103,-0.4404,anger
+3234,4071,Please don’t encourage your citizens to boost your population by giving birth to more children if you can’t take care of them.,10/4/2020,0.5,0.5,0.0,0.55,0.45,0.9169,anger
+3235,4072,"I’m not sure about others, but I’m certainly thankful that I’ve only got one child; and this just made me think twice about having another.",10/4/2020,-0.01190476190476191,0.8201058201058201,0.047,0.696,0.258,0.8257,anger
+3249,4086,The dormitories issue should be treated separately as their isolation and safe distancing are different.,10/4/2020,0.25,0.55,0.145,0.699,0.156,0.0516,anger
+3250,4087,"Government must quickly provide safe distancing for FWs, identify the sick ones and get them treated  Please help get this done so that SG will not be wasting resources after putting in so much to carry out Circuit  breaker.",10/4/2020,0.07976190476190474,0.5142857142857143,0.07,0.716,0.214,0.7057,anger
+3252,4089,The government should stop giving free treatment for Singaporean cluster cases (not the Dormitory ones).,10/4/2020,0.4,0.8,0.111,0.603,0.286,0.5423,anger
+3255,4092,Those who can't understand what a lockdown is all about will certainly understand what it means having to pay from their pockets when they become sick.,10/4/2020,-0.25,0.7142857142857142,0.162,0.756,0.082,-0.3182,anger
+3256,4093,Also those who were sick earlier and went to work (esp in schools) and infected others (young children) should be punished.,10/4/2020,-0.20476190476190478,0.5857142857142857,0.345,0.655,0.0,-0.8591,anger
+3292,4129,stupid and Sia suay !,8/4/2020,-0.9999999999999999,1.0,0.552,0.448,0.0,-0.5707,anger
+3295,4132,"How stupid can people be, and can such a government that allows this?",8/4/2020,-0.39999999999999997,0.75,0.236,0.764,0.0,-0.5267,anger
+3314,4152,Macau’s leaders did things promptly and with only the citizens health in mind.,6/2/2020,0.0,1.0,0.0,1.0,0.0,0.0,anger
+3316,4154,Very slow to react.,6/2/2020,-0.39000000000000007,0.52,0.0,1.0,0.0,0.0,anger
+3318,4156,"Pushing the mask-for-sick only nonsense when it is known that sick people can unknowingly infect others, even when they don’t show any symptoms.",6/2/2020,-0.35714285714285715,0.9285714285714286,0.222,0.778,0.0,-0.7184,anger
+3322,4160,Not good at all.,6/2/2020,-0.35,0.6000000000000001,0.445,0.555,0.0,-0.3412,anger
+3335,4173,"What happens when an infected person who doesn’t know that he/she is infected, does not wear a mask, and unknowingly infects another  healthy person without a mask ??",5/2/2020,0.5,0.5,0.208,0.709,0.083,-0.6199,anger
+3337,4175,"Why did the government allow bulk buying of masks and sanitisers, which were mostly sent to China (from many reports), leaving Singaporeans in a lurch ??",5/2/2020,0.5,0.5,0.0,0.914,0.086,0.3094,anger
+3351,4189,Or on behalf of some inconvenient people such as old aged or handicapped.,1/2/2020,-0.15,0.525,0.167,0.833,0.0,-0.34,anger
+3364,4202,"Show us proof that you can manage this, not talk only!",1/2/2020,0.0,1.0,0.0,1.0,0.0,0.0,anger
+3370,4208,I am a landlord to such a tenant who returned home just yesterday.,2/2/2020,0.0,0.5,0.0,1.0,0.0,0.0,anger
+3372,4210,"Fortunately, I am self-employed and work from home most of the time and so I can do this.",2/2/2020,0.45,0.6,0.0,1.0,0.0,0.0,anger
+3389,4227,Wouldn't it then mean that the healthy Singaporean walking around without a mask can still catch virus?,30/1/20,0.09375,0.59375,0.0,0.847,0.153,0.4019,anger
+3399,4237,"Dear MOH, in addition to giving out 4 masks to all households, you should ensure that all GP clinics provide masks to patients who are confirmed to be unwell.",31/1/20,0.4,1.0,0.0,0.767,0.233,0.765,anger
+3403,4241,"In the meantime, we are spreading viruses everywhere until we are able to q for the government distributed masks and even then we will be spreading the germs as we are queuing because we have no masks on !",31/1/20,0.625,0.625,0.065,0.935,0.0,-0.3595,anger
+3415,4253,The government still cannot convince many of us.,1/2/2020,0.5,0.5,0.199,0.801,0.0,-0.1877,anger
+3433,4271,The ministers can continue to harp on people not to wear masks when they r not sick.,30/1/20,0.35714285714285715,0.8571428571428571,0.0,0.847,0.153,0.4023,anger
+3434,4272,But please try to understand the feeling of the common people who have to take the crowded MRT and buses or face many people in their line of work in every working days to earn a living and to feed their family.,30/1/20,0.1,0.5,0.0,0.911,0.089,0.4215,anger
+3437,4275,"If you want the people to stop wearing mask when they r not sick, then you have to ensure those who r sick must wear masks in public places.",30/1/20,-0.11904761904761905,0.5936507936507937,0.066,0.657,0.278,0.7273,anger
+3438,4276,"You must enforce and carry out actions such as catching those sick people who do not wear masks in public while coughing, ask for their reasons and give warnings or fine.",30/1/20,0.060476190476190475,0.5647619047619048,0.156,0.793,0.051,-0.5719,anger
+3443,4281,Its time for the people in Singapore to change and build up a culture of wearing mask when one is sick.,30/1/20,-0.7142857142857143,0.8571428571428571,0.148,0.852,0.0,-0.5106,anger
+3447,4285,And many who managed to snatch the face masks are  trying to profit out of it selling higher price!,29/1/20,0.40625,0.5,0.0,0.849,0.151,0.4926,anger
+3453,4291,"I went to SKGH A&E, I can’t even buy masks after I gotten my medicine and you want people who are sick to wear masks?",28/1/20,-0.7142857142857143,0.8571428571428571,0.134,0.813,0.053,-0.4588,anger
+3454,4292,"The easiest way to solve this is at the minimum, prescribe the masks to the sick people after they gotten their medicine.",28/1/20,-0.7142857142857143,0.8571428571428571,0.123,0.706,0.171,0.0772,anger
+3460,4298,"For this kind of situation, please ensure Singaporean are taken care of not who can pay for best healthcare treatment.",28/1/20,0.8,0.6,0.0,0.525,0.475,0.9117,anger
+3473,4311,Panic and unnecessary purchase/stocking up of the masks are depriving others who need them most.,29/1/20,0.04999999999999999,0.7,0.326,0.674,0.0,-0.743,anger
+3474,4312,So how to use them “sensibly and responsibly” when they have none to don?,29/1/20,0.2,0.55,0.0,1.0,0.0,0.0,anger
+3491,4330,"Should have ration sale of masks earlier as there are people who would just stock up as many as they can get, regardless the need of it.",29/1/20,0.25,0.5,0.0,1.0,0.0,0.0,anger
+3505,4346,Is the government demanding the retailers to hold certain amount of stocks at all times during this period?,28/1/20,0.21428571428571427,0.5714285714285714,0.095,0.8,0.105,0.0516,anger
+3506,4347,"While alot of them are private businesses, it would not be far fetched for government to impose this for a while.",28/1/20,0.05,0.6875,0.104,0.896,0.0,-0.296,anger
+3520,4361,Don't just check temperature only.,26/1/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+3538,4379,Are all this measures full proof?,26/9/20,0.35,0.55,0.0,1.0,0.0,0.0,anger
+3547,4388,It may be a measure tough for centers to adhere.,23/9/20,-0.3888888888888889,0.8333333333333334,0.158,0.842,0.0,-0.128,anger
+3567,4408,Because some people genuinely forget.,19/9/20,0.4,0.5,0.322,0.678,0.0,-0.2263,anger
+3576,4417,How to remove mask without touching the face.,19/9/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+3594,4435,And most of them who flout the rules are anti-social to begin with.,19/9/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+3596,4437,"I did and was given the cold dirty look by this lady as if to say, so what !",19/9/20,-0.675,0.9,0.166,0.834,0.0,-0.4926,anger
+3603,4444,"Just social distance far away from them peeps, treat them like they have the covid19, there is the authority, let them deal with these Aholes.",19/9/20,0.06666666666666667,0.5333333333333333,0.0,0.772,0.228,0.6705,anger
+3609,4450,You are not a safety ambassador don't have the right to ask people who don't wear mask to wear a mask.,19/9/20,0.2857142857142857,0.5357142857142857,0.115,0.885,0.0,-0.3252,anger
+3617,4458,"But, if someone is found not wearing a mask, he/she will most likely be kicked out on the spot - whether from a bus, train, restaurant or a mall.",19/9/20,0.25,0.75,0.0,1.0,0.0,0.0,anger
+3618,4459,"It only takes 1 person to spark a massive outbreak so sadly speaking, people have no mercy on those who don't wear mask.",19/9/20,-0.16666666666666666,1.0,0.214,0.625,0.162,-0.3434,anger
+3627,4468,Investing with Mr David Brain proved me wrong.,25/6/20,-0.5,0.9,0.307,0.693,0.0,-0.4767,anger
+3648,4489,how are they going to be attentive in class to listen to the lesson?,2/6/2020,0.4,0.9,0.0,1.0,0.0,0.0,anger
+3651,4492,I am waiting to dine on the spot with hot soup.,1/6/2020,0.25,0.8500000000000001,0.0,1.0,0.0,0.0,anger
+3654,4495,Whats the need to emphasize safe distancing measures when it's going to be difficult to control and ........... on a public  Transport said someone!!!,1/6/2020,0.0,0.5222222222222223,0.092,0.77,0.138,0.3129,anger
+3657,4499,"But can teachers, especially preschool teachers (just wearing face shield) just stay in one spot all the time?",1/6/2020,0.0,1.0,0.0,1.0,0.0,0.0,anger
+3660,4502,Thought of the Day - No Confidrnce in Headless Chicken PAP Leaders  The whole PAP Government 4G Task Force are led by HEADLESS CHICKEN!,1/6/2020,-0.3833333333333333,0.7666666666666666,0.102,0.898,0.0,-0.3595,anger
+3662,4504,"Most importantly, they are totally out of touch from the reality on the ground and they lack differential common sense as well!",1/6/2020,0.13125,0.6875,0.088,0.723,0.19,0.3989,anger
+3677,4519,"Thus, no matte what, we must ensure that everyone should put on something which will PREVENT WEARERS from spreading saliva and mucus to others EFFECTIVELY.",1/6/2020,0.6,0.8,0.07,0.672,0.258,0.7065,anger
+3684,4526,Cloth mask which are not made of non woven material will have doubtful effectiveness as well.,1/6/2020,-0.8,0.9,0.13,0.757,0.114,-0.0772,anger
+3697,4539,"Due to our hot weather, a lot of expats and people from temperate countries are not used to wearing a face mask under hot sun and high humidity.",1/6/2020,0.13375,0.65375,0.0,1.0,0.0,0.0,anger
+3699,4541,Not to mention those who work as hawkers and cooks in hot kitchens.,1/6/2020,0.25,0.8500000000000001,0.0,1.0,0.0,0.0,anger
+3700,4542,It is impractical and unnecessary for them to wear face masks when a spit guard would be more sustainable and effective.,1/6/2020,0.2333333333333333,0.7333333333333334,0.0,0.85,0.15,0.5209,anger
+3703,4545,"Well, I would not take issue when people have such mistaken view or concept which made them coming to the wrong conclusion about Face Mask and Spit Guard, but for THOSE SUPPOSEDLY INTELLIGENT and Highly paid Experts, Civil Servants and Ministers to be so clueless about Universal Masking, that's really TOTALLY UNACCEPTABLE!",1/6/2020,0.07666666666666667,0.5983333333333333,0.231,0.67,0.099,-0.8708,anger
+3710,4552,"Itâ€™s about bloody time that we Singaporeanâ€™s get to hear and read and see for ourselves, how selfish and inconsiderate we are of others...We blame foreigners for taking away our jobs...well, letâ€™s first learn to be more gracious and thoughtful of others...I go to hawkers centres and I see our fellow citizens, especially those younger , presumably educated ones, still messing up the tables and not cleaning up after themselves.",22/8/20,-0.021428571428571432,0.6047619047619047,0.141,0.774,0.084,-0.5489,anger
+3714,4556,"Hopefully, we have â€œambassadorsâ€ who prowl the hawker centres during lunch time and call out to those who leave messy tables to clean up after themselves...fine them if they donâ€™t do so...",22/8/20,0.08333333333333334,0.55,0.1,0.755,0.146,0.4019,anger
+3722,4564,Our people just do not have what it takes to  be socially responsible citizens.,22/8/20,0.2,0.55,0.0,0.85,0.15,0.3182,anger
+3727,4569,"Increasing their salary is one of the fact that we should strongly consider, especially when their job carries a higher risk.",22/8/20,0.22777777777777777,0.7444444444444445,0.095,0.811,0.095,0.0,anger
+3730,4572,And be kind and loving toward cleaner .,21/8/20,0.6,0.925,0.0,0.308,0.692,0.8402,anger
+3734,4576,So she is saying that S'pore was not clean before Covid19?,21/8/20,-0.18333333333333335,0.7000000000000001,0.184,0.816,0.0,-0.3089,anger
+3738,4580,"I have seen people just jogging with no mask ,  and then they cough and spit, like telling people they are clinically clean of COVID-19 virus or they just dont care.",20/6/20,0.3666666666666667,0.7000000000000001,0.138,0.714,0.148,0.0956,anger
+3743,4585,"I think for those who have nothing nice to say, they should just not say anything.",1/6/2020,0.6,1.0,0.143,0.857,0.0,-0.3252,anger
+3744,4586,"I have come across quite a few freshly minted citizens who were initially all enthusiastic about doing something in gratitude for what they have been given, but soon after seeing the venom and nastiness thrown their way by such comments, they don't see the point in investing the time, and they stop and get on with what's important for them.",1/6/2020,0.18333333333333335,0.5,0.084,0.817,0.099,0.0,anger
+3746,4588,"What attracts people to our country is the level of good governance, stability, reasonable taxes among many other things.",1/6/2020,0.31875,0.51875,0.0,0.752,0.248,0.6808,anger
+3748,4590,So be kind or just shut it.,1/6/2020,0.6,0.9,0.0,0.62,0.38,0.5688,anger
+3759,4601,It’s only a problem when people migrate for the wrong reasons.,30/5/20,-0.25,0.95,0.42,0.58,0.0,-0.7003,anger
+3765,4607,"Ending blaming singaporeans for their "" wise decision making?""",28/1/21,0.7,0.9,0.26,0.488,0.252,-0.0258,anger
+3766,4608,Be serious!,28/1/21,-0.41666666666666663,0.6666666666666666,0.614,0.386,0.0,-0.1511,anger
+3799,4642,It is disgusting to wear the same face mask all week.,28/1/21,-0.5,0.5625,0.254,0.746,0.0,-0.5267,anger
+3814,4657,To impose on how people live their lives is tyranny.,28/1/21,0.13636363636363635,0.5,0.196,0.804,0.0,-0.296,anger
+3826,4671,But the government can do something if they are determined enough.,28/1/21,0.0,0.5,0.0,0.806,0.194,0.34,anger
+3834,4679,Just a point to share base on what I saw.,28/1/21,-0.8,1.0,0.0,0.761,0.239,0.296,anger
+3846,4692,1700 people got fined for daring to breathe in fresh air and there are sheeple who are asking for stiffer punishments to be meted out.,28/1/21,0.3,0.5,0.095,0.743,0.162,0.25,anger
+3847,4693,We totally deserve to be enslaved by the new world...I mean the new normal.,28/1/21,0.02204545454545454,0.5993181818181819,0.172,0.828,0.0,-0.4019,anger
+3858,4842,"Someone said wearing the sarong kebaya can reveal the real shape of a woman just like the literature teacher in school used to tell my class during his lesson held at the sleepy hour of past 1pm everyone were dozing off due to the fatigue,hot weather maybe boring topic lesson so he would try and make them awake by saying the ideal statistics for a woman was 36-26-36 but that does not seem to amuse many including me",21/3/20,0.0375,0.5708333333333333,0.056,0.895,0.049,-0.1499,anger
+3874,4858,They have to look stringent but ultimately they r just carrying out their tasks.,4/12/2020,0.0,1.0,0.0,1.0,0.0,0.0,anger
+3876,4860,It is not to say that we should tolerate inconsiderate people intentionally pull down their masks for own conveniences at other risks; it is necessary to have a sensible and reasonable judgement call for these safe distancing ambassadors.,4/12/2020,0.1699074074074074,0.6273148148148148,0.119,0.811,0.069,-0.2732,anger
+3896,4880,"Around my neighbourhood, many of these ""imports"" just don't care about wearing face mask; even when entering lifts!",4/12/2020,0.625,0.5,0.147,0.853,0.0,-0.4442,anger
+3899,4883,wearing mask become our life style yet so so so many people still refuse to wear it and some talk with their saliva flying around with no mask on some pull down the mask to cough or sneeze some wear mask just to cover their chins very very funny.,4/12/2020,0.22314814814814818,0.5962962962962963,0.082,0.854,0.064,0.0184,anger
+3907,4891,Great to earn a bit of pocket money and being situationally aware.,4/12/2020,0.525,0.5,0.0,0.709,0.291,0.6249,anger
+3908,4892,"Aot of ugly scene during this pandemic, people don't understand and respect the law, dont understand how the virus is being spread, dont understand they can breathe through the mask and could smell fragrance with mask on..people challenge retail staff when told to wear mask, cannot open products, simply don't understand.",4/12/2020,-0.2333333333333333,0.6190476190476191,0.106,0.87,0.024,-0.6761,anger
+3913,4897,They're not scary people.,4/12/2020,0.25,1.0,0.0,0.533,0.467,0.3875,anger
+3914,4898,"Even if they have to ask people to put masks on, they ask nicely, they don't order.",4/12/2020,0.6,1.0,0.0,0.847,0.153,0.4404,anger
+3918,4902,It's very shame for us to be participating in vaccine program very late.,4/12/2020,-0.095,0.54,0.22,0.78,0.0,-0.5256,anger
+3919,4903,I highly recommend to mom to arrange vaccine booth and find the most faster easy way to deliver to the people,4/12/2020,0.3644444444444444,0.6244444444444445,0.0,0.751,0.249,0.7159,anger
+3924,4908,Even wearing a mask is restricting their freedom 🤦 If Americans have any amount of respect for the 270k plus lives lost in the usa they will stop their selfish disgusting arrogant mindset and wear a mask,4/12/2020,-0.75,1.0,0.335,0.519,0.146,-0.8176,anger
+3926,4910,I don't mind if they remind people but sometimes they just gone overboard and I seen it with my own eyes countless times already and minority of them will abuse their authority which is why I hate them and always avoid these kind of people and even I go market I always reach there and end my market season before 6am and 50 percent of Singaporeans are now doing that in the place I live to avoid them.,4/12/2020,0.04772727272727271,0.6583333333333333,0.193,0.776,0.031,-0.9505,anger
+3939,4923,It would be good to relate to the youngsters the good work that PAP has done.,3/7/2020,0.7,0.6000000000000001,0.0,0.707,0.293,0.7003,anger
+3997,4981,We have to be mindful n vigilant and continue to do our part as socially responsible citizens.,19/6/20,0.2,0.55,0.0,0.778,0.222,0.4588,anger
+4015,5000,It was both uplifting and refreshing to be embraced by this unusually thick lush of greenery on day one  of phase 2.,19/6/20,0.09999999999999998,0.5916666666666667,0.0,1.0,0.0,0.0,anger
+4022,5007,While it is important to keep them alive but it is also important  that they enjoy the company of their loved one during their remaining time.,19/6/20,0.4,0.74,0.0,0.583,0.417,0.9331,anger
+4029,5014,It is good for the opening of phase 2 but than shouldn't you add that drinking of alcohol should stop for now cos what i saw is very disturbing all the people drinking without distancing than they sat for nearly 3 to 4 hrs without the mask pls do something about this cause it's  really disturbing (selling food in the market that  why i can see all the  people drinking alcohol at the coffee shop),19/6/20,-0.08750000000000002,0.7,0.172,0.804,0.024,-0.9179,anger
+4042,5027,"I've an autistic child desperate to go out after 2 1/2 months as we dont live near a park, but now we have to deal with people who dont consider others.",19/6/20,-0.14090909090909093,0.525,0.056,0.944,0.0,-0.1655,anger
+4067,5054,"Pray our leaders to good make changes, to improve peoples lives, that's why you're chosen ones, remove  the weak links that brings you down, 🙏  Dads say you  need good leaders, not only a good system can't work it out.",19/6/20,0.261574074074074,0.6189814814814815,0.059,0.656,0.285,0.875,anger
+4076,5063,A store area with more than 1000sqft only allow less than 20 customers with all of them wearing mask.,19/6/20,0.11111111111111112,0.5222222222222223,0.0,0.899,0.101,0.2263,anger
+4082,5069,Shouldn’t we be more stringent to bars where almost all of them are not wearing masks?,19/6/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+4121,5110,"Everyone should play our part, be responsible and heed all the advice given thus far .",1/6/2020,0.15000000000000002,0.775,0.0,0.734,0.266,0.5719,anger
+4125,5114,Yes dear Prime Minister Singapore has done very well with the circuit breaker It has taught us to always be careful and vigilant and must observe the rules even after some measures are lifted and must always be on guard as it will still be around for sometime Thank you for your kind words and we wish everyone well n stay safe Majulah Singapura🇸🇬🇸🇬,1/6/2020,0.3,0.675,0.0,0.68,0.32,0.9678,anger
+4129,5118,"Though it is termed circuit breaker, we do understand that dealing with virus n pandemic, there is no "" on off switch for the right moment"" to determine the exact moment to be virus free.",1/6/2020,0.3119047619047619,0.5285714285714286,0.06,0.849,0.09,0.2732,anger
+4151,5142,The person in charged in LTA and minister in charged should be dismissed for taking this lightly,3/6/2020,0.4,0.7,0.194,0.806,0.0,-0.3818,anger
+4180,5175,Many employers still don't buy the ideas of WFH.,2/6/2020,0.5,0.5,0.0,1.0,0.0,0.0,anger
+4240,5238,Pls don’t comment or scold the government that they are not doing enough or why they did not start doing all these earlier .,1/6/2020,0.0,0.5,0.108,0.84,0.052,-0.34,anger
+4245,5243,So pls be grateful  and thankful that you are in the good hand of Singapore government.,1/6/2020,0.7,0.6000000000000001,0.0,0.429,0.571,0.9281,anger
+4249,5247,"However, it is better than not do anything or cannot afford to do anything .",1/6/2020,0.5,0.5,0.0,0.818,0.182,0.4404,anger
+4255,5253,"We people should always stand together because unity not only gives strength but it is also important for survival, not only humans but even animals work together.",1/6/2020,0.13333333333333333,1.0,0.063,0.862,0.076,0.0992,anger
+4261,5259,Many tanx 2 u 4 being my brthr.,1/6/2020,0.5,0.5,0.0,1.0,0.0,0.0,anger
+4300,5298,"Like what, from Pasir Ris once full with people at all markings and seats taken up with 3 empty seats between them, dont allow anymore people to board when reach Tampines?",2/6/2020,0.12499999999999999,0.525,0.105,0.786,0.109,0.0346,anger
+4306,5304,"Everyone knows it should be, safer to continue one more month, two more months, but how??",2/6/2020,0.5,0.5,0.0,0.869,0.131,0.3094,anger
+4328,5326,"However, today my renovation Contractors tell me that they cannot start work after 2 june on my 90% completed house because of bureaucracy and delay in getting their required certification and approval from the authorities even though they have made applications more an a week ago since the announcement by you were made.",1/6/2020,0.5,0.5,0.042,0.901,0.057,0.2023,anger
+4352,5350,He was right.,9/4/2020,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,anger
+4383,5382,Good decision by government to control the virus.,9/4/2020,0.7,0.6000000000000001,0.0,0.707,0.293,0.4404,anger
+4387,5386,"I'm a construction worker, I have to deal with the day without much work, I still adjust to the situation, It is very difficult to be enclosed in one house, but in such a situation we are now living in order to protect ourselves and to protect others, we mast need to follow Singapore government rules, not just for ourselves, but for the whole nation.",9/4/2020,-0.0625,0.525,0.028,0.87,0.102,0.7099,anger
+4399,5398,This may take time but it is for our own safety.,9/4/2020,0.6,1.0,0.0,0.73,0.27,0.5719,anger
+4402,5401,"May be they didn’t want to dirty the mask, but.....",9/4/2020,-0.6,0.8,0.238,0.656,0.107,-0.3818,anger
+4414,5414,Need to be tough with Covidiots who flout the law.,9/4/2020,-0.3888888888888889,0.8333333333333334,0.143,0.857,0.0,-0.128,anger
+4421,5421,We cannot  always be playing the good guys and to be nice to certain individuals to persuade them to do what is necessary to protect the people and nation.,9/4/2020,0.3785714285714285,0.7928571428571429,0.044,0.667,0.289,0.832,anger
+4438,5439,"If you do not heed advice, worst case you will face the extension and tough  actions...not allowing you to go out anymore.",9/4/2020,-0.6944444444444444,0.9166666666666667,0.06,0.807,0.133,0.4203,anger
+4448,5450,Teachers are being made to return to school unnecessarily.,9/4/2020,-0.4,0.9,0.0,1.0,0.0,0.0,anger
+4451,5453,There are many centres which are milking the most that they can from their teachers by making them commute to work just to do cleaning and conduct online lessons in the centre.,9/4/2020,0.5,0.5,0.0,1.0,0.0,0.0,anger
+4453,5455,Many of us are also mothers and we have elderlies at home.,9/4/2020,0.5,0.5,0.0,1.0,0.0,0.0,anger
+4455,5457,We have tried to reach out to relevant authorities for help but they simply told us that that's the centres arrangement and they cannot intervene.,9/4/2020,0.2,0.6285714285714286,0.0,0.888,0.112,0.2263,anger
+4460,5462,A law is only as good as its enforcement.,9/4/2020,0.35,0.8,0.0,0.707,0.293,0.4404,anger
+4465,5467,Some of the void decks not marked.,9/4/2020,-0.05,0.6,0.0,1.0,0.0,0.0,anger
+4470,5472,There are still far a lot more employers playing around with the words gov had given!,9/4/2020,0.3625,0.75,0.0,0.855,0.145,0.3336,anger
+4482,5485,Especially the medical team !,9/4/2020,0.0,0.5,0.0,1.0,0.0,0.0,anger
+4505,5509,Government is trying to help with 3 rounds of safety nets and many just take things for granted.,9/4/2020,0.5,0.5,0.0,0.651,0.349,0.7579,anger
+4525,5529,Seems like it's Day 3 and many people are still not abiding the measures for this Circuit Breaker period despite the written warnings.,9/4/2020,0.5,0.5,0.0,0.82,0.18,0.5248,anger
+4527,5531,How about implementing a fine for those who gather in a group / eating at hawker centres / not complying to the safe distancing measures?,9/4/2020,0.45833333333333337,0.5,0.0,0.802,0.198,0.5719,anger
+4539,5543,We encourage people to stay home yet we allow them to freely leave the country and return with the virus.,10/4/2020,0.4,0.8,0.047,0.632,0.32,0.7845,anger
+4560,5564,You still find many smokers standing at void decks passing their smoke to other people and not their own family.,9/4/2020,0.325,0.625,0.0,1.0,0.0,0.0,anger
+4567,5571,You know how difficult to carry out when everyone coming out for walking and also for cycling to the parks and estate during the peak evening period.,9/4/2020,-0.5,1.0,0.088,0.912,0.0,-0.3612,anger
+4570,5574,"If you don't think about your well-being, which I don't believe in, think about the well-being of your parents, children, grandchildren and your country, think about how important it is to stay at home, at this moment to contain the new corona virus 19  , please, if not for you do it for the one you love.",9/4/2020,0.34545454545454546,0.6848484848484849,0.0,0.862,0.138,0.8074,anger
+4578,5582,This will give people true transparency how the virus has spread.,9/4/2020,0.35,0.65,0.0,0.781,0.219,0.4215,anger
+4579,5583,"In fact, it is good to get people to feel paranoid at this moment.",9/4/2020,0.7,0.6000000000000001,0.118,0.71,0.172,0.2263,anger
+4588,5592,"With non stop worldwide  coverage on Covid 19, surely even the remotess of person, would act in a sensible manner.",9/4/2020,0.5,0.8888888888888888,0.1,0.769,0.131,0.1779,anger
+4601,5605,"Those who take the 28-day circuit breaker rule not seriously (most probably) think that if anything happens, the Government will take care of them.",9/4/2020,-0.25,0.5,0.0,0.823,0.177,0.5744,anger
+4612,5617,Should we not consider further tightened custom control?,10/4/2020,0.0,0.5,0.0,1.0,0.0,0.0,anger
+4614,5619,"Our measures are only as strong as our weakest link, and would ask that you consider plugging this obvious gap.",10/4/2020,0.14444444444444443,0.7444444444444445,0.134,0.732,0.134,0.0,anger
+4628,5635,Supermarkets/wet-markets - congregations and long queues especially in the mornings.,9/4/2020,-0.025,0.7,0.0,1.0,0.0,0.0,anger
+4629,5636,"In the face of potential disruption to our food supplies due to prolonged inter-national lockdown, better control and management of food rationing should be implemented to cut down unnecessarily habitual groceries rituals.",9/4/2020,-0.03611111111111112,0.6127777777777778,0.126,0.795,0.079,-0.1779,anger
+4633,5641,More tighter movement order should be imposed (i.e.,9/4/2020,0.5,0.5,0.157,0.843,0.0,-0.0772,anger
+4635,5643,"If the virus is increasing , may consider follow One of China rule to control the virus which my China friends told me how their government control them during the critical virus lockdown period ...Each household are allow only ONE person to go out buy food and timing will be allotted to go out..Strict law need to implement and if those did not follow fine or jail...",10/4/2020,0.07916666666666666,0.575,0.055,0.875,0.071,0.2751,anger
+4643,5651,"Until today,  there are still many people not wearing a mask.",9/4/2020,0.5,0.5,0.0,1.0,0.0,0.0,anger
+4647,5655,This can potentially curtail socially irresponsible and ignorant behaviours.,10/4/2020,0.016666666666666666,0.5333333333333333,0.417,0.583,0.0,-0.6124,anger
+4656,5664,"It will become a positive and active circulation,which can enhance the effectiveness of reducing the number of offenders and also save related cost.",10/4/2020,0.031313131313131314,0.5151515151515151,0.083,0.561,0.356,0.8074,anger
+4666,5675,Let’s put ourself in the position of others who are working hard to keep everything in order.,9/4/2020,-0.2916666666666667,0.5416666666666666,0.08,0.92,0.0,-0.1027,anger
+4667,5676,It’s not easy especially if they have to handle millions of people.,9/4/2020,-0.10833333333333334,0.9166666666666667,0.179,0.821,0.0,-0.3412,anger
+4698,5707,Issue those not taking this seriously.,9/4/2020,-0.3333333333333333,0.6666666666666666,0.273,0.727,0.0,-0.2204,anger
+4700,5709,Issue some maximum fine to show everyone that the gov take this seriously.,9/4/2020,0.041666666666666685,0.5833333333333333,0.128,0.75,0.123,-0.0194,anger
+4704,5713,Absolutely aligned with our govt measures and enforcement to make people comply.,9/4/2020,0.2,0.9,0.0,1.0,0.0,0.0,anger
+4710,5719,"PM, as you've correctly reinforced, no one should take liberty of the measures and rules should be direct and absolute.",9/4/2020,0.15000000000000002,0.65,0.093,0.763,0.144,0.296,anger
+4729,5738,Totally support this move.,9/4/2020,0.0,0.75,0.0,0.501,0.499,0.4576,anger
+4746,5755,Most people were not wearing masks.,9/4/2020,0.5,0.5,0.0,1.0,0.0,0.0,anger
+4750,5759,I  have tried to change and reduce my jogging routine in the park lately.,9/4/2020,-0.3,0.6,0.0,1.0,0.0,0.0,anger
+4758,5767,It gave me the feeling that the park has become one of the most vulnerable places for the virus to spread.,9/4/2020,0.0,0.5,0.097,0.837,0.066,-0.1761,anger
+4761,5770,I understand that it may be difficult to stay at home all the time but this is for the benefit of everyone and for the entire Nation.,9/4/2020,-0.25,0.8125,0.059,0.807,0.134,0.5023,anger
+4806,5816,"Some people think their actions are invisible, the more we go out the longer we are going be confined😔 well noted PM Lee ☺️ we are all staying in 👍🏻",9/4/2020,0.5,0.5,0.0,0.932,0.068,0.2732,anger
+4810,5820,"Business flouting the rules get up to €30,000 fine.",9/4/2020,0.4166666666666667,0.5,0.0,0.816,0.184,0.2023,anger
+4820,5831,Indeed everyone has to observe the safety guidelines wrt Circuit Breaker measures Offenders must be punished to help save more lives.,9/4/2020,0.5,0.5,0.182,0.53,0.288,0.4939,anger
+4836,5847,We have a lot of COVID19 susceptible people in Singapore due to the effective flattening of the curve yet Gov comms collateral is prioritising bringing your own food container in messaging over Minister Gan's advisory on mask-wearing.,9/4/2020,0.35833333333333334,0.725,0.0,0.919,0.081,0.4767,anger
+4858,5869,Adhere to all measures to protect our loved ones n self - the least one can do😯Be wise n prudent during such a time like this😢Every life is precious👍,9/4/2020,0.27499999999999997,0.65,0.0,0.634,0.366,0.9022,anger
+4893,5904,"Please use the voice system to disperse crowd if need so , this will have enough urgency to ask these people to stay home at this period .",9/4/2020,0.0,0.5,0.0,0.916,0.084,0.3182,anger
+4894,5905,Enough of talk and niceties.,9/4/2020,0.0,0.5,0.0,0.615,0.385,0.3612,anger
+4897,5908,Not possible for the enforcement officers to be all over the island to catch these covidiots.,9/4/2020,0.0,1.0,0.0,1.0,0.0,0.0,anger
+4909,5920,Don’t risk the life of others by your selfish act.,9/4/2020,-0.5,1.0,0.394,0.606,0.0,-0.6369,anger
+4933,5944,Maybe government should impose fine for those who are not wearing mask during this circuit breaker period.,8/4/2020,0.4166666666666667,0.5,0.116,0.789,0.095,-0.1027,anger
+4947,5958,"Supermarket, fast food restaurant etc.",8/4/2020,0.2,0.6,0.0,1.0,0.0,0.0,anger
+4971,5983,"Nothing  wrong  with  having  some  fresh  air  and  exercise  but  when  people  are  crowding  the  place  and  not  safe  distancing   especially without  masks,  they  are  putting  others  in  danger  should  they  be  infected.",9/4/2020,-0.1125,0.725,0.276,0.645,0.079,-0.8905,anger
+4977,5989,So unfair for those under essential service to take risk to service others!,8/4/2020,-0.25,0.65,0.345,0.655,0.0,-0.6989,anger
+4995,6007,"A Good leader will go by setting the good example and carry out what had been spoken and not just speaking of words only   When i went to do some essential things, there are still quite afew of pple feeling not important to do so .",9/4/2020,0.24,0.7,0.033,0.814,0.152,0.6916,anger
+4998,6010,😂😂🤣🤣  We thank you for the smart hdps that was made as we stay at home we still  stay connected and keep 🤜🤛in touch still .,9/4/2020,0.21428571428571427,0.6428571428571429,0.0,0.816,0.184,0.6369,anger
+5007,6019,Dear PM Lee the rule to now allow us to send our children to our parents for childcare severely disrupts our live and work.,10/4/2020,0.13636363636363635,0.5,0.105,0.737,0.158,0.128,anger
+5011,6023,"(2) why are we still silent about elderly workers going to work in essential services, (3) Can there be exceptions made to allow us to at least go to our parents house for childcare if we meet stringent conditions like we don’t go out of the homes (order food in), we only go to parents house in our own car.",10/4/2020,0.06,0.5599999999999999,0.0,0.929,0.071,0.5267,anger
+5018,6030,Right now we are not given option nor allow stagger hours nor allow to work from home..building is almost ghost town.,8/4/2020,0.2857142857142857,0.5357142857142857,0.229,0.771,0.0,-0.517,anger
+5021,6033,"We also deserved some fair measures to allow us to stay home,to be safe.",8/4/2020,0.6,0.7,0.0,0.608,0.392,0.7269,anger
+5043,6055,Better to enforce stiffer measures now to stop more cases of infection.,10/4/2020,0.5,0.5,0.146,0.662,0.192,0.1779,anger
+5054,6066,To mask up not only can protect yourself.,9/4/2020,0.0,1.0,0.238,0.762,0.0,-0.2924,anger
+5056,6068,Don't act brave and selfish on the expense of risking the nation.,9/4/2020,0.15000000000000002,1.0,0.476,0.524,0.0,-0.8007,anger
+5061,6073,For coming up with bright ideas of doing away with face mask and slow response.,9/4/2020,0.2,0.6,0.0,0.828,0.172,0.4404,anger
+5062,6074,"We the people of Singapore are blessed with excellent leaders, starting with the Founding Father of Singapore, Mr Lee Kuan Yew.",5/6/2020,0.5,0.55,0.0,0.714,0.286,0.8225,anger
+5067,6079,But who among us is PERFECT ?,5/6/2020,1.0,1.0,0.0,0.53,0.47,0.6633,anger
+5072,6085,Today I encountered a selfish Singaporean couple in their sixties who walked by side along the stairs up a bridge and refused to give way to the others even when they were asked to be excused.,10/4/2020,-0.5,1.0,0.146,0.854,0.0,-0.6486,anger
+5073,6086,"Not only their attitude was bad, they even scolded others for squeezing through passed them.",10/4/2020,-0.3499999999999999,0.8333333333333333,0.2,0.8,0.0,-0.5423,anger
+5074,6087,"The disgusting thing about this couple is that their attitude changed completely and they became super polite and civil when they saw a social distancing ambassador who witnessed the incident, and even tried to explain that they were in their sixties and walked slowly.",10/4/2020,-0.16666666666666669,0.5066666666666666,0.07,0.849,0.081,0.128,anger
+5078,6091,"Apart from the circuit measures the government has introduced, it is also important for the government to educate our senior citizens on their manners and hygiene.",10/4/2020,0.4,1.0,0.0,0.933,0.067,0.2023,anger
+5080,6093,"At the end of the day, this boils down to one thing - their selfish attitude.",10/4/2020,-0.3277777777777778,0.6444444444444445,0.181,0.819,0.0,-0.4767,anger
+5107,6122,"Not only was their attitude bad, they even scolded others for squeezing through them.",10/4/2020,-0.3499999999999999,0.8333333333333333,0.212,0.788,0.0,-0.5423,anger
+5111,6126,"Apart from the circuit measures that the government has introduced, it is also important for the government to educate our senior citizens on their manners and hygiene.",10/4/2020,0.4,1.0,0.0,0.935,0.065,0.2023,anger
+5141,6156,That was probably one of the most destructive actions the government has done.,9/4/2020,-0.04999999999999999,0.55,0.263,0.737,0.0,-0.6478,anger
+5150,6165,Can l suggest that the government takedown the particulars of those idiots and the whole family will not entitle to the relief given out due to COVID-19.,9/4/2020,-0.2416666666666667,0.525,0.0,0.89,0.11,0.4767,anger
+5179,6195,"Also, I must thank our government for collaborating with other nations to diversify our food sources and keep our supply chain open especially at this trying times and having a new trade declaration with the New Zealand government.",16/4/20,0.02954545454545454,0.5568181818181819,0.0,0.933,0.067,0.3612,anger
+5183,6199,"Just an observation: As for the dormitories, the increase in its clusters, I’m sure the relevant authorities are aware that the workers need to be educated on social distancing.",16/4/20,0.29583333333333334,0.5263888888888889,0.0,0.854,0.146,0.5574,anger
+5190,6206,"A BIG THANKS to all your team, heathcare workers, frontline staff, &  foreign workers who are working so hard in keeping things running during this difficult time...💐💐💐We all should do our part by staying indoors, going out only when absolutely necessary so that TOGETHER we can overcome this pandemic😍",16/4/20,-0.10238095238095238,0.5666666666666667,0.091,0.84,0.069,-0.0279,anger
+5226,6246,"During such difficult and unpredictable times , it is only humane to  refrain from criticizing and pointing fingers especially at those that are doing all the work and cracking their heads over the critical situation.They are the ones trying to solve the problems and  on our part,we should give intelligent constructive feedback and offer our sincere concerns and support .",16/4/20,0.07916666666666668,0.8375,0.142,0.712,0.145,0.0516,anger
+5254,6274,"If they cannot set good example to others, then shouldn't be something be done about it?",17/4/20,0.7,0.6000000000000001,0.138,0.862,0.0,-0.3412,anger
+5284,6304,"Many of us get sick for not eating these foods, sincerely request the government to change our food!",21/4/20,0.1369047619047619,0.6190476190476191,0.158,0.705,0.137,-0.126,anger
+5297,6317,Some of your earlier moves to contain the virus is some what wrong.,16/4/20,-0.25,0.7,0.205,0.795,0.0,-0.4767,anger
+5303,6323,"After the virus, seriously govt should make MOM, employers  and Ministry of Env accountable for the mess they hv created as far as dormitories are concerend.",17/4/20,-0.1361111111111111,0.6138888888888888,0.144,0.788,0.068,-0.296,anger
+5337,6359,"PM Lee, thank you to you and all the ministers, civil servants and everyone involved for working so hard to contain this crisis.",17/4/20,-0.2916666666666667,0.5416666666666666,0.231,0.684,0.085,-0.6418,anger
+5346,6368,Symptomatic people to get tested --> these are the true community cases.,19/4/20,0.35,0.65,0.0,0.797,0.203,0.4215,anger
+5370,6392,"Exercising is crucial in building up our immune system, which is an important way for us to fight off the coronavirus.",17/4/20,0.2,1.0,0.106,0.732,0.163,0.1027,anger
+5425,6450,"instead, we are now trying to firefight the alarmingly growing number of cases 😪",17/4/20,-0.1,0.6,0.217,0.602,0.181,-0.3818,anger
+5437,6462,"Well, those are nice words but wouldn't it be better to come with some actions as well?",16/4/20,0.55,0.75,0.14,0.585,0.275,0.2479,anger
+5439,6464,What if govt would use some of that money to provide better working/living conditions for these FW if they are do valuable,16/4/20,0.5,0.5,0.0,0.769,0.231,0.7184,anger
+5463,6491,Could have done all these if only the task force considered all stops given our dense population.,16/4/20,0.0,1.0,0.091,0.909,0.0,-0.1531,anger
+5472,6503,This is a difficult time for Singaporeans and people living/working on this precious city.,16/4/20,0.0,1.0,0.14,0.615,0.245,0.4357,anger
+5479,6510,How do we reach them and ensure they are also protected and taken care of at this difficult time.,16/4/20,-0.5,1.0,0.108,0.525,0.367,0.7118,anger
+5485,6516,"This should not have happened if the ""think tanks"" have given a thought about this obvious situation with FWs.",16/4/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+5488,6519,The dorm operators should be punished and held responsible for spreading an infectious disease.,16/4/20,0.2,0.55,0.173,0.694,0.133,-0.1779,anger
+5516,6547,"For the FW doing essential services that do not have symptoms at the point of moving to another accommodation, are we very certain they are completely virus free given some may be carriers without symptoms?",16/4/20,0.19464285714285715,0.5607142857142857,0.0,0.847,0.153,0.7159,anger
+5521,6552,"We can't blame them, most of them at least, as they have no way to avoid cramped quarters, communal cooking and utilities; and no partitioning or restricting of mixing across different blocks or floors.",16/4/20,0.06666666666666667,0.5,0.27,0.681,0.049,-0.7943,anger
+5540,6576,SG has treated these FWs and FDWs well with various recreational facilities as well as organizations providing various courses to upgrade the FDWs.,16/4/20,0.0,0.5,0.0,0.833,0.167,0.4939,anger
+5542,6578,All the FWs and FDWs are provided with accommodation unlike some in other countries where they have to live out on their own.,16/4/20,0.20378787878787877,0.625,0.0,1.0,0.0,0.0,anger
+5552,6588,Should the government take over the running of all dorms to ensure that they will be run in a manner worthy of our FWs to stay?,16/4/20,0.3333333333333333,1.0,0.0,0.807,0.193,0.6705,anger
+5558,6594,"It’s all to easy to point the finger at Government whereas almost everyone on this amazing island took  advantage of these hard working people,either directly or indirectly.",17/4/20,0.21041666666666667,0.66875,0.041,0.68,0.278,0.8402,anger
+5566,6603,"You must isolate each one of those tested positive and treat them to stem the community spread, even for those with asymptomatic and mild symptoms.",17/4/20,0.2803030303030303,0.5227272727272727,0.06,0.731,0.209,0.6705,anger
+5591,6632,"Leaders, especially those highly paid in the world, should develop the kind of humanity vision to see beneath the surface to what lies at the bottom.",13/5/20,0.25333333333333335,0.8133333333333334,0.097,0.833,0.069,-0.2023,anger
+5592,6633,"Sorry PM, but why didn’t the government take pre-emptive precautionary actions against these dormitories earlier?",16/4/20,-0.25,0.75,0.076,0.924,0.0,-0.0387,anger
+5616,6658,As far as possible to minimize infected cases as it crossed over the 3k mark .,16/4/20,0.05,1.0,0.186,0.814,0.0,-0.4939,anger
+5621,6663,"Good afternoon PM Mr Lee sir, appreciate that your good self and the government are sparing no efforts and resources during this pandemic.",16/4/20,0.7,0.6000000000000001,0.074,0.64,0.286,0.743,anger
+5627,6669,Each and everyone of us has a part to play and should to a certain extent be personally responsible for ourselves.,16/4/20,0.20714285714285713,0.5607142857142857,0.0,0.702,0.298,0.7003,anger
+5662,6704,Shall we be held responsible??,19/4/20,0.2,0.55,0.0,0.601,0.399,0.3939,anger
+5675,6717,It’s time to stop this kind of degrading our foreign workers.,16/4/20,0.2375,0.5125,0.411,0.589,0.0,-0.7425,anger
+5697,6740,Appreciate that your good self and the government is sparing no efforts and resources to put under control the current situation.,16/4/20,0.35,0.5,0.085,0.698,0.217,0.5267,anger
+5698,6741,"During difficult times,  many would like to point fingers and question who should shoulder responsibility.",16/4/20,0.0,0.75,0.139,0.722,0.139,0.0,anger
+5699,6742,It’s always easy to blame and criticize but such actions does not solve problems .Everyone including the foreign workers need to trust  and work with the authorities to improve the current critical situation.The frontline warriors are the ones on the battlefield risking their health and making sacrifices to take care of the sick.,16/4/20,-0.06765873015873015,0.5859126984126984,0.247,0.529,0.225,0.077,anger
+5701,6744,Everyone is affected in our own certain ways but that shouldn’t stop us from being socially responsible and humane.,16/4/20,0.33809523809523806,0.7071428571428572,0.174,0.636,0.191,0.1027,anger
+5728,6772,they can be carriers as well as many of them may have friends or brothers whom they been meeting during their off days?,17/4/20,0.5,0.5,0.0,0.802,0.198,0.6369,anger
+5729,6773,"may be can consider having all the work permit holders tested, you can still see many of them in that area so they may be infecting each others?",17/4/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+5739,6783,Blame only the government ?,16/4/20,0.0,1.0,0.444,0.556,0.0,-0.34,anger
+5742,6786,"Despite highlights of their living conditions and poor treatment for years , little was done because no body cared .",16/4/20,-0.29375,0.55,0.229,0.649,0.121,-0.3612,anger
+5753,6797,"It is clear that the leaders are moving away from the strong statesmen approach of the yesterday towards a consultative, multi agency, evidence based approach.",17/4/20,0.26666666666666666,0.5583333333333333,0.0,0.789,0.211,0.7096,anger
+5768,6812,"So in the end, if the agency and Ministry had been Responsible in the JOB, the workers will comply in keeping the place clean, Why, because if they don't,  they would lose their place of stay hence losing their jobs !",16/4/20,0.3291666666666667,0.625,0.056,0.78,0.164,0.6059,anger
+5771,6815,No one is perfect.,16/4/20,1.0,1.0,0.278,0.253,0.468,0.3612,anger
+5772,6816,"Where as on why they use their hand to eat, most of them are Muslims, this is how they eat, but they only use their right hand after washing.",16/4/20,0.2619047619047619,0.6785714285714285,0.0,0.808,0.192,0.7506,anger
+5786,6830,"We, as employer want to take care of them and want to supply edible and better food for these workers yet not allowed.",16/4/20,0.5,0.5,0.0,0.686,0.314,0.7717,anger
+5792,6837,They deserve to be taken good care of when in SG for their hard work.,16/4/20,0.20416666666666664,0.5708333333333333,0.072,0.615,0.313,0.6908,anger
+5800,6848,"After many calls, he was told to call for ambulance that cost $150.",19/4/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+5812,6861,"Nation, this is not the time to point fingers who’s right or wrong now.",16/4/20,-0.10714285714285715,0.7178571428571429,0.193,0.807,0.0,-0.4767,anger
+5818,6867,This is the lesson Singapore have to learned is hygiene  The workers is already is like this and they need is to learn from mistake  To be clean the place that they stay  Most workers is came from their home is already unclean  So our Singapore bossses they have to checked on the place they are staying  And sign the agreement to make the place need and tidy  If they break the rule is fine they will be scare  Everyone make a mistake but from mistake we learned  This is my comment is without prejudice,16/4/20,0.4708333333333334,0.625,0.082,0.815,0.102,0.2624,anger
+5819,6868,I went to get my mask at Bugis+ but end up stuck in the machine and hence have call the hotline but till now unable to redeem as it says my quota have reached,1/3/2021,-0.5,0.5,0.071,0.883,0.046,-0.2263,anger
+5828,6877,tough times for everyone from Singapore to our islands of Trinidad and Tobago.,27/11/20,-0.3888888888888889,0.8333333333333334,0.111,0.889,0.0,-0.128,anger
+5829,6878,when leaders in countries stepped up and took precautions as soon as it was necessary has made it a bit safer for everyone else... thanks Singapore for being one of those countries who took this very serious early...,27/11/20,-0.03333333333333333,0.5916666666666666,0.039,0.823,0.138,0.6258,anger
+5832,6882,"It is indeed tough and tumultuous, just couldn’t imagine what is it like without the lifeline and stimulus rescue packages rolled out by  our government.",27/11/20,-0.3888888888888889,0.8333333333333334,0.051,0.751,0.198,0.6486,anger
+5844,6895,"I am sure our government are able to adopt all workable suggestions regardless it were to be suggested by the ruling/oppositions members, just do not try to politicize the agendas but rather for the nation as a whole.",27/11/20,0.39999999999999997,0.637962962962963,0.0,0.919,0.081,0.25,anger
+5867,6921,We are lucky to have leader who took interest in education of kids and mould them to be future great leaders.,9/10/2020,0.37777777777777777,0.5694444444444445,0.0,0.645,0.355,0.872,anger
+5871,6925,"Normal that ‘fatigue’ is setting in and with that , complacencies, and , another surge.",18/8/20,0.15,0.6499999999999999,0.0,1.0,0.0,0.0,anger
+5883,6937,Perhaps the rules can be relaxed for groups that organize such walks and outings around Singapore.,17/8/20,0.0,0.5,0.0,0.824,0.176,0.4939,anger
+5888,6942,"In countries like Taiwan and Japan, people wear a mask when they have cough, flu or are sick.",17/8/20,-0.7142857142857143,0.8571428571428571,0.263,0.625,0.112,-0.5267,anger
+5904,6958,We believe it is better to be kiasu for this matter as the risk is high for not only yourself but to others in terms of health.,17/8/20,0.22,0.68,0.054,0.84,0.105,0.1186,anger
+5918,6972,Thank you for sharing this latest online survey posted by ST abt the attitudes and behaviours of people towards COVID 19.,17/8/20,0.5,0.9,0.0,0.782,0.218,0.6486,anger
+5931,6987,"Even embassy are not responsive, many are seriously lost and struggling now.",31/5/20,0.08333333333333334,0.5833333333333333,0.527,0.473,0.0,-0.7851,anger
+5935,6991,WHO are blind NOT to acknowledge vietnam for controlling the virus.,29/5/20,-0.5,0.6666666666666666,0.213,0.787,0.0,-0.4019,anger
+5950,7006,Vietnam over 90 mil population has zero case for more than 3 weeks already.,30/5/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+5955,7011,Very respectful of the locals when they are in SG.,30/5/20,0.65,0.9099999999999999,0.0,0.732,0.268,0.5095,anger
+5999,7056,You all have worked really hard to try to control the rise in cases.,8/5/2020,-0.2916666666666667,0.5416666666666666,0.115,0.885,0.0,-0.1761,anger
+6001,7058,"For some of the penalties, perhaps the fine can be raised as a stronger deterrent",8/5/2020,0.4166666666666667,0.5,0.0,0.732,0.268,0.5267,anger
+6004,7061,Your team at AVS is not familiar with the industry and often ask for documents that major EU players have never heard of.,8/5/2020,-0.0625,0.5,0.0,1.0,0.0,0.0,anger
+6006,7063,We lost many opportunities because of that.,8/5/2020,0.5,0.5,0.232,0.505,0.263,0.0772,anger
+6037,7094,Someone is smoking in the hotel room and I’m appalled and offended that the hotel has no contingency plan to deal with this.,7/5/2020,-0.8,1.0,0.265,0.735,0.0,-0.7351,anger
+6040,7097,I ask for your help before any bad happens.,7/5/2020,-0.6999999999999998,0.6666666666666666,0.287,0.492,0.221,-0.2023,anger
+6057,7114,It is through decades of building trust and fostering relationships with their leaders that kept our supply chain open.,29/4/20,0.0,0.5,0.0,0.845,0.155,0.5106,anger
+6072,7130,"Thank you for the hardworking, unfortunately many people still believe they can be out and about without protection and putting others at risk.",11/4/2020,0.5,0.5,0.167,0.741,0.093,-0.25,anger
+6073,7131,Today it was shocking to see the number of families not respecting the “don’t cross tape” at Coronation Park and enter with their kids to play anyway.,11/4/2020,-0.5,0.5,0.166,0.718,0.116,-0.3875,anger
+6075,7133,"Maybe more control, because if they don’t even respect the barriers what else can be done?",11/4/2020,0.5,0.5,0.0,0.829,0.171,0.4767,anger
+6078,7137,"It is better to tell people to wear masks when they step out rather than specify markets, buses etc.",11/4/2020,0.5,0.5,0.0,0.861,0.139,0.4404,anger
+6093,7152,"At the mean time, everyone help the Frontline healthcare workers by staying safe: stay home, wash hands, wear a mask.",11/4/2020,0.09375,0.59375,0.0,0.752,0.248,0.6808,anger
+6097,7156,"Applause to PM Lee and the government of SG, with their highly efficient cabinets of ministers.",12/4/2020,0.16,0.5399999999999999,0.0,0.704,0.296,0.7089,anger
+6105,7164,You would argue that it is necessary for us to support the families of those who are in essential services but yet we don't do the same accommodations during month long or week long school breaks which just goes to show that these children do have other caretaking arrangements that are possible!,11/4/2020,-0.03214285714285715,0.5142857142857143,0.032,0.929,0.04,0.1134,anger
+6127,7188,I have some crazy ideas.,11/4/2020,-0.6,0.9,0.444,0.556,0.0,-0.34,anger
+6139,7200,This battle cannot be fought by the government only.,12/4/2020,0.0,1.0,0.225,0.605,0.17,-0.1625,anger
+6140,7201,"They have given directions, ideas and funds for us to tide over this hard period.",12/4/2020,-0.2916666666666667,0.5416666666666666,0.097,0.903,0.0,-0.128,anger
+6149,7211,However I feel that its too late to ask the people to wear masks now.,12/4/2020,-0.3,0.6,0.0,1.0,0.0,0.0,anger
+6158,7220,"Because of these selfish people, eveything we do to prevent virus from spreading is useless!",14/4/20,-0.5625,0.6,0.321,0.622,0.057,-0.7263,anger
+6165,7227,I've wrote in to various ministries and statutory boards on this and have received no response.,13/4/20,0.0,0.5,0.128,0.872,0.0,-0.296,anger
+6169,7231,Cloth masks are extremely permeable.,15/4/20,-0.125,1.0,0.0,1.0,0.0,0.0,anger
+6170,7232,"It is not a case of ""having some form of protection is better than no protection.",15/4/20,0.5,0.5,0.122,0.718,0.16,0.1779,anger
+6179,7241,"Sir,  Lately, I have seen many stall helpers wearing mask to prepare foods and serve customers.",12/4/2020,0.1,0.55,0.107,0.769,0.124,0.0772,anger
+6194,7256,"Put a clean stop to food/water/electric wastage, and issue food stamps.",11/4/2020,0.3666666666666667,0.7000000000000001,0.171,0.62,0.209,0.128,anger
+6204,7266,It only distresses the public and create more unnecessary work for public servants.,12/4/2020,0.019999999999999997,0.5066666666666667,0.166,0.701,0.134,-0.128,anger
+6210,7272,Please help the worker people not only indian also other contry  worker... Plz non infected people segrifie.. From indicted people... Trasfer other safe place... Then he safe from other infected person,23/4/20,0.10416666666666667,0.5208333333333334,0.151,0.565,0.285,0.5719,anger
+6215,7277,"Dear PM, can I sincerely request that your team can consider passing a law for compulsory wearing of mask whenever out and not just apply to some scenarios only.. people will be confused when need to wear and when don’t need to.. what about going out to packet food at hawker centres etc.",13/4/20,0.033333333333333326,0.7333333333333334,0.041,0.857,0.102,0.5267,anger
+6220,7282,"Dear PM, can you pls increase the fines for those inconsiderate jerks who still persist in putting everyone in danger by not keeping a safe distance and refuse to wear a mask?",14/4/20,0.5,0.5,0.316,0.534,0.15,-0.7786,anger
+6223,7285,Obviously a $300 fine is not painful to many that's why you still have so many who don't comply.,14/4/20,0.35333333333333333,0.58,0.0,0.792,0.208,0.4949,anger
+6225,7287,And to be used up by a person in 4 days if he is sick?,2/2/2020,-0.7142857142857143,0.8571428571428571,0.216,0.784,0.0,-0.5106,anger
+6227,7289,Singapore is lucky to have very responsible and responsive leaders who care for their citizens.,2/2/2020,0.29666666666666663,0.7741666666666667,0.0,0.492,0.508,0.8849,anger
+6237,7299,I was quite angry with her attitude n also  the price.,2/2/2020,-0.5,1.0,0.31,0.69,0.0,-0.5563,anger
+6240,7302,"After the call, she told me the clinic has no enough stock  to sell to me.",2/2/2020,0.0,0.5,0.128,0.872,0.0,-0.296,anger
+6250,7313,"Dear PM Lee Sir, I my humble opinion, to really prevent and reduce the risk of any possible virus spread, I will strongly suggest to enforce that everyone in singapore to wear mask for 2 weeks to 1 month instead.",2/2/2020,0.10833333333333332,0.5833333333333334,0.052,0.796,0.152,0.4576,anger
+6254,7317,"So , Singaporeans/ be4 you complain about the Government, take a look around you- this is one of the many things the SG government has done for citizens.",3/2/2020,0.5,0.5,0.091,0.909,0.0,-0.3612,anger
+6277,7341,"That way, residents can simply go down stairs at their own convenience, open their locked mailboxes and get the package.",2/2/2020,0.14814814814814814,0.5962962962962963,0.0,1.0,0.0,0.0,anger
+6301,7367,"The Ministry of Health (MOH) on Saturday (Feb 1) confirmed two additional imported cases of the Wuhan coronavirus, bringing the total to 18 cases.",2/2/2020,0.2,0.875,0.0,1.0,0.0,0.0,anger
+6312,7379,"But leave no one behind cos they're one of us, sick or healthy.",31/1/20,-0.20476190476190478,0.6857142857142856,0.364,0.489,0.147,-0.4588,anger
+6313,7380,Mr Lee thank u for effort to keep spore clean and all doctors n nurses work round the clock to treat the patients.,31/1/20,0.08333333333333334,0.55,0.0,0.695,0.305,0.7845,anger
+6337,7405,"We went to ICA very early this morning to try to find out if any kind of appeal was possible, and the answer was no.",31/1/20,0.24333333333333332,0.7633333333333333,0.084,0.916,0.0,-0.296,anger
+6349,7417,"Now, with this announcement, it is a sheer slap in his own face.",31/1/20,0.3,0.875,0.0,0.873,0.127,0.1531,anger
+6361,7429,"Imagine the huge time savings ,and getting the task done so quickly and efficiently , compared to getting millions of people to spend hours going to RC centres and community centres to Q up ,and having hundreds of thousands people infecting each other with viruses .",1/2/2020,0.2027777777777778,0.5916666666666667,0.0,0.886,0.114,0.6444,anger
+6367,7436,We appreciate the gesture and efforts .. however won’t it be more effective if these masks were be mailed out to individual households instead of having someone to collect ?,30/1/20,0.3666666666666667,0.5666666666666668,0.0,0.816,0.184,0.7264,anger
+6368,7437,Firstly the mobilisation of manpower and logistics be massive and expensive considering the suddenness of the demand ...!,30/1/20,-0.125,0.6777777777777777,0.095,0.905,0.0,-0.2003,anger
+6375,7445,We asked for one mask as we did not have any and were unable to get any.,31/1/20,-0.5,0.5,0.0,1.0,0.0,0.0,anger
+6377,7447,"We were not asking to buy a whole box, just ONE mask for the sick patient.",31/1/20,-0.2571428571428571,0.6285714285714286,0.191,0.809,0.0,-0.5106,anger
+6379,7449,I find this practice highly illogical especially in such times given that patients who are unwell should be wearing masks and yet the clinic in question is not able to provide.,31/1/20,-0.03,0.7216666666666667,0.0,1.0,0.0,0.0,anger
+6395,7465,"I have 3 kids and everywhere else is still out of stock, only the unscrupulous ones are selling them unchecked.",30/1/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+6415,7488,"BUT to avoid getting the virus from the sick who is not wearing mask, it’s still safer better for us to wear mask if one understand well the whole picture.",31/1/20,-0.004761904761904763,0.5857142857142857,0.171,0.589,0.24,0.4497,anger
+6416,7489,"In Singapore, even in this sensitive time, it is still common to see people with coughs and running nose not wearing mask because most of us don’t have the habit of wearing mask when they having flu cough running nose.",31/1/20,0.10000000000000002,0.6333333333333333,0.062,0.938,0.0,-0.3818,anger
+6421,7494,Just sharing my opinion and hope it can help the government to do more better for the people 🙏 ❤️Peace and Love to ALL❤️,31/1/20,0.5,0.5333333333333333,0.0,0.533,0.467,0.9412,anger
+6428,7501,Some households have more people than others.,30/1/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+6437,7510,"Thank you for the free masks, however self collection at CC would really inconvenience for many, why don’t just mail to every households instead.",30/1/20,0.3666666666666667,0.5,0.094,0.71,0.196,0.4601,anger
+6443,7516,"I am not sure if the SAF, PA and other agencies handling the distribution of masks are also considered ""front-line"" people such as those working in the healthcare sector.",30/1/20,-0.125,0.5879629629629629,0.068,0.932,0.0,-0.2411,anger
+6445,7518,5 million masks have been distributed and yet it is still out of stock for most of the retail shops.,30/1/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+6455,7528,Because you care If you didn't give any masks even then they were fine People are selling these it means they stocked it and something should be done for this.,30/1/20,0.4166666666666667,0.5,0.0,0.848,0.152,0.6124,anger
+6463,7536,Fair to all people.,31/1/20,0.7,0.9,0.0,0.566,0.434,0.3182,anger
+6468,7541,Can a campaign to help the sick get mask eg.,30/1/20,-0.7142857142857143,0.8571428571428571,0.254,0.538,0.208,-0.1531,anger
+6470,7543,"During this period, can a law/practice of compulsory masking for those who are sick be implemented (else penalized) so tt the rest of community can be at ease without using mask and to deter both unnecessary shortage of masks and tightly control possible spreading when the entire community goes about day to day.",30/1/20,-0.25857142857142856,0.7335714285714285,0.093,0.863,0.044,-0.4215,anger
+6481,7554,Does it mean some irresponsible people bought and mark up for sale?,3/2/2020,-0.3125,0.6875,0.209,0.791,0.0,-0.4404,anger
+6482,7555,Think government should investigate and take action instead of advise only.,3/2/2020,0.05,0.55,0.0,1.0,0.0,0.0,anger
+6500,7573,That basically makes it difficult for others to differentiate them from healthy people.,30/1/20,0.0,0.75,0.154,0.679,0.167,0.0516,anger
+6501,7574,Perhaps this is one of the reasons why the virus can spread so fast in Wuhan.,30/1/20,0.2,0.6,0.0,1.0,0.0,0.0,anger
+6503,7576,"However, whoever has the mask now should be advised to wear it especially when in crowded places.",30/1/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+6512,7585,They have escaped the travel lockdown  It only makes sense to align our travel lockdown with that of the major provinces and cities in China.,28/1/20,0.03125,0.75,0.0,1.0,0.0,0.0,anger
+6519,7592,"As for advices regarding how healthy people shouldnt wear masks, isnt it sending wrong signal?",28/1/20,0.0,0.7,0.0,0.712,0.288,0.6433,anger
+6523,7596,Perhaps a national body could be responsible for dispensing masks of the right quality at a fair price ... and not allow pharmacies and other retailers to profit from this situation.,28/1/20,0.26517857142857143,0.5901785714285714,0.049,0.732,0.22,0.7035,anger
+6525,7598,Many are forced to shop online and pay outrageous prices because supplies of masks have become scarce and retailers have jacked up prices.,28/1/20,-0.26666666666666666,0.5666666666666667,0.27,0.73,0.0,-0.7506,anger
+6530,7603,These people may just go to school because they don’t want to be behind schedule.,28/1/20,-0.4,0.7,0.0,0.915,0.085,0.0772,anger
+6564,7640,Please listen to our plea for stringent restriction on china visitors especially during this critical period as all of the confirmed cases are imported directly from wuhan!,28/1/20,0.13125,0.7999999999999999,0.169,0.758,0.073,-0.4672,anger
+6581,7659,"For the part on the ‘you do not have to wear a mask if you are not ill’, since there’s now a possibility that it can spread before symptoms show, isn’t it very dangerous not to wear mask when you aren’t showing symptoms?",28/1/20,-0.265,1.0,0.078,0.922,0.0,-0.5256,anger
+6584,7662,"Dear PM Lee, as the food courts are popular in Singapore, please ensure that all such place are equipped with soap and sanitizers dispensers.",29/1/20,0.3,0.7,0.0,0.66,0.34,0.8519,anger
+6586,7664,It should be part of health inspectors regular checks especially now.,29/1/20,0.0,0.5384615384615384,0.0,1.0,0.0,0.0,anger
+6590,7668,Because all the confirmed Coronavirus cases are  imported.,30/1/20,0.4,1.0,0.0,1.0,0.0,0.0,anger
+6615,7693,"Sir, some comments made by your officials such as "" not as serious as SARS"" leaves us quite dumbfounded.",29/1/20,-0.16666666666666666,0.5833333333333333,0.144,0.795,0.061,-0.3962,anger
+6630,7709,"But I still sincerely hope that: 1) extend school holiday, but encourage home based or e-learning for students 2) encourage everyone to wear masks at public area (this is to prevent virus to transmit to people; if you encourage people ONLY wear masks when they are sick, it is only to prevent the sick one to infect others, its effectiveness varies by individuals’ compliance)  3) please STOP ALL PUBLIC ACTIVITIES, public health is far more important than fun/celebration/etc.",30/1/20,0.0064935064935064905,0.6285714285714286,0.123,0.604,0.273,0.8919,anger
+6637,7717,"My apologies sir, looking at the latest case in Japan, the bus driver who got infected by the passengers, is it really not necessary to wear a mask?",28/1/20,0.25,0.95,0.11,0.89,0.0,-0.4939,anger
+6640,7721,"PM, MOE should consider to give parents the option to have their kids home based study during this critical period.",28/1/20,0.0,0.8,0.121,0.879,0.0,-0.3869,anger
+6648,7729,"Dear PM Lee, HK with 7.3 million people with 5 confirmed cases on 25 Jan has declared an emergency, shutting down schools until 17 Feb.  Today, we have 7 confirmed cases.",29/1/20,0.21481481481481482,0.762962962962963,0.081,0.839,0.081,0.0,anger
+6672,7754,"If we are more prepared, wouldn't the govt stop immediate influx of China tourists on 15 Jan instead of waiting till tomorrow dateline of 29 Jan?",28/1/20,0.5,0.5,0.0,0.855,0.145,0.4733,anger
+6678,7761,"Sir, how or what actions are we implementing or prepared ourselves for local transmission or community spread when the symptom only showed up after 14 days?",29/1/20,0.0,0.5,0.0,0.929,0.071,0.2263,anger
+6706,7789,"Didn't we all hear of this saying  ""prevention is better than cure""?",29/1/20,0.5,0.5,0.0,0.791,0.209,0.4404,anger
+6723,7807,Wear a mask if you are sick but also wear a mask if you’re more prone to sickness too.,29/1/20,-0.10714285714285715,0.6785714285714286,0.118,0.882,0.0,-0.2846,anger
+6737,7822,So as our own people that are travelling out.,30/1/20,0.6,1.0,0.0,1.0,0.0,0.0,anger
+6740,7825,"By the time he is confirmed contracted, his family members or friends were had in contact with him.",30/1/20,0.4,1.0,0.0,0.846,0.154,0.4767,anger
+6744,7829,This is a sensitive period whereby everyone is paranoid about viruses.Can MOE reminded to teachers and admin staffs that whatever paperworks they should be done at home/ schools instead at crowded places.,28/1/20,0.1,0.9,0.062,0.938,0.0,-0.25,anger
+6779,7864,They will be travelling all over Singapore for various activities.,28/1/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+6789,7874,"N it's hard for them to wear mask all the time esp during pe, recess time",29/1/20,-0.2916666666666667,0.5416666666666666,0.091,0.909,0.0,-0.1027,anger
+6798,7883,"It is very unfair to the Taxi , grab driver.",28/1/20,-0.65,1.0,0.298,0.702,0.0,-0.5256,anger
+6828,7915,Keep everybody safe and hope that this will end soon with everyone doing their part.,30/1/20,0.5,0.5,0.0,0.691,0.309,0.7003,anger
+6830,7917,"Dear PM Lee, I wondered why government don't want to encourge people who live in Singapore wear masks?",29/1/20,0.13636363636363635,0.5,0.065,0.797,0.138,0.3352,anger
+6832,7919,It's really really dangerous to our kids.,29/1/20,-0.6,0.9,0.38,0.62,0.0,-0.5678,anger
+6849,7936,We have no idea who were so lucky to have catch their virus.,28/1/20,0.3333333333333333,0.8333333333333334,0.131,0.654,0.215,0.3434,anger
+6851,7938,"We should be looking to keep it out, and not welcome it by saying that we are prepared to receive it.",28/1/20,-0.4,0.9,0.106,0.813,0.081,-0.1481,anger
+6855,7942,"I saw unity staff keeping musk for themselves.. what control have put in place .. you want me to be calm, can sell me the musk immediately",28/1/20,0.30000000000000004,0.75,0.0,0.87,0.13,0.3818,anger
+6876,7964,Got to act fast as these are places where people all squeeze together.,28/1/20,0.2,0.6,0.0,1.0,0.0,0.0,anger
+6878,7966,"Ideally, those who are sick should be wearing a mask.",28/1/20,0.09285714285714286,0.9285714285714286,0.252,0.534,0.214,-0.128,anger
+6880,7968,That’s why people who are not sick wear masks instead.,28/1/20,0.35714285714285715,0.8571428571428571,0.0,0.769,0.231,0.4023,anger
+6895,7983,"So the advice that there is no need to wear a mask if generally well, is not the right advice because we may be well but there  are  others who have no qualms spreading their germs.",28/1/20,0.16785714285714287,0.5178571428571428,0.114,0.805,0.081,-0.3182,anger
+6927,8015,You are also being socially responsible for others by doing so during this outbreak.,29/1/20,0.2,0.55,0.0,0.85,0.15,0.3182,anger
+6932,8022,"When not well, they then went to the various clinics in shopping mall.",28/1/20,0.0,0.5,0.131,0.869,0.0,-0.2057,anger
+6939,8032,"Good to have stringent enforcement but people will still make noise,”I can’t do this,do that”",29/1/20,0.7,0.6000000000000001,0.0,0.878,0.122,0.2382,anger
+6948,8041,Maybe all these tourists/residents/travellers/workers should be 1st sent to all the ministers' home meet with the ministers' and their family members and only then should they be allowed to roam the city.,29/1/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+6949,8042,We will be more confident with the government's words that way..,29/1/20,0.5,0.6666666666666667,0.0,0.741,0.259,0.5413,anger
+6968,8063,"Sir, not only Mask went out of stock, Sanitizer as well!",28/1/20,0.0,1.0,0.0,0.807,0.193,0.3382,anger
+7009,8105,You wear a mask only when you're unwell?,29/1/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+7013,8109,Pretty sure they will only start wearing if the government tells them to and emphasize the severity of the situation.,29/1/20,0.25,0.9629629629629629,0.0,0.766,0.234,0.6705,anger
+7015,8111,"If you want to convince us that its not a severe case yet for us all to be wearing mask, then show us some scientific proof that we're safe without doing so.",29/1/20,0.5,0.5,0.0,0.763,0.237,0.7494,anger
+7030,8126,"We are not against them, but we are trying protect ourselves, our own people in SG..Also, even though no SG people got it, but who can guarantee will not happen?",28/1/20,0.6,1.0,0.078,0.756,0.165,0.4767,anger
+7039,8135,"Dear Pm Lee, Since our border control has the records of those from Wuhan, would it be better for authorities to be pro active by tracing them to the place where they reside and take the necessary actions.",29/1/20,0.12222222222222223,0.7000000000000001,0.0,0.81,0.19,0.802,anger
+7044,8140,I don’t understand why the government and ministers kept telling those not sick don’t need mask.,29/1/20,0.35714285714285715,0.8571428571428571,0.0,0.838,0.162,0.4023,anger
+7045,8141,This statement is very wrong for this Wuhan Virus as it spreads before it shows symptoms.,29/1/20,-0.65,1.0,0.184,0.816,0.0,-0.5256,anger
+7061,8158,It takes all to do their resposibility not to totally hopeless n depend on the leader alone to solve the problem.,29/1/20,0.0,0.75,0.187,0.635,0.178,-0.0524,anger
+7068,8165,A very good evening to you!PM Lee N everybody at Parliament Just a simple feedback to all of you Currently i am working at Oasis Terrace.i was just purchading a  bottle of handwash liquid at the ntuc located there .i was really shocked n stunned at the long queues there bcos of this Wuhan Virus issue.,28/1/20,0.031999999999999994,0.5474285714285714,0.083,0.858,0.058,-0.0952,anger
+7069,8166,I noticed a a lot ot rather chaotic confusion among the customers who were in the queue bcos  at times we also were confused who was next in the queue bcos everybody just queued up.for myself personally i ever worked at Cold Storage before there is an express counter 4 customers w a limit of maximum 4 items or lesser.this way will save up a lot of time for many customers especially at a moment like this.besides i was surprised even the ntuc staff were not aware of the quantity restriction stated by every mart A purchase of 2 items Supposing sanitary snti bacteria wet wipes.i met w this issue last week.the pt rimers were not aware of this matter.certain customers did not know either.it is a kind of miscommunication btween staffs,28/1/20,-0.012500000000000002,0.5222222222222223,0.077,0.862,0.062,-0.235,anger
+7074,8171,"Its the Gov resp to ensure there are enough mask for sale , not by giving us 4 and telling is job is done",28/1/20,0.0,0.5,0.083,0.812,0.106,0.1441,anger
+7084,8182,All that i said is so done in Singapore anyhow sparkling clean !,31/1/20,0.45833333333333337,0.7000000000000001,0.0,0.634,0.366,0.636,anger
+7090,8188,These 2 cities are not locked down and the China government most likely will not lock down these 2 cities .,28/1/20,0.047222222222222214,0.5194444444444445,0.0,1.0,0.0,0.0,anger
+7120,8219,We know your addressed the general  masses as 'fellow Singaporeans' but CCS called us idiots.,28/1/20,-0.375,0.65,0.0,1.0,0.0,0.0,anger
+7139,8239,Many foreigners and Singaporeans will be attending this event together.,28/1/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+7145,8245,"You, your leaders and many are working very hard to help manage and contain the situation.",28/1/20,0.060416666666666646,0.6020833333333333,0.091,0.75,0.159,0.3117,anger
+7149,8249,So why did we still allow them to enter Singapore and freely move about.,28/1/20,0.4,0.8,0.0,0.714,0.286,0.5859,anger
+7157,8257,The schools and companies are already stepping up measures and asking those who have been to China or been in close contact with such ;  to stay away from their premises .,28/1/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+7169,8269,That's not enough because the virus has already spread beyond residents of Hubei province to people in major cities in China like Beijing and Shanghai.,28/1/20,0.03125,0.5,0.0,0.906,0.094,0.3612,anger
+7216,8317,Pls encourage more companies to allow their employees work from home,30/1/20,0.5,0.5,0.0,0.542,0.458,0.6969,anger
+7232,8333,A very important point to note is that recovery rate from the disease is very low too.,28/1/20,0.26,0.6950000000000001,0.129,0.757,0.113,-0.0772,anger
+7235,8336,"As it is believed that the virus is potent even during the incubation period, which stretches from 2 days to 14 days, there's no way of telling if we already have carriers walking around without showing any symptoms.",28/1/20,0.5,0.5,0.058,0.942,0.0,-0.296,anger
+7249,8352,I strongly recommend that the government work to Ensure a strong supply of masks.,28/1/20,0.4333333333333333,0.7333333333333333,0.0,0.432,0.568,0.8591,anger
+7254,8358,3 questions come to mind - Why only Hubei and not Whole of China?,28/1/20,-0.05,0.7,0.0,1.0,0.0,0.0,anger
+7263,8367,"And it seems to many Singaporeans at this juncture, that this responsibility is not being carried out well.",28/1/20,0.5,0.5,0.0,0.89,0.11,0.2732,anger
+7273,8378,And their confirmed cases is lesser than ours.,29/1/20,0.2,0.75,0.0,1.0,0.0,0.0,anger
+7286,8391,This virus situation is getting serious.,28/1/20,-0.3333333333333333,0.6666666666666666,0.206,0.794,0.0,-0.0772,anger
+7291,8396,Is SG that worthless as to no SGporean more to employ and only dependable on FT??,28/1/20,-0.10000000000000002,0.7999999999999999,0.281,0.719,0.0,-0.6662,anger
+7294,8400,Who are the vulnerable ones to catch this virus?,29/1/20,-0.5,0.5,0.192,0.808,0.0,-0.2263,anger
+7299,8405,What more our public transport has been shared by these 7 confirmed cases?,29/1/20,0.3,0.5222222222222223,0.0,0.821,0.179,0.34,anger
+7303,8409,Showing photos of warehouse stock full of face masks only add to our frustration as many people were trying to just get hold of some for themselves and their family.,28/1/20,0.2833333333333333,0.6833333333333332,0.097,0.903,0.0,-0.4767,anger
+7304,8410,I believe most of us are civic-minded and will not buy in bulk so that everyone has the chance to get their hands on the masks.,28/1/20,0.5,0.5,0.0,0.923,0.077,0.25,anger
+7307,8413,But you just need one irresponsible person to sneeze and cough in public without covering and people surrounding this person would be affected (especially now where most of us could not even get any masks - how to protect oneself then?).,28/1/20,0.16666666666666666,0.5222222222222223,0.102,0.839,0.059,-0.2263,anger
+7308,8414,"As such, masks should be available to all households during this critical period.",28/1/20,0.13333333333333333,0.5666666666666668,0.179,0.821,0.0,-0.3869,anger
+7317,8423,This is to verify how many people are staying in the house by verifying the address.,28/1/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+7335,8441,A most effective way to contain the current situation in my opinion but only came way too late; with the slightest consolation is that it’s better late than never.,28/1/20,0.14285714285714285,0.6285714285714287,0.0,0.811,0.189,0.7224,anger
+7337,8443,"Even so, with 10 confirmed cases thus far, it isn’t even reflecting good anyway.",28/1/20,0.39999999999999997,0.8666666666666667,0.0,0.818,0.182,0.4404,anger
+7339,8445,"Put that into percentage against geographic and/or population size, we are undoubtedly ranked No.1 in terms of confirmed cases as of this moment.",28/1/20,0.4,1.0,0.0,1.0,0.0,0.0,anger
+7342,8448,This approach came late because the government have over estimated their abilities to contain the situation at the earlier stage.,28/1/20,-0.15,0.55,0.0,0.905,0.095,0.25,anger
+7348,8454,"And though it’s nothing wrong to do some good deeds in times like this where we have donated 120,000 masks to Wuhan but why are our people needing to wait long in queues to buy masks, and some shops even jack up the prices and nothing is done to improve the situation here?",28/1/20,0.04999999999999999,0.6333333333333333,0.0,0.84,0.16,0.8088,anger
+7350,8456,Surely we have more than enough in our surplus to give out masks to the public especially in times like this and the reason couldn’t have been more valid.,28/1/20,0.25,0.575925925925926,0.0,0.827,0.173,0.6872,anger
+7352,8458,I don’t need mask and carry on with my lives as normal.,28/1/20,0.15,0.6499999999999999,0.0,1.0,0.0,0.0,anger
+7371,8477,I’m keeping my kids at home especially one is down with sore throat and I don’t want him to spread bacteria nor catch more bugs.,28/1/20,0.11481481481481481,0.5962962962962963,0.097,0.853,0.05,-0.296,anger
+7385,8493,"And BTW, people predominantly wear masks not to stop spreading own’s disease to others, but they wear them because they want to be kiasu so that they will not catch the virus from others!",28/1/20,0.75,1.0,0.0,0.909,0.091,0.2928,anger
+7407,8515,If you're already sick you shouldn't be going out with a face mask in the first place but go to the hospital instead.,28/1/20,-0.23214285714285715,0.5952380952380952,0.093,0.907,0.0,-0.2846,anger
+7425,8533,"Just a suggestion, maybe can consider rolling out the swab testing and  making it compulsory instead of optional to all the retailers and their employees so as to pick up any cases since many people are going out to shop.thank you.",23/1/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+7433,8541,People listen to you because they love you too.,24/1/21,0.5,0.6,0.0,0.656,0.344,0.6369,anger
+7468,8576,There's not enough posters reminding people about this and it can also empower others to tell people to shut up for safety reason.,23/1/21,0.0,0.5,0.0,0.887,0.113,0.4215,anger
+7470,8578,"Lately, most people hv become quite complacent and lax & seem to be flouting rules openly.",23/1/21,0.25,0.5,0.102,0.898,0.0,-0.1513,anger
+7481,8589,Unfortunately it's an advice not a rule for visiting family members only...,26/1/21,-0.25,1.0,0.194,0.806,0.0,-0.34,anger
+7482,8590,I know many people already planning to hold food and drinking gatherings for different groups of 8 friends on different days....,26/1/21,0.16666666666666666,0.5666666666666668,0.0,0.853,0.147,0.4767,anger
+7485,8593,We should not let our guards down and avoid pitfalls experienced by some of the other nations .,25/1/21,0.17314814814814816,0.5212962962962963,0.121,0.879,0.0,-0.296,anger
+7495,8604,btw how many will actually follow the new rules next Tues 🙄  sure have some ignored it and happily celebrate and then wait for cases to spike both in community or imported ones...  maybe they will regret their decisions after CNY but the rest of us whom follow will suffer for their actions...   enforcement actions going to be difficult since there are quite many places with limited nos.,24/1/21,0.2072150072150072,0.5095879429212763,0.176,0.745,0.08,-0.8225,anger
+7527,8643,While we can impose more restriction I find many people don’t take things seriously.,24/1/21,0.22222222222222224,0.5555555555555555,0.386,0.614,0.0,-0.6478,anger
+7528,8644,I have seen people entering NTUC and Cold Storage supermarmet and other retail outlets using their palm for temperature check instead of their forehead.,24/1/21,-0.3625,0.6875,0.0,1.0,0.0,0.0,anger
+7565,8682,"At the wet markets, stall owners are not wearing masks and shouting (as loud as lohei).",9/2/21,0.0,0.6000000000000001,0.107,0.893,0.0,-0.2023,anger
+7573,8690,"It will be impossible to track or trace infected persons all the sacrifice people, families, buisness, government did will be vanished.",6/6/20,-0.6666666666666666,1.0,0.138,0.862,0.0,-0.4939,anger
+7579,8697,I mean a person can hold a water bottle and be without mask for whole day.,21/1/21,-0.056249999999999994,0.54375,0.0,1.0,0.0,0.0,anger
+7587,8705,Some malls are so brightly lit with such cheery music to draw crowds.,2/6/20,0.4666666666666666,0.7666666666666666,0.0,0.617,0.383,0.7809,anger
+7593,8711,Enough had been said by many people on the importance of mask wearing for someone exercise in an open space.!,21/4/20,0.16666666666666666,0.5,0.0,0.872,0.128,0.4199,anger
+7596,8714,We are a paying a huge price for your underestimation of severity of the outbreak!,21/4/20,0.5000000000000001,0.9,0.0,0.822,0.178,0.3802,anger
+7640,8760,"BUT bear in mind, once the community spread get out of control, from a thousand can easily shoot up to tens of thousands.",6/4/20,0.43333333333333335,0.8333333333333334,0.118,0.763,0.118,0.0,anger
+7653,8773,"On how widespread the Wuhan coronavirus is likely to be, Dr Ang said current literature suggests that even people who are exposed to the virus do not necessarily get infected.“It probably isn’t that infectious, (even though) people are wearing surgical masks all over the place.” (UNQUOTE).",6/4/20,0.0,0.7999999999999999,0.028,0.972,0.0,-0.0772,anger
+7671,8791,"Time is crucial, we can’t afford to wait for symptoms to show up then have patients present themselves at the hospital.",24/3/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+7675,8795,“Wear one only when you’re sick” is not medically correct at this point in time.,24/3/20,-0.2380952380952381,0.6190476190476191,0.0,1.0,0.0,0.0,anger
+7679,8799,"When everyone wears one, it doesn’t matter if one’s quality is better than another.",24/3/20,0.5,0.5,0.0,0.75,0.25,0.4588,anger
+7682,8802,"But to tell people that healthy people don’t need to wear one is just plain wrong, pardon me for saying.",24/3/20,-0.07142857142857144,0.5857142857142857,0.124,0.677,0.199,0.2263,anger
+7700,8822,Government should be more alert and tell people to put on mask and school children should be protected.,6/2/20,0.5,0.5,0.0,0.748,0.252,0.659,anger
+7711,8834,"""Govt gonna track us and steal our data using tracetogether lehh"" Its only asking you to on your fuking bluetooth.",21/10/20,0.0,1.0,0.291,0.709,0.0,-0.8126,anger
+7723,8846,Year 2020 has been painful & wasteful due to the madness of the Wuhan Virus / Covid-19 creators 😑.,28/9/20,-0.4125,0.6375,0.279,0.721,0.0,-0.7003,anger
+7731,8854,Which idiot approved this?,2/6/20,-0.8,0.8,0.407,0.247,0.346,-0.128,anger
+7740,8863,Cus they don’t have enough masks for everyone then.,4/4/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+7741,8864,they only ask sick ppl to wear mask so to prevent spreading of virus and not protect healthy ppl from getting the virus,4/4/20,-0.07142857142857144,0.7857142857142857,0.275,0.676,0.049,-0.7479,anger
+7750,8873,They should have acted faster and STRICTER way earlier.,17/2/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+7752,8875,Also should be strict in swooping down on people peddling mask at many times the original price.,17/2/20,0.23981481481481481,0.512962962962963,0.0,0.874,0.126,0.3182,anger
+7775,8899,Make sure the people you send to also forward the rumour.,9/2/20,0.5,0.8888888888888888,0.0,0.813,0.187,0.3182,anger
+7781,8905,I have to wear a mask in normal times - especially during the first and fifteenth of the lunar months ... cos of all the burnings ... sigh ...,9/2/20,0.13333333333333333,0.6611111111111111,0.0,0.958,0.042,0.0258,anger
+7783,8907,"And as a teacher, I have students with very very POOR hygiene etiquette (I have reminded them ENDLESS TIMES but they either forget or can’t be bothered or are too young) - these kids would COUGH, SNEEZE OR BOOGER (as in they take out their boogers and put under my nose or pull out strings of mucus) ... As I am a teacher at an enrichment centre, parents are quite kiasu - as in, they will still try to ‘slip in’ their kid into the class, EVEN THOUGH the kid is coughing or sneezing or not feeling very well!!",9/2/20,-0.05812500000000001,0.5575,0.126,0.874,0.0,-0.8931,anger
+7788,8912,"Which of course increases the risk of the rich themselves also getting the virus, the poor people who are angry at the rich intentionally finding ways to spread the virus to them out of revenge and an economic depression.",9/2/20,0.009999999999999998,0.66,0.285,0.584,0.131,-0.8126,anger
+7801,8925,I thought they were planning on doing some graffiti protest or aquatint like crazy those printmaking plates.,29/1/20,-0.6,0.9,0.221,0.653,0.126,-0.2263,anger
+7804,8929,"Yes, alot of people got families to feed n sick relatives' well being to worry about....so for people out there who harbour thoughts of breaking rules n regulations regarding safe distancing n wearing of masks n catching up with frens of more than 8...do spare a thought for the weak n vulnerable n dont passed insulting comments on social media tat people who don't break the rules n regulations to meet frens are people tat have NO frens to meet!",31/12/20,-0.11845238095238096,0.6186011904761904,0.162,0.72,0.118,-0.599,anger
+7805,8930,!...is bcos they have frens n families tat they love n treasure ..tats one of the reasons tat these people don't want to break the rules n regulations n put their loved ones at risks...n people who refrain from breaking rules n regulations also do not want to affect other people livelihoods bcos they understand tat alot of people need their jobs so tat they can put food on their tables for their families n loved ones...so please be thoughtful n considerate during such challenging n trying times...Thank you.,31/12/20,0.3821428571428571,0.6535714285714286,0.025,0.713,0.263,0.9731,anger
+7811,8936,"Tired or not, gov says must wear a mask, have to wear.",16/8/20,-0.4,0.7,0.225,0.775,0.0,-0.4404,anger
+7814,8939,Mask not going to stop the virus and it is just a tool for....not typing any further than this.😊😊😊😊,16/8/20,0.0,0.5,0.0,0.9,0.1,0.2235,anger
+7819,8944,"I do agree that it's tough to wear a mask, especially when you need to talk the whole day, It's really tiring.",16/8/20,0.002777777777777782,0.6083333333333334,0.068,0.818,0.114,0.25,anger
+7822,8947,Especially for us to wear a mask.,16/8/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+7823,8948,"Just look at other countries who don't do that, the amount of death rate is so high and scary.",16/8/20,-0.155,0.6383333333333333,0.302,0.698,0.0,-0.8107,anger
+7830,8955,I seriously don’t see how a face shield without a face mask can protect others .,28/5/20,-0.3333333333333333,0.6666666666666666,0.119,0.699,0.182,0.2263,anger
+7833,8958,This is as good as not wearing mask at all.,28/5/20,0.7,0.6000000000000001,0.0,0.756,0.244,0.4404,anger
+7842,8967,We definitely can’t just use one washable mask all the time.,14/4/20,0.0,0.5,0.0,0.787,0.213,0.4019,anger
+7876,9001,What’s funny is the fact that people still gonna use this opportunity to flex their nape masks 🎭 😂🤡,28/1/20,0.25,1.0,0.0,0.722,0.278,0.7311,anger
+7878,9003,that’s really selfish for those who can’t afford to purchase the masks at those prices and those who don’t want to get the masks at those prices will be lacking of them and at even higher risk of getting infected and passing it on to others .,28/1/20,-0.125,0.75,0.167,0.808,0.025,-0.8122,anger
+7883,9008,"But out of consideration for others n to play our part in controlling the virus, we do our best to obey the rules n regulations so tat everyone can remain safe n stay healthy....so please before u do something like gathers in 10s n 12s..pls pls spare a thought for innocent n vulnerable people who can die from complications from the virus...we are lucky so far bcos we all fellow Singaporeans cooperate n maintain safe distancing n wear masks...so pls stop all your foolish n selfish behaviour...",22/12/20,0.2416666666666667,0.6666666666666667,0.132,0.619,0.25,0.8689,anger
+7896,9021,If we are ALL supposed to wear a mask the moment we step out of our homes even if only it is just to go down to check the letter box for letters then how can we be so easily  infected just cos pple at the block are infected?,3/7/20,0.0925925925925926,0.7074074074074074,0.173,0.772,0.055,-0.7744,anger
+7905,9030,My anaphylactic allergic reaction had worst symptoms than COVID 19.,5/4/20,-1.0,1.0,0.441,0.559,0.0,-0.743,anger
+7925,9061,It is the wrong treatment methods that kill the infected people and trigger viral mutations!,3/4/20,-0.625,0.9,0.485,0.515,0.0,-0.906,anger
+7936,9076,Thiese wrong recommendations by WHO have proven ineffective as more people despite following the using instructions get infected.,20/3/20,0.0,0.5,0.342,0.658,0.0,-0.7783,anger
+7951,9105,It all depends on the people how they behave themselves and how they be became to be careful remember to wear mask wash hand sanitizer hands .they are some people that has no self awareness they will not be bothered to wear mask at all than they walk in the park taking to friend without wearing a mask at all  specially school children they will cycle with friend without having a mask on,11/12/20,0.12857142857142856,0.7857142857142857,0.027,0.809,0.164,0.8739,anger
+7961,9115,"Even if I have successfully put on the mask for him, he will try to remove it.",20/5/20,0.75,0.95,0.0,0.824,0.176,0.4939,anger
+7969,9123,"> Lohei practices
+
+> Regarding dining out, the MTF said that face masks must not only be worn during the tossing of yusheng, but lohei should also be done without any verbalisation of auspicious phrases.",22/1/21,0.0,1.0,0.0,0.957,0.043,0.1139,anger
+7986,9140,She was not getting arrested only for not wearing a mask.,4/11/20,0.0,1.0,0.0,0.779,0.221,0.3724,anger
+7995,9149,Then while she was being lead out the officers kept her bag in her view the entire time.,4/11/20,0.0,0.625,0.0,1.0,0.0,0.0,anger
+7997,9151,Damn good police training.,4/11/20,0.7,0.6000000000000001,0.355,0.263,0.382,0.0516,anger
+8012,9166,"Honestly don’t care how “facist” this may seem, run this up it’s clearly the only way some people will listen as well as actually curbing the pandemic.",4/11/20,0.175,0.5958333333333333,0.0,0.676,0.324,0.875,anger
+8014,9168,"You will still get fined ($300) and possibly face jail time (for repeat offenses) for not wearing a mask in public here, but you would most likely not get arrested in such a manner.",4/11/20,0.06666666666666667,0.5111111111111111,0.0,0.903,0.097,0.5157,anger
+8022,9177,"While there were many shortcomings in the way the government handled the outbreak, they’ve also done pretty well to protect us.",4/11/20,0.375,0.75,0.0,0.695,0.305,0.7845,anger
+8036,9191,This was also not about masks it was because she threw soup at someone jesus I made so many mistakes how will I live with myself.,4/11/20,0.3181818181818182,0.5,0.108,0.892,0.0,-0.4173,anger
+8047,9202,"Whenever I see videos online of peolle in other countries not wearing masks, I'm just confused why such a simple and minute task is so difficult and people actually protest not to wear masks.",4/11/20,-0.1708333333333333,0.5053571428571428,0.206,0.794,0.0,-0.7609,anger
+8053,9208,I'll be honest I only know a few people who got bad cases of it but I wouldn't want to risk that.,4/11/20,-0.07499999999999997,0.6666666666666666,0.156,0.653,0.19,0.1994,anger
+8057,9212,"If I had a mask on and the cops said ""cover your nose"", I'd do that.. because I know it's stupid to wear one without covering my face holes.",4/11/20,-0.7999999999999999,1.0,0.12,0.88,0.0,-0.5267,anger
+8074,9229,If you aren't going to be honest in this discussion then there's some point in continuing this.,4/11/20,0.6,0.9,0.0,0.829,0.171,0.5106,anger
+8077,9232,There are some xenophobic people around don't worry :) I apologize on behalf of him!,17/12/20,0.625,1.0,0.233,0.63,0.138,-0.1685,anger
+8089,9244,"Trust me, I wanted to kick him off his bicycle right atm.",17/12/20,0.2857142857142857,0.5357142857142857,0.0,0.752,0.248,0.5106,anger
+8106,9261,"I'm going to assume that somehow you look non-Singaporean, and you were treated unfairly thus - I'm saddened that this happened to you; There are a few people among us all who are xenophobic, racist, or just plain unpleasant, and it's really people like that whom give us a bad name and spoil the nice things for everyone.",18/12/20,-0.2091836734693877,0.6105442176870748,0.204,0.715,0.081,-0.8563,anger
+8109,9264,This kind of incident makes me angry.,17/12/20,0.04999999999999999,0.95,0.355,0.645,0.0,-0.5106,anger
+8117,9272,"As soon as that group of drinkers in Robertson Quay were caught, which was stupid and selfish behaviour for which I agree with the punishment, it led to a trend for groups of older Singaporeans to hang out by the river and take our pictures on the off chance that we were up to no good.",18/12/20,-0.37083333333333324,0.7333333333333334,0.179,0.709,0.112,-0.6705,anger
+8118,9273,This is the most blatant profiling I’ve ever seen - as if only us could possibly break the rules and it’s some sort of rewarding sport to catch us out; or perhaps it felt good to be keeping us in line?,18/12/20,0.19999999999999998,0.7666666666666666,0.0,0.863,0.137,0.719,anger
+8122,9277,"Apparently, that man’s brain cannot process so much and he have a huge unfair filter.",18/12/20,0.03750000000000003,0.6125,0.178,0.69,0.132,-0.2023,anger
+8123,9278,My little niece was bullied once and stereotyped and she was fuming the whole day.,18/12/20,-0.029166666666666657,0.6,0.448,0.552,0.0,-0.8669,anger
+8127,9282,"No
+
+3) Is that person fair?",18/12/20,0.7,0.9,0.259,0.471,0.271,0.0258,anger
+8138,9293,Happily minding my own business as I was going down the escalator slurping my ice cream when this guy asked at me from behind NO EATING IN THE TRAIN STATION!!!,18/12/20,0.11579861111111106,0.7472222222222222,0.085,0.785,0.13,0.3701,anger
+8142,9297,We had some unpleasant exchanges.,18/12/20,-0.6499999999999999,0.95,0.437,0.563,0.0,-0.4767,anger
+8146,9301,"Emailed SMRT and they replied underpass not part of train station
+
+We have such people in Singapore often.",18/12/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+8159,9314,"I’m so sorry that happened to you, I’ve had a similar encounter, where a friend and I were talking on the bus, and some older lady told us that we’re not allowed to talk on the bus, cuz of covid and stuff, so we complied.",18/12/20,-0.11111111111111112,0.5777777777777777,0.036,0.893,0.071,0.3832,anger
+8172,9327,Some people are just angry at their own lives and their own circumstances and need to find a 'justifiable' outlet they can let all of that frustration out on.,18/12/20,0.2333333333333333,1.0,0.198,0.802,0.0,-0.7506,anger
+8177,9332,"Just another whack case of people using any aspect of the law to legitimise their own lashing on others, but in this case it probably felt more racially charged from the remarks given.",17/12/20,0.55,0.75,0.076,0.924,0.0,-0.3854,anger
+8188,9343,But treat it like a random person bumping into you while boarding the bus.,17/12/20,-0.5,0.5,0.0,0.679,0.321,0.6369,anger
+8199,9354,We also experience this profiling especially this time of pandemic idk maybe they blame some of us as carriers of virus overseas and/or potential spreaders of the virus.,18/12/20,0.0,1.0,0.128,0.872,0.0,-0.4215,anger
+8211,9367,If I bumped into that situation I will stand up for you and tell the uncle that you are not wrong man.,18/12/20,0.25,0.9,0.0,0.882,0.118,0.3724,anger
+8214,9370,"I apologise on behalf that idiot my friend, that event is not the Singapore you know.. lai la, I treat you to some kopi peng :D",18/12/20,0.09999999999999998,0.9,0.095,0.545,0.36,0.8494,anger
+8226,9382,"oh, but none of the Chinese kids did cause they're good honest kids.",18/12/20,0.4333333333333333,0.5,0.0,0.57,0.43,0.8519,anger
+8232,9388,Remaining angry at this guy is like taking poison yourself and expecting the other person to die.,18/12/20,-0.3125,0.6875,0.408,0.496,0.095,-0.8481,anger
+8236,9392,"My family has had this too, from mad, vicious, ignorant people.",18/12/20,-0.8125,1.0,0.494,0.506,0.0,-0.7783,anger
+8238,9394,Don't let it affect you because you're way better than this and deserve better.,18/12/20,0.5,0.5,0.0,0.674,0.326,0.7003,anger
+8255,9411,If you are awarded that then you absolutely belong here and have the right to tell the other person to fuck off.,19/12/20,-0.009821428571428578,0.6026785714285714,0.134,0.763,0.103,-0.2023,anger
+8269,9425,You have every right to be angry but ultimately as the saying goes it’s better not to wrestle with pigs.,18/12/20,0.07142857142857142,0.7589285714285714,0.09,0.75,0.16,0.4019,anger
+8282,9438,You should have told him to go fuck himself and mind his own business especially when what you are doing doesn't concern him.,18/12/20,0.06666666666666665,0.8666666666666667,0.137,0.863,0.0,-0.5423,anger
+8292,9448,"Man, I’ve experienced this too.",18/12/20,0.8,0.9,0.0,1.0,0.0,0.0,anger
+8310,9466,"If he records you, bruh you're running if gets trended people would side you for sure
+
+He sounds like the typical boomers on cna Facebook comments complaining about prcs",18/12/20,0.16666666666666669,0.6944444444444444,0.055,0.798,0.147,0.4588,anger
+8318,9474,"> He said I was running so slow that it’s not exercise
+
+I would touch his nipples and challenge him to catch up (if I am confident of outrunning him)",18/12/20,0.09999999999999998,0.6166666666666667,0.0,0.842,0.158,0.5423,anger
+8322,9478,Don't take shit from them.,18/12/20,-0.2,0.8,0.0,0.578,0.422,0.4449,anger
+8329,9485,It was very likely not a personal attack.,17/12/20,0.0,0.65,0.0,0.701,0.299,0.3724,anger
+8337,9493,A contractor told my client right in front of my face that people like me from China are stealing jobs where Singaporeans should be doing the work.,18/12/20,0.2857142857142857,0.5357142857142857,0.123,0.795,0.083,-0.296,anger
+8341,9497,"He saw an opportunity to exercise his pride and ego, and you were a target that filled his needs.",18/12/20,0.4,0.9,0.0,0.755,0.245,0.6369,anger
+8344,9500,Don’t want a video of an angry confrontation getting taken out of context and our pass revoked.,18/12/20,-0.5,1.0,0.281,0.653,0.065,-0.6486,anger
+8348,9504,Some of them seem incredibly disgruntled.,18/12/20,0.9,0.9,0.0,1.0,0.0,0.0,anger
+8350,9506,"I think the knowledge of how overt and aggressive overseas discrimination can be, in some ways, can actually contributes to the lack of understanding of what constitutes discrimination here, because I've absolutely met folk who think things like:
+
+""Aiya I'm just telling them to put on their mask what, never even touch them, like that is discrimination meh?",18/12/20,0.1,0.5,0.084,0.836,0.08,0.2023,anger
+8362,9518,"Unfortunately, views that wouldn't be aired even after a few drinks are now more commonplace, and it's saddening to see a relatively decent people slide down the toxicity slope.",18/12/20,-0.014814814814814836,0.5425925925925925,0.183,0.817,0.0,-0.6808,anger
+8364,9520,You have no fucking idea what arrangement he has with said partner.,18/12/20,0.3,0.8,0.167,0.833,0.0,-0.296,anger
+8366,9522,Seems to me like you were unhappy at how he exposed a salient issue in Singapore and you set out to undermine him.,18/12/20,-0.6,0.9,0.226,0.609,0.165,-0.1779,anger
+8367,9523,Shit I'm an ang moh and the crap I have had to put up with in the 3 years I've lived here is rediculous.,18/12/20,-0.5,0.8,0.237,0.763,0.0,-0.7351,anger
+8373,9529,Not sure why you're framing it like he's gonna harbour resent for the rest of his life or something like that.,17/12/20,-0.25,0.8888888888888888,0.143,0.662,0.195,0.3265,anger
+8399,9555,I definitely dont want to come off as victimizing myself and excusing that ppl sometimes treat me badly because of my race.,22/12/20,-0.3499999999999999,0.5833333333333333,0.27,0.546,0.184,-0.3658,anger
+8410,9566,he got ganged up on and beaten by a group of black man for playing a game of pool in the wrong bar.,22/12/20,-0.35555555555555557,0.5777777777777778,0.23,0.7,0.07,-0.6249,anger
+8428,9584,"I’m sorry you’re still being treated like an outsider 😔 A lot of it has to do with how the older generation teaches children to view issues of nationality, race, etc.",18/12/20,-0.16666666666666669,0.6666666666666666,0.042,0.877,0.081,0.296,anger
+8433,9589,But they turned it around to berate me for insinuating that they are racist... I’m not sure if schools now talk about such topics but they definitely should.,18/12/20,-0.08333333333333333,0.6296296296296297,0.048,0.838,0.114,0.4712,anger
+8441,9597,I have had an excellentexperienceand have been treated better than fairly.,18/12/20,0.6,0.7,0.0,0.756,0.244,0.4404,anger
+8446,9602,"If you want a comparison, I think in terms of mindless cruelty and denial of opportunities, I think that if you 'stand out' for any reason in school or NS in Singapore, you will generally be treated far far worse here than you will in the US for being Asian.",18/12/20,-0.05833333333333333,0.6666666666666666,0.177,0.753,0.07,-0.7906,anger
+8461,9617,"Also, although I find it kind of annoying I also don’t mind being treated as an outsider too much because I know that in my country (Australia) people can be very racist towards Asian people :(",18/12/20,-0.09166666666666667,0.5499999999999999,0.253,0.747,0.0,-0.8803,anger
+8480,9637,"Between the racism and scarce opportunities for skilled value creation in the economy, you might be making things difficult for yourself.",18/12/20,0.0,0.75,0.222,0.539,0.239,-0.128,anger
+8497,9654,"I've had new neighbours inviting me for dinners and drinks, random strangers saying good morning in passing on the street, stopping and asking if I'm alright if I'm stopped on the bike path tinkering with my bike.",18/12/20,0.11212121212121211,0.5181818181818182,0.082,0.749,0.169,0.5719,anger
+8504,9661,Been to Sydney many times on trips and it definitely doesn’t feel as “warm”.,18/12/20,0.3666666666666667,0.5333333333333333,0.0,0.828,0.172,0.4019,anger
+8520,9677,"It wasn’t necessarily even racist, people from the countryside just knew so little about other races!",18/12/20,-0.11458333333333333,0.625,0.222,0.778,0.0,-0.6476,anger
+8523,9681,Just a lot of unexpected kindness from strangers that we aren’t used to in SG.,18/12/20,0.1,1.0,0.0,0.812,0.188,0.4588,anger
+8542,9700,"These teams tend be democratic in the US and open to everyone prepared to contribute, even those who are not engineering students.The research and the engineering teams I was part of made finding a job out of University very easy.",20/12/20,0.2816666666666667,0.75,0.0,0.876,0.124,0.624,anger
+8546,9704,This is an important indicator even if you aren't planning to be an engineer.,20/12/20,0.4,1.0,0.0,0.878,0.122,0.2023,anger
+8555,9713,Just being open to the contributions of people regardless of race made things this way.,20/12/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+8557,9715,"The other advantage that choosing the US would have is that, unless you pick a university in downtown NYC or SF or LA, your cost of living is going to be hugely lower.",20/12/20,0.13750000000000004,0.6375,0.072,0.87,0.058,-0.1263,anger
+8566,9724,And why change tone without apologizing for being wrong?,4/4/20,-0.5,0.9,0.274,0.618,0.108,-0.4363,anger
+8578,9736,"At the beginning of the outbreak, the government was advising people not to hoard/use mask so as to ensure the supply for healthcare/frontline workers, since Singapore doesn't have its own production capability.",4/4/20,0.6,1.0,0.0,0.915,0.085,0.4336,anger
+8580,9738,"As we saw more cases and collected our own evidence of asymptomatic transmission, they probably knew a mask would be helpful, but likely didn't want to cause a frenzy by advocating masks when it was so difficult for the general public to buy any.",4/4/20,0.10833333333333335,0.6777777777777777,0.178,0.783,0.039,-0.7747,anger
+8582,9740,"Perhaps the timing is questionable, but avoiding unnecessary panic has been one of the hallmarks of the government's communications thus far.",4/4/20,-0.26666666666666666,0.9666666666666667,0.337,0.663,0.0,-0.8462,anger
+8585,9743,"To be fair, the reason most people want to wear masks is to protect themselves, and a mask is most effective for protecting others, not yourself.",4/4/20,0.575,0.675,0.0,0.68,0.32,0.8347,anger
+8589,9747,"Regardless, people probably had their own sensing.",4/4/20,0.6,1.0,0.0,1.0,0.0,0.0,anger
+8604,9762,Many people a month ago fought hard to say that measures to fight Covid-19 are measures against their livelihood.,9/4/20,0.10416666666666666,0.5208333333333333,0.285,0.633,0.081,-0.5423,anger
+8607,9765,"Our government was reactive, and our entitled populace wasn’t serious, and here we are today, 142 cases a day and rising.",9/4/20,-0.3333333333333333,0.6666666666666666,0.061,0.841,0.098,0.2023,anger
+8614,9772,> Taiwan has strong manufacturing and their SMEs immediately produced lots of masks for their citizens.,9/4/20,0.4333333333333333,0.7333333333333333,0.0,0.809,0.191,0.5106,anger
+8632,9790,I'm not sure though they wear masks to protect themselves or to protect the others.,9/4/20,-0.25,0.8888888888888888,0.102,0.626,0.271,0.5003,anger
+8636,9794,"Even when announcing the new attitude towards wearing of masks in public, there was the name drop of WHO and also mention that studies show asymptomatic transmission is likely.",9/4/20,0.04545454545454545,0.5070707070707071,0.07,0.93,0.0,-0.2732,anger
+8639,9797,"In other words, a proactive approach of getting everyone to mask up (even with cloth mask), when there's no strong evidence of asymptomatic transmission yet but one can infer that it's possible (for asymptomatic transmission) and that low symptom expressing infected may not wear masks if it's not normalised for everyone to wear it in public, might result in a circuit breaker being unnecessary now.",9/4/20,-0.12361111111111112,0.5625,0.121,0.822,0.057,-0.6705,anger
+8640,9798,HK and Taiwan are good examples of everybody mask up.,9/4/20,0.7,0.6000000000000001,0.0,0.756,0.244,0.4404,anger
+8644,9802,"They did say they have silly rules in place ""able to purchase only 5 masks a week from pharmacists"", though not stringently regulated.",9/4/20,0.0,0.8333333333333334,0.0,0.948,0.052,0.0258,anger
+8649,9807,We don't want a situation like in the US or UK where the healthcare workers don't have PPE and are having to re-use them or MacGyver up their own plastic protection.,9/4/20,0.6,1.0,0.106,0.894,0.0,-0.3252,anger
+8653,9811,"Yes, comparing to Taiwan or not, we messed up by our own standard.",9/4/20,0.3,0.5,0.0,0.699,0.301,0.577,anger
+8658,9816,"Anyway, I too still believe strongly, we will come out of this a more united and stronger nation.",9/4/20,0.4666666666666667,0.6166666666666667,0.0,0.617,0.383,0.7939,anger
+8668,9827,"Appeal to authority here is used to placate the masses, but also as a convenient scapegoat to blame when decisions turn out to be bad in hindsight.",9/4/20,-0.6999999999999998,0.6666666666666666,0.33,0.637,0.033,-0.9052,anger
+8682,9842,But the only difference is that I don't believe their decision was based on ego or national pride.,9/4/20,0.0,1.0,0.0,0.87,0.13,0.34,anger
+8688,9850,"So ideally, staving off potential masks hoarders would at least not tax the stocks local sellers have if the government does need to commandeer them.",9/4/20,0.15000000000000002,0.6,0.0,0.886,0.114,0.4754,anger
+8689,9851,"For WHO, anyone with at least a pea-sized brain and is intellectually honest will see how they screwed up this pandemic as they were so eager to please the CCP.",9/4/20,0.15,0.65,0.083,0.62,0.297,0.8077,anger
+8717,9879,"(ie virus created out of nothingness or able to replicate without a host)
+
+A: No.",5/4/20,0.5,0.625,0.0,0.755,0.245,0.4382,anger
+8722,9884,Learn how to quickly identify fallacious arguments since this one is the 'Strawman argument'!,5/4/20,0.41666666666666663,0.5,0.187,0.813,0.0,-0.4574,anger
+8739,9901,In theory it should be effective.,7/4/20,0.6,0.8,0.0,0.617,0.383,0.4767,anger
+8749,9911,**It was stupid to ever think you could preserve the markets vs locking down the country and immediately get masks on people.,5/4/20,-0.47777777777777775,0.6444444444444445,0.139,0.861,0.0,-0.5267,anger
+8751,9913,"**
+
+If you had the sense to know respiratory pandemics requires masks, it would be easy to make the call to do a lock down until people AT LEAST all had masks on.",5/4/20,-0.0074074074074074,0.5074074074074074,0.0,0.914,0.086,0.4404,anger
+8755,9917,It was a totally manageable problem for much of the world and they refused to listen because they were afraid it would spook the markets.,5/4/20,-0.13333333333333333,0.6166666666666667,0.191,0.809,0.0,-0.6344,anger
+8761,9923,The cost of not telling people to make their own masks was much higher than the cost of lock down until people got/made  masks.,5/4/20,0.23148148148148148,0.5962962962962963,0.0,1.0,0.0,0.0,anger
+8769,9931,but FAR WORSE they just refused to listen to reason.,5/4/20,-0.15000000000000002,0.8,0.502,0.498,0.0,-0.8422,anger
+8770,9932,**I've been wearing my mask everyone for like a month now and even that should have been earlier.,5/4/20,0.0,0.5,0.0,0.865,0.135,0.3612,anger
+8771,9933,** People have been fighting us the entire time to try to come up with reasons why it's wrong **BECAUSE their government lied to them.,5/4/20,-0.25,0.7625,0.272,0.728,0.0,-0.802,anger
+8780,9942,"Hospitals around the world are struggling to get masks as it is, if governments said ""hurry, everyone go buy a mask"" they would likely not have anything right now.",4/4/20,0.14285714285714285,0.7678571428571428,0.094,0.906,0.0,-0.4215,anger
+8788,9950,"We’re working on a way to provide them when you’ll need them, but until then stay at home.”
+
+Having been through major hurricanes, you’d be surprised how altruistic people can be if you ask them to help.",4/4/20,0.08125,0.7,0.0,0.852,0.148,0.7096,anger
+8790,9952,But before that the needlessly sacrificed credibility and gave the message that encouraged people to hoard anyway.,4/4/20,-0.5,1.0,0.0,0.865,0.135,0.3612,anger
+8792,9954,"After the Surgeon General’s comments, they were $20@.",4/4/20,0.05000000000000002,0.5,0.0,1.0,0.0,0.0,anger
+8796,9958,"At that point it's clear everybody needs masks no matter what, but they thought it would be silly or something and scare people.",5/4/20,-0.19999999999999998,0.6291666666666667,0.211,0.645,0.143,-0.5994,anger
+8797,9959,It wasn't because we couldn't all fashion some kind a mask.,5/4/20,0.6,0.9,0.0,0.726,0.274,0.5267,anger
+8801,9963,"The info was already all over Youtube, mostly people HAD TO BE TOLD for any chance of rapid recovery and having minimal impact on the economy.",5/4/20,0.2,0.55,0.0,0.926,0.074,0.25,anger
+8810,9972,They only have to compete if the government wants them to have to compete.,4/4/20,0.1,0.55,0.0,1.0,0.0,0.0,anger
+8813,9975,"I'll take a guess and say that he means they are going for herd immunity plus flattening the curve so it doesn't overwhelm hospitals and that he is implying that countries are thinking that by using their short lockdown ability too early it doesn't do anything to flatten the curve, only delays it.",4/4/20,0.03333333333333333,0.5333333333333333,0.0,0.925,0.075,0.4734,anger
+8826,9988,"Wearing a mask is always going to help, and a basic t-shirt is going to help keep particulates out of your breathing, only n95 masks and up can actually effectively block the virus.",4/4/20,0.19999999999999998,0.6416666666666667,0.076,0.707,0.217,0.6597,anger
+8835,9997,"But you're just a troll or worse, a idiot so i'm done talking to you.",5/4/20,-0.6000000000000001,0.7,0.368,0.632,0.0,-0.7506,anger
+8842,10004,'they lie' yet you are unable to show the lie.,5/4/20,-0.5,0.5,0.0,1.0,0.0,0.0,anger
+8844,10006,The breed of the ignorance and stupid.,5/4/20,-0.7999999999999999,1.0,0.541,0.459,0.0,-0.7096,anger
+8852,10014,3) To be honest my opinion is that wearing masks definitely trumps not wearing one.,20/3/20,0.3,0.7,0.0,0.684,0.316,0.7184,anger
+8867,10030,"Looking at Taiwan and Korea (many masking up and they have their situation under control now), I would say mask up if you can.",20/3/20,0.5,0.5,0.0,1.0,0.0,0.0,anger

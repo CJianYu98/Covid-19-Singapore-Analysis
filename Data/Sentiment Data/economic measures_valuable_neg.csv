@@ -1,0 +1,327 @@
+,index,Sentences,Comment Datetime,Textblob_polarity_score,Textblob_subjectivity_score,Vader_neg_score,Vader_neu_score,Vader_pos_score,Vader_compound_score,Emotions
+4,4,You may also be liable to criminal prosecution.,3/2/21,-0.25,0.525,0.524,0.476,0.0,-0.765,fear
+72,95,ToughLuck wrote: Actually she brought up such controversial questions many time liao.,26/2/21,0.2625,0.5125,0.141,0.859,0.0,-0.2023,anger
+92,115,That will filter all the bad ppl from abusing it.,21/1/21,-0.6999999999999998,0.6666666666666666,0.448,0.552,0.0,-0.7579,fear
+99,122,"My NTI loss is more then 75%, seems quite bad to me already.",21/1/21,-0.09999999999999992,0.5833333333333333,0.356,0.644,0.0,-0.7264,sadness
+129,160,Same stupid trick everytime.,28/1/21,-0.39999999999999997,0.5625,0.697,0.303,0.0,-0.5574,anger
+136,167,after 50+ years and it dawns on us that our education system is a giant flop look at all the education ministers.,20/2/21,0.0,1.0,0.107,0.893,0.0,-0.34,joy
+156,188,"Imagine those unemployed who are trying to pay up their bto, or those who need to top up medisave using own savings cos no cpf to deduct from medishield...",17/2/21,0.55,0.75,0.115,0.828,0.057,-0.2023,fear
+165,197,"Under the program, businesses significantly affected by the pandemic can access a government subsidy of AU$1,500 every two weeks for each eligible employee.",18/2/21,0.375,0.875,0.071,0.929,0.0,-0.1531,fear
+212,261,"The pandemic has deepened the cracks in many societies,"" said Mr Heng, adding that Singapore is not immune to these challenges.",16/2/21,0.5,0.5,0.085,0.856,0.059,-0.1501,fear
+223,294,"U lazy to go to CC to claim ah gong's lunch money for u, then too bad.",17/2/21,-0.4749999999999999,0.8333333333333333,0.3,0.7,0.0,-0.7184,fear
+229,300,"Apart from the near-term uncertainties brought on by the pandemic, she noted that a key question is whether Covid-19 has fundamentally changed the investment landscape.",12/1/20,0.0,1.0,0.094,0.906,0.0,-0.34,fear
+232,303,"""These are tough questions that we need to grapple with.",12/1/20,-0.3888888888888889,0.8333333333333334,0.143,0.857,0.0,-0.128,joy
+246,317,But she noted that the fiscal road ahead will be a tough one.,12/3/20,-0.3888888888888889,0.8333333333333334,0.12,0.88,0.0,-0.128,fear
+264,335,"This year was challenging for many nations because of the Covid-19 pandemic, which worsened the already grim economic outlook.",12/4/20,0.05,0.675,0.273,0.661,0.066,-0.7184,anger
+271,342,"\x93They have all been working non-stop since the beginning of this year, with the work becoming even heavier and more intense as the global Covid-19 pandemic situation worsened and disrupted life and businesses.",12/4/20,0.2875,0.5875,0.082,0.873,0.045,-0.3197,joy
+295,370,This year is no different.,31/12/20,0.0,0.6,0.355,0.645,0.0,-0.296,fear
+300,375,"""But if the situation takes a turn for the worse, we are ready to respond and adapt,"" he said.",31/12/20,-0.1,0.55,0.144,0.741,0.116,-0.1531,joy
+319,395,Not with the clowns north and south who are dealing with their own mess at the moment,16/1/21,0.2125,0.5875,0.135,0.865,0.0,-0.3612,anger
+343,419,"But while the worst of the fallout has been averted, the road to recovery will be uneven and highly uncertain, said Mr Heng.",2/5/21,-0.3466666666666667,0.58,0.283,0.717,0.0,-0.7841,fear
+349,425,"""It is not easy but we must persist.",2/5/21,-0.21666666666666667,0.8333333333333334,0.196,0.804,0.0,-0.1786,neutral
+394,474,You may not know that some of these companies pay only 5%-10% corporate taxes instead of the normal 17% and the vast majority of the senior roles in these MNCs are given out to foreigners instead of Singaporeans.,2/7/21,0.0375,0.6625,0.036,0.964,0.0,-0.1027,fear
+428,516,"They presume that since their group can get by, no need to do anything more for them....",16/2/21,0.5,0.5,0.121,0.879,0.0,-0.296,anger
+480,614,The NOx emission is very very low specified in latest euro 6d requirement.,16/2/21,0.25,0.645,0.182,0.818,0.0,-0.3962,sadness
+483,617,"In SG, mindset is stuck in the 50s that diesel is dirty.",16/2/21,-0.6,0.8,0.329,0.671,0.0,-0.5994,fear
+484,618,"t258jgn wrote: The problems are the delivery trucks from msia to SG are not euro 6d I do not understand what is the point of this post AZE wrote: Sho if SG gosh full EV by 2030, ish can force MY to gosh full EV as well?",16/2/21,0.35,0.55,0.055,0.902,0.043,-0.1531,anger
+486,620,Extremely disappointed with the budget.,16/2/21,-0.75,0.75,0.459,0.541,0.0,-0.5256,sadness
+492,626,UptheToon wrote: Extremely disappointed with the budget.,16/2/21,-0.75,0.75,0.361,0.639,0.0,-0.5256,sadness
+498,650,nakedtons wrote: Too bad SG doesn't have a 50-50 balance in Parliament like in the US where they can debate on the budgets and then vote on them.,16/2/21,-0.6999999999999998,0.6666666666666666,0.113,0.806,0.081,-0.25,sadness
+511,663,"Sad to see our ""perfect"" and ""always right"" govt can't see that being early adopters is key.",17/2/21,0.17714285714285713,0.7671428571428571,0.162,0.838,0.0,-0.4767,sadness
+527,685,It will cause emotional pain and suffering to us CECAs if we can't bring our dependents here.,17/2/21,0.0,0.65,0.291,0.636,0.073,-0.7003,fear
+530,688,tokiya wrote: It will cause emotional pain and suffering to us CECAs if we can't bring our dependents here.,17/2/21,0.0,0.65,0.267,0.667,0.067,-0.7003,fear
+532,692,"Remember, no one is indispensable.",17/2/21,0.4,0.9,0.355,0.645,0.0,-0.296,fear
+567,749,"But to claim banning travellers from countries like India will impact the lives and livelihoods of many in Singapore, we have an even bigger problem to deal with than fighting the pandemic.",16/2/21,0.25,0.5,0.138,0.745,0.117,-0.2023,fear
+569,751,Are Singapore that vulnerable till we need to depend on this number of visitors per day otherwise we'll be badly affected?,16/2/21,-0.5999999999999999,0.5833333333333333,0.264,0.681,0.055,-0.6399,neutral
+586,787,"The sector is expected to remain badly affected this year, and recovery will take some time, said Deputy Prime Minister Heng Swee Keat on Tuesday (Feb 16).",16/2/21,-0.3999999999999999,0.5333333333333333,0.158,0.842,0.0,-0.5719,fear
+621,822,ERP charges were first suspended on April 6 on the expectation that traffic would be significantly reduced during the circuit breaker period.,16/2/21,0.3125,0.6041666666666666,0.215,0.785,0.0,-0.6369,anger
+632,833,The healthcare really shined in this difficult time where we see dead bodies piling up overseas.,16/2/21,-0.16666666666666666,0.5333333333333333,0.339,0.661,0.0,-0.8006,fear
+635,836,"If the GE is around the corner this time, i may even vote for the incumbent, the only that will stop me from voting for PAP is that butt doctor and ccs.",16/2/21,0.0,1.0,0.068,0.932,0.0,-0.296,fear
+723,928,More like many abuse the insurance coverage.,13/2/21,0.5,0.5,0.364,0.408,0.228,-0.3961,neutral
+730,935,Ppl who say price increase coz ppl abuse is ridiculous.,13/2/21,-0.3333333333333333,1.0,0.419,0.438,0.144,-0.6597,neutral
+731,936,"Only in sg u claim benefits for the premiums you paid for, the insurance firm then around and claim you abusing it.",13/2/21,-0.1,0.7,0.122,0.772,0.106,-0.1027,anger
+736,941,"Then now trying to cut benefits, while increasing prices, and crying abuse by people who are claiming benefits that they\x92re paid premium for.",13/2/21,-0.2,0.6,0.288,0.552,0.16,-0.6369,anger
+741,949,You are not wrong but how many such cases are there to warrant penalty for all?,13/2/21,0.25,0.6333333333333333,0.202,0.708,0.09,-0.4978,neutral
+745,957,Health insurance ppl sick go doctor get treatment.,13/2/21,-0.7142857142857143,0.8571428571428571,0.32,0.68,0.0,-0.5106,neutral
+747,959,fire wrote: You are not wrong but how many such cases are there to warrant penalty for all?,13/2/21,0.25,0.6333333333333333,0.254,0.667,0.079,-0.6024,anger
+752,966,"insured abuse the claims system........so many until insurance companies cannot make $$$ with the previous system That\x92s why I mentioned he\x92s not wrong, there are some pple doing this but how many cases are there?",13/2/21,0.27083333333333337,0.5166666666666666,0.071,0.88,0.049,-0.2079,sadness
+765,982,One commenter asserted that these losses faced by the airline are just a scratch compared to \x93fat pay cheques\x94 earned by shareholders and people in the higher management.,13/2/21,0.25,0.5,0.141,0.859,0.0,-0.4767,fear
+766,983,"Many others lamented the lack of leadership in the Group, as they called out the Group\x92s CEO for profiting millions while the lower staff are retrenched.",13/2/21,0.5,0.5,0.219,0.698,0.083,-0.5106,anger
+770,987,"Mr Goh blamed the pandemic over the massive retrenchment initiated by SIA, saying that \x93none of us could have predicted its devastating impact on the global aviation industry\x94 and went on to say that his priority was \x93to ensure survival and save as many jobs as possible\x94.",13/2/21,-0.125,0.625,0.132,0.765,0.103,-0.3818,sadness
+812,1043,"Your Tax Dollars At Work: Chauffeurs, Club Dues The AP review comes amid sharp questions about the banks' commitment to the goals of the Troubled Assets Relief Program (TARP), a law designed to buy bad mortgages and other troubled assets.",13/2/21,-0.38999999999999996,0.7583333333333333,0.188,0.632,0.18,-0.34,joy
+854,1085,The gini coefficient of companies is getting too high and outrageous.,13/2/21,-0.42,0.77,0.231,0.769,0.0,-0.4588,neutral
+858,1089,Full of bullcrap artists masquerading as CEOs with no blame culture 100% agree.,13/2/21,0.35,0.55,0.269,0.585,0.146,-0.2732,anger
+865,1096,"Loss money, too bad u are fire!",13/2/21,-0.8749999999999998,0.6666666666666666,0.739,0.261,0.0,-0.8172,sadness
+872,1103,"The roads were empty, recalled Mr Chua, who once drove a three-hour stretch without any passenger.",2/12/21,-0.1,0.5,0.114,0.886,0.0,-0.2023,fear
+894,1125,Yup good times a lot of taxi drivers had horrible service.,2/12/21,-0.15000000000000002,0.8,0.243,0.556,0.201,-0.1531,neutral
+910,1142,"The roads were empty, recalled Mr Chua, who once drove for three hours without any passenger.",2/12/21,-0.1,0.5,0.107,0.893,0.0,-0.2023,fear
+963,1205,How about tackling those doctors in Private charging ridiculous high amount?,3/10/21,-0.05777777777777777,0.6383333333333333,0.2,0.8,0.0,-0.3612,joy
+974,1216,To force people eat the 5% co-payment on renewal is utter bs moolala wrote: knn then pay so much for insurance for what?,3/10/21,0.1,0.6,0.06,0.94,0.0,-0.1027,anger
+976,1218,Not happy can don't need to renew or go somewhere else.,3/10/21,-0.4,1.0,0.231,0.769,0.0,-0.4585,joy
+983,1225,"It wouldn't be illegal for them but it would be unethical, immoral, and scandalous of course.",3/10/21,-0.5,0.5,0.483,0.444,0.073,-0.9199,anger
+993,1239,my only advice is buy while you are still healthy and that no insurance companies will reject you yet.,3/10/21,0.25,0.75,0.208,0.678,0.114,-0.296,neutral
+998,1244,"The cap is at $3K per year anyway ... so if you do have any serious illness, co-pay up to $3K per year in exchange for a $200K surgery at a private hospital is nothing.",3/10/21,-0.16666666666666666,0.5208333333333333,0.114,0.886,0.0,-0.4588,anger
+1005,1277,leaving_footsteps wrote: There is this nagging suspicion that we will end up paying more regardless.,3/11/21,0.5,0.5,0.306,0.694,0.0,-0.6932,neutral
+1016,1288,A senior minister says the token only use for COVID19 tracing but end up the data collected can be use for crime tracing.,2/11/21,0.0,1.0,0.184,0.816,0.0,-0.6956,anger
+1017,1289,Then come says we will come out with law only use for serious crime cases.,2/11/21,-0.16666666666666666,0.8333333333333333,0.27,0.73,0.0,-0.5859,neutral
+1018,1290,"As far as I know, they can cancel this crime tracing just by an act of parliment.",2/11/21,0.1,1.0,0.304,0.696,0.0,-0.729,fear
+1052,1330,"Underemployment wrote: ... whole day is just keep whining why SIA post them here, so stupid to plant them in my company and can\x92t wait to return to flying ...",2/11/21,-0.29999999999999993,0.7,0.183,0.817,0.0,-0.7404,anger
+1057,1335,"I am willing to take those retrenched, but take in those still waiting to fly again is waste everybody\x92s time.",2/11/21,0.2833333333333334,0.5499999999999999,0.171,0.829,0.0,-0.5719,fear
+1090,1375,"But when reheat at home, and ownself feed own self while looking at old hag ugly wife, the taste is going to be lousy.",2/8/21,-0.125,0.675,0.236,0.764,0.0,-0.7783,joy
+1120,1405,"The reduction arose from the significant amount of government support provided during the COVID-19 crisis last year, especially for households staying in the smaller HDB flats, the DOS said.",2/8/21,0.09375,0.6104166666666666,0.118,0.751,0.13,-0.1531,fear
+1138,1423,"""This can be attributed to the significant amount of government support provided during the COVID-19 crisis in 2020, especially for households staying in the smaller HDB flats,"" said DOS in a media release.",2/8/21,0.125,0.7916666666666666,0.109,0.771,0.12,-0.1531,anger
+1148,1434,"""This can be attributed to the significant amount of government support provided during the Covid-19 crisis in 2020, especially for households staying in the smaller Housing Board flats,"" said the DOS in a statement.",2/8/21,0.125,0.7916666666666666,0.106,0.777,0.117,-0.1531,anger
+1173,1471,"This was double the number of workers that were hired in its inaugural month in September alone, said the Ministry of Manpower (MOM) on Monday (Feb 8).",2/8/21,0.25,0.5,0.071,0.883,0.046,-0.1779,anger
+1176,1474,"Worst part is, think about how many of them become new citizens/pr, yet the number still keep increasing Sultana wrote: If sinkies get the backroom routine support jobs as these aliens, sinkies will be able to pay the same taxes.",9/12/20,0.02727272727272727,0.5409090909090909,0.121,0.791,0.088,-0.3612,anger
+1181,1479,"16 years ago when LHL's administration started his FT policy in 2004, the claims was that no Singaporeans had those high level skills to be paid high salary.",9/12/20,0.16,0.5399999999999999,0.075,0.925,0.0,-0.296,anger
+1200,1509,"The consequences are employers have to employ them as PMETs to justify the high pay, some of which with dubious qualifications from home countries.",9/12/20,0.16,0.5399999999999999,0.151,0.849,0.0,-0.4404,sadness
+1202,1511,The sad part is we ended up helping to develop the SP & EP holders as they hold PMETs positions.,9/12/20,-0.5,1.0,0.139,0.762,0.099,-0.2263,sadness
+1234,1566,"SG is still toying with 1960 era tech based F15, and boastimg it to be a world cutting edge weapon,  hummm....even F35 is a 1980 based tech only.",10/2/20,-0.3,0.95,0.134,0.866,0.0,-0.4019,fear
+1250,1593,"danguard wrote: We can speak with our votes If they still in means more people believe than not believe them I guess I no longer believe in using votes because the truth is, ordinary citizens don't know or don't care what's happening.",2/7/21,0.125,0.5,0.109,0.838,0.052,-0.367,anger
+1254,1597,"blasterlord2 wrote: I no longer believe in using votes because the truth is, ordinary citizens don't know or don't care what's happening.",2/7/21,-0.25,0.5,0.192,0.716,0.092,-0.367,anger
+1284,1630,"This is Pappies govt for u. Legalised nepotism and corruption, using all sorts of lame reasons to justify paying themselves huge salaries, but refuse to take ANY blame or responsibilities when they screw up.",2/7/21,-0.04999999999999996,0.825,0.235,0.724,0.041,-0.775,anger
+1287,1639,"There are serious gaps to be filled when talking about how to pay a minister, or even senior government officials, their salaries.",2/7/21,0.033333333333333354,0.7833333333333333,0.124,0.876,0.0,-0.1779,anger
+1295,1647,Then the companies set up vies in Bermuda or whatever and reduce the tax they pay in sg to as near 0 as possible.,30/8/20,0.05,0.7,0.06,0.94,0.0,-0.1027,fear
+1298,1650,"They should give businesses loans, not free money.",30/8/20,-0.2,0.8,0.278,0.722,0.0,-0.4023,anger
+1316,1669,"bluecutie wrote: They should give businesses loans, not free money.",30/8/20,-0.2,0.8,0.231,0.769,0.0,-0.4023,anger
+1377,1780,This is a wrong mentality to begin with,30/8/20,-0.5,0.9,0.341,0.659,0.0,-0.4767,anger
+1387,1806,"Citizens and businesses need to pivot to viable industries these 1-2 years, subsidising zombie companies is not good use of tax payers monies Sent from \u80a5\u80a5\u6c38\u8fdc\u4e00\u4eba@\u5df4\u5766 using GAGT",30/8/20,-0.35,0.6000000000000001,0.082,0.918,0.0,-0.3412,fear
+1435,1881,"When a lady lay on the table provocatively, the robber shouted at her: \x93Please be civilized!",30/8/20,0.5,0.9,0.218,0.782,0.0,-0.5983,anger
+1447,1893,The robbers were very angry and complained: \x93We risked our lives and only took $20 million.,30/8/20,-0.31666666666666665,0.7333333333333334,0.394,0.606,0.0,-0.8155,anger
+1459,1907,@concorrection @stallsmith16 @KiachaDeDodo @realDonaldTrump him talking all those crap wouldnt make a difference.,6/10/20,-0.8,0.8,0.191,0.809,0.0,-0.3818,fear
+1465,1913,how comes they wanna hire in such a difficult time.,4/8/20,-0.25,0.75,0.238,0.762,0.0,-0.3612,fear
+1473,1921,"This outbreak could give bad impact to people’s,Economy.",30/1/20,-0.6999999999999998,0.6666666666666666,0.333,0.667,0.0,-0.5423,anger
+1487,1935,Will these 11 themes be effective and sustainable to address the crisis which we have gone through the past year?,9/3/21,0.175,0.525,0.163,0.714,0.123,-0.25,sadness
+1495,1943,Why are you not creatively looking at how we can be self reliant?,9/3/21,-0.25,1.0,0.144,0.753,0.103,-0.1556,neutral
+1499,1947,Then the government got resources to help the poor... No poor.,9/3/21,-0.1,0.6,0.331,0.5,0.169,-0.3818,anger
+1509,1960,A potential unemployment insurance scheme could base its premium on policyholders' declared monthly income.,8/3/21,-0.4,1.0,0.195,0.805,0.0,-0.4404,neutral
+1512,1963,"As the economy transforms and the employment landscape goes through structural changes, I believe more people will go through periods of unemployment during their career.",8/3/21,0.5,0.5,0.112,0.888,0.0,-0.4404,joy
+1515,1966,govn cant just concentrate on helping the poor.,6/3/21,-0.4,0.6,0.274,0.531,0.195,-0.2263,anger
+1525,1976,Singapore should discourage car ownership further by reducing supply of car only COE drastically.,4/3/21,0.0,0.75,0.177,0.823,0.0,-0.4215,fear
+1544,1995,It is a vicious circle.,26/2/21,-1.0,1.0,0.455,0.545,0.0,-0.3612,neutral
+1551,2002,Reduce Minister salary at once don’t give us lame excuses about this and that set an example before you increase the price.,27/2/21,-0.5,0.75,0.112,0.797,0.092,-0.128,anger
+1557,2008,"Under this meritocracy system, if you are poor it means you did not work, did not contribute k Or you are lazy.",27/2/21,-0.325,0.8,0.222,0.714,0.063,-0.6124,neutral
+1559,2010,"This System of GST, is to tax ALL to feed the lazy  Anybody can use the excuse i cannot find job.",27/2/21,-0.15,0.525,0.115,0.826,0.06,-0.296,sadness
+1591,2042,"For those who have been criticising against those who have not agreed with the government, it goes to show they are the end product of the education system where we can see their intelligent as they are educated to become donkeys to just look at carrots and pick up crumbs.",27/2/21,0.8,0.9,0.083,0.862,0.055,-0.1316,anger
+1598,2058,Is a vicious cycle.,16/2/21,-1.0,1.0,0.556,0.444,0.0,-0.3612,fear
+1607,2067,"Now, increase in petrol = discourage drivers from driving more often.",16/2/21,0.5,0.5,0.214,0.611,0.176,-0.128,fear
+1623,2083,"The Singapore Government has completely overreacted to a virus with 99.95% survival rate, while causing massive damage to the economy, jobs, and businesses here.",16/2/21,0.05,0.7,0.228,0.772,0.0,-0.7346,fear
+1629,2089,"Buy more, pay more.",16/2/21,0.5,0.5,0.361,0.639,0.0,-0.1761,neutral
+1644,2104,"So this means if I order from some specialty shops which doesn't make significant sales here in sg, then I am not subjected to this bloody new tax 😉👍",16/2/21,-0.09621212121212123,0.7431818181818182,0.166,0.834,0.0,-0.6081,sadness
+1648,2108,"Don’t be mistaken, there will always be price competition, be it online or offline, at least this provides fair game, and we can all do our part as citizens and residents.",17/2/21,-1.850371707708594e-17,0.5666666666666668,0.117,0.816,0.067,-0.1779,neutral
+1655,2115,"Right now in covid tough time, with petrol tax up 23% inflation wl set in.",19/2/21,-0.0515873015873016,0.6845238095238095,0.097,0.903,0.0,-0.128,sadness
+1657,2117,Wl be fast n furious.,19/2/21,0.2,0.6,0.552,0.448,0.0,-0.5719,anger
+1668,2128,It is very stupid to think that only drivers and car owners affected.,16/2/21,-0.5,1.0,0.325,0.675,0.0,-0.6478,anger
+1680,2140,It is wrong to increase petrol price at this time.,17/2/21,-0.5,0.9,0.231,0.597,0.172,-0.2023,anger
+1694,2154,End day most will lose of course.,16/2/21,0.5,0.5,0.332,0.668,0.0,-0.4549,neutral
+1698,2158,"In a world where every country is running huge deficits and deeply mired in debt trying to fight the pandemic, spending in attempts to future proof the country and its people is an absolute necessity.",15/2/21,0.15000000000000002,0.58125,0.139,0.802,0.059,-0.4703,fear
+1700,2160,"We may not be able to see perfect distribution from rich to poor in terms of wealth, but we can ensure that more than asymetric distribution of skills and knowledge to the poor and disadvantaged, which will eventually narrow the gap in terms of social gulf.",15/2/21,0.1760416666666667,0.5677083333333334,0.166,0.662,0.172,-0.1531,sadness
+1715,2177,Fake news.,12/2/21,-0.5,1.0,0.756,0.244,0.0,-0.4767,neutral
+1719,2181,Extremely stupid to use housing as a factor.,12/2/21,-0.7999999999999999,1.0,0.381,0.619,0.0,-0.5709,anger
+1723,2185,And the wife has her own food stall.,11/2/21,0.6,1.0,0.205,0.795,0.0,-0.2023,joy
+1727,2189,This is FAKE NEWS!!!,11/2/21,-0.9765625,1.0,0.611,0.389,0.0,-0.6917,anger
+1750,2215,The economy is really bad and there are NO JOBS!,6/2/21,-0.8749999999999998,0.6666666666666666,0.467,0.533,0.0,-0.7916,neutral
+1753,2222,Doing the wrong way .,6/2/21,-0.5,0.9,0.508,0.492,0.0,-0.4767,fear
+1775,2259,Very confusing 🤷🏻‍♂️?,5/2/21,-0.39,0.52,0.523,0.477,0.0,-0.2944,sadness
+1779,2263,Seriously?,28/1/21,-0.3333333333333333,0.6666666666666666,1.0,0.0,0.0,-0.1779,neutral
+1782,2266,Be serious!,28/1/21,-0.41666666666666663,0.6666666666666666,0.614,0.386,0.0,-0.1511,anger
+1793,2278,The ONLY benefit I could see so far is the reduction in severe illness.,30/1/21,0.05,1.0,0.29,0.546,0.164,-0.3182,fear
+1803,2288,I don’t want all the heavy vehicles to keep hogging the petrol station as it is a disaster waiting to happen.,25/9/20,-0.2,0.5,0.183,0.759,0.058,-0.5859,anger
+1817,2302,Scare open never buy.,14/6/20,0.0,0.5,0.516,0.484,0.0,-0.4939,fear
+1825,2310,Tomorrow the local Mandarin radio station 958 will 100% be full of complaints from angry aunties and uncles shooting the government again.,14/6/20,-0.05000000000000001,0.5166666666666667,0.231,0.769,0.0,-0.7184,anger
+1835,2320,"How about releasing our hard earned money to use during this crisis, 10% of our CPF money.",26/5/20,-0.2916666666666667,0.5416666666666666,0.295,0.705,0.0,-0.7411,anger
+1838,2323,Their testing capacity isn’t robust enough to pick up the infected cases.. the pandemic in the world biggest slums Dharavi and Sion hospital in Mumbai is like in a horror movies now.,25/5/20,0.0,0.5,0.178,0.696,0.126,-0.4588,fear
+1840,2325,So that government dont think like an ordinary person's lifestyle but in a bigger perspective to be a source of help in bad times to the nation.,26/3/20,-0.3166666666666666,0.5555555555555555,0.198,0.691,0.111,-0.4127,fear
+1841,2326,Whatever  the government does people just not happy and appreciative because they think inside the box of thier own comfort zone.,26/3/20,0.26666666666666666,0.9666666666666667,0.224,0.681,0.095,-0.5302,joy
+1842,2327,Lets not condemn the government but lets co operate and work together at this very bad pandemic time.,26/3/20,-0.9099999999999998,0.8666666666666667,0.228,0.702,0.07,-0.6806,sadness
+1847,2332,"At this most difficult time government have to hold all this charges, after all they have made billions all this years.",23/3/20,0.0,0.75,0.214,0.786,0.0,-0.6331,sadness
+1850,2335,I lost my job while pregnant.,9/10/20,0.3333333333333333,0.5,0.365,0.635,0.0,-0.3182,sadness
+1874,2359,It already abt 3wks we being suffering just to drive people around and yet no salary and driving long hours it is all because of you the G thinking for your own self.,4/4/20,0.27499999999999997,0.7,0.15,0.85,0.0,-0.6486,fear
+1876,2361,we already suffer and now even better suffering all the way.,4/4/20,0.5,0.5,0.377,0.457,0.166,-0.5719,neutral
+1894,2379,"More importantly ,we don’t become panic and helpless if the FW for any future reason will not or cannot come to Singapore to work any more.",25/6/20,0.35,0.53125,0.198,0.721,0.081,-0.5729,fear
+1912,2397,No ego will stand in their way of making the right decision!,4/4/20,0.3571428571428571,0.5357142857142857,0.185,0.815,0.0,-0.3595,fear
+1918,2403,"Of course, there are some asymptomatic cases that we can put them under SHN in the isolated facilities such as hotels, etc.",4/4/20,0.0,0.5,0.099,0.901,0.0,-0.3182,neutral
+1924,2409,"Now SG then start to do things slowly, numbers of cases n ppl die, show that we handle badly.",4/4/20,-0.49999999999999994,0.5333333333333333,0.304,0.696,0.0,-0.7906,sadness
+1939,2424,How do you social distance with these ridiculous new measures.,28/4/20,-0.05454545454545454,0.5070707070707071,0.217,0.783,0.0,-0.3612,neutral
+1942,2427,It’s also now putting us at unnecessary risk!,28/4/20,-0.5,0.9,0.255,0.745,0.0,-0.3382,neutral
+1944,2429,Condominiums should be able to exercise their own guidelines where rules like this are crazy and put residents in harms way unnecessarily.,28/4/20,0.025000000000000022,0.85625,0.207,0.701,0.092,-0.4767,anger
+1948,2433,There seem to be many since April 7 th that are putting residents in harms way unnecessarily.,28/4/20,0.04999999999999999,0.7,0.176,0.824,0.0,-0.4939,neutral
+1952,2437,We have tried to explain to our landlord that the June & July rental relief is to be absorbed by our landlord rather tha  IRAS but they are not convinced and want a separate letter from IRAS stating so.,25/4/20,0.3,0.9,0.105,0.844,0.051,-0.2892,sadness
+1954,2440,Burglar Alarm 🚨 🚨 🚨 Hope the government will also give a thought about heavy penalties for delivery thieves.,29/4/20,-0.2,0.5,0.277,0.583,0.141,-0.4215,fear
+1963,2450,"U can't see an end to corvid-19 and so many people are doing nothing because of CB, this is very bad for businesses especially those operating small business.",30/4/20,-0.16499999999999995,0.6916666666666667,0.127,0.873,0.0,-0.5849,anger
+2049,2536,I want to attend higher level courses at subsidised rates with just a certificate of attendance so that I can receive quality training with little stress.,9/10/20,0.03125,0.5,0.101,0.847,0.052,-0.2975,joy
+2050,2537,The old mindset of subsidies only when I pass the test is a hindrance.,9/10/20,0.05,0.6,0.197,0.803,0.0,-0.4019,joy
+2058,2546,Road is tough in times of pandemic.,6/10/20,-0.3888888888888889,0.8333333333333334,0.2,0.8,0.0,-0.128,fear
+2067,2555,"Dear PM, this is good news but please look into the odd and even number restriction at Peninsula Plaza and Lucky Plaza as the new measure is killing all the retail businesses with a sharp decline of close to 80% on our weekend sales.",5/10/20,0.1756060606060606,0.5775757575757576,0.2,0.598,0.202,-0.431,sadness
+2089,2577,We know the stress especially your position.,6/10/20,0.0,1.0,0.318,0.682,0.0,-0.4215,neutral
+2101,2589,"Nabarro of WHO just announced “Lockdowns has caused POVERTY, Joblessness and new Poor.",13/10/20,-0.13181818181818183,0.5272727272727272,0.393,0.607,0.0,-0.7983,neutral
+2115,2604,Ultimately the ordinary citizens have a concerned for job opportunities as losing a job can be devastating as families can be broken and personal self being greatly compromise.,5/9/20,-0.14166666666666664,0.6583333333333333,0.289,0.636,0.075,-0.8126,sadness
+2125,2614,"Dear Mr. Lee, I really don""t know what had went wrong at LTA, nobody is replying to the my feedback sent 3 weeks ago.",5/9/20,-0.15,0.55,0.121,0.778,0.101,-0.128,sadness
+2131,2620,It's a great disappointment to see such negative changes after a change in command.,5/9/20,-0.02499999999999998,0.5125,0.348,0.448,0.204,-0.4404,joy
+2157,2647,Certain ignorance or negligence of the ministries had led to the FW figures and this has dampen our reputation.,6/6/20,0.21428571428571427,0.5714285714285714,0.116,0.787,0.097,-0.1027,anger
+2170,2660,"illiterate, not gadget savvy, do not trust digital systems especially dealing with their money.",5/6/20,0.0,0.5,0.172,0.828,0.0,-0.4023,anger
+2171,2661,"May I plead to you that we do not force them, as it will make their life very stressful & miserable.",5/6/20,-0.4,0.65,0.294,0.706,0.0,-0.7947,sadness
+2194,2684,I don't think the rich needs this money more than the lower income.,6/6/20,0.4375,0.625,0.35,0.65,0.0,-0.6584,anger
+2278,2768,"In the midst of the crisis of the covid 19, Singapore Prime Minister Lee Hsien Loong has announced a massive economic special package, never before.",29/5/20,0.18571428571428572,0.5904761904761905,0.142,0.764,0.094,-0.34,fear
+2291,2781,"I live in my parents home , but because it is not HDB, I don't get any grant despite being jobless.",27/5/20,0.13636363636363635,0.5,0.136,0.864,0.0,-0.395,sadness
+2302,2792,It must have been a really tough decision to make as it cuts deep into our GDP.,26/5/20,-0.19444444444444445,0.6166666666666667,0.222,0.778,0.0,-0.4576,sadness
+2309,2799,Unfortunate or unlucky.,26/5/20,-0.5,1.0,0.6,0.4,0.0,-0.4588,sadness
+2314,2804,Many of whom are employed with fake tech certifications laundered and layered into our workforce.,26/5/20,0.0,0.75,0.181,0.819,0.0,-0.4767,fear
+2317,2807,My grandparents worked hard for these savings.,26/5/20,-0.2916666666666667,0.5416666666666666,0.189,0.811,0.0,-0.1027,sadness
+2353,2843,Feel that we should have prepare enough hospital beds and resources to handle about 3000 Covid patients in case the situation worsens.,28/3/20,0.0,0.5,0.129,0.871,0.0,-0.4767,fear
+2359,2849,Even the US of A looks so ill prepared and has now become the new epicenter for the virus.,28/3/20,-0.18181818181818182,0.7272727272727273,0.166,0.734,0.1,-0.3481,sadness
+2394,2885,The current pandemic is worst than we could ever think of.,24/3/20,-0.5,0.7,0.291,0.709,0.0,-0.6249,fear
+2396,2887,"However, such a situation is difficult because some political  and religious leaders have their own ideals and differences.",24/3/20,0.019999999999999997,0.5700000000000001,0.13,0.777,0.093,-0.1779,anger
+2397,2888,Some countries lack the resources and expertise which could make covid 19 an even bigger threat .,24/3/20,0.0,0.5,0.289,0.711,0.0,-0.6908,fear
+2408,2899,Agencies unable to substance and Singaporean will be losing their job.,24/3/20,-0.5,0.5,0.206,0.794,0.0,-0.3818,sadness
+2412,2903,This virus is difficult to eliminate.,24/3/20,-0.5,1.0,0.333,0.667,0.0,-0.3612,fear
+2442,2948,Likewuse the minister and political officers’ cut wages should be used to support companies in Singapore to overcome this period of difficult periods so that they will not be cutting the wages of employees.,29/2/20,-0.3666666666666667,0.6666666666666666,0.119,0.776,0.105,-0.1356,anger
+2443,2949,"Especially everything is costly and by cutting a few %, their daily lives still get on.",29/2/20,-0.2,0.5,0.196,0.804,0.0,-0.2878,fear
+2456,2962,Unfortunately we were told a few days ago by Select that they will only give a rental cut of around SGD 330 per stall.,27/2/20,-0.2333333333333333,0.7000000000000001,0.249,0.751,0.0,-0.6486,fear
+2457,2963,This does not help us at all as business has been bad.,27/2/20,-0.6999999999999998,0.6666666666666666,0.365,0.635,0.0,-0.6964,sadness
+2470,2976,It’s good thing but what about those stall in hawker they suffer too.,27/2/20,0.7,0.6000000000000001,0.368,0.529,0.103,-0.7184,neutral
+2472,2978,"This led to more people having the 3 highs high blood pressure, high cholesterol and diabetes).",27/2/20,0.2733333333333334,0.5266666666666667,0.136,0.864,0.0,-0.296,anger
+2483,2989,I have heard people complaining about the high salaries of our Ministers.,20/2/20,0.16,0.5399999999999999,0.153,0.847,0.0,-0.2023,anger
+2486,2992,They work very hard behind the scenes.,20/2/20,-0.3895833333333334,0.7020833333333333,0.22,0.78,0.0,-0.1761,fear
+2488,2994,To accuse them of receiving high salaries and not doing anything much is most erroneous.,20/2/20,0.053333333333333344,0.5466666666666667,0.273,0.727,0.0,-0.5984,anger
+2520,3027,"No matter what the government does or does not do, it is wrong.",20/2/20,-0.5,0.9,0.323,0.61,0.067,-0.6369,neutral
+2523,3030,We can choose to be unhappy and angry complainers or to be grateful people.,20/2/20,-0.55,0.95,0.393,0.467,0.14,-0.6597,anger
+2587,3094,"Locals will never do that as they are self serving, selfish and ignorant.",2/3/21,-0.5,1.0,0.321,0.679,0.0,-0.6369,anger
+2596,3103,Getting more for the reserve and borrowing $$$  is not wise The only solution is cut down on spending .,26/2/21,-0.001388888888888891,0.6722222222222222,0.203,0.697,0.1,-0.33,fear
+2607,3114,Or else many company were collapse and unemployment .,26/2/21,0.5,0.5,0.504,0.496,0.0,-0.7269,neutral
+2609,3116,"The next wave is after effect of self inflicted,  artificial jack up the share market during depression.",26/2/21,-0.3,0.5,0.177,0.718,0.105,-0.3612,sadness
+2613,3120,"This means that not only is there no deficit, but the reserves will actually grow by almost $20 billion in FY2021 even during an extraordinary crisis such as Covid19 pandemic, based on SG govt's own estimated untilised investment returns and land sales revenue alone.",26/2/21,0.18666666666666668,0.72,0.225,0.775,0.0,-0.891,fear
+2616,3123,"The impact of the raising spending pattern of the people is gradually getting more intense n a concern for the commoners especially the lower income, vulnerable n needy n of course the surviving middle income class sector.",27/2/21,0.039999999999999994,0.6,0.176,0.726,0.098,-0.4562,fear
+2631,3138,"Most importantly tell your boss, the si kwee kia and retard that he must STOP HIS NONSENSE of fixing The Opposition and the citizens.",26/2/21,0.0,0.8333333333333334,0.393,0.534,0.073,-0.9076,neutral
+2636,3143,"Do not do things that upset others because the media is doing its job and they can do no more, so we respectfully request not to comment in every news about Burma.",17/2/21,0.125,0.6,0.13,0.783,0.088,-0.1426,sadness
+2646,3153,Take home pay decrease and unable to meet household expenses!,17/2/21,-0.625,0.5,0.158,0.842,0.0,-0.1759,sadness
+2673,3181,This is the sad local hiring culture!,17/2/21,-0.25,0.5,0.361,0.639,0.0,-0.5255,sadness
+2688,3197,Special account sit there till we die also cannot see the money.,17/2/21,0.35714285714285715,0.5714285714285714,0.235,0.602,0.163,-0.296,sadness
+2697,3206,One can only imagine that patients could be wrongfully charged if the procedures were done whilst the patient is unconscious or is not well versed in the procedures and lack of transparency in bills.,16/2/21,0.0,1.0,0.16,0.84,0.0,-0.6012,fear
+2717,3226,Very disappointed with the increased in petrol prices.,17/2/21,-0.9750000000000001,0.9750000000000001,0.295,0.522,0.183,-0.3167,sadness
+2728,3237,"Am not sure of the details, but what I heard was the rebates given out through Road Tax etc, will cost the Government, some $100+ million?",16/2/21,-0.25,0.8888888888888888,0.058,0.942,0.0,-0.1232,anger
+2756,3273,Don't need to let all the maids to fly here while all got to pay high petrol!,17/2/21,0.5,0.72,0.096,0.904,0.0,-0.1759,anger
+2766,3283,"56 years of independency., Yet giving cash remains pathetic.",17/2/21,-1.0,1.0,0.282,0.534,0.183,-0.3182,joy
+2771,3288,"To give, cash payouts to poor, difficult.",17/2/21,-0.45,0.8,0.528,0.472,0.0,-0.6808,sadness
+2774,3291,"Lazy and no work done, monthly salary credits.",17/2/21,-0.25,1.0,0.385,0.41,0.205,-0.296,neutral
+2796,3313,Cost cutting in all Govt sectors.,17/2/21,-0.6,0.9,0.231,0.769,0.0,-0.128,fear
+2857,3391,"Many tricks can happen, exchange of vouchers for cash with outlets.",6/12/20,0.5,0.5,0.13,0.87,0.0,-0.128,sadness
+2860,3394,What's wrong with Singaporeans?,6/12/20,-0.5,0.9,0.508,0.492,0.0,-0.4767,neutral
+2865,3399,"Seriously, how should the government give the vouchers if everything is also wrong?",6/12/20,-0.41666666666666663,0.7833333333333333,0.304,0.696,0.0,-0.5859,fear
+2891,3427,"Pay so little, what us to do this kind of job?",19/6/20,0.20625,0.7,0.123,0.877,0.0,-0.1027,neutral
+2896,3432,Seriously people?,19/6/20,-0.3333333333333333,0.6666666666666666,0.63,0.37,0.0,-0.1779,anger
+2933,3469,777 more cases have been discharged from hospitals or community isolation facilities.,17/6/20,0.5,0.5,0.197,0.803,0.0,-0.4019,joy
+2936,3472,"MOH is using aggressive testing regime by using ARI method  (Acute respiratory infection)  ARI Symptoms can include: congestion, either in the nasal sinuses or lungs.",17/6/20,0.6,0.9,0.062,0.938,0.0,-0.1531,fear
+2946,3482,"""But if any worker were to report sick or show ARI symptoms, we will immediately pull aside and isolate the worker from his room-mates, and ensure that he receives the necessary medical care.""",17/6/20,-0.2380952380952381,0.6190476190476191,0.135,0.796,0.069,-0.3612,sadness
+2951,3487,All because of poor handling from the start of the crisis.,12/6/20,-0.4,0.6,0.444,0.556,0.0,-0.802,sadness
+2963,3499,The world need to brace for an almighty decade or more of tension and disharmony.,11/6/20,0.5,0.5,0.156,0.844,0.0,-0.3774,fear
+2987,3523,The prices for food always go up and higher till it's no longer affordable ?,11/6/20,0.25,0.5,0.145,0.855,0.0,-0.296,sadness
+2989,3525,Seriously ???,11/6/20,-0.3333333333333333,0.6666666666666666,0.691,0.309,0.0,-0.3049,neutral
+3012,3549,At least we capped our jobless as low as possible.,28/5/20,-0.09999999999999999,0.5666666666666667,0.189,0.811,0.0,-0.2732,joy
+3017,3554,"Does he know that during this hard time, how many businesses have received lawyer letter for being unable to pay rental?",26/5/20,-0.09722222222222222,0.5138888888888888,0.132,0.868,0.0,-0.2263,sadness
+3048,3585,Negative companies are worse off.,26/5/20,-0.35,0.5,0.694,0.306,0.0,-0.7783,sadness
+3093,3630,"Dont paint a good picture, the crisis is just the beginning and cant see the light in the tunnel.",26/3/20,0.55,0.65,0.289,0.711,0.0,-0.7584,joy
+3103,3640,"If you've a job and a livelihood,  and if the Govt takes steps to ensure that you are able to continue with life as it was before the crisis hit, doesn't it benefit you more in the long term?",27/3/20,0.31666666666666665,0.5083333333333333,0.15,0.75,0.1,-0.4905,fear
+3122,3660,Strongly discourage unnecessary big gatherings.,26/3/20,0.01111111111111109,0.5777777777777778,0.354,0.38,0.266,-0.1779,neutral
+3129,3667,"To those complaining government always give drumstick and take away chicken, this is what the government take away the chicken for.",27/3/20,-0.6,0.95,0.083,0.917,0.0,-0.2023,fear
+3162,3700,"Itâ€™s very easy to curse and lament with hindsight, but then again, many at the first instance had advised this government to shut their doors, no?",29/3/20,0.4377777777777778,0.611111111111111,0.23,0.703,0.067,-0.6231,anger
+3168,3707,"NO more cash flow, the cash flew!",26/3/20,-0.3125,0.5,0.35,0.65,0.0,-0.4981,neutral
+3172,3711,Whenever the Si Kwee Kia PM LHL calls the GE take the bold step and go for your life ......Vote PAP OUT!,26/3/20,0.41666666666666663,0.6666666666666666,0.166,0.738,0.096,-0.4389,fear
+3181,3720,NO more wayang.,26/3/20,-0.25,0.5,0.595,0.405,0.0,-0.4466,neutral
+3185,3724,NO further claim payable and NO bonus.,26/3/20,0.0,0.5,0.439,0.299,0.262,-0.3326,neutral
+3207,3746,Time for responsible citizens to look out for irresponsible citizens that doesn't comply to their SHN or quarantine orders.,26/3/20,0.2,0.55,0.131,0.766,0.104,-0.1531,anger
+3208,3747,we responsible citizens have to do our part to keep irresponsible citizens at bay.,26/3/20,0.2,0.55,0.169,0.698,0.134,-0.1531,anger
+3211,3750,"however, there are some irresponsible idiot citizens are bringing the country to a total lockdown.",26/3/20,-0.4,0.775,0.341,0.659,0.0,-0.7351,anger
+3213,3752,"shame them, report them or whatsoever, responsible citizens need to do whatever it takes to keep them at bay.",26/3/20,0.2,0.55,0.138,0.759,0.103,-0.2023,anger
+3214,3753,"to those irresponsible idiot citizens if you serve a SHN or quarantine comply and don't come out to eat ba ku teh or if you are sick wear a mask and see a doctor, don't go and teach.",26/3/20,-0.7571428571428571,0.8285714285714285,0.229,0.771,0.0,-0.8591,fear
+3217,3756,This was a ridiculous video.,10/3/21,-0.3333333333333333,1.0,0.455,0.545,0.0,-0.3612,anger
+3236,3775,Is it more productivity to spray sanitizer to all passenger hand  As the passenger hold on to the bar .It kill the virus.,23/3/20,0.5,0.5,0.163,0.727,0.111,-0.3612,fear
+3242,3781,Instead of solving problems he ask people to Jump out of the hot pot into the fire!,23/3/20,0.3125,0.8500000000000001,0.247,0.642,0.11,-0.4574,anger
+3245,3784,"Asking taxi drivers to become a bus driver because of current issue is like getting more people to get involved in accident, why because most taxi drivers are in their late 40ties , 50ties and 60ties.",23/3/20,0.175,0.5,0.082,0.851,0.066,-0.1531,fear
+3251,3790,"I understand it's not easy to please everyone, but at least speak in sense !",23/3/20,-0.29583333333333334,0.6166666666666667,0.24,0.76,0.0,-0.3561,joy
+3253,3792,The priority is wrong.,23/3/20,-0.5,0.9,0.508,0.492,0.0,-0.4767,sadness
+3256,3795,Enforce to close business if not ready.,23/3/20,-0.1,0.5,0.26,0.74,0.0,-0.2755,neutral
+3263,3802,This only means the enforcement is ineffective,23/3/20,0.0,1.0,0.2,0.8,0.0,-0.128,fear
+3284,3823,But there was no Type I in Wuhan so Type I was from a different location.,13/3/20,0.0,0.6,0.155,0.845,0.0,-0.296,fear
+3300,3839,"Pray for all Sadly, we don’t always know the depths of someone’s depression until it is too late.",8/10/20,-0.4,0.8,0.273,0.63,0.097,-0.6369,sadness
+3318,3857,It’s such a horrifying condition.,1/10/20,-0.45,0.75,0.552,0.448,0.0,-0.5719,fear
+3336,3875,A wrong policy ruin lives.,1/10/20,-0.5,0.9,0.775,0.225,0.0,-0.7845,anger
+3358,3898,If patients with serious pre-existing conditions are being rejected by insurance companies and are unable obtain health insurance.,7/3/20,-0.41666666666666663,0.5833333333333333,0.223,0.777,0.0,-0.5574,fear
+3361,3901,"Or can our government formulate policies in consultation with MOH, to subsidize these vulnerable families for health insurance and obtain coverage despite their pre-existing conditions.",7/3/20,-0.5,0.5,0.073,0.927,0.0,-0.2263,joy
+3362,3902,These patients with very serious illnesses will only remain in a constant cycle of recovery and illness.,7/3/20,-0.14444444444444446,0.7333333333333334,0.374,0.626,0.0,-0.7764,fear
+3375,3915,"In one of toilets, the water from the taps at the basins were flowing out so little and cut off so fast that it has become so difficult to do a proper hand washing.",15/2/20,-0.121875,0.55,0.138,0.779,0.083,-0.2793,fear
+3381,3921,"At the wet markets, stall owners are not wearing masks and shouting (as loud as lohei).",2021-02-09,0.0,0.6000000000000001,0.107,0.893,0.0,-0.2023,anger
+3393,3933,There is a lot to be disappointed about.,2020-04-09,-0.75,0.75,0.341,0.659,0.0,-0.4767,sadness
+3423,3963,Not sure when?,2020-10-10,-0.25,0.8888888888888888,0.495,0.505,0.0,-0.2411,neutral
+3433,3973,It's just unfair to base on rooms size instead of in,2020-10-04,-0.65,1.0,0.237,0.763,0.0,-0.4767,anger
+3442,3982,Without work activities mean no revenue.,2020-06-11,-0.3125,0.6875,0.306,0.694,0.0,-0.296,neutral
+3467,4007,Are people taking the CB seriously?,2020-04-07,-0.3333333333333333,0.6666666666666666,0.254,0.746,0.0,-0.1779,anger
+3572,4114,"When deep crisis calls for it, you have to be really wise to choose which to do so.",2020-05-29,0.35,0.65,0.175,0.681,0.144,-0.1796,anger
+3586,4129,How can she kill the time while waiting for good new of her children returning home soon ?,2020-11-25,0.41818181818181815,0.5272727272727273,0.208,0.664,0.128,-0.4215,neutral
+3593,4136,Read Food Heals But The Wrong Food Kills written by Jessica Seah from Singapore.,2020-03-28,-0.5,0.9,0.355,0.645,0.0,-0.765,sadness
+3597,4140,The  symptoms were worse than COVID 19!,2020-03-28,-0.5,0.6,0.361,0.639,0.0,-0.5255,fear
+3598,4141,Why is it so difficult to convince the world that only appropriate food can heal the already poisoned body?,2020-03-28,0.0,0.8333333333333334,0.261,0.648,0.092,-0.6343,neutral
+3608,4151,"As of now, most things seems blurry, unclear and working on anticipation.",2020-05-03,0.5,0.5,0.261,0.64,0.1,-0.3102,sadness
+3620,4163,"I am not sure about others, but personally I am extremely disappointed with this Unity Budget.",2020-03-26,-0.5,0.8194444444444444,0.336,0.664,0.0,-0.7245,sadness
+3631,4175,"It seems complex, not easy to understand for many laymen or commoners.",2020-03-26,-0.005555555555555536,0.5777777777777778,0.179,0.821,0.0,-0.3412,neutral
+3633,4177,"Maybe I am not as smart as our leaders, but this Unity Budget for sure is confusingly complex.",2020-03-26,0.1380952380952381,0.6439153439153439,0.218,0.646,0.136,-0.1972,anger
+3638,4182,Whatever costs burden reduced is a good help during this crisis.,2020-03-26,0.7,0.6000000000000001,0.376,0.323,0.301,-0.34,joy
+3642,4186,"And correct me if I am wrong, up the skilllscredit $ ?",2020-03-26,-0.5,0.9,0.279,0.721,0.0,-0.4767,anger
+3702,4246,My fault for checking the slots only after I checked in.,11/10/20,0.0,1.0,0.231,0.769,0.0,-0.4019,joy
+3720,4264,Policies are never perfect and have their pros and cons.,17/9/20,-0.5,1.0,0.25,0.75,0.0,-0.4585,neutral
+3754,4298,"Add in more than a sprinkle of Confucian filial piety, and you've got a recipe for a disaster.",16/9/20,0.5,0.5,0.227,0.773,0.0,-0.6249,joy
+3755,4299,"So what if 15-20% of Thailand's GDP is coming from tourism, so what if 25k people die on Thai roads every year and nobody bats an eye, even one COVID case is too many!",16/9/20,0.625,0.5,0.113,0.887,0.0,-0.636,fear
+3803,4347,"> Generally, no, even if a wedding package includes a hotel stay.",24/11/20,-0.02500000000000001,0.5,0.216,0.784,0.0,-0.296,anger
+3854,4398,> STB said it takes a serious view of practices such as profiteering and said it will penalise merchants found to have done so.,24/11/20,-0.16666666666666666,0.5833333333333333,0.127,0.873,0.0,-0.2263,anger
+3868,4413,"That's nice, but unfortunately it goes against the purpose of the vouchers.",28/11/20,0.04999999999999999,1.0,0.207,0.667,0.127,-0.296,joy
+3877,4422,"Aiya no la, first of all i\`m not using dating apps now so not using the vouchers for cheap dates.",28/11/20,0.325,0.5166666666666666,0.104,0.896,0.0,-0.296,neutral
+3878,4423,"But last time i use dating apps, i realized guys are too thirsty n eager which make the girls doubtful, maybe seen it as too fake.",28/11/20,-0.43333333333333335,0.6555555555555556,0.196,0.714,0.089,-0.4588,neutral
+3888,4433,Do you know how difficult it is to try to use those vouchers?,13/1/21,-0.5,1.0,0.172,0.828,0.0,-0.3612,neutral
+3895,4440,Sorry for the rant.,13/1/21,-0.5,1.0,0.649,0.351,0.0,-0.4019,sadness
+3926,4475,"That how bad it is & the 40k jobs creation is a hope, not the reality as it may end much, much lower as everywhere the MNC are cutting jobs
+ https://www.straitstimes.com/business/banking/hsbc-board-orders-executives-to-consider-deeper-job-and-cost-cuts-on-covid-19
+
+They even admit it by setting aside 13 billion for emergency use (in other words it going to get worse)",26/5/20,-0.325,0.5483333333333333,0.167,0.717,0.116,-0.4588,fear
+3940,4489,Anyone knows if the JSS for employers are strictly used to pay employees wages or are the employers able to utilize the subsidies to cover business expenses?,27/5/20,0.5,0.625,0.051,0.949,0.0,-0.1027,fear
+3962,4511,I think the ultimate aim here is to preserve otherwise economically viable companies and avoid employers laying people off so that people can get back to work quickly as the circuit breaker is lifted and reopening progresses.,26/5/20,0.15833333333333333,0.6,0.059,0.941,0.0,-0.296,fear
+3966,4516,"The advice for an emergency fund is given to individuals because most of us have our eggs in one basket (our one full-time job) and if we lose that, we lose all our income.",26/5/20,0.5,0.5,0.205,0.795,0.0,-0.7906,fear
+3971,4521,"And then on top of that having your revenue cut by up to 80%, and not even getting any real help from landlords (either pushing payment back or just cutting off the tax payment you gotta do for rent), and this quickly snowballs into absolute hell for business owners.",26/5/20,0.10555555555555556,0.5166666666666667,0.145,0.776,0.079,-0.5719,fear
+3977,4527,"This means the economy is essentially put on very expensive hibernation, and can hit the ground running when reopening starts instead of everyone spending a few months looking for jobs again, and companies being wary to hire while demand is still subdued.",27/5/20,-0.3375,0.5025,0.036,0.964,0.0,-0.128,anger
+4011,4561,"If the tenants are going bust because of shit business plans or bad business practises, then they shouldn't be saved because ""capitalism"".",26/5/20,-0.44999999999999996,0.7333333333333334,0.332,0.668,0.0,-0.8567,anger
+4016,4566,It's so bad that the government had to legislate that the relief money had to be disbursed to the tenants with no conditions attached.,26/5/20,-0.6999999999999998,0.6666666666666666,0.199,0.698,0.103,-0.4391,anger
+4019,4569,"That means the more the tenant earns, the more they pay in rent.",26/5/20,0.5,0.5,0.123,0.877,0.0,-0.1725,joy
+4031,4581,"In this COVID situation, they are fucked.",26/5/20,-0.6,0.7,0.423,0.577,0.0,-0.6597,fear
+4043,4593,Running a business is not easy.,26/5/20,-0.21666666666666667,0.8333333333333334,0.376,0.624,0.0,-0.3412,neutral
+4047,4597,Telling shareholders that you’re keeping their money in risk free assets and therefore lowering their rate of return to a lower risk product isn’t going to fly.,26/5/20,0.6000000000000001,0.8500000000000001,0.251,0.599,0.15,-0.34,anger
+4058,4608,"However, letting lots of companies fail isn't tenable either -- ultimately when companies go bankrupt, it is citizens like you and I that get laid off and end up with no income.",26/5/20,-0.25,0.6499999999999999,0.24,0.696,0.064,-0.7783,sadness
+4073,4624,"Generally, as in with any design models, you always try to take a known concept and tailor/modify it to reduce the amount of risk.",26/5/20,0.05000000000000002,0.5,0.087,0.913,0.0,-0.2732,anger
+4081,4633,I'm sorry but your viewpoint is way too biased.,27/5/20,-0.5,1.0,0.352,0.648,0.0,-0.4215,sadness
+4088,4640,"That's true, perhaps their worst case scenario for a crisis was still quite optimistic.",26/5/20,-0.325,0.825,0.363,0.398,0.239,-0.5868,sadness
+4098,4653,"Contribute when you're healthy, get payout when you're sick.",26/5/20,-0.10714285714285715,0.6785714285714286,0.254,0.538,0.208,-0.1531,joy
+4112,4668,"> That's true, perhaps their worst case scenario for a crisis was still quite optimistic.",26/5/20,-0.325,0.825,0.363,0.398,0.239,-0.5868,sadness
+4113,4671,"They might be able to survive if they furlough or lay off all their workers, since that will cut a large chunk of their costs.",26/5/20,0.35714285714285715,0.5267857142857143,0.084,0.916,0.0,-0.2732,fear
+4118,4676,"* Meanwhile, the government's first duty is to protect its citizens and avoid a massive death toll, so they were right to implement the CB measures.",26/5/20,0.17857142857142858,0.623015873015873,0.205,0.707,0.088,-0.5423,anger
+4153,4712,"I do know when you strip off the gloss and veneer off our economy, we're nothing but a huge service industry.",26/5/20,0.4000000000000001,0.9,0.12,0.88,0.0,-0.3491,fear
+4155,4714,"The moment our neighbours get their acts together, we run the risk of becoming irrelevant.",26/5/20,-0.024999999999999994,0.925,0.13,0.87,0.0,-0.2732,fear
+4164,4723,"I don’t mind having a critical analysis of their actions but they don’t have much to work with, and still maintain relevance.",26/5/20,0.1,0.5,0.08,0.92,0.0,-0.1655,anger
+4179,4738,I am not sure whether you were short-changed in your education with that step not being taught or you assume that it just stops there.,27/5/20,-0.25,0.8888888888888888,0.139,0.861,0.0,-0.374,neutral
+4188,4747,Then the vicious cycle of stagnation of salary to positions continue.,26/3/20,-1.0,1.0,0.2,0.8,0.0,-0.3612,fear
+4190,4749,Worst of all he is unemployed now.,26/3/20,-1.0,1.0,0.406,0.594,0.0,-0.6249,neutral
+4194,4753,"That's upsetting to hear, but no offense, the budget is not targetted at you and there's a good reason for that.",26/3/20,0.7,0.6000000000000001,0.27,0.588,0.142,-0.3612,sadness
+4196,4755,Grab and taxi drivers live paycheck to paycheck and having no work means literally going homeless for some of them.,26/3/20,0.13636363636363635,0.5,0.104,0.896,0.0,-0.296,fear
+4208,4767,Even higher paid self employed could be losing a lot of income these days.,26/3/20,0.25,0.5,0.178,0.822,0.0,-0.3818,joy
+4218,4777,I have an events company which I had to suspend operations in Feb after a very bad fiscal year.,26/3/20,-0.9099999999999998,0.8666666666666667,0.303,0.697,0.0,-0.7264,fear
+4233,4792,The world has more things to worried about.,26/3/20,0.5,0.5,0.26,0.74,0.0,-0.3535,fear
+4239,4798,Everyone has more important thing to worry about.,26/3/20,0.45,0.75,0.264,0.546,0.19,-0.204,fear
+4246,4805,No point sustaining all the staff from industries which have been badly hit.,14/8/20,-0.6999999999999998,0.6666666666666666,0.325,0.675,0.0,-0.6486,anger
+4253,4812,What the fuck am I paying rent for month after month?,14/8/20,-0.4,0.6,0.28,0.72,0.0,-0.5423,neutral
+4281,4841,"> ""We must remain steadfast in the face of crisis, and stand in solidarity with one another during these difficult times,"" he said.",5/4/20,-0.04999999999999999,0.9,0.229,0.625,0.146,-0.5267,fear
+4298,4858,"The exchange rate-based monetary policy MAS uses also has some control over the money supply, but we all know there hasn't been massive easing just by looking at the exchange rate.",6/4/20,0.0,1.0,0.066,0.934,0.0,-0.2755,fear
+4299,4859,"Finally, even if the government did print money, it would be loaned from the MAS to the government, as there is no direct transfer mechanism; as such, it would show up as a SGS issue.",6/4/20,-0.016666666666666666,0.6333333333333333,0.062,0.937,0.0,-0.296,fear
+4312,4872,">However, Ms Lim said that many employers have already initiated cost management schemes by asking employees to take salary cuts, such as airline companies.",7/4/20,0.25,0.5,0.087,0.913,0.0,-0.296,anger
+4316,4876,"It's no secret that some companies are enacting pay cuts, like SIA.",7/4/20,0.2,0.7,0.356,0.491,0.153,-0.3182,anger
+4318,4878,The easy way out is looking at CPF contributions but that may be manipulated by unscrupulous employers.,7/4/20,0.43333333333333335,0.8333333333333334,0.167,0.737,0.096,-0.3506,fear
+4319,4879,The hard part is potentially receiving thousands of complaints about reduced or unpaid leave once the JSS kicks in.,7/4/20,-0.030555555555555558,0.6472222222222221,0.249,0.751,0.0,-0.5106,anger
+4337,4897,More debts means you would be more risk averse.,28/3/20,0.5,0.5,0.23,0.77,0.0,-0.3384,fear
+4340,4900,Genuine question: don't you think some firms are doing it wrong at this point of time?,29/3/20,-0.04999999999999999,0.7,0.171,0.829,0.0,-0.4767,anger
+4341,4901,I think many are cutting on the things that they should be ramping up to survive.,29/3/20,-0.04999999999999999,0.7,0.097,0.903,0.0,-0.128,anger

@@ -1,0 +1,722 @@
+,index,Sentences,Comment Datetime,Textblob_polarity_score,Textblob_subjectivity_score,Vader_neg_score,Vader_neu_score,Vader_pos_score,Vader_compound_score,Emotions
+8,8,"malaysia ownself also bought vaccinations Don\x92t see a reason to help vaccinate cargo drivers from Malaysia unless vaccine going to expire, then just do good will instead of throwing away.",3/9/21,0.7,0.6000000000000001,0.0,0.828,0.172,0.6808,anger
+10,10,"This is possible because more supplies of the vaccine have arrived, said the Health Ministry (MOH) of Monday (March 8).",3/8/21,0.3333333333333333,0.8333333333333334,0.0,1.0,0.0,0.0,anger
+15,15,"Each letter will have a weblink which can be used to register for vaccination, after which an SMS with a unique booking link will be sent to the senior's mobile phone for them to book a vaccination appointment.",3/8/21,0.375,1.0,0.0,1.0,0.0,0.0,anger
+30,39,whitecabbage wrote: Dont expect very good take up rates when you dont allow people to choose which vaccine we want You expect to vote for it?,3/8/21,0.9099999999999999,0.7800000000000001,0.15,0.805,0.045,-0.4568,anger
+58,84,"If don't have, think not really convincing the vaccine leh.",3/8/21,-0.25,1.0,0.216,0.784,0.0,-0.3559,anger
+63,99,The sinovac is made using traditional method of using dead virus cell to trigger body to create antibodies.,18/1/21,-0.1,0.575,0.192,0.714,0.094,-0.4939,anger
+70,106,Wrong.,18/1/21,-0.5,0.9,1.0,0.0,0.0,-0.4767,anger
+76,119,Tschuus wrote: Wrong.,18/1/21,-0.5,0.9,0.608,0.392,0.0,-0.4767,anger
+79,125,Inject how many billions of people for decades already.,18/1/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+84,130,knn Then I ask you to prove vaccines made this way is not safe.,18/1/21,-0.25,0.5,0.167,0.833,0.0,-0.3412,anger
+92,142,Clearnfc wrote: Then I ask you to prove vaccines made this way is not safe.,18/1/21,-0.25,0.5,0.156,0.844,0.0,-0.3412,anger
+97,153,These genetic materials plus their host (can be eggs host which is required to mass produce the vaccine) own's genetic material can mutate.,18/1/21,0.6,1.0,0.0,1.0,0.0,0.0,anger
+113,185,"This is edmw anyway, me don't care what you think.....I think you stupid.... but thats just me.... you not happy can ignore or block me.....",18/1/21,-0.6,1.0,0.29,0.63,0.08,-0.7903,anger
+121,199,"Since millions of PRC had been vaccinated, surely it would have larger and more robust data?",18/1/21,0.3333333333333333,0.6296296296296297,0.0,0.715,0.285,0.6801,anger
+130,221,This is wrong.,18/1/21,-0.5,0.9,0.608,0.392,0.0,-0.4767,anger
+139,230,Tschuus wrote: This is wrong.,18/1/21,-0.5,0.9,0.437,0.563,0.0,-0.4767,anger
+153,264,"Far be it from me to say positive things about China's response to Covid, but it is good for the world to have a wider range of vaccine options to deal with this disease.",18/1/21,0.34242424242424246,0.7151515151515152,0.0,0.834,0.166,0.7311,anger
+219,386,"First vaccine offer in January, there were only 4 persons who took up the offer.",3/2/21,0.125,0.6666666666666666,0.0,1.0,0.0,0.0,anger
+239,424,"If say capacity for the hour is 100 and only 50 turn up, this is prob what you see ""more workers than people in the centre""",3/2/21,0.25,0.75,0.0,1.0,0.0,0.0,anger
+244,433,Is that true?,3/2/21,0.35,0.65,0.0,0.417,0.583,0.4215,anger
+261,460,Enough  of that rubbish abt not being approved.,3/2/21,0.0,0.5,0.25,0.75,0.0,-0.3252,anger
+273,482,Their replies were typical civil service bureaucratic crappe.,3/2/21,-0.16666666666666666,0.5,0.0,1.0,0.0,0.0,anger
+331,584,So I get pissed off with stupid ones that are actually calling for those who have brains to think twice to not be able to travel etc.,3/3/21,-0.09999999999999998,0.5750000000000001,0.247,0.753,0.0,-0.835,anger
+337,596,some people should shut their mouths up and stop spreading fake news.,3/3/21,-0.5,1.0,0.346,0.654,0.0,-0.6486,anger
+342,601,There are bound to be some idiots who thinks that he is immune from Covid-19 after the vaccination that he walks around without mask or starts gathering like nobody's business.,3/3/21,-0.8,0.8,0.0,0.856,0.144,0.5719,anger
+344,603,Darkshadows wrote: There are bound to be some idiots who thinks that he is immune from Covid-19 after the vaccination that he walks around without mask or starts gathering like nobody's business.,3/3/21,-0.8,0.8,0.0,0.865,0.135,0.5719,anger
+381,648,Especially when the population is so huge.,3/6/21,0.20000000000000004,0.95,0.0,0.667,0.333,0.4572,anger
+436,716,"Some 40,000 people have received the jab so far.",3/3/21,0.1,1.0,0.0,1.0,0.0,0.0,anger
+446,726,"Many people also have palpitations,\x94 he said, referring to the condition of a fast-beating or fluttering heart.",3/3/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+465,747,The companies will focus on using technology to help governments and healthcare providers address potential supply chain disruptions through information sharing.,3/5/21,0.0,1.0,0.093,0.695,0.212,0.4767,anger
+474,756,Someone from edmw should tell their fave MP Jamus that only people inoculated with sinovac than can come Sg!,3/5/21,0.0,1.0,0.0,0.849,0.151,0.4926,anger
+479,761,"You dont want take vaccine then run around, is that fair for others?",3/5/21,0.7,0.9,0.084,0.757,0.158,0.2681,anger
+525,829,"""This was to ensure that all segments of our population were informed of key developments of the pandemic, why certain measures were necessary and how they could play their part to protect the health and safety of all Singaporeans,"" Mr Iswaran said.",3/3/21,0.07142857142857142,0.8571428571428571,0.0,0.747,0.253,0.8885,anger
+526,830,He added that polls conducted by government feedback unit Reach indicated that more than eight in 10 people felt the Government provided enough information on Covid-19.,3/3/21,0.25,0.5,0.0,0.958,0.042,0.0258,anger
+549,867,Soulhacker wrote: To be fair they got more confident with their own CECA vaccines mah.,3/3/21,0.575,0.8083333333333333,0.0,0.692,0.308,0.6997,anger
+564,882,It is ridiculous to suggest that the health of Singaporeans will be given hostage to diplomacy.,28/2/21,-0.3333333333333333,1.0,0.143,0.857,0.0,-0.3612,anger
+574,892,"Singapore\u2019s Ministry of Health later confirmed that the Sinovac jabs had arrived but stressed that the vaccine has not yet been authorised by regulators and so cannot be used immediately, unlike the Pfizer and Moderna shots.",28/2/21,0.2,0.5,0.081,0.919,0.0,-0.4767,anger
+588,906,"\u201cHowever, the core consideration during this time of crisis should be [the vaccine\u2019s] safety and effectiveness \u2026 rather than whether particular governments or leaders are happy or not,\u201d he added.",28/2/21,0.48333333333333334,0.6666666666666666,0.109,0.718,0.173,0.34,anger
+638,966,So it could be better for the elderly?,28/2/21,0.5,0.5,0.0,0.707,0.293,0.4404,anger
+683,1017,got T&C say if book appt n nv take or nv show up u can be charge or fine?,3/1/21,0.4166666666666667,0.5,0.0,0.899,0.101,0.2023,anger
+692,1026,xiaosinsinful wrote: What\u2019s the point of taking a vaccine that 50% effective?,3/1/21,0.6,0.8,0.0,0.763,0.237,0.4767,anger
+702,1036,xiaosinsinful wrote: What\x92s the point of taking a vaccine that 50% effective?,3/1/21,0.6,0.8,0.0,0.763,0.237,0.4767,anger
+703,1040,Unless they willing tell u beforehand Got jab this morning and I asked and he showed Pfizer 04/21,3/1/21,0.25,0.75,0.0,1.0,0.0,0.0,anger
+707,1044,You think they will let those who hvnt or refuse to take go easy?,3/1/21,0.43333333333333335,0.8333333333333334,0.129,0.702,0.17,0.1779,anger
+710,1047,Somemore... they take liao.. people cant say \x93 ask them take first then talk\x94 N you cant say they take fake one or bluff.,3/1/21,-0.125,0.6666666666666666,0.124,0.876,0.0,-0.4767,anger
+735,1077,"When it is our turn for the vaccination, at the point of registration, we have the right to ASK and FIND OUT which Vaccine is being assigned to us.",3/1/21,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,anger
+740,1082,They use the traditional way to make the vaccine.,3/1/21,0.0,0.75,0.0,1.0,0.0,0.0,anger
+762,1121,Uno_Hu wrote: Stop spreading fake information to mislead others.,3/1/21,-0.5,1.0,0.431,0.569,0.0,-0.6486,anger
+825,1195,By then another new virus should be out lol,3/1/21,0.4681818181818182,0.5772727272727273,0.0,0.741,0.259,0.4215,anger
+834,1206,"jetblack wrote: Just need someone to make a police report and ts will be charged for spreading fake news, counterfeit document, violate special disease act, etc.",28/2/21,-0.07142857142857142,0.7857142857142857,0.255,0.66,0.085,-0.6597,anger
+837,1209,"If this is fake, then someone might get charged for sharing fake news.",28/2/21,-0.5,1.0,0.404,0.455,0.141,-0.6369,anger
+838,1210,"Sounds damn fake to me to me cause this is a global vaccine, but I can\x92t find anything on Google.",28/2/21,-0.25,0.5,0.196,0.804,0.0,-0.4404,anger
+849,1221,That will definitely increase the takeup rate for your stupid vaccine.,24/1/21,-0.39999999999999997,0.75,0.207,0.488,0.305,0.1531,anger
+857,1231,"I think their move is still premature and wrongly accuse those people who actually want to be vaccinated but have not been arranged for the vaccine, and make them scolded in vain.",24/1/21,-0.25,0.5,0.149,0.818,0.034,-0.6059,anger
+858,1232,It's simply unfair.,24/1/21,-0.5,1.0,0.608,0.392,0.0,-0.4767,anger
+862,1236,"I think this move is still premature and has wrongly accused those people who actually want to be vaccinated but have not been arranged for the vaccine, and make them get scolded for nothing.",24/1/21,-0.25,0.5,0.047,0.919,0.034,-0.1154,anger
+869,1255,We are all idiots to them.,24/1/21,-0.8,0.8,0.0,1.0,0.0,0.0,anger
+873,1259,They want ppl to jab vaccine but not willing to take responsibilities for possible side effects.,24/1/21,-0.0625,0.875,0.0,0.929,0.071,0.0387,anger
+904,1291,"Front line workers 1st Then government sectors or service line Until they are sure they have enough for the people in sg then they ""strongly advice ""do it in rc or cc That's what i guess LA Anyway the kits not as if a lot.. Plus need to take 2 times Confirm not enough for all as of now as far as I understand",24/1/21,0.2066666666666667,0.7244444444444444,0.0,0.929,0.071,0.5267,anger
+905,1292,Soulhacker wrote: Something must very wrong with the vaccines for them to try forcing sinkie to take.,24/1/21,-0.65,1.0,0.175,0.825,0.0,-0.5256,anger
+906,1293,Else with sinkie kiasee kiasness sure everyone cheong to Q to take liao mah.,24/1/21,0.5,0.8888888888888888,0.0,0.839,0.161,0.3182,anger
+908,1295,"Maybe they buy Liao scare lugi people never take that's why ""strongly advice "" Plus knowing their pattern They want us to take so that let's say everybody get vaccined we can open our legs for business again Like a hooker free of aids n std can go fark her Liao while others hooker still got risk people don't dare to visit her",24/1/21,0.27777777777777773,0.6777777777777777,0.077,0.788,0.134,0.4404,anger
+910,1297,"Salient points from that youtube: 1 - Up to 70% health care frontline had taken the vaccination 2 - Front-line health workers that refuse to take vaccination will be redeployed 3 - Only the angmo or what lawyer mentioned that if there is no way a staff may be redeployed, termination may be a last resort.",24/1/21,0.0,0.5333333333333333,0.082,0.819,0.099,0.2263,anger
+913,1300,"1 - Up to 70% health care frontline had taken the vaccination 2 - Front-line health workers that refuse to take vaccination will be redeployed 3 - Only the angmo or what lawyer mentioned that if there is no way a staff may be redeployed, termination may be a last resort.",24/1/21,0.0,0.5333333333333333,0.092,0.84,0.067,-0.0516,anger
+916,1303,Fair enough what Frontline healthcare don't take vaccine risk not only themselves but their colleagues and the hospital too.,24/1/21,0.2333333333333333,0.7999999999999999,0.0,0.848,0.152,0.2633,anger
+932,1320,Ghostpel wrote: I don\x92t see wait and see approach is a bad thing and a mistake.,24/1/21,-0.6999999999999998,0.6666666666666666,0.349,0.651,0.0,-0.7096,anger
+940,1332,"Sent from HUAWEI LYA-L29 using GAGT Of course GDP is the utmost important liao, ever since 2004 You don't take, you die your business I just want to show the world that my people is a leading example to take the vaccine, to show that it is safe to jab",24/1/21,0.45,0.75,0.0,0.828,0.172,0.799,anger
+941,1333,"Skagen wrote: Of course GDP is the utmost important liao, ever since 2004 You don't take, you die your business I just want to show the world that my people is a leading example to take the vaccine, to show that it is safe to jab I agree we must take vaccine, what I am saying is, this vaccine is not covid proof.",24/1/21,0.45,0.75,0.0,0.823,0.177,0.864,anger
+946,1343,Damn smart,24/1/21,0.21428571428571427,0.6428571428571429,0.5,0.0,0.5,0.0,anger
+967,1365,They're quite irresponsible and selfish.,24/1/21,-0.5,1.0,0.686,0.314,0.0,-0.762,anger
+976,1374,So the gov totally ignoring those who cannot take due to history of allergies or have pre-existing condition which they have no data whether it'll affect them in long term.,24/1/21,-0.05833333333333333,0.5083333333333333,0.156,0.844,0.0,-0.6361,anger
+992,1390,Chances are that you may be marked for not taking the jab.,25/1/21,0.1,0.6,0.0,0.859,0.141,0.2023,anger
+999,1403,"Especially, 0:10 ~ 0:15 If anyone ( referring to hospital staffs ) refuse to be vaccinated, staffs will be transferred .",25/1/21,0.0,1.0,0.121,0.879,0.0,-0.296,anger
+1010,1414,"MOM should be emailed to clarified if - Employer can redeploy staff because of vaccine - Employee can sack staff because of inability to redeploy which is highly likely While vaccine builds immunity, it does not fully protect others because the virus can stay in the air or on the surface/mask of the nurses and spread to next patients too.",25/1/21,0.0,0.5,0.083,0.917,0.0,-0.625,anger
+1019,1423,ramlee wrote: They got track records you see ramlee wrote: But any inefficiency and hypocrisy is borne out of good intentions no this their evil plan.,25/1/21,-0.15000000000000002,0.8,0.203,0.708,0.089,-0.5719,anger
+1040,1460,"Deliberately making ""cons"" out of thin air will only backfire because it gives people an idea that there's really nothing positive to say about vaccinations till they have to resort threatening your rice bowl.",25/1/21,0.0068181818181818135,0.6488636363636364,0.171,0.829,0.0,-0.7651,anger
+1042,1462,"(allergies, pre-existing, underlying conditions, elderlies etc - only vague advices because they literally said there's no data) But all we've been hearing were threats instead of useful information to assure these groups of people.",25/1/21,-0.06666666666666667,0.5,0.161,0.705,0.134,-0.0258,anger
+1069,1496,That's why I said earlier that the report is lopsided.,25/1/21,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1072,1501,They escalated this very quickly from voluntary to companies can terminate those who don't take vaccine.,25/1/21,0.43333333333333335,0.65,0.0,1.0,0.0,0.0,anger
+1078,1507,Sauron wrote: They escalated this very quickly from voluntary to companies can terminate those who don't take vaccine.,25/1/21,0.43333333333333335,0.65,0.0,1.0,0.0,0.0,anger
+1140,1599,Otherwise spoil market until the non wealthy ppl no hawker center food to eat.,25/2/21,0.2,0.55,0.132,0.719,0.15,0.0772,anger
+1143,1602,rogerfederer wrote: Just surprised that Singapore accepted the shipment when the necessary documents have not even been fully submitted by them.,25/2/21,0.05,0.95,0.0,0.826,0.174,0.4588,anger
+1159,1622,"A competent person with resources available to Temasek would have researched and picked Moderna, Pfizer and Sputnik.",25/2/21,0.45,0.5333333333333333,0.0,0.867,0.133,0.3182,anger
+1161,1624,They are just a bunch of normal people laffing their way to the bank.,25/2/21,0.15,0.6499999999999999,0.0,1.0,0.0,0.0,anger
+1162,1625,"For those losers who think got money why must buy Sinovac, the answer is that in this huge demand for vaccines, got money dun mean ppl will sell to you.",25/2/21,-0.03749999999999998,0.5958333333333333,0.142,0.782,0.076,-0.3127,anger
+1193,1667,"powerrr wrote: The vaccines are made differently, so therefore they are not created equal in terms of efficacy, adverse side effects and the risk to unexpected outcomes.",25/2/21,0.03333333333333333,0.6166666666666667,0.209,0.791,0.0,-0.6531,anger
+1204,1678,dun buy later winnie angry and bully us.,25/2/21,-0.25,0.5,0.52,0.48,0.0,-0.7579,anger
+1208,1682,self proclaim ownself leading good life and telling others are loser yet got the cheek to tell people not to assume.,25/2/21,0.7,0.6000000000000001,0.134,0.751,0.115,-0.128,anger
+1229,1703,There is only one reason why they still refuse to release this data... same logic as my kids will be hesitant to tell me their test results if they did badly... if they score 90-100 sure tell me without me asking for it... so by not releasing the data... is already give u hint liao...,25/2/21,-0.04999999999999996,0.6701388888888888,0.073,0.887,0.04,-0.2263,anger
+1230,1704,scientific data should be provided and assessed fairly.,26/2/21,0.7,0.9,0.0,1.0,0.0,0.0,anger
+1268,1751,wrong.,26/2/21,-0.5,0.9,1.0,0.0,0.0,-0.4767,anger
+1274,1757,cap223 wrote: wrong.,26/2/21,-0.5,0.9,0.608,0.392,0.0,-0.4767,anger
+1275,1768,Apparently they are trying to forestalled us from backing out of the advanced order without diplomatic repercussion or some kind of backlash.,26/2/21,0.35000000000000003,0.6166666666666667,0.0,0.866,0.134,0.2732,anger
+1277,1770,madbasterdx wrote: Apparently they are trying to forestalled us from backing out of the advanced order without diplomatic repercussion or some kind of backlash.,26/2/21,0.35000000000000003,0.6166666666666667,0.0,0.876,0.124,0.2732,anger
+1285,1778,"To each it\x92s own, people can decline to get vaccinated, or choose Sinovac or choose the others.",26/2/21,0.6,1.0,0.0,1.0,0.0,0.0,anger
+1294,1796,Recently wumaos and dicksons have been trying to spread fake news about vaccines from non China sources as well.,26/2/21,-0.25,0.625,0.14,0.766,0.095,-0.25,anger
+1295,1797,I hear take china vaccine allows you to fly to the moon like chang e. Is that true?,26/2/21,0.575,0.775,0.0,0.739,0.261,0.6486,anger
+1304,1815,If it refuse the tiong vaccine means is blatantly showing that Singapore is not neutral to China which would be a grave insult to them.,26/2/21,-0.5,0.5,0.278,0.722,0.0,-0.7964,anger
+1308,1819,"This could include allowing people to meet in larger groups if all of them are vaccinated, offices where all staff are vaccinated to operate normally, and individuals to have fewer restrictions when travelling, he said.",26/2/21,0.075,0.575,0.0,1.0,0.0,0.0,anger
+1311,1822,"uselessbum wrote: Before that, didn't they themselves say that they cannot let up on measures because still no hard data on whether vaccination can prevent transmission?",26/2/21,0.14583333333333334,0.5416666666666666,0.13,0.83,0.04,-0.3612,anger
+1330,1843,to be fair.,25/2/21,0.7,0.9,0.0,0.465,0.535,0.3182,anger
+1337,1850,I would be shocked if they approve to use sinovac here when we have better vaccines.,25/2/21,-0.09999999999999998,0.65,0.126,0.714,0.159,0.1531,anger
+1349,1862,Especially with a Covid in the mix.,25/2/21,0.0,1.0,0.0,1.0,0.0,0.0,anger
+1406,1927,Another chicken shi.ats talk about shi.ats?,24/2/21,-0.6,0.95,0.0,1.0,0.0,0.0,anger
+1422,1944,"My opinion only, i am not MOH.",24/2/21,0.0,1.0,0.0,1.0,0.0,0.0,anger
+1500,2041,"Then I read a post from someone (who claims to be) a molecular biology researcher on reddit explaining how RNA work/behave in general and in turn why they are confident in its safety or unlikelihood of long term adverse effects because of how they behave, how the body responds to it and also how there have been existing data already on clinical trials for the use of RNA therapy to treat other diseases.",24/2/21,0.09375,0.5270833333333333,0.032,0.855,0.113,0.7351,anger
+1501,2042,This actually did help me in my own decision to get jabbed.,24/2/21,0.3,0.55,0.0,0.803,0.197,0.4019,anger
+1521,2070,"Trying to divide the people, make people condemn one another for not adhering to a certain stand.",24/2/21,0.21428571428571427,0.5714285714285714,0.24,0.76,0.0,-0.529,anger
+1556,2105,"If you fall sick, you take the medications doctor prescribed to you without questions correct?",24/2/21,-0.7142857142857143,0.8571428571428571,0.191,0.809,0.0,-0.5106,anger
+1559,2108,How responsible is someone who refuse vaccination under these circumstances?,24/2/21,0.2,0.55,0.176,0.64,0.184,0.0258,anger
+1565,2114,"Not enough people take , sg can't open , they will make it compulsory.",24/2/21,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1571,2120,"Tschuus wrote: If you fall sick, you take the medications doctor prescribed to you without questions correct?",24/2/21,-0.7142857142857143,0.8571428571428571,0.171,0.829,0.0,-0.5106,anger
+1582,2134,Quote: How responsible is someone who refuse vaccination under these circumstances?,24/2/21,0.2,0.55,0.163,0.667,0.17,0.0258,anger
+1596,2157,Something must be wrong with the current batch of vaccines if our higher mortals are using this kind of blame culture tactic to push sinkie to go inject.,24/2/21,0.0875,0.675,0.182,0.818,0.0,-0.6997,anger
+1599,2160,JustForFun wrote: Wrong.,24/2/21,-0.5,0.9,0.608,0.392,0.0,-0.4767,anger
+1603,2174,waste people time only.,24/2/21,-0.1,0.5,0.483,0.517,0.0,-0.4215,anger
+1604,2175,Soulhacker wrote: Something must be wrong with the current batch of vaccines if our higher mortals are using this kind of blame culture tactic to push sinkie to go inject.,24/2/21,0.0875,0.675,0.171,0.829,0.0,-0.6997,anger
+1608,2181,"Now they using tactics of those in forcing certain industries like healthcare, transport to jab.",24/2/21,0.21428571428571427,0.5714285714285714,0.0,0.739,0.261,0.5574,anger
+1654,2246,Sheer stupidity to take for granted that the vaccine is safe.,24/2/21,-0.033333333333333326,0.75,0.184,0.506,0.31,0.25,anger
+1656,2248,Safe as far as the current knowledge database that is established.,24/2/21,0.19999999999999998,0.6333333333333333,0.0,0.775,0.225,0.4404,anger
+1659,2251,"Wise up, smart Alec !",24/2/21,0.4839285714285714,0.7714285714285715,0.0,0.247,0.753,0.7263,anger
+1707,2308,wrote: ^ fake news paid deposit doesn't mean received That bags the question - Why pay for a yet-to-be-approved vaccine in advance ?,20/2/21,-0.40625,0.84375,0.209,0.791,0.0,-0.5423,anger
+1709,2310,Manthink wrote: LOL!..isn't this precisely what I had alluded to ?,20/2/21,0.4,0.8,0.0,1.0,0.0,0.0,anger
+1729,2333,"The key reason why Brazil is one of the largest user of the Chinese Coronavac is not just about the cost, but also vaccine's tolerance to higher storage temperature and longer storage  vs BioNTech/Pfizer Covid  -60C ultra-low storage.",20/2/21,0.08333333333333333,0.5,0.0,0.93,0.07,0.4215,anger
+1750,2359,"Manthink wrote: Well, I am glad that u are having ""fun"" and insist in showing your appreciation...Your testimony confirms EDMW folks will read my  views and opinion based on facts and news.. Perhaps u should also be thanking SG gov for their quick decision to ensure we have a wide source of vaccines, even it means having to pay for the delivery for yet-to-be-approved vaccine in advance.",20/2/21,0.2583333333333333,0.525,0.021,0.866,0.113,0.743,anger
+1755,2364,And continue spinning dumb assertions to crawl out of your own fake news?,20/2/21,-0.09166666666666667,0.8333333333333334,0.368,0.632,0.0,-0.7506,anger
+1759,2370,And continue spinning dumb assertions to crawl out of your own fake news?Lolol.,20/2/21,-0.09166666666666667,0.8333333333333334,0.368,0.632,0.0,-0.7506,anger
+1760,2371,"Yes, I am indeed thankful that you are just a deluded soul sitting behind the screen typing nonsense and not anyone of use to SG\u2019s response to Covid.",20/2/21,-0.4,0.7,0.084,0.717,0.199,0.5719,anger
+1767,2381,"Anyway, not sure why u refuse to validate my a~e while giving 2 links without providing any explicit justification... Oh btw,  the info within the links is relevant  to your question on ""Since when has SG received the Sinovac delivery? """,20/2/21,0.07500000000000001,0.8944444444444444,0.046,0.795,0.159,0.5894,anger
+1783,2409,You claim that sinovac delivery has arrived in Singapore but lends nothing to back it up except for your own imagination and assumption.,20/2/21,0.3,0.5,0.0,1.0,0.0,0.0,anger
+1786,2412,You claim that sinovac delivery has arrived in Singapore but lends nothing to back it up except for your own imagination and assumption.I don\x92t understand your specific kind of stupidity to claim otherwise but I \x93admire\x94 that you are totally committed to your own kind of stupidity.,20/2/21,0.1333333333333333,0.7416666666666667,0.157,0.787,0.057,-0.7572,anger
+1795,2425,"Nothing in my sources that claim sinovac has arrived in Sg, not surprised that you again failed to comprehend a simple article.",20/2/21,-0.18333333333333335,0.5190476190476191,0.207,0.793,0.0,-0.608,anger
+1817,2469,"#ManIsMalu basically he is not man enough to admit he lied, was wrong and had nothing to do with facts and truth.",21/2/21,-0.25,0.7,0.205,0.647,0.147,-0.3818,anger
+1861,2550,"As for trust not too sure though, there are of allies to a common enemy (US).",21/2/21,0.1,0.6944444444444444,0.263,0.578,0.159,-0.2874,anger
+1876,2579,Then will choose Sinovac or other non NLP mRNA vaccine Not sure if this possible in  foreseeable future since the richer countries (esp the Americans and Europeans) are hoarding the vaccine supply at the cost of rest of the world... BBC - Rich countries hoarding Covid vaccines https://www.bbc.com/news/health-55229894 ...analysis found that rich countries have bought enough doses to vaccinate their entire populations three times over if all the vaccines are approved for use.,22/2/21,0.046875,0.6267361111111112,0.024,0.813,0.163,0.9088,anger
+1877,2580,"Canada, for example, has ordered enough vaccines to protect each Canadian five times...",22/2/21,0.0,0.5,0.0,0.822,0.178,0.3818,anger
+1883,2590,"Alot of people in this thread also saying you are fake news and lying leh, can you see?",22/2/21,-0.5,1.0,0.289,0.711,0.0,-0.7579,anger
+1884,2591,Many also saying that sinovac has not been received by Singapore leh.,22/2/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+1942,2674,But to do that will have to be deliberate right?,22/2/21,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,anger
+1946,2683,when ur lack of objectivity kenna screwed by your own bias.,24/2/21,0.6,1.0,0.463,0.537,0.0,-0.7096,anger
+1954,2697,The lack of transparency with sinovac data makes it very hard for me to trust it.,24/2/21,-0.3791666666666667,0.7041666666666666,0.197,0.641,0.163,0.079,anger
+1974,2738,It\x92s only not obvious to the liar who needs to keep lying to cover up his original lie.,24/2/21,0.125,0.75,0.279,0.625,0.096,-0.6597,anger
+1976,2740,"Lol, don\x92t need for any pathetic spin that that you meant that it transited Singapore and then went on to Indonesia to cover up your lie, which by the way didn\x92t happen also.",24/2/21,-0.09999999999999998,0.85,0.099,0.827,0.075,-0.2263,anger
+1983,2750,Or are you stupid not to differentiate facts from fiction?,24/2/21,-0.7999999999999999,1.0,0.274,0.726,0.0,-0.5267,anger
+1986,2755,"Lol, you just pichar the lobang of this liar Manthink.",24/2/21,0.8,0.7,0.264,0.545,0.191,-0.2675,anger
+2010,2788,"Rationally, we want to be protect against the worst cases.",24/2/21,-1.0,1.0,0.273,0.467,0.26,-0.296,anger
+2039,2838,On top of that only Recently china approved sinovac as non emergency rollout no?,24/2/21,0.16666666666666666,0.5833333333333334,0.247,0.515,0.237,-0.0516,anger
+2065,2880,You are really a horrible wumao just spreading lies Quote: Shipments of COVID-19 vaccines 8.,24/2/21,-1.0,1.0,0.355,0.645,0.0,-0.7645,anger
+2076,2891,eeLoyH wrote: Reported for spreading fake news.,25/2/21,-0.5,1.0,0.341,0.659,0.0,-0.4767,anger
+2077,2893,You are really a horrible wumao just spreading lies Plus no shame in being a clone,25/2/21,-1.0,1.0,0.543,0.457,0.0,-0.8977,anger
+2095,2920,"Or perhaps that ""someone"" has advanced knowledge of impending delivery of Sinovac vaccine to SG gov by end of the month.",25/2/21,0.4,0.6,0.0,0.909,0.091,0.25,anger
+2103,2935,"No point attacking with name callings and accusing others of ""spreading fake news"".",25/2/21,-0.5,1.0,0.526,0.474,0.0,-0.8402,anger
+2112,2944,"Fact check: SIA statement on Gov website (17 Feb 2021) https://www.sgpc.gov.sg/sgpcmedia/me...20Vaccines.pdf Delivery of vaccines to Singapore Earlier this month, SIA transported a shipment of Sinovac Covid-19 vaccines to Indonesia on 2 February.",25/2/21,0.0,0.5,0.0,1.0,0.0,0.0,anger
+2114,2946,https://www.moh.gov.sg/news-highligh...vaccine-choice Question To ask the Minister for Health (a) how do the key differences between the Moderna and Pfizer-BioNTech vaccines influence the Government\x92s decision in purchasing and allocating vaccines; and (b) whether the Government will consider allowing residents a choice over which vaccine to use if it will impact their decision to be vaccinated.,25/2/21,0.0,1.0,0.0,1.0,0.0,0.0,anger
+2129,2963,* This can be extended to other relevant Government applications where appropriate.,25/2/21,0.25833333333333336,0.5916666666666667,0.0,1.0,0.0,0.0,anger
+2180,3041,"It's just that the companies very quickly adapted what they were doing for other diseases for Covid-19,"" said Prof Seet.",24/2/21,0.15416666666666667,0.5125,0.0,1.0,0.0,0.0,anger
+2256,3135,"Wrong COVID-19 vaccine dosage for SNEC employee, vaccination certificates set to be discussed in Parliament SINGAPORE: The administration of the wrong dosage of the COVID-19 vaccine to a Singapore National Eye Centre (SNEC) staff member and vaccination certificates are among the topics set to be discussed in Parliament on Wednesday (Feb 24).",23/2/21,-0.5,0.9,0.112,0.888,0.0,-0.7351,anger
+2266,3145,"hope mr gan kim yong, the health minster  is ready for all question throw at him Sai Baba wrote: Wrong COVID-19 vaccine dosage for SNEC employee, vaccination certificates set to be discussed in Parliament SINGAPORE: The administration of the wrong dosage of the COVID-19 vaccine to a Singapore National Eye Centre (SNEC) staff member and vaccination certificates are among the topics set to be discussed in Parliament on Wednesday (Feb 24).",23/2/21,-0.26666666666666666,0.7666666666666666,0.08,0.851,0.07,-0.2023,anger
+2269,3153,"""Once people from both countries have been vaccinated, the movement between our two countries will be easier and safe, "" he said.",23/2/21,0.5,0.5,0.0,0.769,0.231,0.6908,anger
+2272,3156,Datuk Hasni added that the state government was ready to carry out the immunisation programme at designated vaccination centres in each district statewide.,23/2/21,0.2,0.5,0.0,0.898,0.102,0.3612,anger
+2276,3160,"Malaysia recorded 2,192 more Covid-19 infections on Monday, bringing total cases to 285,761, says the Health Ministry.",23/2/21,0.25,0.625,0.0,1.0,0.0,0.0,anger
+2302,3186,70niner wrote: Yes especially if being vaccinated allows me to travel overseas for leisure without quarantine Make sense.,22/2/21,0.0,1.0,0.0,0.863,0.137,0.4019,anger
+2306,3190,70niner wrote: Yes especially if being vaccinated allows me to travel overseas for leisure without quarantine Very likely.,22/2/21,0.0,1.0,0.0,0.863,0.137,0.4019,anger
+2311,3201,Wait till they open up slots for those who want to pay for the vaccine.,22/2/21,0.0,0.5,0.089,0.828,0.083,-0.0258,anger
+2316,3206,"WTF don't take, don't travel.",22/2/21,-0.5,1.0,0.531,0.469,0.0,-0.6739,anger
+2376,3280,"""If confirmed, this would be the first time H5N8 has infected people,"" a WHO Europe spokesperson said in a statement Saturday.",21/2/21,0.325,0.6666666666666666,0.151,0.849,0.0,-0.4939,anger
+2398,3307,Where are all those who anti-ccp vaccine for the sake of their some kind of agenda.,18/1/21,0.6,0.9,0.0,1.0,0.0,0.0,anger
+2456,3375,"So if got any shots left by end of dat, likely ask who had not be vaccinated volunteer.",19/2/21,0.0,0.5,0.0,1.0,0.0,0.0,anger
+2463,3392,"~ Sent from Google PIXEL 9B using GAGT no lah, dont be stupid.",19/2/21,-0.7999999999999999,1.0,0.147,0.668,0.185,0.1471,anger
+2464,3393,they will open depending on the number of people who have registered at the counter.,19/2/21,0.0,0.5,0.0,0.915,0.085,0.0772,anger
+2465,3394,"plus, if they allow this kind of nonsense, closing time many people will chiong in and cause problem third reason is, the system only allows you to proceed after you have made appointments for BOTH DOSES.",19/2/21,0.275,0.6,0.14,0.813,0.047,-0.5849,anger
+2467,3396,"pikafunk3 wrote: no lah, dont be stupid.",19/2/21,-0.7999999999999999,1.0,0.221,0.501,0.278,0.1471,anger
+2487,3420,Junyou2010 wrote: My stupid father wanted to take the jab so badly keep going downstairs to check the mailbox.,19/2/21,-0.7499999999999999,0.8333333333333333,0.303,0.697,0.0,-0.8122,anger
+2570,3521,its good that the body reacts this way.,19/2/21,0.7,0.6000000000000001,0.0,0.707,0.293,0.4404,anger
+2591,3547,Like this of course PAP wanted to quickly used it up.,19/2/21,0.3333333333333333,0.5,0.0,0.8,0.2,0.3612,anger
+2600,3560,Only 30mins window to claim.,19/2/21,0.0,1.0,0.0,1.0,0.0,0.0,anger
+2610,3571,Many would not want this.,19/2/21,0.5,0.5,0.234,0.766,0.0,-0.0572,anger
+2626,3590,It was a honest mistake.,19/2/21,0.6,0.9,0.312,0.26,0.429,0.2263,anger
+2653,3619,like that any case also can  say no evidence and shirk off any responsibility ma Sent from my mother phone Totally agreed.,19/2/21,0.0,0.75,0.084,0.728,0.188,0.4005,anger
+2683,3659,Why would I want to put myself and my family members in such a corner ?,19/2/21,0.0,0.5,0.0,0.902,0.098,0.0772,anger
+2688,3664,"LONDON (REUTERS) - Rich countries are on course to have over a billion more doses of Covid-19 vaccines than they need, leaving poorer nations scrambling for leftover supplies as the world seeks to curb the coronavirus pandemic, a report by anti-poverty campaigners found on Friday (Feb 19).",19/2/21,0.4375,0.625,0.052,0.873,0.075,0.2732,anger
+2693,3669,"""This huge excess is the embodiment of vaccine nationalism,"" said Jenny Ottenhoff, ONE Campaign's senior director for policy.",19/2/21,0.4000000000000001,0.9,0.0,0.881,0.119,0.3182,anger
+2694,3670,"""Rich countries understandably hedged their bets on vaccines early in the pandemic but with these bets paying off in spades, a massive course correction is needed if we are going to protect billions of people around the world,"" she added.",19/2/21,0.15833333333333333,0.6833333333333332,0.0,0.867,0.133,0.6908,anger
+2702,3678,"SimpliCity2k wrote: LONDON (REUTERS) - Rich countries are on course to have over a billion more doses of Covid-19 vaccines than they need, leaving poorer nations scrambling for leftover supplies as the world seeks to curb the coronavirus pandemic, a report by anti-poverty campaigners found on Friday (Feb 19).",19/2/21,0.4375,0.625,0.05,0.878,0.072,0.2732,anger
+2704,3689,"i listened on radio they got that leong hoe nam guy go whitewash the dangers of getting vaccine.. he said something like "" don't take that because the vaccine is rushed it is dangerous, because the vaccines are developed in places where covid19 infections are very high..... "" how is that reassuring?",19/2/21,-0.09733333333333333,0.634,0.111,0.777,0.111,-0.25,anger
+2707,3692,Many edmw here that say don't take it..,19/2/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+2767,3768,The story was someone spiked his drink with heroin and he became addicted to drugs.,24/7/20,-0.4,0.6,0.186,0.814,0.0,-0.4939,anger
+2783,3792,Complain about my violent father lor who keep asking me to apply for passports and make use of me to do things.,24/7/20,-0.8,1.0,0.242,0.758,0.0,-0.7506,anger
+2787,3796,Sometimes treat me nice sometimes she scorn me.,24/7/20,0.6,1.0,0.205,0.379,0.417,0.4215,anger
+2805,3830,were u ever able to talk to some1 else about these issues?,24/7/20,0.5,0.625,0.0,1.0,0.0,0.0,anger
+2827,3879,Just most intrigued by this condition.,24/7/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+2833,3885,Just totally haywire..,24/7/20,0.0,0.75,0.0,1.0,0.0,0.0,anger
+2866,3941,"Not sure if you can ask for a divination lot or not, usually I advise people to seek help from gods and goddesses instead of asking ghosts for help.",27/7/20,-0.0625,0.5694444444444444,0.059,0.696,0.245,0.7301,anger
+2875,3950,"After the CT scans, the neurologist said there was nothing wrong with my brain and recommended me to go IMH.",29/8/20,-0.5,0.9,0.0,0.805,0.195,0.5194,anger
+2888,3965,"Posted from my love nest ^_^\u2605 HardwareZone Forums app No chance to talk, only ssw her side view once, the rest of the story, the cobbler told me, verified by the smrt uncles.",9/3/20,0.25,0.8,0.057,0.781,0.161,0.6124,anger
+2891,3968,"Most of the other abnormal pple are men, i'm stills curious her story, she said she was raped.",9/3/20,0.09166666666666667,0.625,0.201,0.699,0.1,-0.5106,anger
+2892,3969,"helloicanseeu wrote: No chance to talk, only ssw her side view once, the rest of the story, the cobbler told me, verified by the smrt uncles.",9/3/20,0.0,1.0,0.078,0.851,0.071,-0.0516,anger
+2928,4014,"since the virus supposedly started in china.. i'd have more trust in pfizer if their ceo didnt sell the stocks right after the vaccine announcement, and furthermore, he's not gonna take the vaccine.. yet.",15/12/20,0.39285714285714285,0.5178571428571428,0.0,0.902,0.098,0.5563,anger
+2957,4058,Don't think that PAP is playing safe by diversifying.,15/12/20,0.5,0.5,0.0,0.598,0.402,0.5719,anger
+2958,4059,The potential problems down the line often go undiscussed.,15/12/20,-0.07777777777777779,0.6444444444444445,0.252,0.748,0.0,-0.4019,anger
+2975,4080,"The FDA said it would, however, recommend \x93surveillance\x94 for cases of Bell\x92s Palsy as the vaccine is sent out to larger groups of people.",15/12/20,0.0,0.5,0.0,0.902,0.098,0.3612,anger
+2997,4109,Even Pfizer CEO sold his stocks before vaccine news release and refuse to take his own vaccine.,17/12/20,0.6,1.0,0.121,0.879,0.0,-0.296,anger
+3060,4179,"What the hell, what jab 5 times, you kumgong is it Wah lao eh you\u2019re even worse than the staff who made the error One vial has 5 doses in it, and the staff is supposed to dilute/dissolve it and separate them into 5 divided doses/injections, but he/she did not.",2/6/21,-0.4,0.6,0.132,0.868,0.0,-0.6908,anger
+3062,4181,"BBClone wrote: What the hell, what jab 5 times, you kumgong is it Wah lao eh you\x92re even worse than the staff who made the error One vial has 5 doses in it, and the staff is supposed to dilute/dissolve it and separate them into 5 divided doses/injections, but he/she did not.",2/6/21,-0.4,0.6,0.127,0.873,0.0,-0.6908,anger
+3072,4196,"Oh boy, all these people Come on, please use some common sense One vial has 5 undiluted doses, there was a mistake in preparation when the staff did not separate out the 5 doses for 5 individuals, and instead gave them all to one person",2/6/21,-0.3,0.5,0.055,0.892,0.053,-0.0258,anger
+3075,4199,henrytlh wrote: How does the person even allow 5 needles to be poked without saying anything 1 jab but the vaccine dosage is 5x more concentrated...,2/6/21,0.5,0.5,0.0,0.941,0.059,0.1154,anger
+3094,4218,Dont be an idiot yourself.,2/6/21,-0.8,0.8,0.0,0.597,0.403,0.4023,anger
+3115,4241,"""SNEC takes a very serious view of this incident.",2/6/21,-0.43333333333333335,0.8666666666666667,0.185,0.815,0.0,-0.1513,anger
+3121,4247,Explanation is amateurish as those administering injection are not allowed out of the room.,2/6/21,-0.4,0.8,0.0,1.0,0.0,0.0,anger
+3128,4261,RetroActive wrote: they should sexplain why they are only reporting the incident more than 3 weeks after it happened?,2/6/21,0.25,0.75,0.0,1.0,0.0,0.0,anger
+3150,4283,"It added that after the vaccination exercise at SNEC was immediately suspended, it focused on investigations and putting in place measures to ensure that such lapses do not happen again.",2/6/21,0.0,0.5,0.088,0.765,0.147,0.2732,anger
+3152,4285,"The employee responsible for administering the erroneous injection has been counselled, it added.",2/6/21,-0.15,0.575,0.174,0.683,0.143,-0.128,anger
+3162,4295,I wonder how many cases before this case did he do it for others without checking.,2/6/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+3165,4298,Can't believe that MOH is trivialising such a huge lapse on their part.,2/7/21,0.20000000000000004,0.7,0.163,0.68,0.156,-0.0258,anger
+3175,4308,This is crap.,2/7/21,-0.8,0.8,0.565,0.435,0.0,-0.3818,anger
+3178,4312,"This time, they said it is unlikely to be harmful to receive more than recommended dose.",2/7/21,0.0,0.5,0.0,0.878,0.122,0.2682,anger
+3187,4323,"s-ghost wrote: staff who was diluting the vaccine was asked to go handle something, another staff who took over thought is the right dosage Why the vaccine need to be diluted one?",2/7/21,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,anger
+3189,4325,All because the long term side effects are still unknown.,2/7/21,-0.07500000000000001,0.5,0.0,1.0,0.0,0.0,anger
+3195,4338,Insist that you are exercising your rights as stupid accident like this can happen.,2/7/21,-0.7999999999999999,1.0,0.325,0.55,0.125,-0.6124,anger
+3200,4343,Had casually asked the nurse if the vial was for 1 dose.,2/8/21,-0.5000000000000001,0.8666666666666667,0.0,0.855,0.145,0.1779,anger
+3221,4370,I'm quite surprised many people I talked to in real life don't know about this.,2/3/21,0.26666666666666666,0.5666666666666667,0.0,0.856,0.144,0.2944,anger
+3251,4408,So surprised gov has not built a system for people who want the vaccine asap to register.,2/10/21,0.1,0.9,0.0,0.8,0.2,0.3597,anger
+3259,4416,"Noting that the Government has prioritised the aviation sector in the national drive to vaccinate Singaporeans and other long-term residents, SIA said this reflected the sector's importance and the national carrier's crucial role in Singapore's economic recovery and the fight against Covid-19.",2/11/21,0.025000000000000005,0.525,0.058,0.887,0.055,-0.0258,anger
+3261,4418,"He added: ""They offer greater protection for our people and provide an added layer of assurance to our customers.""",2/11/21,0.5,0.5,0.0,0.776,0.224,0.5994,anger
+3315,4505,In terms of the absolute number of people in the trails they met the numbers.,25/1/21,0.2,0.9,0.0,0.915,0.085,0.0772,anger
+3347,4542,"If they trust people to make their own informed choice, it should extend to the vaccine brand But of cos now I know why.",25/1/21,0.6,1.0,0.0,0.808,0.192,0.6124,anger
+3351,4552,If only half of EdmwErs here will listen to your advice...,25/1/21,-0.08333333333333333,0.5833333333333334,0.0,1.0,0.0,0.0,anger
+3389,4598,"There are (and were) people who are optmistic, that is fine, i mean pax were optimistic that leisure travel would have resumed by Dec 2020.",26/1/21,0.05208333333333334,0.59375,0.0,0.843,0.157,0.4767,anger
+3431,4668,"Remember hor when someone is vaccinated, you are not only protecting that person but also other ppl as well.",2/9/21,-0.0625,0.6875,0.0,0.872,0.128,0.3919,anger
+3511,4771,Can\x92t be they have to wait for others to beta test for them right?,2/8/21,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,anger
+3515,4778,Efficacy for vaccines creates this way has never been high.,2/8/21,0.16,0.5399999999999999,0.0,0.811,0.189,0.2732,anger
+3519,4782,"Are people more careless, complacent and reckless during periods leading up to national holidays or festive seasons?",2/7/21,0.0,0.7,0.287,0.486,0.227,-0.1208,anger
+3534,4798,"Nothing unexpected, because as said before, because they are not like the VCO which works on the virus envelope.",2/7/21,0.1,1.0,0.105,0.895,0.0,-0.2755,anger
+3558,4823,Should be fake news Only trust news from CCP directly.,2/7/21,-0.13333333333333333,0.7999999999999999,0.215,0.556,0.229,0.0516,anger
+3573,4840,\x93SNEC takes a very serious view of this incident.,2/7/21,-0.43333333333333335,0.8666666666666667,0.185,0.815,0.0,-0.1513,anger
+3588,4855,"For Regeneron\u2019s medication, it uses a monoclonal antibody that \u201ctargets the spike protein the virus uses to drill into healthy cells\u201d, and another antibody that targets a different part of the COVID-19, as reported by CNN on 30 September.",10/5/20,0.25,0.55,0.0,0.93,0.07,0.4019,anger
+3606,4873,"For Regeneron\x92s medication, it uses a monoclonal antibody that \x93targets the spike protein the virus uses to drill into healthy cells\x94, and another antibody that targets a different part of the COVID-19, as reported by CNN on 30 September.",10/5/20,0.25,0.55,0.0,0.93,0.07,0.4019,anger
+3636,4915,"For the rest of us, do hurry and continue the safe distancing measures.",23/2/21,0.5,0.5,0.0,0.805,0.195,0.4404,anger
+3656,4945,Ebola vaccines are good example of this.,3/1/21,0.7,0.6000000000000001,0.0,0.674,0.326,0.4404,anger
+3668,4957,“vaccination is a money making industry” ok which industry isn’t money making??,25/4/20,0.5,0.5,0.0,0.796,0.204,0.3736,anger
+3676,4966,@pragmalaya @Khairykj @DrAdhamBaba @DGHisham Call me skeptical.,23/2/21,-0.5,0.5,0.277,0.723,0.0,-0.3182,anger
+3679,4969,@inquirerdotnet Hard to believe these people didn’t anticipate the need for indemnification clause.,23/2/21,-0.2916666666666667,0.5416666666666666,0.104,0.896,0.0,-0.1027,anger
+3688,4978,"But important not to confuse them, look carefully which one you’re reading about.",18/2/21,0.15000000000000002,1.0,0.0,0.668,0.332,0.4526,anger
+3698,4988,@CGChinaLiYang They are trying to keep the world market to their own big pharmas.,14/2/21,0.3,0.55,0.0,1.0,0.0,0.0,anger
+3740,5030,If people think anyone is going to waste microchips on vaccines when there are shortages of this magnitude they’ve forgotten that companies don’t give away free expensive stuff if they don’t have to.,12/2/21,-0.09999999999999999,0.5,0.163,0.751,0.085,-0.25,anger
+3742,5032,The case of of the snowed in vaccination team and motorists was random event.,12/2/21,-0.5,0.5,0.0,1.0,0.0,0.0,anger
+3746,5036,"Of all the terrible things done by the Trump admin, one of the most purely, nihilistically evil has to be lying to the Biden team and the governors about the vaccine stockpile.",12/2/21,-0.3214285714285714,0.75,0.283,0.717,0.0,-0.9089,anger
+3748,5038,"Despite of its efficacy, vaccination may end up as an excuse to lift up boring lockdown.On either counts we will be free.",12/2/21,-0.21666666666666667,0.6166666666666667,0.089,0.734,0.178,0.3182,anger
+3755,5045,"This kind of thing was documented in H1N1 too, not the punishment but practitioners having to make decisions about what to do with vaccine: toss it or administer it to whoever can use it in time?",11/2/21,0.6,0.9,0.0,0.951,0.049,0.2057,anger
+3815,5108,"PRRD appeals to the CPP-NPA-NDF that it must guarantee that the COVID vaccines will be transported freely and safely, saying that the vaccines and the money used to buy them belong to the Filipino people.",8/2/21,0.45,0.65,0.0,0.798,0.202,0.7964,anger
+3816,5109,"PRRD appeals to the CPP-NPA-NDF that it must guarantee that the COVID vaccines will be transported freely, saying that the vaccines and the money used to buy them belong to the Filipino people.",8/2/21,0.4,0.8,0.0,0.864,0.136,0.5994,anger
+3829,5122,We also have to retest efficacy when things arrive on our own.,8/2/21,0.6,1.0,0.0,1.0,0.0,0.0,anger
+3840,5133,You can’t spin the facts and blame it on fake news.,8/2/21,-0.5,1.0,0.379,0.621,0.0,-0.6705,anger
+3854,5147,@News24 Person that was sent to collect the Vaccines is to be blamed He or she had to demand to see the e product and check expiry date  I once posted a joke of expired vaccine not knowing its actually true 😂😂😂😂😂  I give you this special my friend no need open you see at home 🤣🤣🤣,8/2/21,0.23571428571428568,0.5738095238095239,0.106,0.717,0.177,0.6731,anger
+3921,5234,Infact most existing pop didn't need it at all.,25/10/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+3978,5292,How could they create it so quickly without having all the genetic information?,25/3/20,0.3333333333333333,0.5,0.0,0.851,0.149,0.2732,anger
+3987,5301,"@MavenVoyager @DelthiaRicks It just hasn’t been picked up, and likely won’t be until the WHO steps in and sends teams in.",3/3/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+3991,5305,Alien: Should we drop them the vaccine from one of our capsules?,24/1/20,-0.25,0.75,0.16,0.84,0.0,-0.2732,anger
+3992,5306,"Alien General: no, let them be, that messes up their whole Evolution thing, you know, the one about survival of the fittest.",24/1/20,9.25185853854297e-18,0.5499999999999999,0.095,0.905,0.0,-0.296,anger
+4029,5343,Facebook university experts churn out infections diseases specialist are never to be trusted.Vaccination save life and prevent stupidity from brain damage.,13/3/21,-0.6,1.0,0.223,0.62,0.157,-0.4215,anger
+4031,5345,Already stupid,13/3/21,-0.7999999999999999,1.0,0.773,0.227,0.0,-0.5267,anger
+4040,5354,That’s why these Covid vaccines approved for Emergency Use ONLY.,10/3/21,0.0,1.0,0.194,0.597,0.209,0.0516,anger
+4042,5356,Everybody responds or reacts differently to the vaccination.,10/3/21,0.0,0.6,0.0,1.0,0.0,0.0,anger
+4043,5357,This is the reason why they can’t confirm: how long the these vaccines will ”protect” you especially if the virus mutates or whether you can still transmit the virus if infected.,10/3/21,-0.025,0.7,0.096,0.904,0.0,-0.4939,anger
+4092,5406,"Vaccine is great effort, it's results for long term.govts fail to control birth esp among the citizens who comes under poverty line, as govts can't anymore allocate billions for education,health,homes,welfare funds,etc for the poor, as year by year this group of people (population) increase tremdously.",11/3/21,-0.037500000000000006,0.5125,0.176,0.71,0.114,-0.5423,anger
+4128,5442,My parents had mobility issues and ended up changing his appointment time (after a 45min queue at the counter for enquiries) but a neighbor who persisted with the whole process ended up getting his jab only at 830.,8/3/21,0.1,0.7,0.0,1.0,0.0,0.0,anger
+4130,5444,"I wouldn't be surprised if we ended up with ""vaccination centre clusters"" after this.",8/3/21,0.1,0.9,0.122,0.878,0.0,-0.1695,anger
+4142,5456,I believe they've done this is the UAE to cater to those rich people who go there for 'vaccine holiday'.,6/3/21,0.375,0.75,0.0,0.833,0.167,0.5574,anger
+4157,5471,"If that’s your attitude , better don’t take and stay at home , safer .",5/3/21,0.5,0.5,0.0,0.637,0.363,0.6908,anger
+4158,5472,"With such people , imagine a super virus emerges because of such mentalities .",5/3/21,0.1111111111111111,0.5555555555555555,0.0,0.719,0.281,0.5994,anger
+4164,5478,"Doesn't mean you take a flu jab, you are not gonna catch a flu again right?",5/3/21,-0.01339285714285715,0.6116071428571428,0.302,0.698,0.0,-0.6369,anger
+4194,5508,"There were already cases of fake( tampered)Covid vaccines in China, should be good enough reason not to subject Singaporeans to unneeded risk.",1/3/21,0.008333333333333325,0.6083333333333334,0.084,0.8,0.116,0.2023,anger
+4202,5517,"Fortunately, our national leaders did not blink n was prepared to work closer with the US, India and Russia, three of China’s key strategic rivals to establish geopolitical balance n equilibrium.",1/3/21,0.2,0.85,0.056,0.944,0.0,-0.1695,anger
+4207,5522,No need for that as these people only look at the carrots and waiting for crumbs.,2/3/21,0.0,1.0,0.128,0.872,0.0,-0.296,anger
+4209,5524,"Anyway, when they threaten you with your economy, you’ll quickly kowtow to them to bring their loads of citizens into this country at the expense of your people.",2/3/21,0.3333333333333333,0.5,0.088,0.912,0.0,-0.3818,anger
+4243,5558,"People from some countries came to work in sg with fake degrees, came in with fake medical certs only to be tested positive for covid upon arrival, can we trust their so called vaccination cert?",24/2/21,-0.15454545454545454,0.7090909090909091,0.141,0.703,0.156,0.1779,anger
+4251,5566,Be safe when you go for vaccine to travel then be Rob when some of the countries are still struggling.,24/2/21,0.5,0.5,0.243,0.646,0.11,-0.5423,anger
+4257,5572,I thought that Australia was better than that.,24/2/21,0.5,0.5,0.0,0.674,0.326,0.4404,anger
+4281,5596,"Don't be discouraged by what people may tell you that even don't know the situation you are going through, all that matters are the results so feel free to contact her.",24/2/21,0.4,0.8,0.0,0.801,0.199,0.7128,anger
+4291,5606,Using wealth to procure vaccines for their people  I see nothing wrong  But abusing wealth to bully and target people in return for lazy lives is criminal  You do easy work and you are capable of doing complex work is terrible Betraying the ideals and principles that define a nation for own self interest are traitors trait,23/2/21,-0.15208333333333335,0.7604166666666667,0.198,0.529,0.274,0.6167,anger
+4311,5626,Many of us are still waiting for our turn to be called and we know that some leftover doses cannot be kept at the end of the day.,11/3/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+4312,5627,Many people in the world still don’t have a chance to get vaccines.,11/3/21,0.5,0.5,0.0,0.846,0.154,0.25,anger
+4337,5652,Guys please take note;  This happened to a friend yesterday and it is an important information for our age group.,20/2/21,0.4,1.0,0.0,0.687,0.313,0.743,anger
+4346,5661,"As the Covid-19 vaccine is purely voluntary, there should be laws to safeguard and uphold this freedom.",19/2/21,0.21428571428571427,0.5,0.0,0.664,0.336,0.8225,anger
+4357,5672,Who's going to be responsible?,19/2/21,0.2,0.55,0.0,0.635,0.365,0.3182,anger
+4358,5673,Oh stupid me I forgot.,19/2/21,-0.7999999999999999,1.0,0.531,0.469,0.0,-0.5267,anger
+4367,5682,Most of time I don’t think we can prove so that’s mean we have to pay for our own medical expenses.,19/2/21,0.196875,0.546875,0.069,0.931,0.0,-0.1027,anger
+4393,5708,"Covid also cause brain damage, like stupidity.",18/2/21,-0.6,1.0,0.484,0.317,0.198,-0.5574,anger
+4394,5709,"If stupid already, I suppose not necessary to be vaccinated anymore.",18/2/21,-0.39999999999999997,1.0,0.274,0.726,0.0,-0.5267,anger
+4410,5725,Would they be summoning the spirits to help them especially those who are illiterate?,18/2/21,0.0,1.0,0.0,0.828,0.172,0.4019,anger
+4413,5734,Many more types of vaccines are sure to flood the market.,6/2/21,0.5,0.6296296296296297,0.0,0.813,0.187,0.3182,anger
+4415,5736,Now that there are tremendous profits to be made you can see the tide turning.,6/2/21,0.3333333333333333,1.0,0.0,0.828,0.172,0.4404,anger
+4418,5739,"This is not normal time, no time for profit.",6/2/21,-0.075,0.6499999999999999,0.0,0.594,0.406,0.5842,anger
+4450,5771,😂😂😂 I don‘t understand the logic behind this?,5/2/21,-0.4,0.7,0.0,1.0,0.0,0.0,anger
+4465,5788,"[but] it's possible that more people contracted the virus than previously thought, and some regions could be experiencing herd immunity.""",5/2/21,0.11111111111111112,0.5555555555555556,0.0,1.0,0.0,0.0,anger
+4478,5802,Facebook university experts churn out infections diseases specialist are never to be trusted.To all my sarcastic followers asking me to inform them when I am vaccinated...,4/2/21,0.1,0.8,0.077,0.923,0.0,-0.25,anger
+4506,5830,Not joking... Our government is top tier talent Singaporean.,1/2/21,0.5,0.5,0.0,0.603,0.397,0.5574,anger
+4518,5842,Their act of trying to close eyes and ears is against the people right.,2/2/21,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,anger
+4519,5843,Such act is unacceptable and please voice out on behalf of us.,2/2/21,0.0,0.5,0.196,0.654,0.15,-0.1779,anger
+4523,5847,UN and the world medias help our country- our leaders- our people - from this bitter acts.,2/2/21,-0.1,0.5,0.163,0.702,0.135,-0.1406,anger
+4588,5916,People from myanmar military top level are the worst .,1/2/21,-0.19999999999999998,0.5333333333333333,0.318,0.543,0.14,-0.5106,anger
+4631,6006,"Her civilian government was only given a puppet string to face all the international wrath .. while the army continues to do what they want, enjoy full power.",1/2/21,0.1875,0.5125,0.0,0.847,0.153,0.5423,anger
+4642,6028,Put them in a sampan with 5 bottles of dasani and bid them farewell and good luck,31/1/21,0.7,0.6000000000000001,0.0,0.688,0.312,0.7096,anger
+4646,6032,"When I was 16, I was busy catching up with the Naruto series, play guitar at void deck, and doing chatting on MIRC...",29/1/21,0.35,0.6,0.0,0.893,0.107,0.34,anger
+4655,6041,There are certain keywords which are flagged when a user keys them on search engines and the frequencies of them being used repeatedly is also being monitored..,28/1/21,0.21428571428571427,0.5714285714285714,0.0,0.923,0.077,0.2732,anger
+4656,6042,I do not hope how the tracking was done will be discuss here as I do not hope any terrorist ( or someone like this kid) will have chance to find out more on how sg do our tracking.,29/1/21,0.5,0.5,0.109,0.704,0.187,0.5308,anger
+4663,6049,The only way to eradicate radicals is educate them that we are all the same...,28/1/21,0.0,0.5625,0.0,1.0,0.0,0.0,anger
+4680,6066,"You don't see anyone being so filled with hatred from misinterpreting a science textbook until they want to kill others, or to vehemently deny them rights.",28/1/21,0.4,0.9,0.341,0.62,0.038,-0.9055,anger
+4704,6090,Christians forgive people because of their love for them.,30/1/21,0.5,0.6,0.0,0.526,0.474,0.743,anger
+4717,6103,"Not until i got in Contact with Mrs Genet Tadese i have always invested with him  and since then i have no complains  and my profit was paid without no delay or stress, you can give him a trial and become  a successful trader like me.",27/1/21,0.75,0.95,0.182,0.612,0.207,0.3318,anger
+4722,6108,"Stanford University PhD holders have introduced a digital currency called the Pi Network, which is now offering people free mining to help you make money without any kind of investment.",30/1/21,0.3333333333333333,0.5666666666666668,0.0,0.818,0.182,0.7184,anger
+4723,6109,"You are not asked to view any ads, etc., nor are you required to form your own team.",30/1/21,0.6,1.0,0.0,1.0,0.0,0.0,anger
+4724,6110,"To join this network, go to the play store and search for pi network After installing the app, when you open it, after creating an account  Then enter the Referral Code at the end without which you will not be able to open an account.",30/1/21,0.16666666666666666,0.5416666666666666,0.0,0.861,0.139,0.7003,anger
+4727,6113,Banks in Singapore always makes thing difficult when can do this in a simple way.,27/1/21,-0.25,0.6785714285714286,0.161,0.839,0.0,-0.3612,anger
+4729,6115,Only for this year yet probably only limited branches ATM have the new notes.,27/1/21,0.016233766233766232,0.6493506493506493,0.128,0.872,0.0,-0.2263,anger
+4730,6116,IT team of DBS can't create a easy to use web page for new notes reservations?,27/1/21,0.28484848484848485,0.6439393939393939,0.245,0.755,0.0,-0.4973,anger
+4734,6120,However it must be noted that SG is not self sufficient especially in food supply.,26/1/21,0.0,1.0,0.0,1.0,0.0,0.0,anger
+4747,6133,"When Trump wanted to do it, people screeched about racism and xenophobia......when Biden imposed new travel restrictions or other countries do it.....it’s a wise decision.",26/1/21,0.2371212121212121,0.5765151515151515,0.183,0.712,0.105,-0.3182,anger
+4774,6160,People like that girl and her family acted so irresponsibly and we have ignorant people supported such act that had caused inconvenience to the people in the country.,25/1/21,0.0,0.5,0.138,0.719,0.144,0.0516,anger
+4775,6161,This is just sick.,25/1/21,-0.7142857142857143,0.8571428571428571,0.524,0.476,0.0,-0.5106,anger
+4781,6167,Undoing the good work done by the population.,30/12/20,0.7,0.6000000000000001,0.0,0.707,0.293,0.4404,anger
+4783,6169,Creating a false sense of security to allow the crew to move around.,30/12/20,-0.4000000000000001,0.6,0.0,0.581,0.419,0.6705,anger
+4791,6177,"In my opinion, the strict itinerary that air crew goes through when overseas is a false sense of security.",30/12/20,-0.4000000000000001,0.6,0.0,0.876,0.124,0.34,anger
+4820,6208,"To avoid me playing the bad person, I ask her to go ask the hospital.",30/12/20,-0.6999999999999998,0.6666666666666666,0.308,0.595,0.097,-0.5994,anger
+4822,6210,Just raising an awareness and hope people will be more considerate in everyday life matters.,30/12/20,0.15,0.55,0.0,0.625,0.375,0.7346,anger
+4836,6224,"Whatever story, its wrong to assault another.",28/12/20,-0.5,0.9,0.58,0.42,0.0,-0.7845,anger
+4851,6239,Idiots like this only resort to bullying.,27/12/20,-0.4,0.9,0.342,0.439,0.219,-0.34,anger
+4908,6303,I will be surprised if they were to carry on.,13/6/20,0.1,0.9,0.0,0.808,0.192,0.2263,anger
+4954,6350,We’ll wear that proudly and perhaps encourage those skeptics to get the vaccine.,20/1/21,0.8,1.0,0.077,0.546,0.377,0.7579,anger
+4955,6351,"good question.....also this is not like taking panadol for headache, after 1hour you're pain free.......the body needs time to react and develop it's own immunity towards the vaccines.",17/1/21,0.6499999999999999,0.8,0.162,0.751,0.087,-0.3632,anger
+4976,6374,"Better still, don’t take the vaccine, stay home and help the NHS.",6/2/21,0.5,0.5,0.0,0.641,0.359,0.6808,anger
+5006,6404,"When you invest in commodities futures, you are not buying a piece of paper that says you own an intangible of a company that can go bankrupt.â€ Donâ€™t work for money; make it work for you.â€ You cannot save time for future use.",10/3/21,0.3,0.5625,0.062,0.938,0.0,-0.3875,anger
+5012,6411,Spending some money to make the community safe.,9/3/21,0.5,0.5,0.0,0.707,0.293,0.4404,anger
+5037,6436,"Will this be subject to abuse, especially if Singapore is going to pay for the vaccination?",10/3/21,-0.08333333333333333,0.6666666666666666,0.286,0.714,0.0,-0.6808,anger
+5039,6438,People (like Alvin Tan) who only know how to blame others even when they are doing the correct thing.,10/3/21,0.0,1.0,0.118,0.882,0.0,-0.34,anger
+5041,6440,"Than when govt said they had 2 vaccines (Moderna), people blamed the govt ""Why bought the vacvine when there is still side effects (knowing most if not all medicines have side effects)"".",10/3/21,0.5,0.5,0.094,0.906,0.0,-0.4767,anger
+5048,6468,"Hello everybody, I'm doing this because this was how I was recommended to this life changing opportunity, I saw alot of good testimonies and good remarks about Mrs Natalie Anna Peter  and her good company platform.. helping people making profit abundantly.",9/3/21,0.6749999999999999,0.6875,0.0,0.635,0.365,0.9468,anger
+5059,6479,ask WHO to sponsor vaccine for those who are not able to have access to it?,9/3/21,-0.25,0.625,0.0,1.0,0.0,0.0,anger
+5060,6480,They should not advise against travelling for those who have been vaccinated unless they are not confident of the effects of the vaccine?,9/3/21,-0.25,0.8333333333333334,0.107,0.893,0.0,-0.3875,anger
+5065,6485,The WHO said Masks were unnecessary.,9/3/21,-0.4,0.9,0.0,1.0,0.0,0.0,anger
+5073,6493,"So you wanna be fair to those who haven't the access to vaccines, but are you being fair to those other countries who have access to vaccines?",9/3/21,0.425,0.725,0.0,0.845,0.155,0.5574,anger
+5084,6504,"The petition also noted that many English-language news reports about the closure of Fort Detrick were deleted amid the worsening COVID-19 pandemic, raising suspicions over the lab's relationship with the novel coronavirus.",9/3/21,0.5,0.5,0.149,0.788,0.062,-0.4939,anger
+5115,6556,"Pfizer's CEO, executives and board members refused to lead by taking their own vaccine early??",4/3/21,0.35,0.65,0.155,0.845,0.0,-0.3736,anger
+5166,6607,"In clinical trials, were such elderly participants well represented in sufficient numbers to enable one to generalize the result (saying that the vaccine is safe and all that) to such elderly population?",3/3/21,0.16666666666666666,0.5,0.0,0.857,0.143,0.6124,anger
+5184,6625,"I am often skeptical of online business because I have heard and seen many helpless people crying over them where they have been scammed, until I found Mrs Alice Milliton on her secured platform,ðŸ“‰ I was quite convinced, I told myself there was no harm in trying so I started with her minimum InvestmentðŸ“Š and got my income in five days, you can reach her to start earning.ðŸ“© ðŸ‘‡ðŸ‘‡ðŸ‘‡ðŸ‘‡ðŸ‘‡ Rich Alice Milliton",2/3/21,0.04375,0.5875,0.173,0.699,0.128,-0.5729,anger
+5185,6626,"When we tell the ppl that vaccination helps to protect their loved ones and hence strongly encouraged all citizens and PRs to do so, in addition to all the safety measures, this decision to allow non-vaccinated visitors into the country feels like a slap in the face.",2/3/21,0.5666666666666667,0.7666666666666666,0.0,0.622,0.378,0.9612,anger
+5210,6651,Totally disagreed with such mindset and policy of the 4G gov leaders.,2/3/21,0.0,0.625,0.191,0.809,0.0,-0.3804,anger
+5213,6654,â€œPrevention of fire is better than trying to fight fireâ€,2/3/21,0.5,0.5,0.336,0.47,0.195,-0.2732,anger
+5233,6675,This can be explained by the many asymptomatic carriers of the virus.,26/2/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+5234,6676,"Meanwhile, everybody should continue to observe safe measures.",26/2/21,0.5,0.5,0.0,0.707,0.293,0.4404,anger
+5242,6684,"The government is typically much better at being precise, actionable and practical.",25/2/21,0.45,0.65,0.0,0.791,0.209,0.4404,anger
+5262,6704,Current vaccine is sufficient for the whole population.These are our view only.,25/2/21,0.06666666666666667,0.6,0.0,1.0,0.0,0.0,anger
+5263,6705,"88% of covid patients are asymptomatic, n many more untested, undetected, who has antibodies because their body overcome covid without them knowing.",25/2/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+5278,6720,The lack of data from the chinese means people confidence to this vaccine is significantly lower and countries have to do their own assessment.,24/2/21,0.325,0.625,0.156,0.729,0.115,-0.0516,anger
+5281,6723,It's not because I don't trust things that are made in China; it's because I don't trust the science behind it.,24/2/21,-0.4,0.7,0.0,0.79,0.21,0.5452,anger
+5297,6739,Very disheartened and disappointed on how Singaporean are treated during this epidemic.,25/2/21,-0.275,0.525,0.407,0.593,0.0,-0.7818,anger
+5301,6743,I donâ€™t want me and my family to be vaccinated with this kind of product...,25/2/21,0.6,0.9,0.0,0.909,0.091,0.0772,anger
+5326,6770,"When dealing with antibiotics, at least, they are quite certain with an answer...antibiotics thin your blood!",25/2/21,-0.19523809523809524,0.6071428571428572,0.0,0.848,0.152,0.3989,anger
+5339,6784,We need Covid officers to catch and fine people for breaking the rules.,25/2/21,0.4166666666666667,0.5,0.0,0.87,0.13,0.2023,anger
+5346,6791,Even China dragging their feet in vaccinating their people whilst they can build a hospital in 7 days and test millions in a week but it seems they super slow in vaccination.,24/2/21,0.016666666666666635,0.5333333333333333,0.0,0.84,0.16,0.7469,anger
+5360,6811,It kills the virus to a certain amount n your body picks it up n build immunity to it.,25/2/21,0.21428571428571427,0.5714285714285714,0.179,0.714,0.107,-0.34,anger
+5366,6817,I don't trust  their FAKE news and CIA lies.,25/2/21,-0.5,1.0,0.405,0.368,0.228,-0.3411,anger
+5381,6832,"I contacted him and he told me what to do and i did it then he did a (Love spell) for me 48 hours later, my husband called me and told me that he miss me and the kids so much, So Amazing!!",20/2/21,0.4791666666666667,0.5,0.036,0.853,0.111,0.6532,anger
+5393,6844,"Pregnancy problems * Fibroid * 11 court case  12  lottery power ball   Corona virus   ..via email: oprophet53@gmail.com or call, text or WhatsApp him on â€ª+971554637349 quick response .",20/2/21,0.3333333333333333,0.5,0.101,0.899,0.0,-0.4019,anger
+5427,6879,"Lastly, this type of vaccination was never approved, it's approved only for emergency use.",18/2/21,0.0,0.5333333333333333,0.398,0.602,0.0,-0.7402,anger
+5433,6885,"As a senior, I have no confidence in the Pfizer vaccine, given so many complications that have been reported after taking the vaccine.",18/2/21,0.5,0.5,0.09,0.776,0.135,0.2732,anger
+5441,6893,Are you experienced enough to say it's not related to the vaccine?,18/2/21,0.26666666666666666,0.6,0.0,1.0,0.0,0.0,anger
+5465,6917,â€“ so there will be inevitably some wastage if a certain number of doses are defrosted that are then just not used in time?,18/2/21,0.10714285714285714,0.7857142857142857,0.0,0.861,0.139,0.34,anger
+5517,6976,"Most tellingly, Pfizerâ€™s CEO and other executives arenâ€™t taking their own vaccine because they claim others need it more urgently.",29/12/20,0.36875,0.59375,0.0,1.0,0.0,0.0,anger
+5530,6989,"The PAP government , the Ministers should set the precedent by taking vaccination in the view of the public to build our confidence,  Not keep saying the ppl of Singapore should vaccinate caused it's for your own good â—",29/12/20,0.4333333333333333,0.5555555555555556,0.0,0.853,0.147,0.7351,anger
+5531,6990,Who are these so called experts....show me these experts created a vaccine or did anything significant before we can believe even them....let alone clear info about the vaccines.,30/12/20,0.23750000000000002,0.6291666666666667,0.064,0.732,0.204,0.5267,anger
+5537,6996,But be warned as different people do have different allergies in them.,29/12/20,0.0,0.6,0.16,0.84,0.0,-0.2732,anger
+5548,7007,"Should the vaccine goes wrong, not only it will ruin their reputation, they may also be charged for manslaughter.",29/12/20,-0.25,0.95,0.352,0.648,0.0,-0.8271,anger
+5549,7008,But for people to say that they know better than these experts that the vaccine is not safe.,29/12/20,0.125,0.5,0.113,0.751,0.136,0.1265,anger
+5560,7020,How do we otherwise achieve herd mentality where the leaders at the top just say charge and stay behind the troops.,29/12/20,0.04999999999999999,0.6,0.0,0.917,0.083,0.2023,anger
+5569,7031,"In the 70s, ligation was used to provide benefits for mothers who wanted to stop at 2 and was highly successful.",29/12/20,0.75,0.95,0.085,0.657,0.258,0.6697,anger
+5580,7045,Gov jab first is show show only and itâ€™s fake.... people who picks every darn bone and are super negative and bitter.,29/12/20,-0.05277777777777778,0.6499999999999999,0.221,0.646,0.133,-0.3818,anger
+5592,7060,"If you do not already have some Bitcoins, they are gonna make BTC so expensive so fast that you will never be able to raise $20,000 to be able to get your hands on even a single Bitcon.",12/12/20,0.12571428571428572,0.5528571428571428,0.0,1.0,0.0,0.0,anger
+5672,7141,Then we'd go crazy for it.,9/12/20,-0.6,0.9,0.324,0.676,0.0,-0.34,anger
+5680,7149,"I can understand some suspicion and doubts   But to ask for others to take what one do not possess the courage to so, is simply childish and and unethical at best",9/12/20,0.4,0.55,0.319,0.58,0.101,-0.7901,anger
+5705,7174,We are not talking about waiting for the light at the end of the tunnel.,20/11/20,0.4,0.7,0.0,1.0,0.0,0.0,anger
+5709,7178,This is very plausible considering the fact that vaccine performance varies according to individual reaction to it.,24/9/20,0.325,0.525,0.0,1.0,0.0,0.0,anger
+5729,7198,"At the lowest dose, 1 out of the 13 subjects became so sick that he or she had to be hospitalized, with 7 out of 13 (54%) having adverse events.",6/9/20,-0.7142857142857143,0.8571428571428571,0.272,0.728,0.0,-0.8534,anger
+5730,7199,80% of those on the intermediate dose suffered a moderately severe adverse reaction (with the other 20% suffering mild adverse reactions).,6/9/20,0.06944444444444443,0.525,0.481,0.519,0.0,-0.9169,anger
+5748,7217,How confident can we be that the vaccines that are currently being developed will still be effective by the time they are released into the market?,6/9/20,0.3,0.5833333333333334,0.0,0.792,0.208,0.743,anger
+5756,7225,"Immunity from liability, plus the potential to earn billions of dollars from the COVID-19 vaccines being developed, is a recipe for temptation that may lead pharmaceutical companies to cut corners and rush the vaccines into the market instead of taking adequate time to ensure the safety of these vaccines.",6/9/20,0.14444444444444446,0.5444444444444444,0.072,0.793,0.135,0.5267,anger
+5784,7256,How many shots of it will  be required?,21/8/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+5791,7263,This is the most crucial thing to do.,21/8/20,0.25,0.75,0.0,1.0,0.0,0.0,anger
+5792,7264,The immune response to the virus is stronger than everyone thought  The original article was published in the Swiss magazine Weltwoche (World Week) on June 10th.,21/8/20,0.375,0.75,0.0,0.764,0.236,0.7269,anger
+5805,7277,Not about stupid virus and vaccine.,21/8/20,-0.7999999999999999,1.0,0.0,0.643,0.357,0.4168,anger
+5816,7288,The WHO may be right in advocating that the vaccine shouldnâ€™t belong to any countries that produce them.,21/8/20,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,anger
+5817,7289,They should be common property with the producing countries having the top priority of allocation.,21/8/20,0.1,0.5,0.0,0.886,0.114,0.2023,anger
+5822,7294,"Everyday, every medical company said that their covid 19 vaccine will be ready by then by then, all this anouncement is for the sick of their company shares price only.",23/6/20,-0.14285714285714285,0.5914285714285714,0.094,0.771,0.134,0.1027,anger
+5834,7306,Hope companies ONLY release news on a vaccine once it is fully approved for its accuracy and safety without ANY side effects.,19/6/20,0.0,1.0,0.0,0.672,0.328,0.8313,anger
+5844,7317,Medical research should improve so that we don't need monkeys to test the antibodies response and any potential side effects.,19/6/20,0.0,0.5,0.0,0.868,0.132,0.4404,anger
+5845,7318,"If computer AI can simulate nuclear bomb explosion, computer simulation should be good enough.",19/6/20,0.35,0.55,0.177,0.663,0.16,-0.0772,anger
+5863,7339,"Have a read on the late President Robert F Kennedy's nephew, his name is Robert F Kennedy Junior website on vaccines https://childrenshealthdefense.org/  Be an informed reader, before making a hasty decision to put an alien substances into your body.",17/6/20,-0.275,0.675,0.0,1.0,0.0,0.0,anger
+5868,7344,the spread of the virus may be through the heating system ... even when an elderly has his/her own living space.,4/3/20,0.6,1.0,0.0,1.0,0.0,0.0,anger
+5869,7345,one cannot shut the heating system nor open the windows cos it is winter.,4/3/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+5912,7390,"After returning to the CC, my mum had to wait for another hour seated in the indoor auditorium to get the jab.. we were all beat and exhausted, I am sure other seniors and their caregivers also feel the same.",28/2/21,-0.0062500000000000056,0.5222222222222221,0.06,0.885,0.055,-0.0516,anger
+5916,7394,"It wasn't a random knock on each residence, but they specifically came to look up my dad because they were given his name and address, and not sure what other data.",23/2/21,-0.2916666666666667,0.5879629629629629,0.078,0.922,0.0,-0.3491,anger
+5920,7398,It is unnerving to get strangers coming to one's doorstep without being first informed by MOH regarding this form of enthusiastic outreach towards the elderlies.,23/2/21,0.425,0.6166666666666667,0.0,0.813,0.187,0.6486,anger
+5926,7404,"These ""experts""  have been proven time and again wrong all the time as they are not really experts but given this title to  influence our thinking to their thinking.",6/3/21,-0.3,0.55,0.068,0.932,0.0,-0.2617,anger
+5954,7432,Of course you can always buy more riders at YOUR OWN COST - your problem not my problem if things go wrong.,3/2/21,0.20000000000000004,0.7999999999999999,0.321,0.679,0.0,-0.8176,anger
+5961,7439,Wasn't it made clear by Moderna's leading scientist on the 27th Nov 2020 on a  Straits Times article  that the vaccine only protects from symptoms whilst not being tested in terms of preventing spread of the virus to others?,3/2/21,0.05000000000000001,0.6916666666666667,0.081,0.862,0.057,0.0041,anger
+5993,7471,It's not easy to make good decisions especially decisions to save the lives and livelihood of 6 million people.,29/1/21,0.1611111111111111,0.8111111111111112,0.098,0.57,0.332,0.6963,anger
+6018,7496,You don't need only staff nurses to do injections.,29/1/21,0.0,1.0,0.0,1.0,0.0,0.0,anger
+6038,7516,Get the TV to do it everyday in the 4 languages.,29/1/21,-0.2,0.6,0.0,1.0,0.0,0.0,anger
+6045,7530,"Sorry, can someone please tell me why are the nurses not wearing gloves while injecting the vaccine?",13/1/21,-0.5,1.0,0.07,0.806,0.124,0.25,anger
+6049,7534,"I tell myself that I have to...to protect myself n those around me, ESPECIALLY those who r immunocompromised, who cant take vaccines.",13/1/21,0.0,1.0,0.0,0.867,0.133,0.3818,anger
+6083,7572,They shouldn't be prioritized more than once.,13/1/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+6086,7575,He was (sadly)  accused of spreading fake news.,13/1/21,-0.5,1.0,0.469,0.531,0.0,-0.6486,anger
+6111,7600,Law enforcers should do their rounds to enforce on it...not easy for the safe distance ambassadors at times.,10/1/21,0.4666666666666667,0.6666666666666667,0.0,0.734,0.266,0.7003,anger
+6125,7617,"BREAKING NEWS Global news      Italy conducts autopsy of the coronavirus patient, massive revelation ensues.",8/1/21,0.0,0.5,0.0,1.0,0.0,0.0,anger
+6153,7645,Health workers are more precious as they look after the sick and should not be treated like guinea pigs.,31/12/20,0.09523809523809523,0.7857142857142857,0.213,0.63,0.157,-0.1071,anger
+6173,7667,"This is how PAP leadership, talk only and not show by example",30/12/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+6233,7731,Vaccination should be rolled out concurrently to all the critical groups instead of one after another.,30/12/20,0.0,0.8,0.133,0.867,0.0,-0.3182,anger
+6239,7737,Complications might occurred then who will be responsible??,30/12/20,0.2,0.55,0.0,0.725,0.275,0.3939,anger
+6260,7758,Isn't our MOH GAN and Taskforce LW to be first vaccinated.And now why is the frontline and elderly first .Both should set an examples to do it and show the citizens that is save and then citizens had confident .if not who will be so stupid to first vaccinated while the gov never do it .,27/12/20,0.09000000000000001,0.5666666666666667,0.07,0.828,0.102,0.2579,anger
+6264,7762,Some will find this out only when they take the vaccine.,27/12/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+6272,7770,"Covid infection had a good chance of brain damage, making an infected person stupid.",27/12/20,-0.04999999999999999,0.8,0.432,0.352,0.216,-0.7096,anger
+6273,7771,"For those already stupid, no need to be vaccinated, because already stupid.",27/12/20,-0.7999999999999999,1.0,0.5,0.5,0.0,-0.8402,anger
+6277,7775,"Don't forget if kena covid, the brain will be damaged and can become stupid.",27/12/20,-0.7999999999999999,1.0,0.332,0.58,0.088,-0.6842,anger
+6286,7784,They can't keep their own patients on hold.,27/12/20,0.6,1.0,0.0,1.0,0.0,0.0,anger
+6290,7788,"It's pointless to keep shouting, ""We have the vaccine, we have it!",27/12/20,-0.3125,0.5,0.0,1.0,0.0,0.0,anger
+6298,7796,"-In regards to Sars or Covid 19 virus-vaccine, and regarding the 2 vaccines from Pifzer and Moderna using the new mRNA technology compared to traditional vaccine,   The mentioned were as abstracted in [.]",28/12/20,0.06818181818181818,0.6022727272727273,0.0,1.0,0.0,0.0,anger
+6305,7806,"One heartened mentioned in this article saw was, [ ] abstracted:  [ In another collaboration, we detected strong virus-specific T cell immunity in people who have recovered from COVID-19 and SARS.",28/12/20,-0.15833333333333335,0.8666666666666667,0.0,0.887,0.113,0.5106,anger
+6321,7822,"Animals, birds and plants of different species of have their set of DNA cells.",28/12/20,0.0,0.6,0.0,1.0,0.0,0.0,anger
+6325,7826,"US CDC website on active surveillance of the status of people after vaccination, show that on 18/12/2020, approx 30% were hospitalised.",28/12/20,-0.13333333333333333,0.6,0.0,0.881,0.119,0.4019,anger
+6331,7832,"Last note:  Fomer Vice-president of Pifzer, Mike Yeadon mentioned the notion of having millions of healthy, fit people is ridiculous quoted below, he also shared his knowledge and reasoning in his video: [Yeadon states this notion is “ridiculous because while SARS-CoV-2 is indeed novel, coronaviruses are not.",28/12/20,-0.0861111111111111,0.6611111111111111,0.046,0.772,0.182,0.7506,anger
+6345,7846,"frontline healthcare nurses, doctors, or any group of workers, will they be held liable, can Ministry of Health address on this also.",22/12/20,-0.1,0.5,0.0,1.0,0.0,0.0,anger
+6355,7858,Can the oppies please do not politicise this issue and make nasty and stupid comments?,22/12/20,-0.8999999999999999,1.0,0.329,0.563,0.108,-0.6908,anger
+6358,7861,Singaporean and it’s residents are key to keep the infections low.,22/12/20,0.0,0.65,0.174,0.826,0.0,-0.2732,anger
+6363,7867,Surprised there are Singaporeans do not appreciate the hard work the government and the civil service peoples have done to secure the vaccines early for us.,22/12/20,0.07708333333333334,0.5854166666666666,0.076,0.737,0.187,0.3265,anger
+6388,7894,Kudos to you the way you successfully managed the covid situation.,22/12/20,0.75,0.95,0.0,0.581,0.419,0.7579,anger
+6402,7908,I am ready to sign up for vaccination whenever you want me to.,21/12/20,0.2,0.5,0.0,0.725,0.275,0.4215,anger
+6410,7917,Vaccinating the whole world's population to stamp out this virus is a huge task.,22/12/20,0.30000000000000004,0.65,0.0,0.839,0.161,0.3182,anger
+6458,7967,"IF you don't trust HSA approval of the use of that particular vaccine,just don't jab,nobody is forcing you..if u trust only china vaccine,then go to china to get vaccinated then",14/12/20,0.08333333333333333,0.6666666666666666,0.234,0.766,0.0,-0.7881,anger
+6467,7976,"it is garbage in garbage out, it is a PCR pandemic with a wrong tool.",29/11/20,-0.5,0.9,0.205,0.795,0.0,-0.4767,anger
+6477,7986,"Don't hear stupid hoaxes that it would harm you, that you're a guinea pig, that there's not much test done on Covid--19 vaccination.",30/11/20,-0.44999999999999996,0.6,0.133,0.761,0.106,-0.1838,anger
+6495,8004,Do bear in mind vaccination shall be a choice and not compulsory and that's why it's important to hear what this gov have in plan about it.,11/11/20,0.4,1.0,0.0,0.933,0.067,0.2023,anger
+6533,8042,"Can help me i have some problems with my bills on S.P power , since i the 2020 budget  for $800/ and i am useing the electricity top up card all this time from what i know the 2020 budget i only can use to pay for my gas and water bills why i cannot use the to pay out for my electricity , under the GST  Voucher 2020 budget , i has try to talk to SP but they said i can only use to pay from the GST budget 2020 for my water and gas only , please help me on this problems thank you .",2020-12-31,0.125,0.875,0.088,0.791,0.121,0.6808,anger
+6541,8050,"Although it’s wise to make the vaccine voluntary, please try to reach out to as many people as possible.",2020-12-14,0.39999999999999997,0.7999999999999999,0.0,0.711,0.289,0.6705,anger
+6547,8057,"Lawrence shouldn’t say things for the sake of saying, when things don’t turn out as it is, then a flurry of excuses is expected, like; it’s not unexpected, it’s actually not a bad thing, etc.",2021-01-26,0.06666666666666664,0.6888888888888888,0.0,0.853,0.147,0.6542,anger
+6554,8064,Wait this is so weird why are they not using gloves?,2021-01-08,-0.5,1.0,0.183,0.817,0.0,-0.3052,anger
+6584,8095,It isn't fair for the frontliners that have fought so hard to reach where we are now to only see sudden spikes again,2020-11-04,0.10208333333333332,0.7354166666666666,0.231,0.717,0.051,-0.581,anger
+6622,8134,"But my area has the worst public transport in Spore, it is at Petir Road, I used to wait for bus no.",2021-02-27,-0.5,0.5333333333333333,0.249,0.751,0.0,-0.743,anger
+6624,8136,"Complained many times to MP but nothing done, worst thing is only one bus service is available😭😭",2021-02-27,-0.2,0.675,0.087,0.705,0.209,0.556,anger
+6631,8143,Citizens must learn to behave responsibly.,2021-02-27,0.2,0.55,0.0,1.0,0.0,0.0,anger
+6633,8145,Singapore - because of smart policies and high discipline !,2021-01-20,0.20714285714285713,0.5914285714285714,0.0,0.701,0.299,0.4574,anger
+6644,8156,Its a blessing to the people to have a True Walk the Ground and Walk the Talk Leader.,2020-09-25,0.35,0.65,0.0,0.7,0.3,0.7184,anger
+6651,8163,"Pfizer CEO, Alfred Bourla, did not take his own vaccine they invented.",2020-12-15,0.6,1.0,0.0,1.0,0.0,0.0,anger
+6675,8189,"Hence, we should be getting the vaccination and most importantly it should be FREE.",2020-11-12,0.43333333333333335,0.7666666666666666,0.0,0.644,0.356,0.7668,anger
+6679,8193,The first question is stupid its a vaccine do u know how vaccine works,2020-12-28,-0.27499999999999997,0.6666666666666666,0.236,0.764,0.0,-0.5267,anger
+6696,8210,If it is compulsory nobody want to came and take the vaccine so at the end the vaccine get wasted thrown away .so the only way to get the people to take the vaccine is to give it out for free that people are willing to take the vaccine cause they don't have to pay for the vaccine,2021-02-15,0.1125,0.6375,0.051,0.856,0.093,0.1769,anger
+6717,8231,Plus again it isn't 100% guarantee that it can total prevent you from getting covid-19.Although at least it does some protection Plus I heard other countries news ppl getting vaccine some gotten the side effects of the vaccine include face distortion.,2020-12-15,-0.14166666666666666,0.5083333333333333,0.043,0.93,0.027,-0.163,anger
+6721,8235,Greater question is what happens when/if they approve a vaccine with a significantly lower efficacy rate - that is if the government still doesn’t give us a choice of vaccine...,3/2/21,0.4375,0.6875,0.077,0.836,0.087,0.0772,anger
+6731,8245,"> Advertisement
+
+> The authorities said it will actively review the data submitted by Moderna to ensure that the benefits of the vaccine continue to outweigh the known risks.",3/2/21,-0.13333333333333333,0.6,0.064,0.706,0.23,0.6597,anger
+6742,8256,"Sinovac on the other hand, has not been helpful in providing accurate data to fight off COVID.",3/2/21,0.13750000000000004,0.5041666666666667,0.223,0.633,0.145,-0.1857,anger
+6759,8274,Especially when the money can go to helping the economy and the workforce?,4/2/21,0.0,1.0,0.0,0.845,0.155,0.296,anger
+6793,8308,"Because EMA insists on granting full use for the vaccine, rather than emergency use authorization with full use authorization to follow in the Spring.",15/12/20,0.35,0.55,0.097,0.818,0.086,-0.0772,anger
+6799,8314,"Don’t forget East Asia was hit by the SARS outbreak back in 2003 and key lessons were learnt, i guess.",15/12/20,0.0,0.5,0.095,0.905,0.0,-0.2263,anger
+6830,8345,"This is to show you, especially seniors like me, that we believe the vaccines are safe,” Mr Lee said in a televised national address last month.",8/1/21,0.16666666666666666,0.5222222222222223,0.0,0.896,0.104,0.4173,anger
+6843,8358,That would assure the public more and especially the boomers and perhaps change the mind of some of the ant vaxxers,8/1/21,0.16666666666666666,0.5222222222222223,0.0,0.893,0.107,0.34,anger
+6852,8367,"They can't complain and if something goes wrong, few people would care, sadly.",8/1/21,-0.39999999999999997,0.6666666666666666,0.292,0.445,0.263,-0.1506,anger
+6881,8396,I expect that Ministry of Health (MOH) decides which vaccine is the best and then based on their decision to conduct massive vaccination of people.,8/1/21,0.5,0.65,0.0,0.846,0.154,0.6369,anger
+6898,8414,"I mean, they're not gonna have dozens of different vaccines on supply unless they're damn sure they each work if you trust them so much.",8/1/21,0.096875,0.5940972222222223,0.092,0.717,0.191,0.4404,anger
+6904,8420,"I will take the vaccine as well, but I don't want a random one just given to me.",9/1/21,-0.5,0.5,0.084,0.818,0.098,0.0559,anger
+6906,8422,The reason it's optional is because they want people to be responsible for themselves when taking the vaccine.,9/1/21,0.2,0.55,0.0,0.816,0.184,0.3818,anger
+6925,8441,"This is the moment for them to reclaim the narrative, especially to the Belt Road victims.",8/1/21,0.0,1.0,0.133,0.867,0.0,-0.3182,anger
+6935,8451,The only reason this is even a discussion is because people distrust China.,9/1/21,0.0,1.0,0.203,0.797,0.0,-0.4215,anger
+6944,8461,This should probably be discussed further and upvote for visibility.,9/5/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+6945,8462,"To be honest, the SafeEntry is more like ""NoEntry"" to people who are not tech savvy.",9/5/20,0.55,0.7,0.0,0.697,0.303,0.7264,anger
+6953,8470,"That was stupid of me, fine.",9/5/20,-0.19166666666666662,0.75,0.37,0.435,0.196,-0.3818,anger
+6975,8493,"Of course, the taxi driver can always give a paper/record book for customers to write down their details before they enter the cab =) I'm a little offended by the rude comment below, sry for the tone",10/5/20,-0.03576388888888889,0.5972222222222222,0.118,0.802,0.08,-0.1298,anger
+6979,8497,Am I the one who hasn't done research and made a stupid comment or is that you?,10/5/20,-0.7999999999999999,1.0,0.195,0.805,0.0,-0.5267,anger
+6985,8503,"THAT WAS MY POINT, YOU BLOODY FOOL!",10/5/20,-1.0,0.9,0.549,0.451,0.0,-0.7263,anger
+7013,8532,"Think of how your coworkers wouldn't show up to work vomiting, or with horrible diarrhea , but they will definitely be back once fever and symptoms are gone.",28/2/20,-0.5,0.5,0.073,0.812,0.115,0.3182,anger
+7020,8539,Grew up always hearing crazy stories of people being caned for spitting out gum etc.,28/2/20,-0.6,0.9,0.146,0.854,0.0,-0.34,anger
+7024,8543,"At the same time, if I had to be told what to do or couldn't do what I wanted then I could see getting stir crazy.",28/2/20,-0.3,0.5125,0.098,0.902,0.0,-0.34,anger
+7060,8584,Honestly you do have to worry about Case 50 and Case 55– just because they are a cluster of two related people — you still have to say so far they are not linked to any previously known cluster— *and* they have no recent travel history to China.,14/2/20,0.10666666666666666,0.5433333333333332,0.1,0.841,0.059,-0.2732,anger
+7114,8675,"I'm pretty sure as new cases come out, it will be easier to trace down the clusters for those without links.",8/2/20,0.1827020202020202,0.658080808080808,0.0,0.684,0.316,0.8074,anger
+7140,8701,The Korean government lately has been more transparent after the whole fiasco with ex-president Park.,9/2/20,0.13333333333333333,0.5,0.191,0.809,0.0,-0.5106,anger
+7152,8713,LOL What a stupid ****!,27/2/20,-0.09999999999999992,0.85,0.369,0.217,0.415,0.1091,anger
+7190,8751,"We can't tell, conclusively, if someone can get covid-19 more than once.",13/5/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+7197,8758,"Sweden’s economy might not do any better than those of neighboring countries taking stronger measures against the virus:
+
+[https://www.ft.com/content/93105160-dcb4-4721-9e58-a7b262cd4b6e](https://www.ft.com/content/93105160-dcb4-4721-9e58-a7b262cd4b6e)
+
+In the US state of Georgia, businesses have started to reopen, but no one want to show up; e.g.",13/5/20,0.5,0.5,0.108,0.814,0.078,-0.3078,anger
+7212,8773,Surely you're not saying that *human deaths* and *decreased business activity* are equivalent.,13/5/20,0.033333333333333326,0.5629629629629629,0.0,0.805,0.195,0.4404,anger
+7230,8792,"Moreover, supply chains being ravaged is definitely not going to bode well for a tiny island that exports most of its food.",13/5/20,0.16666666666666666,0.5,0.0,0.798,0.202,0.5859,anger
+7299,8861,"They won't have that kind of time, money and energy to deal with us
+
+&#x200B;
+
+3rd, there is good reason why we keep a huge reservist force and why we do ICT for so long.",13/5/20,0.32999999999999996,0.5599999999999999,0.0,0.809,0.191,0.743,anger
+7329,8891,"Sharing is caring :)
+
+&#x200B;
+
+EDIT: The reason why I said it has started spreading since there are a few of you questioning it, it's just my belief.",24/1/20,0.15,0.55,0.043,0.679,0.278,0.8225,anger
+7332,8894,"For those interested, here are my reasons why:
+
+The first man to have been confirmed to have the virus, in Singapore did probably get infected in Wuhan, but his son didn't show any symptoms until his dad was tested and after he was quarantined, which could mean that he got it from his dad after arriving in singapore(honestly this point doesn't matter).",24/1/20,0.146875,0.6302083333333333,0.033,0.938,0.029,-0.0644,anger
+7340,8902,They want us to be careful and be aware.,24/1/20,0.075,0.625,0.0,0.707,0.293,0.2263,anger
+7342,8904,I trust in Sg stats since they are openly telling us a lot of things.,24/1/20,0.0,0.5,0.0,0.784,0.216,0.5106,anger
+7353,8915,I seriously hope she didn't take the MRT to those places during peak hours..,24/1/20,-0.3333333333333333,0.6666666666666666,0.109,0.705,0.186,0.296,anger
+7415,8977,Let's not hurt our economy and diplomatic ties by stopping flights from that region and completely rely on the CCP on being honest with us.,24/1/20,0.35,0.65,0.054,0.741,0.205,0.6679,anger
+7418,8980,"But for the lockdown and the confirmed cases, I think we wouldn't stop flights to Wuhan at all.",24/1/20,0.4,1.0,0.0,0.894,0.106,0.2235,anger
+7419,8981,How is it scoot’s fault any more than the government that allow theee flights to continue?,24/1/20,0.5,0.5,0.145,0.753,0.102,-0.2023,anger
+7421,8983,"A few people have been confirmed to have the virus, it’s not like the plague has befallen us.",24/1/20,0.1,0.55,0.117,0.883,0.0,-0.2755,anger
+7426,8988,"My buddy works for a health insurance provider to some major logistics firms, and according to him they already have people confirmed infected at Beijing and Shanghai.",24/1/20,0.23125,0.75,0.113,0.887,0.0,-0.4939,anger
+7434,8996,Yes the cat is definitely out of the bag at this point.,24/1/20,0.0,0.5,0.0,0.649,0.351,0.6597,anger
+7450,9012,You be surprised how many people are spreading fake news because they truly believe in it.,28/1/20,0.033333333333333326,0.7999999999999999,0.148,0.622,0.23,0.1779,anger
+7487,9049,It's better to use the test kits on those suspected of having the virus rather than wasting it needlessly when others might actually need it.,28/1/20,0.0,0.5333333333333333,0.156,0.746,0.098,-0.1779,anger
+7500,9062,"Even if they do, some will probably won’t agree to being quarantined but I’m not sure what kind of authority we have over them.",28/1/20,0.175,0.8944444444444444,0.093,0.801,0.105,-0.1735,anger
+7514,9077,"> Even if they do, some will probably won’t agree to being quarantined but I’m not sure what kind of authority we have over them.",28/1/20,0.175,0.8944444444444444,0.093,0.801,0.105,-0.1735,anger
+7515,9078,"I mean we're quarantining the suspected cases as they arise anyway... We've been even tracking down people the infected are suspected to be in close contact with, which seems like an exponentially tougher thing to do, especially when the infected count inevitably rise higher.",28/1/20,-0.043611111111111114,0.6952777777777778,0.198,0.72,0.082,-0.7184,anger
+7532,9095,Ethics wise I don't think it's a good idea to hog the resources but different people may have different opinions though.,28/1/20,0.35,0.675,0.082,0.819,0.099,0.0892,anger
+7533,9096,Like you've said they escaped from Wuhan they're not going to be honest about where they came from judging from history.,28/1/20,0.6,0.9,0.0,0.766,0.234,0.7003,anger
+7536,9099,I'm pretty sure it has crossed their mind since other countries are doing it,28/1/20,0.20833333333333334,0.7546296296296297,0.0,0.686,0.314,0.6705,anger
+7542,9105,"All that aside, I don't think china would be mad at us doing this anyway.",28/1/20,-0.625,1.0,0.198,0.802,0.0,-0.4939,anger
+7549,9116,"What I am trying to say is that, you cannot always count on sick people to be completely rational because of reasons i put up out there.",28/1/20,-0.30714285714285716,0.6285714285714286,0.121,0.879,0.0,-0.5106,anger
+7550,9117,"Eh, that's really a false equivalence.",28/1/20,-0.4000000000000001,0.6,0.0,1.0,0.0,0.0,anger
+7564,9132,The numbers on most websites show total cases.,27/2/20,0.25,0.625,0.0,1.0,0.0,0.0,anger
+7585,9155,"Only the number declared positive and negative, and cases pending.",28/2/20,-0.024242424242424242,0.6484848484848484,0.237,0.449,0.314,0.0516,anger
+7597,9167,"> ""We're quite confident that he's no longer got any infection.""",5/2/20,0.5,0.8333333333333334,0.161,0.584,0.255,0.3167,anger
+7600,9170,> Two of the patients without symptoms were among the six new confirmed cases announced yesterday.,5/2/20,0.2681818181818182,0.7272727272727273,0.0,1.0,0.0,0.0,anger
+7602,9172,"> Prof Mak said five patients required oxygen and breathing support, but added that this is ""not surprising"", given that they had pneumonia.",5/2/20,-0.35,0.5,0.0,0.919,0.081,0.2144,anger
+7614,9184,People do get better without treatment.,5/2/20,0.5,0.5,0.0,0.633,0.367,0.4404,anger
+7627,9197,This States Times argument that MOH is withholding true numbers doesn't hold water since today MOH announced 900+ new cases.,18/4/20,0.24318181818181817,0.5522727272727272,0.107,0.773,0.12,0.0772,anger
+7634,9204,"> Advertisement
+
+> Advertisement
+
+> It alleged that the number of new COVID-19 cases in Singapore on Friday was 1,146, and that the total number of confirmed cases was 5,573.",18/4/20,0.1090909090909091,0.5761363636363637,0.0,0.906,0.094,0.1531,anger
+7665,9236,"It's like telling the poor, the way to get out of poverty is to get more money - but I don't tell you how to get that money,"" he said.",1/4/20,0.04999999999999999,0.55,0.136,0.808,0.057,-0.3506,anger
+7675,9246,"""On the bus, on the MRT... when you're queuing up or in a crowded place, wearing a mask is the smart thing to do,"" he said.",1/4/20,0.21428571428571427,0.6428571428571429,0.0,0.895,0.105,0.4019,anger
+7691,9262,"""I don't think we should be specifically encouraging people to make their own masks, until there is good objective data on how effective such masks are under clinical conditions,"" he added.",1/4/20,0.38,0.6,0.0,0.749,0.251,0.8555,anger
+7697,9268,"It's like telling the poor, the way to get out of poverty is to get more money - but I don't tell you how to get that money,"" he said.""",1/4/20,0.04999999999999999,0.55,0.136,0.808,0.057,-0.3506,anger
+7703,9275,Only because of the requirement / process.,10/2/21,0.0,1.0,0.0,1.0,0.0,0.0,anger
+7707,9279,"This is the last chance for the ""only sick people wear masks"" administration to stop being stupid.",10/2/21,-0.37857142857142856,0.7309523809523809,0.372,0.544,0.084,-0.7845,anger
+7716,9288,"We're trying out some new flairs, and ""Serious Discussion"" is one of them.",4/12/20,-0.09848484848484848,0.5606060606060606,0.098,0.902,0.0,-0.0772,anger
+7719,9291,"For posts flaired as such (by OP), we will be exercising greater moderation in the comments section as well, against joke replies and irrelevant or off-topic comments and discussion.",4/12/20,0.0,0.6666666666666666,0.0,0.793,0.207,0.7003,anger
+7732,9306,A review of solicited adverse events indicated that the vaccine was generally well tolerated.,4/12/20,0.05000000000000002,0.5,0.16,0.705,0.135,-0.1027,anger
+7739,9313,"The effectiveness of most vaccines wane over a period of time and that is where, in my opinion, data is lacking.",4/12/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+7750,9324,I sure hope that other countries that do not have the virus under control are now not under pressure (especially looking at USA) to quickly approve vaccines without going through all the necessary processes.,4/12/20,0.14166666666666666,0.7527777777777778,0.0,0.809,0.191,0.7259,anger
+7754,9328,Don't see the need to rush for it honestly.,4/12/20,0.6,0.9,0.0,0.727,0.273,0.4588,anger
+7759,9333,That kind of reasoning just irks me.,4/12/20,0.6,0.9,0.0,1.0,0.0,0.0,anger
+7798,9373,"Perhaps family of pioneers who got the jab(s), especially those who share rooms with them, may be next.",5/12/20,0.0,0.5,0.0,0.873,0.127,0.3535,anger
+7819,9394,But it's not like you can just anyhow buy it off the market right away.,4/12/20,0.2857142857142857,0.5357142857142857,0.131,0.869,0.0,-0.2755,anger
+7849,9425,"How about you stop using the Internet because according to you, you didnt witness the test that makes sure that the device you are using doesn't emit radiation more than the permitted level.",5/12/20,0.5,0.6944444444444444,0.062,0.873,0.065,0.0258,anger
+7855,9431,"Pretty sure one of easiest way to carry out a mandatory vaccination is via school students, inclusive of tertiary students.",4/12/20,0.375,0.9444444444444444,0.0,0.61,0.39,0.8225,anger
+7898,9474,I'd choose the one with a good track record and unfortunately it doesn't exist.,5/1/21,0.09999999999999998,0.8,0.147,0.675,0.178,0.128,anger
+7904,9480,"polyclinics, dorms, nursing homes where not everyone can access every setting)
+
+* what happens if you are on the record for refusing a vaccine, especially if you work in public-facing roles",5/1/21,0.0,1.0,0.088,0.912,0.0,-0.4019,anger
+7927,9506,"So potentially, people can crowdsource information from people who have already gotten vaccinated on the clinics that are stocking their preferred brand?",5/1/21,0.0,1.0,0.0,1.0,0.0,0.0,anger
+7932,9511,"It is believed that the mechanism was due to antibody dependent enhancement, or an overly exuberant immune reaction to the dengue virus if u will.",6/1/21,-0.03749999999999999,0.6375,0.0,0.786,0.214,0.7184,anger
+7960,9540,The government obviously did the math and it's likely the cost of vaccinating the whole Singapore is not worth the 'travel' value you are saying.,13/1/21,0.012500000000000004,0.5,0.062,0.85,0.089,0.1862,anger
+7961,9541,> The government obviously did the math and it's likely the cost of vaccinating the whole Singapore is not worth the 'travel' value you are saying.,13/1/21,0.012500000000000004,0.5,0.062,0.85,0.089,0.1862,anger
+7968,9549,".....
+
+John Han, a sales manager, said he wanted to wait for 80% of the population to take the vaccine without side effects.”
+
+:/",23/12/20,-0.25,1.0,0.0,0.915,0.085,0.2584,anger
+7972,9553,To hesitate is a reasonable response.,23/12/20,0.2,0.6,0.344,0.656,0.0,-0.2732,anger
+7986,9567,"To be fair, even pfzer's boss isn't taking their own vaccine.",24/12/20,0.6499999999999999,0.95,0.0,0.813,0.187,0.3182,anger
+8002,9583,That's just ridiculous.,23/12/20,-0.3333333333333333,1.0,0.556,0.444,0.0,-0.3612,anger
+8013,9594,"The covid vaccine can be produced in such a fast time is due to high demand, shortened procedures and an abundance of patients.",23/12/20,0.058750000000000004,0.50375,0.067,0.933,0.0,-0.128,anger
+8016,9597,"While the article includes the sentence
+
+> NHS England confirmed the two incidents and said all trusts had now been advised not to give the jab to people with a history of allergic reaction.",23/12/20,0.4,1.0,0.062,0.815,0.124,0.296,anger
+8026,9607,"The odds of having it are crazy low, so the benefits far outweigh the risks.",23/12/20,-0.16666666666666666,0.7333333333333334,0.322,0.537,0.141,-0.4062,anger
+8042,9623,"However, its not entirely without risk.",23/12/20,0.0,0.625,0.266,0.734,0.0,-0.2043,anger
+8051,9632,"And as mentioned earlier, the mechanism of this type of vaccine would have made it more preferable than other traditional types of vaccine.",23/12/20,0.09375,0.53125,0.0,1.0,0.0,0.0,anger
+8099,9688,"If you bother to read the original comment, it is about asking the govt being responsible for the side effect to encourage people to take the jab.",24/12/20,0.2875,0.65,0.072,0.691,0.237,0.6705,anger
+8151,9740,It’s not very likely to trigger things you wouldn’t expect a normal mRNA to trigger.,24/12/20,0.075,0.7096153846153845,0.0,1.0,0.0,0.0,anger
+8154,9743,"Given that mRNA is not very stable, it doesn’t stay for long and you are only exposed to the amounts injected.",24/12/20,-0.05000000000000001,0.5666666666666667,0.152,0.848,0.0,-0.341,anger
+8170,9760,"In this case, the risk of vaccination vs the risk of non-vaccination; and not only from the personal point of view, but the societal point of view.",23/12/20,0.0,0.65,0.11,0.89,0.0,-0.2732,anger
+8192,9782,DNA and RNA can only direct the cell machinery to do what the information on it tells them to.,24/12/20,0.05,0.7,0.0,1.0,0.0,0.0,anger
+8198,9788,People only put the sequence for one (or a few?),24/12/20,-0.1,0.55,0.0,1.0,0.0,0.0,anger
+8223,9813,It ultimately boils down to personal choice and agency.,13/1/21,-0.051851851851851864,0.5296296296296297,0.0,1.0,0.0,0.0,anger
+8241,9831,I wouldn't expect the government to keep the stimulus taps open for another 2-3 years.,13/1/21,0.0,0.5,0.0,1.0,0.0,0.0,anger
+8246,9836,"Do I accept an unknown long-term risk, but one which isn't significant to the best of our knowledge, or should I be kiasee and wait for others to do first, so that they can do their part towards singapore achieving herd immunity.",13/1/21,0.38125,0.5270833333333333,0.073,0.765,0.162,0.7321,anger
+8280,9870,Given they’re interacting with sick patients they are not just protecting themselves but also potentially protecting any one of us that they may need to treat from catching this disease.,13/1/21,-0.038095238095238106,0.919047619047619,0.064,0.831,0.105,0.34,anger
+8281,9871,>It ultimately boils down to personal choice and agency.,13/1/21,-0.051851851851851864,0.5296296296296297,0.0,1.0,0.0,0.0,anger
+8283,9874,"The thing is they are safe is because others around them are careful, being told what to and what not to do.",13/1/21,0.2,0.75,0.0,0.816,0.184,0.5423,anger
+8287,9878,I’m surprised this comment is still up.,13/1/21,0.1,0.9,0.0,0.759,0.241,0.2263,anger
+8293,9884,Even bigger claims that getting the vaccine will allow you not to spread the virus to others when it has not been proven yet.,14/1/21,0.0,0.5,0.0,0.924,0.076,0.2263,anger
+8316,9907,"As it is, many carry out a thankless job, now they need to be the flag bearers for the vaccine?",13/1/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+8317,9908,"It’s important to remember that, at least officially, our COVID cases are low.",13/1/21,0.03333333333333335,0.5666666666666667,0.141,0.738,0.121,-0.0772,anger
+8322,9913,No reason they should take unnecessary risks.,13/1/21,-0.4,0.9,0.462,0.538,0.0,-0.5106,anger
+8335,9926,And they do claim it's been tested in many people.,13/1/21,0.5,0.5,0.0,1.0,0.0,0.0,anger
+8339,9931,"This is just absurd, of all people i would have thought the healthcare workers would have known better.",13/1/21,0.0,0.75,0.0,0.847,0.153,0.4404,anger
+8344,9936,We can't say the same for mRNA vaccines because we have absolutely no data.,13/1/21,-0.05,0.5125,0.161,0.839,0.0,-0.3597,anger
+8346,9938,You are right that the vaccine has not been proven to prevent asymptomatic spread.,14/1/21,0.2857142857142857,0.5357142857142857,0.0,0.922,0.078,0.0258,anger
+8349,9941,"Nevertheless, my larger point was that there is a risk tradeoff to be made.",14/1/21,0.0,0.5,0.149,0.851,0.0,-0.2732,anger
+8365,9957,You're right that it's not their job and they have no obligation to be the flag bearers for the vaccines.,13/1/21,0.2857142857142857,0.5357142857142857,0.104,0.896,0.0,-0.296,anger
+8367,9959,"I guess I'm just slightly annoyed that all these event cancellations, gathering limits, and pandemic measures will likely continue for the years to come until it's shown that long term side effects isn't a concern and the final portion of our population finally gets vaccinated in order to reach herd immunity.",13/1/21,-0.09,0.8400000000000001,0.046,0.932,0.022,-0.2975,anger
+8384,9976,"If you believe that Sinovac is only 50-75% effective, should people who get Sinovac be treated the same as those who got the other 2?",13/1/21,0.11875,0.575,0.0,0.886,0.114,0.4767,anger
+8386,9978,"Inactivated virus vaccines depend on the fact that whatever method, be it heat, chemicals or radiation, that was used to kill the viruses are effective and no viral load was left behind.",13/1/21,0.06666666666666665,0.5,0.177,0.744,0.079,-0.5859,anger
+8388,9980,mRNA vaccines merely turn your cells into factories to produce the spike protein (or the cell breaching mechanism) for your immune system to defend against which is what the virus would have done (+ viral material) if you were infected anyway.,13/1/21,-0.5,0.5,0.072,0.878,0.05,-0.25,anger
+8394,9987,"This, IMO a very important point to bring up.",13/1/21,0.52,1.0,0.0,0.77,0.23,0.2716,anger
+8407,10000,Phase 1 of the vaccine was to prove that it is safe.,13/1/21,0.5,0.5,0.0,0.775,0.225,0.4404,anger
+8408,10001,Phase 2 is to prove that it is effective in protecting against the virus.,13/1/21,0.6,0.8,0.0,0.795,0.205,0.4767,anger
+8413,10006,The rule of thumb for such things is the good of the many outweighs the good of one.,13/1/21,0.475,0.55,0.0,0.734,0.266,0.7003,anger
+8420,10013,But a doctor who goes out of their way to discourage a vaccine is at the very least irresponsible.,13/1/21,-0.39,0.52,0.285,0.715,0.0,-0.7165,anger
+8422,10015,You counsel the patient of the potential benefit vs risk then you keep providing information to the patient until the patient makes a decision to whether this benefit out weigh the risk.,13/1/21,0.0,1.0,0.113,0.726,0.161,0.4215,anger
+8432,10025,The good news is that not everybody is going to skip the vaccine and you don't need the entire population to be vaccinated for the virus to slowly die off by itself.,13/1/21,0.1333333333333333,0.5416666666666666,0.106,0.815,0.079,-0.25,anger
+8435,10028,I don't think it is ethical to force another person to take a vaccine with unknow long term effect to combat the virus.,13/1/21,0.07500000000000001,0.5,0.097,0.769,0.134,0.2263,anger
+8436,10029,People have to make their own decision.,13/1/21,0.6,1.0,0.0,1.0,0.0,0.0,anger
+8442,10035,There’s a reason why certain groups of people are recommended to not take the vaccine.,13/1/21,0.21428571428571427,0.5714285714285714,0.0,0.755,0.245,0.4404,anger
+8506,10103,So you’re asking people to take on significantly more perceived risk at this time.,13/1/21,0.5,0.5,0.155,0.845,0.0,-0.3353,anger
+8510,10107,"If someone I trust is going to tell me to wait, I’m going to wait rather than take an unnecessary risk.",13/1/21,-0.4,0.9,0.09,0.769,0.141,0.296,anger
+8519,10117,"There's always people that want to jump into it asap, people like you and that's wonderful because the world always finds a way to balance things out.",13/1/21,1.0,1.0,0.0,0.754,0.246,0.7579,anger
+8533,10131,Because they are the ones who have the greatest chance to be in contact with the virus.,13/1/21,1.0,1.0,0.0,0.708,0.292,0.7351,anger
+8558,10160,I don't really have any data on the shortest successful phase 3 trial.,15/1/21,0.475,0.575,0.0,0.725,0.275,0.5859,anger
+8570,10173,"Cause ultimately it is now just an opinion, nobody knows...",13/1/21,0.0,1.0,0.0,1.0,0.0,0.0,anger
+8596,10200,"Once other countries are vaccinated and begin a return to normality, we will be forced to keep our borders shut because our own population is vulnerable.",16/1/21,-0.08125000000000002,0.51875,0.176,0.824,0.0,-0.5994,anger
+8598,10202,Don’t you think it’s a little contradictory though?,13/1/21,-0.1875,0.5,0.26,0.74,0.0,-0.2748,anger
+8599,10203,Doctors are allowed to have their own opinions on medical treatments.,13/1/21,0.3,0.5,0.0,1.0,0.0,0.0,anger
+8603,10207,You’re right that it’s an opinion.,13/1/21,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,anger
+8644,10248,"If we allow them to cut the queue, is this then fair to those who wants the vaccine but now have to wait longer?",13/1/21,0.44999999999999996,0.5,0.06,0.819,0.121,0.1406,anger
+8652,10256,"And like people have repeatedly pointed out, it’s the unknown 5-10 years from now.",13/1/21,-0.1,0.6,0.0,0.839,0.161,0.3612,anger
+8659,10263,I've also other supposedly rare complications from procedures I've done.,16/1/21,0.0875,0.6375,0.0,1.0,0.0,0.0,anger
+8683,10287,I just feel that nobody has the right to call people who opt not to inject the vaccine irresponsible unless they are themselves willing to take responsibility for anything wrong that does happen.,13/1/21,0.011904761904761899,0.7285714285714285,0.167,0.833,0.0,-0.7184,anger
+8720,10324,"Despite what everyone says, healthcare personnel through their actions, rightly or wrongly, have a certain amount of persuasion authority in this scenario.",13/1/21,-0.14285714285714285,0.7357142857142858,0.0,0.848,0.152,0.34,anger
+8721,10325,"If everyone see the rate of vaccine take up is low in the healthcare sector, do you think people will feel confident in taking the vaccines?",13/1/21,0.25,0.5666666666666667,0.072,0.819,0.109,0.2732,anger
+8735,10341,At the end of this test you will find that ultimately I have not influenced you in anyway.,13/1/21,0.0,1.0,0.0,1.0,0.0,0.0,anger
+8742,10348,The reason is that this technology is an expensive solution to the traditional solution (they ultimately do the same thing) but from a market perspective it is largely unproven.,13/1/21,-0.05714285714285714,0.6007142857142858,0.0,0.887,0.113,0.3182,anger
+8773,10379,And yet somehow the doctor who says this is wrong in your world view because he should keep that opinion to himself?,13/1/21,-0.5,0.9,0.129,0.871,0.0,-0.4767,anger
+8774,10380,I mean all your responses have been saying that doctors shouldn’t be saying anything contrary about the vaccine even though they should be doing risk assessments.,13/1/21,-0.3125,0.6875,0.08,0.92,0.0,-0.2732,anger
+8794,10401,>I mean all your responses have been saying that doctors shouldn’t be saying anything contrary about the vaccine even though they should be doing risk assessments.,13/1/21,-0.3125,0.6875,0.077,0.923,0.0,-0.2732,anger
+8808,10416,You seem to have a perception that they’re actively dissuading and breaching their duties as doctors when they are laying out the risks to us for us to decide.,13/1/21,-0.13333333333333333,0.6,0.069,0.855,0.076,0.0516,anger
+8811,10419,And is that not pushing his opinions on someone who doesn't know better?,13/1/21,0.5,0.5,0.167,0.833,0.0,-0.3412,anger
+8821,10429,"If you reject, then you should no longer have any priority even though you are in the high risk sector.",13/1/21,0.16,0.5399999999999999,0.292,0.708,0.0,-0.7184,anger
+8827,10435,"However, like SK, which has so far also managed the contain the virus spread, I see no need for Singapore to be throwing money at Pfizer and Modena to skip the queue.",6/1/21,0.1,1.0,0.065,0.861,0.074,0.0772,anger
+8843,10451,"2) Because if we vaccinate everyone quickly, fewer people will catch the virus, and we can open up the economy fully instead of further delaying recovery.",7/1/21,0.1111111111111111,0.5,0.0,1.0,0.0,0.0,anger
+8882,10490,">	""At this time, given the public health emergency, FDA is advising that it is acceptable to use every full dose obtainable (the sixth, or possibly even a seventh) from each vial, pending resolution of the issue,"" an FDA representative said in an emailed statement.",7/1/21,0.11666666666666665,0.5388888888888889,0.057,0.893,0.05,-0.0772,anger
+8883,10491,"https://www.nbcnews.com/health/health-news/pfizer-vaccine-vials-hold-some-extra-doses-experts-say-s-n1251548
+
+>	It is common for vaccine vials to be filled beyond their labeled allotment, experts said.",7/1/21,0.05000000000000002,0.7,0.0,1.0,0.0,0.0,anger
+8890,10498,"Out of these, only 8 were in the vaccine group, which is good.",7/1/21,0.35,0.8,0.0,0.791,0.209,0.4404,anger
+8892,10500,"So if you catch Covid despite being vaccinated, based on this data the odds of having severe disease is roughly 1 in 8, not lesser than in the placebo (9 out of 162).",7/1/21,0.0,0.5,0.077,0.923,0.0,-0.3818,anger
+8901,10509,"Also, its important to protect leadership in times like this.",4/1/21,0.4,1.0,0.0,0.504,0.496,0.7096,anger
+8909,10517,There is good rationale to do that because them getting infected may impact covid policy response time.,5/1/21,0.7,0.6000000000000001,0.152,0.711,0.137,-0.0772,anger
+8917,10525,"On the other hand, if politicians take the vaccine first, reaction will be like in the US, where the people accuse the government of being selfish and putting themselves before the people.",5/1/21,-0.125,0.5694444444444444,0.127,0.725,0.148,0.2023,anger
+8928,10536,"This, it is very vital to get buy-in.",5/1/21,0.13,0.52,0.0,0.737,0.263,0.3597,anger
+8942,10550,Isn't there an easy solution?,5/1/21,0.43333333333333335,0.8333333333333334,0.312,0.389,0.298,-0.0274,anger
+8948,10556,It just depends on what you want to see - only picking 3 as a trial still sends the message that they do not trust the vaccine.,6/1/21,0.0,1.0,0.104,0.846,0.05,-0.3404,anger
+8970,10578,"Simply put, you just want to put the people in a negative lens as if the government has been put in an impossible situation.",6/1/21,-0.3222222222222222,0.5857142857142857,0.142,0.808,0.05,-0.5267,anger
+8973,10581,Why would only picking 3 as a trial still sends the message that they do not trust the vaccine?,6/1/21,0.0,1.0,0.144,0.856,0.0,-0.4023,anger
+8976,10584,It's wise of you not to engage me anymore as you clearly do not have what it takes to keep up.,6/1/21,0.32499999999999996,0.6416666666666666,0.079,0.697,0.224,0.5809,anger
+8999,10607,I have had patients who were literally crying or throwing a tantrum at my clinic counter because the Gardasil 9 vaccine was out of stock and they couldn't get their shots.,5/1/21,-0.2,0.6,0.185,0.815,0.0,-0.7096,anger
+9008,10616,You're going to leave out the unfortunates—people with unfortunate circumstances thereby limiting their exposure to said discourses—yet they are not part of the discussion where their voice mattered the most.,5/1/21,0.0,0.75,0.13,0.87,0.0,-0.4939,anger
+9020,10628,"It looks like they're going to approve it anyway, then make it so inconvenient for people who don't take the vaccine that we are going to have to do it anyway ""by our own free will"".",24/2/21,0.13333333333333333,0.9333333333333332,0.074,0.787,0.138,0.3987,anger
+9079,10688,Indeed things have been complicated because the reported efficacies vary by a lot.,25/2/21,-0.5,1.0,0.0,1.0,0.0,0.0,anger
+9088,10698,"If they are willing to make us sacrificial pawns, they are implying that they care more about Xi Jinping, and the profit he can bring, than the people that elected them.",25/2/21,0.375,0.625,0.0,0.826,0.174,0.7269,anger
+9090,10700,"If they approve Sinovac and *actually start distributing it*, despite its poor showing, the blatant disregard to their constituents is outrageous.",25/2/21,-0.475,0.55,0.199,0.702,0.1,-0.3707,anger
+9097,10707,Don’t take the good vaccines for themselves and leave the shit for the people.,25/2/21,0.24999999999999997,0.7000000000000001,0.063,0.576,0.361,0.7717,anger
+9106,10716,"As for efficacy, people need to be careful interpreting the figures because different reports and different studies are using different standards and performed in different populations.",24/2/21,-0.02,0.68,0.0,0.94,0.06,0.1531,anger
+9114,10724,">The mask recommendation was a WHO one, and it wasn't wrong.",25/2/21,-0.5,0.9,0.0,0.779,0.221,0.3724,anger
+9115,10725,It was clearly wrong.,25/2/21,-0.5,0.9,0.397,0.256,0.346,-0.1027,anger
+9118,10728,They just had wrong science.,25/2/21,-0.5,0.9,0.437,0.563,0.0,-0.4767,anger
+9131,10741,"As huge as government is, they also shouldn't suga suga implement something without any base.",25/2/21,-0.19999999999999998,0.95,0.0,0.859,0.141,0.3182,anger
+9135,10745,E: turns out I'm not wrong thag he's anti-masker,25/2/21,0.25,0.9,0.0,0.758,0.242,0.3724,anger
+9138,10748,"People are still taking Pzifer (sic) and Modena (sic) vaccines, to some extent because there's a lesser likelihood of issues being swept under the carpet by these manufacturers.",24/2/21,0.0,0.5,0.0,1.0,0.0,0.0,anger
+9145,10755,"""healthy people don't need mask is wrong"" = ""anti-masker"".",25/2/21,0.0,0.7,0.263,0.508,0.229,-0.1027,anger
+9148,10758,"https://www.reddit.com/r/singapore/comments/lrdomp/-/gonj4rk
+
+>""healthy people don't need to qear&gt;The mask recommendation was a WHO one, and it wasn't wrong.",25/2/21,0.0,0.7,0.0,0.855,0.145,0.3724,anger
+9149,10759,>It was clearly wrong.,25/2/21,-0.5,0.9,0.397,0.256,0.346,-0.1027,anger
+9154,10769,"https://www.reddit.com/r/singapore/comments/lrdomp/-/gonj4rk
+
+>>The mask recommendation was a WHO one, and it wasn't wrong.",25/2/21,-0.5,0.9,0.0,0.797,0.203,0.3724,anger
+9156,10776,"He clearly stated mask recommendations are WRONG, and further quoting LHL's early statement on not needing to wear mask for the healthy people.",25/2/21,0.040000000000000015,0.5166666666666666,0.131,0.684,0.185,0.1449,anger
+9161,10781,"""the first guy is as stupid as you"" - says another stupid af anti-masker who thinks up votes is everything when the guy ""as stupid has more up votes"".",25/2/21,-0.32999999999999996,0.7666666666666666,0.29,0.71,0.0,-0.8807,anger
+9177,10801,"“The [vaccine efficacy] against mild disease could be lower than 90%-95% for Moderna and Pfizer.”
+
+https://fortune.com/2021/01/13/sinovac-vaccine-efficacy-rate-drop/",14/1/21,0.3333333333333333,0.5,0.128,0.872,0.0,-0.296,anger
+9200,10929,That also included CD8+ T-cells that play a key role in killing infected cells.,18/7/20,0.0,1.0,0.38,0.5,0.12,-0.7351,anger
+9206,10935,"The fact that the NP protein responses are being generated at a much higher frequency in COVID patients just means that for some reason, the SARS-COV-2 virus' most immunogenic protein is there.",18/7/20,0.375,0.5,0.0,0.905,0.095,0.4824,anger
+9223,10952,Resmevidir for early-stage Covid to fight the virus and dexamethasone for late-stage Covid to fight the cytokine storm which is commonly what ends up being the fatal blow.,18/7/20,-0.3,0.5,0.258,0.742,0.0,-0.8271,anger
+9266,10996,CD8+ T cells only work *after* your cells are infected by the virus unlike antibodies which attack the pathogen directly to prevent an infection.,18/7/20,0.05,0.7,0.23,0.73,0.04,-0.7351,anger
+9269,10999,They don't stop your place from catching fire.,18/7/20,0.6,0.9,0.233,0.583,0.184,-0.1311,anger
+9273,11003,"As someone who is taking the wait and see approach, I think this a fair rule.",22/1/21,0.7,0.9,0.0,0.832,0.168,0.3869,anger
+9288,11019,I'm annoyed that they keep sending these passive aggressive messaging regarding the vaccine.,22/1/21,-0.4,0.8,0.263,0.625,0.113,-0.34,anger
+9294,11025,It's kinda ridiculous they are only now talking about plans for vaccination centers and all.,21/1/21,-0.16666666666666666,1.0,0.136,0.864,0.0,-0.2975,anger
+9318,11051,"So I don't think the govt is intentionally slowing it down, we just didn't do good enough deals to get early supply, at least of the one vaccine approved so far.",22/1/21,0.07407407407407407,0.5148148148148148,0.072,0.843,0.084,0.1012,anger
+9323,11056,>It's kinda ridiculous they are only now talking about plans for vaccination centers and all.,22/1/21,-0.16666666666666666,1.0,0.136,0.864,0.0,-0.2975,anger
+9330,11063,They should have organized this a lot earlier since they were expecting the vaccines to be delivered.,22/1/21,0.0,0.5,0.0,1.0,0.0,0.0,anger
+9348,11081,"If you defrost enough for 10 people and only 6 show up, 4 doses go in the bin.",21/1/21,0.0,0.75,0.0,1.0,0.0,0.0,anger
+9349,11082,If you’re rostered to get it make sure you do and make sure you show up on time.,21/1/21,0.5,0.8888888888888888,0.0,0.777,0.223,0.5574,anger
+9360,11095,"To be fair, some people don't show up because they cannot.",22/1/21,0.7,0.9,0.0,0.813,0.187,0.3182,anger
+9368,11103,"What you don't want is people saying ""yes I'm going to get it"" but then getting cold feet and backing out last minute.",22/1/21,-0.3,0.5333333333333333,0.046,0.829,0.124,0.2237,anger
+9376,11111,"What a stupid, dumb, irresponsible thing to say.",15/1/21,-0.5874999999999999,0.75,0.706,0.294,0.0,-0.8625,anger
+9404,11139,You seriously trust their trial data transparency?,15/1/21,-0.3333333333333333,0.6666666666666666,0.17,0.5,0.33,0.3818,anger
+9419,11154,"Thereotically—and correct me if I’m wrong—if you’re not comfortable with the vaccine you’re taking, then you can just skip the appointment.",15/1/21,-0.2,0.8,0.119,0.881,0.0,-0.4023,anger
+9426,11161,"agree with what you said, but also honestly feel that people will be deterred from wanting to get vaccinated simply because they don’t want sinovac, esp when there are 2 better options out there.",14/1/21,0.3666666666666667,0.5857142857142857,0.0,0.724,0.276,0.8765,anger
+9430,11165,Surely the implementation policies should be balanced for this group of patrons/guests/visitors.,8/1/21,0.5,0.8888888888888888,0.0,0.791,0.209,0.4404,anger
+9458,11193,"A nudge, as we will use the term, is any aspect of the choice architecture that alters people's behavior in a predictable way without forbidding any options or significantly changing their economic incentive.",8/1/21,0.125,0.525,0.0,0.855,0.145,0.6002,anger
+9470,11205,I'd rather the government just man the fuck up and say that it's compulsory if they're going to do this kind of thing.,8/1/21,0.09999999999999998,0.75,0.137,0.863,0.0,-0.5423,anger
+9478,11213,"On top of that, we don’t have a choice on the vaccine we want!",8/1/21,0.625,0.5,0.0,0.764,0.236,0.3382,anger
+9481,11216,That's fine to not understand or not be familiar with.,8/1/21,0.39583333333333337,0.5,0.0,0.833,0.167,0.2023,anger
+9483,11218,"If you (not you, the person I replied to I mean) don't get it then don't stir shit.",8/1/21,-0.25625,0.74375,0.0,0.837,0.163,0.4449,anger
+9485,11220,"A corollary is that since most of us are ignorant about most issues (myself included), very few of us have the right to be outraged at every damn thing.",8/1/21,0.025142857142857154,0.5331428571428571,0.249,0.751,0.0,-0.8074,anger
+9491,11226,You can absolutely not take the vaccine if you don't want to.,8/1/21,-0.1,0.9,0.1,0.9,0.0,-0.0572,anger
+9500,11235,Appeal to authority and credentialism is not good enough to give advice to strangers online.,8/1/21,-0.175,0.55,0.144,0.778,0.078,-0.2746,anger
+9502,11237,"Talking out of my ass, if you're trying to conceive, then feel free to be more cautious.",8/1/21,0.45,0.65,0.231,0.622,0.147,-0.2247,anger
+9509,11244,How many people here are eager to take that?,13/1/21,0.5,0.5,0.0,0.762,0.238,0.3612,anger
+9518,11253,Complaining about people criticising Russia is as common as people criticising Russia.,13/1/21,-0.3,0.5,0.444,0.556,0.0,-0.7351,anger
+9521,11256,"> Complaining about people criticising Russia is as common as people criticising Russia
+
+I am not complaining, I am sharing my observations.",15/1/21,-0.3,0.5,0.379,0.557,0.063,-0.787,anger
+9522,11257,When redditors tend to blame any problem that happens in the US on Russia with absolutely evidence should be criticized.,15/1/21,0.2,0.9,0.309,0.691,0.0,-0.765,anger
+9527,11262,I can't and won't try to justify the thoughts and statement of random redditors.,15/1/21,-0.5,0.5,0.0,1.0,0.0,0.0,anger
+9554,11289,"We just had our election, LHL is still popular among the people of Singapore and more importantly, we don't have a raging COVID-19 wild fire.",14/1/21,0.4,0.7,0.079,0.654,0.267,0.6974,anger

@@ -1,0 +1,913 @@
+,index,Sentences,Comment Datetime,Textblob_polarity_score,Textblob_subjectivity_score,Vader_neg_score,Vader_neu_score,Vader_pos_score,Vader_compound_score,Emotions
+4,4,"I've seen people defend the treatment of the migrant workers as ""they are so lucky they should shut up and go home"".",24/2/21,0.3333333333333333,0.8333333333333334,0.0,0.853,0.147,0.5598,anger
+10,10,“... cases have exploded among migrant workers who live in the country’s far-flung dormitories.”   https://t.co/rg7JU8a4hU,5/7/20,0.13636363636363635,0.5,0.0,1.0,0.0,0.0,sadness
+11,11,"To be honest, it should be the profiteering shareholders of dormitory companies and employers who should foot the bill to plug the gaps and care for our million migrant workers.",16/5/20,0.6,0.9,0.046,0.769,0.185,0.7096,anger
+15,15,"Singapore should be better than this for all who have helped it become an amazing city, irrespective of background",10/4/20,0.55,0.7,0.0,0.717,0.283,0.7717,anger
+20,20,been working at the dorm for almost 2 months already and istg they are really really kind and sweet.,14/10/20,0.475,0.775,0.0,0.689,0.311,0.8039,sadness
+27,27,So many levels of fucked up.,6/10/20,-0.04999999999999999,0.6,0.468,0.532,0.0,-0.6597,fear
+29,29,Fucked.,6/10/20,-0.6,0.7,1.0,0.0,0.0,-0.6597,fear
+34,34,Because of their own security.,21/7/20,0.6,1.0,0.0,0.625,0.375,0.34,anger
+35,35,"It's sad, really.",21/7/20,-0.15,0.6,0.608,0.392,0.0,-0.4767,sadness
+37,40,Vote wisely,20/5/20,0.7,0.9,0.0,0.263,0.737,0.4215,neutral
+38,41,On hindsight Spore Govt should have imposed travel bans (in and out) and nationwide lockdown earlier.,20/4/20,0.0,0.5,0.08,0.92,0.0,-0.0772,anger
+40,43,Didn’t know so many people disliked us 🤔,20/4/20,0.15,0.55,0.331,0.669,0.0,-0.4522,neutral
+41,46,The idea that call centre workers in developing markets could work from home is kind of crazy.,15/4/20,0.0,0.9,0.144,0.856,0.0,-0.4005,fear
+43,48,Sleeping on the floor at work is no more inhuman than the salaries.,15/4/20,-0.25,0.5,0.155,0.845,0.0,-0.296,fear
+47,52,"@DrNorainiAhmad Luckily for him, I’m in Malaysia and he’s staying with me now.",19/3/20,0.3333333333333333,0.8333333333333334,0.0,0.784,0.216,0.5106,anger
+52,57,She’ll guide you whenever you need it the most  ❤️🕊  I hope Chaerin &amp; her family are doing  better each day.. Sending lots of love 💕 💕  https://t.co/LAdtqc6CE2,24/2/21,0.5,0.5333333333333333,0.0,0.682,0.318,0.8828,neutral
+63,68,my mom should stop telling me my vagina is dirty lol,18/2/21,0.10000000000000003,0.75,0.321,0.503,0.176,-0.3182,anger
+66,71,Mansplained to Qing about Lao Zi for 10 straight minutes ystd before she hit me with that “that’s nice that u know all this I think you should talk about it with my mom” ah.... this woman really knows the way to (my heart) shutting me the fuck up!,5/2/21,0.125,0.5499999999999999,0.067,0.838,0.095,0.126,anger
+68,73,"Crazy, I didn’t know the gift when I had it.",31/12/20,-0.6,0.9,0.212,0.531,0.257,0.128,joy
+69,74,"I didn’t want anything tho, just to wish you a happy new year.",31/12/20,0.4681818181818182,0.7272727272727273,0.0,0.51,0.49,0.7717,joy
+81,87,THEY DONT LMAO,9/10/20,0.6,1.0,0.611,0.389,0.0,-0.4847,fear
+82,88,"I know you don’t find it a need to please me, as long my mom’s hair look good and acceptable to her you’re all good and will still have your customer since I only come once every 6 months, but I really don’t think I should be treated this way either.",28/9/20,0.30999999999999994,0.56,0.0,0.851,0.149,0.6369,anger
+85,91,🥺 I really want to be in my own world.,22/9/20,0.4,0.6,0.0,0.815,0.185,0.1513,anger
+88,94,Alot of SMEs affected by MOM sudden rejection of renewal of passes.,21/9/20,0.0,0.5,0.338,0.662,0.0,-0.6249,neutral
+90,96,Perhaps only MNCs can afford these passes now.,21/9/20,0.0,1.0,0.0,1.0,0.0,0.0,sadness
+92,98,"Refreshing to see a government agency (led by a polarising Minister, ironically) respond to a viral post so politely without coming out guns blazing and actually reaching out to the OP for a discussion.",19/8/20,0.25,0.55,0.0,0.942,0.058,0.2023,fear
+97,103,Their parents will just be there trying to talk nice.,11/8/20,0.6,1.0,0.0,0.763,0.237,0.4215,joy
+98,104,My mom would have beat the shit outta me.,11/8/20,-0.2,0.8,0.0,0.667,0.333,0.6124,anger
+99,105,"Mom should stop cooking for everyone tbh, “brother” so rude, starve to death ley..",16/7/20,-0.3,0.6,0.568,0.432,0.0,-0.9208,anger
+103,109,It was a regressive idea when my parents &amp; grand parents preached.,7/6/20,0.5,1.0,0.0,0.769,0.231,0.4588,sadness
+104,110,Similarly our elders said one should eat only when hungry &amp; not 5 small meals a day as told now.,7/6/20,0.041666666666666664,0.6,0.0,1.0,0.0,0.0,anger
+106,112,Wife's grand mom crossed 100 this year.,7/6/20,0.5,1.0,0.0,0.667,0.333,0.4588,anger
+108,114,When I did nothing wrong.,6/5/20,-0.5,0.9,0.0,0.54,0.46,0.3724,neutral
+109,115,Craving for Jollibee right now but I think I should buy it on Mother's Day.,6/5/20,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,sadness
+110,116,Neither bakery nor coffee shop is open so better for me to buy something my mom would love to eat.,6/5/20,0.3333333333333333,0.5333333333333333,0.0,0.694,0.306,0.8377,neutral
+111,117,Jollibee Lucky Plaza😋,6/5/20,0.3333333333333333,0.8333333333333334,0.0,0.417,0.583,0.4215,joy
+112,118,Ordered a medium ($8) Sliced Fish crispy noodles (#鱼片生面) for a change.,3/5/20,0.5,1.0,0.0,1.0,0.0,0.0,neutral
+120,128,I liked her on 康熙 despite her annoying shoes craze.,23/3/20,-0.10000000000000003,0.8500000000000001,0.126,0.474,0.4,0.5358,anger
+122,130,A child should never have to grow up without a mom :(,23/3/20,-0.75,1.0,0.0,0.789,0.211,0.3412,anger
+123,131,For women's day special I've just bought my mom LV bag but I haven't buy anything for my sister.,9/3/20,0.35714285714285715,0.5714285714285714,0.0,0.902,0.098,0.2144,sadness
+127,135,Why should we check on your website if our addresses are being falsely used.,7/3/20,-0.4000000000000001,0.6,0.0,1.0,0.0,0.0,anger
+128,136,@intanina_ She better report to MOM.,4/3/20,0.5,0.5,0.0,0.633,0.367,0.4404,neutral
+135,143,"I was thinking about my mom punya harapan towards me, how many sacrifices they have made and how i should not be a burden for them.",25/1/20,0.5,0.5,0.0,0.901,0.099,0.3412,anger
+136,144,"Then, out of nowhere, i started to burst out crying and sobbing like crazy.",25/1/20,-0.4,0.75,0.413,0.459,0.128,-0.6808,fear
+141,152,@GulPanag @kaushikburman Luckily Singapore is an island with 6 million people with a government that means business.,9/6/20,0.3333333333333333,0.8333333333333334,0.0,0.809,0.191,0.5106,anger
+143,154,"In Delhi, it will be a disaster and since you can, maybe you should ask people to be vigilant and practice safe distancing strictly 3/",9/6/20,0.5,0.5,0.138,0.707,0.155,-0.128,anger
+145,159,I beginning to like #ministersg  #josephineteo she is a tough lady.,3/9/20,-0.3888888888888889,0.8333333333333334,0.136,0.636,0.227,0.25,joy
+146,160,Is definitely not easy during this difficult time.,3/9/20,-0.35833333333333334,0.9166666666666667,0.389,0.397,0.214,-0.2973,neutral
+148,165,"actually very strange, we should have more accurate information as far i know those dormitory workers or high risk workers they have been testing weekly instead of 14 days once, or maybe is the company itself requested for weekly testing, not sure..",9/3/21,0.14083333333333334,0.6262037037037037,0.097,0.903,0.0,-0.4927,sadness
+149,166,One day should able to inject 2000 person' such vaccine,8/3/21,0.25,0.5625,0.0,1.0,0.0,0.0,neutral
+151,168,Country's vision:  Vaccine Country should be 100% covid free by end of the year.,8/3/21,0.4,0.8,0.0,0.694,0.306,0.6486,neutral
+153,170,why give precious covid vaccine to migrant worker over citizen.,8/3/21,0.5,1.0,0.0,0.709,0.291,0.5719,anger
+157,174,However definitely those who hv vaccinated can freely stay or do whatever with the person who hv not vaccinated only in the house not in public area.,11/3/21,0.1,0.5916666666666667,0.0,0.817,0.183,0.6808,fear
+160,177,"In any emergency (illness, sick) the unvaccinated person will be given in house treatment.",11/3/21,-0.7142857142857143,0.8571428571428571,0.167,0.833,0.0,-0.3818,fear
+166,183,"Here the politician plays very important role, either to defend their citizens either ignore it.",11/3/21,0.52,1.0,0.134,0.645,0.22,0.1513,fear
+167,184,"Vaccine is great effort, it's results for long term.govts fail to control birth esp among the citizens who comes under poverty line, as govts can't anymore allocate billions for education,health,homes,welfare funds,etc for the poor, as year by year this group of people (population) increase tremdously.",11/3/21,-0.037500000000000006,0.5125,0.176,0.71,0.114,-0.5423,anger
+176,193,Why only maids?,3/2/21,0.0,1.0,0.0,1.0,0.0,0.0,neutral
+178,195,Sad that in this country those with money is treated differently from those who have not.,3/2/21,-0.25,0.8,0.171,0.829,0.0,-0.4767,sadness
+180,197,"With those who support such a system, we know what kind of people these are.",3/2/21,0.3,0.7,0.0,0.828,0.172,0.4019,fear
+181,198,Yes yea this ruling should have made much earlier !!!!,3/2/21,0.0,0.5,0.0,0.699,0.301,0.5951,anger
+182,199,All these imports from so high risk countries and yet we continue letting them in - suppose to be Covid tested free - but they landed â€˜infected positiveâ€™ and yet we continue to let people from these â€˜negative-positiveâ€™ countries to come in .. these only mean that their â€˜negative testsâ€™ are unreliable and and most probably â€˜boughtâ€™... how can we continue to risk Sgp in this way with so many repeated â€˜infectedâ€™ imports from these high risk hotspot countries for so long to come in ... a stop has to be made !,3/2/21,0.168125,0.6209375,0.112,0.865,0.022,-0.8301,fear
+192,209,FW are not so easy to handle.,9/9/20,0.43333333333333335,0.8333333333333334,0.335,0.665,0.0,-0.464,neutral
+197,214,True ???,9/9/20,0.35,0.65,0.0,0.23,0.77,0.5171,neutral
+198,215,Three  healthy meals  will  do .,9/9/20,0.5,0.5,0.0,0.597,0.403,0.4019,neutral
+210,227,"So, I have expected to see that re-infections in dorms is very likely and high.",9/9/20,0.02,0.6466666666666666,0.0,1.0,0.0,0.0,joy
+211,228,A sad encounter... with stupid people in the BCA.,9/9/20,-0.6499999999999999,1.0,0.52,0.48,0.0,-0.7579,sadness
+212,229,I could tell and felt that the lady I spoke to was not interested as she did not even asked for my particulars for me to expect BCA's feedback and actions taken.,9/9/20,-0.125,0.5,0.072,0.928,0.0,-0.3089,anger
+222,239,Will needed strong enforcement.,13/6/20,0.4333333333333333,0.7333333333333333,0.0,0.476,0.524,0.5106,neutral
+223,240,Those whom are caught will be repatriated at their own cost/ jail term.,13/6/20,0.25,0.5,0.0,1.0,0.0,0.0,fear
+226,243,This warning/advisory should have been out earlier.,13/6/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+227,244,"As a FDW, It's good if we should follow what the government said so.",13/6/20,0.7,0.6000000000000001,0.0,0.805,0.195,0.4404,neutral
+231,248,Although we sometimes stubborn but it's better to listen and follow the protocol rules.,13/6/20,0.5,0.5,0.105,0.678,0.218,0.4588,anger
+233,250,I think is good that it help us to educate also.,13/6/20,0.7,0.6000000000000001,0.0,0.588,0.412,0.6808,neutral
+236,253,And wait until the time that phase 2 will be open.,13/6/20,0.0,0.5,0.0,1.0,0.0,0.0,neutral
+238,255,And  keep safe.,13/6/20,0.5,0.5,0.0,0.408,0.592,0.4404,neutral
+239,256,"As a foreigner I would like to say we should follow government roles, what ever government doing good for us and for Singaporean and good all.",14/6/20,0.7,0.6000000000000001,0.0,0.717,0.283,0.8074,neutral
+246,263,many helpers say tat they went out to remit money.,13/6/20,0.5,0.5,0.0,0.811,0.189,0.2732,anger
+247,264,i tot we r encourage to do most of e thts online?,13/6/20,0.5,0.5,0.0,0.708,0.292,0.5106,fear
+253,270,I thought employers only can allow Foreign Domestic Workers out on the streets only during Phase 2.,13/6/20,-0.03125,0.55625,0.0,0.888,0.112,0.2263,anger
+267,284,"Problem is if they stay at home, employer still expect them to help out and yet some not willing to pay.",13/6/20,-0.125,0.75,0.109,0.729,0.162,0.0762,anger
+268,285,"So why should the maid stay at home, just go out lah, if infected, at most affect the employer's family, since the employer dun care abt their off day, why should the maid care abt the employer well being?",13/6/20,0.5,0.5,0.069,0.749,0.182,0.6486,anger
+272,289,How could NEA turn a blind eye to certain locations which is well known for  certain group to  congregate?,13/6/20,-0.023809523809523808,0.6031746031746031,0.117,0.609,0.274,0.3818,fear
+279,296,"In that case the money remitance should only allow a handful of people transiting money ,once over shot to a certain number they have to turn them down .",13/6/20,0.019576719576719564,0.6201058201058202,0.0,0.813,0.187,0.5106,fear
+280,297,MOM should come up with a guideline to help with onliine transaction with reputable source.my maid was recommended to pass her money to a 'uncle' who will help her transfer.,13/6/20,0.5,0.8,0.0,0.776,0.224,0.7351,anger
+281,298,"Omg, lucky she is not that gullible.",13/6/20,0.3333333333333333,0.8333333333333334,0.0,0.505,0.495,0.6007,fear
+284,301,Always blame on helpers all this time i didn't  hear or see from all the news update  that most corona Virus cases from helpers  mostly  from Domitori or community  Singaporean or pr bla bla ..,13/6/20,0.5,0.5,0.064,0.824,0.112,0.2023,anger
+285,302,They going to those  place  maybe to send money to the family i gues so some people not smart enough to send Money  by her own using  dash or boss Posb  EB to transfer and  they buy what they need becouse  some employer they didn't provide enough for them who knows as long as they follow  the rule why not.,13/6/20,0.08857142857142856,0.6085714285714285,0.037,0.963,0.0,-0.3089,anger
+287,304,"I think #GOV #MOM should send these maids a strong warning... Their employment pass will b terminated n they have to pay their flight if they DO NOT obey SG laws ,  if they take this opportunity to go home then b it better than bringing home viruses n SG has to restart everything again.",13/6/20,0.4666666666666667,0.6166666666666667,0.026,0.802,0.172,0.8422,fear
+301,318,"Govt can work with embassies and remittance businesses to bring the remittance to the worker instead, to prevent hot spots at the usual haunts of ofws.",13/6/20,0.0,0.55,0.074,0.886,0.041,-0.2263,anger
+302,319,"Also, employers and OFWs can explore online remit options where possible.",13/6/20,0.0,1.0,0.0,1.0,0.0,0.0,neutral
+303,320,"Rates may not be as good, but if for the time being, perhaps the employer can work out something with the helper.",13/6/20,0.7,0.6000000000000001,0.069,0.806,0.125,0.3393,sadness
+307,324,This should definitely not be allowed.,13/6/20,0.0,0.5,0.0,0.649,0.351,0.4019,anger
+310,327,We must all follow the phases so that we can make a full recovery to reopen the economy.,13/6/20,0.35,0.55,0.0,1.0,0.0,0.0,fear
+320,337,A good employer knows that a good helper is an asset to his/her family.,13/6/20,0.7,0.6000000000000001,0.0,0.428,0.572,0.8658,joy
+323,340,"Total should be 421 cases, instead of 422, when thereâ€™s 416 in dormitories and 5 community cases.",11/6/20,0.0,0.75,0.0,1.0,0.0,0.0,anger
+325,342,Total and community cases are both deceptive with over 5 mil Singapore residents not tested.,11/6/20,0.0,0.75,0.0,1.0,0.0,0.0,fear
+329,346,Thatâ€™s a significant good sign to have 30 more migrant worker dormitories cleared of COVID-19 infections.,11/6/20,0.525,0.6583333333333333,0.0,0.663,0.337,0.6249,sadness
+330,347,We should be ready now to implement phase 2 of the CB.,11/6/20,0.2,0.5,0.0,0.8,0.2,0.3612,fear
+336,353,They have done and should be respect/ treat better.,4/6/20,0.5,0.5,0.0,0.556,0.444,0.6808,anger
+339,356,Businesses earned more profits from employing cheaper labor at the expense of commoners?,4/6/20,0.5,0.5,0.0,0.79,0.21,0.4927,anger
+340,357,"If the Singaporean economy needs these people, they should be given decent housing, not only in their interest but in the interests of all - as the pandemic clearly shows.",4/6/20,0.08888888888888889,0.6833333333333332,0.0,0.764,0.236,0.7935,anger
+341,358,Hey I thought Singaporean love all dormitories FW.,4/6/20,0.5,0.6,0.0,0.588,0.412,0.6369,neutral
+344,362,we should emphasize if temp and Body condition not truly reported is liable for permit termination.,27/5/20,-0.1,0.5,0.138,0.862,0.0,-0.3412,fear
+346,364,Super efficient and easy to track if they decide to go missing.,27/5/20,0.18888888888888888,0.5166666666666667,0.111,0.404,0.485,0.8126,neutral
+347,365,Makes tracing super easy.,27/5/20,0.3833333333333333,0.75,0.0,0.227,0.773,0.7783,neutral
+358,376,"Working wise have a distancing of 1 metre with a mask , no chatting at work , as sliva droplets might flow the air woth close contact to.each others.Hygiene in wash hand after works for meals and check temperature at all time.",13/5/20,0.7,0.9,0.052,0.8,0.148,0.6249,anger
+359,377,This might keep the sick c-v 19 at bay.🤧🤮🥵,13/5/20,-0.7142857142857143,0.8571428571428571,0.292,0.708,0.0,-0.5106,anger
+366,384,"That's true, MOH should test all citizens and PR too.",12/5/20,0.35,0.65,0.0,0.763,0.237,0.4215,neutral
+372,390,Further isolation should be carried out.,5/4/20,0.0,0.5,0.351,0.649,0.0,-0.4019,anger
+377,395,The risk of infection is very high among them,5/4/20,0.20800000000000002,0.702,0.208,0.792,0.0,-0.2732,fear
+381,399,Gov should do a total shutdown to break the cycle of transmission.,5/4/20,0.0,0.75,0.0,1.0,0.0,0.0,anger
+394,412,I had observed many eateries and the manner and hygiene level of food handling is appalling.,6/4/20,0.07500000000000001,0.7,0.152,0.848,0.0,-0.3612,fear
+395,413,We should provide them a better living condition dormitory,6/4/20,0.5,0.5,0.0,0.707,0.293,0.4404,neutral
+401,419,Always take it seriously.,5/4/20,-0.3333333333333333,0.6666666666666666,0.362,0.638,0.0,-0.1779,neutral
+403,421,So You stay healthy and keep others healthy.,5/4/20,0.5,0.5,0.0,0.503,0.497,0.712,neutral
+410,428,"At this critical time, masks should be given immediately to prevent spread in the dormitories.",10/4/20,0.0,0.8,0.14,0.793,0.067,-0.296,anger
+413,431,Yesterday i had foreign workers india and Bangladesh  cutting grass and all eating and sleeping in my void deck in sembawang.,10/4/20,-0.3625,0.5125,0.073,0.927,0.0,-0.128,sadness
+419,437,I doubt we are able suggest implement at work site monitoring system it should be good enough,16/5/20,0.39999999999999997,0.5750000000000001,0.129,0.722,0.149,0.1027,anger
+421,439,Speak to a decision-maker today and open up new opportunities to achieve your financial goals kindly contact us with the details below and get attended to by a loan consultant from our company thank you our loans are easy to access to hard money at affordable loan interest rate transactions.,16/5/20,0.14633838383838382,0.5382575757575757,0.024,0.729,0.247,0.9153,joy
+426,444,Interested persons should contact us via email: Magiocapitalinternationalloans @ zohomail .,16/5/20,0.25,0.5,0.0,0.748,0.252,0.4019,joy
+427,445,"com to enable us to open a loan processing file or  contact us on Business WhatsApp:+1(201)905-6637  Warm Regards,",16/5/20,0.3,0.55,0.0,0.894,0.106,0.2263,neutral
+428,446,In these 14 days Malaysian should have enough time looking for room to rent in Singapore.,18/3/20,0.0,0.5,0.0,1.0,0.0,0.0,fear
+432,450,Take care when housing recovered and healthy workers together.,1/5/20,0.5,0.5,0.0,0.543,0.457,0.7096,joy
+434,452,"Thus, not only the areas where they will be housed be properly disinfected, but whatever belongings they'll be carrying along should be too.",1/5/20,0.0,0.55,0.0,1.0,0.0,0.0,anger
+441,459,"Why you should join us?👇👇👇 - PROFIT UP TO 5X -INSTANT WITHDRAWAL -LIVE CHAT -EASY TO ACCESS -NO HIDDEN CHARGES/FEES You can earn as much as $5000 within a week  SEND MESSAGE TO ADMIN INSTANTLY TO START ""SEND HOW DOES IT WORK"" 👇👇👇 https://t.me/joinchat/AAAAAFjjaw7jZP68VMDwPg",1/5/20,0.14217171717171717,0.5333333333333333,0.057,0.722,0.221,0.8109,anger
+444,470,Am I on the right computation.,29/4/20,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,neutral
+449,483,"Those people are stubborn,when caught the virus,government should ask them to pay the full bill,No used of CPF to pay.This will teach them a lesson.",5/4/20,0.35,0.55,0.057,0.943,0.0,-0.1027,anger
+450,484,Use the drive up multi storey warehouse available all over the island with good ventilation.,5/4/20,0.55,0.5,0.0,0.828,0.172,0.4404,anger
+452,486,Good ventilation should be compulsory at all facilities use for recovery.,5/4/20,0.7,0.6000000000000001,0.0,0.775,0.225,0.4404,anger
+463,497,"Unfortunately, they cannot be let loose until the virus is dead.",5/4/20,-0.25897435897435894,0.5564102564102563,0.402,0.48,0.118,-0.6945,sadness
+473,507,Any precedent all kind of “mental breakdown” problem to get maid should be assessed before approval.,4/3/21,0.25,0.55,0.136,0.707,0.157,0.1027,anger
+479,513,We should make someone's life better & in turn we will be a happy person...🙂,4/3/21,0.65,0.75,0.0,0.625,0.375,0.765,joy
+483,517,Sentence too light.,5/3/21,0.4,0.7,0.0,0.606,0.394,0.0772,neutral
+488,522,"These are all just excuses to get away with murder, the said person who’s suffering from the symptoms mentioned, sadly I am also suffering from it seeking help and on medications for 15yrs now, it is very tough on us but not others, mental illness is never easy  😞 but hey they are the one who help you at home ease your burden and what not, never once I have ever EVER hit my helper whom I have for 1 (11yrs) 1 (6 yrs) 1 (2 yrs) 1 (4yrs) 1 (4yrs) But whenever I am down and depression kicks in anyway, my helpers have always been a great help to lift my spirit up, making me hot drinks, holding my hand saying everything will be alright ma’am, making sure I am comfortable, treating me like a kid,I swear it is 2 ways we stay together as a family nobody should be bullied.",6/3/21,0.05246913580246911,0.7345679012345679,0.155,0.6,0.244,0.957,anger
+489,523,"Honestly speaking that is a ridiculous reason, Stop that oh poor me I am suffering from depression so I had hit my helper NOOOoooo that is not the case, Don’t make people with depression, anxiety,  borderline/obsessive compulsive personality disorder look bad idiots.",6/3/21,-0.32666666666666666,0.7933333333333333,0.44,0.47,0.091,-0.9628,sadness
+490,524,Singapore should quickly let in the migrants workers... Our infrastructure project and maintenance need fresh replacement workers,4/3/21,0.31666666666666665,0.5,0.0,0.874,0.126,0.3182,sadness
+491,525,"The only way to minimize or prevent accident, MOM Safety Official should inspect surprisingly any worksite whether construction or companies without informing of their visit",3/3/21,0.35,0.75,0.103,0.695,0.202,0.25,fear
+492,526,Definitely not.,3/3/21,0.0,0.5,0.0,0.27,0.73,0.4019,neutral
+493,527,It is very necessary to improve to quality of safety personnel.,3/3/21,0.0,1.0,0.0,0.601,0.399,0.7152,joy
+496,530,Is he competent enough ?,3/3/21,0.25,0.5833333333333333,0.0,0.566,0.434,0.3182,neutral
+497,531,The mindset of money before safety is always bad.,3/3/21,-0.6999999999999998,0.6666666666666666,0.263,0.526,0.211,-0.1779,fear
+498,532,Safety only have to power to advise and implement the system.,3/3/21,0.0,1.0,0.0,0.781,0.219,0.4215,fear
+499,533,Management (who controls the money ) is still responsible for providing resources and help to implement the control measures.,3/3/21,0.2,0.55,0.0,0.762,0.238,0.6124,anger
+501,535,Lucky my company mgmt very supportive to safety issues.,3/3/21,0.4916666666666667,0.9166666666666667,0.0,0.418,0.582,0.8104,joy
+508,542,"They can behave themselves n don't behave privileged or self- accredited , we r happy loh!",26/2/21,1.0,1.0,0.138,0.632,0.229,0.379,joy
+509,543,I have 3 PR neighbours at my level n I feel it's enough.,26/2/21,0.0,0.5,0.0,1.0,0.0,0.0,anger
+513,547,I got to give them my entire corridor .,26/2/21,0.0,0.625,0.0,1.0,0.0,0.0,anger
+521,555,Whether it's true many didnt convert and return while having HDB properties here in Singapore.,26/2/21,0.425,0.575,0.0,0.833,0.167,0.4215,neutral
+524,558,Amazing!,26/2/21,0.7500000000000001,0.9,0.0,0.0,1.0,0.6239,neutral
+525,559,The number should technically not be more than 5 pax multiplied by 365days.,26/2/21,-0.25,0.5,0.0,0.894,0.106,0.0772,anger
+526,560,There should be a bigger cut and control on E Pass where they took on PMET roles (non specialised skills).,16/2/21,0.0,0.5,0.11,0.89,0.0,-0.2732,fear
+528,562,Why only manufacturing...,16/2/21,0.0,1.0,0.0,1.0,0.0,0.0,neutral
+534,569,I still.see some bad comments about her.,3/2/21,-0.6999999999999998,0.6666666666666666,0.412,0.588,0.0,-0.5423,sadness
+536,571,Who is intentionally controlling and manipulating our country behind.,3/2/21,-0.4,0.7,0.238,0.762,0.0,-0.3612,fear
+539,574,The Biden administration is now coming clean and admitting that the Covid death rates in America for 2020 had been grossly exaggerated (most probably to make Trump look bad); and that the PCR testing should not be used as a diagnostic tool for positive cases.,1/2/21,-0.021212121212121175,0.6824242424242424,0.137,0.743,0.12,0.0258,sadness
+547,582,Not surprising.,19/12/20,-0.35,0.5,0.645,0.355,0.0,-0.2057,neutral
+548,583,"With high staycations by locals , should not mix imported cases during their SHN with locals.",19/12/20,0.16,0.5399999999999999,0.0,1.0,0.0,0.0,anger
+552,587,1 more suggestion Quarantine Area should be at Tuas South   Why in the CBD ?,19/12/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+553,588,Some of the comments here are sick.,15/12/20,-0.7142857142857143,0.8571428571428571,0.355,0.645,0.0,-0.5106,fear
+562,597,Perhaps the rest of the population should move to live in these dorm models for better infection control.,15/12/20,0.3181818181818182,0.5,0.0,0.854,0.146,0.4404,sadness
+566,601,The vaccine if it is proven and effective than government should make its compulsory for every nation to have the jab just like BCG jab!,15/12/20,0.75,0.8,0.0,0.796,0.204,0.7088,fear
+568,603,taking your own risk!,15/12/20,0.75,1.0,0.444,0.556,0.0,-0.3382,neutral
+573,608,The use of RNA vaccine is a concern versus the traditional and tested vaccine from deactivated virus (as in Sinopharm case),15/12/20,0.0,0.75,0.0,1.0,0.0,0.0,fear
+574,609,"This should be done a month ago, but i think the most important is FTs with Covid Treatment must pay in full.",9/9/20,0.4166666666666667,0.6833333333333332,0.072,0.809,0.119,0.2592,sadness
+591,626,All flu like symptoms should be  actively tested.,25/6/20,-0.13333333333333333,0.6,0.21,0.403,0.387,0.296,sadness
+593,628,We still have Asymptomatic unable to test.,25/6/20,-0.5,0.5,0.0,1.0,0.0,0.0,sadness
+595,630,Finally.,25/6/20,0.0,1.0,0.0,1.0,0.0,0.0,joy
+597,632,"Well, she is unfortunate that she allowed customers to the condo.",3/6/20,-0.5,1.0,0.213,0.638,0.149,-0.2263,sadness
+602,637,And the company that apply for her should also be liable.,3/6/20,-0.1,0.5,0.0,1.0,0.0,0.0,anger
+604,639,"Aiyah sex worker is just another worker what makes them so different?There are all types,kind of work and this is just one of the long list so what a sex worker does that mean the person should be treated an outcast,evil?They do it for a reason not so much about enjoying or having fun the least likely reason/s.When Jesus was preaching many people were against prostitutes but the Lord wanted them to repent and seek forgiveness ,in fact it is those sinners that HE would want to reach out and help first not others and he once said it is those who are sick that requires a doctor not those who are not/",3/6/20,0.03732142857142856,0.517797619047619,0.037,0.851,0.113,0.7345,anger
+606,641,No CB cannot live!,3/6/20,0.17045454545454544,0.5,0.454,0.546,0.0,-0.3595,sadness
+607,642,"Can't understand why used such derogatory word ( Sex worker ), should instead defined as Happy ending essential services, that sounds more atas",3/6/20,0.325,0.575,0.0,0.85,0.15,0.5719,joy
+609,644,I have family members in health care line fighting hard during this pandemic...,18/12/20,-0.2916666666666667,0.5416666666666666,0.242,0.559,0.199,0.0772,anger
+614,649,Indeed we must never forget the contributions and sacrifices of foreign workers towards the development of our beloved city into such a beautiful and modern metropolis since independence!,18/12/20,0.33499999999999996,0.585,0.0,0.724,0.276,0.8465,joy
+616,651,"Love you PM.Lee , you are very great leaders of Singaporean may the Lord always take care and bless you and your People of Singaporean delivery from the Virus of COVID-19 Amen Thank full to God we are safe staying in Singapore all the year, missing of our family at home because of the COVID-19 situation so we need  to be patien wait of the situation better.",19/12/20,0.44166666666666665,0.5291666666666667,0.026,0.677,0.297,0.9712,joy
+618,653,Great job Mr. Lee we are proud to have a PM going down to the root to help the migrant workers but they should also listen to the conditions layed out by the government so it will be a win win situation.,14/9/20,0.6088888888888888,0.5677777777777777,0.0,0.675,0.325,0.9505,anger
+621,656,"To ensure restaurants can reopen safely, it is a good idea to indicate at the entrance the maximum number of patrons allowed, so that there is no argument.",14/6/20,0.7,0.6000000000000001,0.132,0.588,0.28,0.6486,joy
+623,658,The restaurant has to further limit the number if there are additional health or safety concerns.,14/6/20,0.0,0.5,0.0,0.773,0.227,0.4767,fear
+627,662,This group of people are one of the many special ones that stood up in times of need to unselfishly sacrifices for our nation with all their hearts and we should be thankful to them.,13/6/20,0.4285714285714286,0.5357142857142857,0.0,0.838,0.162,0.7506,fear
+628,663,You have not only earned my respect but also the respect of our leaders and the nation.,13/6/20,0.0,1.0,0.0,0.708,0.292,0.7351,anger
+629,664,Deep appreciation and respect to my nation so small yet so strong keep up the positive vibes and great mindset i m always behind you my Singapore   Crossing my fingers to be able to fly home from Germany safely like i do every summer with my husband and that we could avoid the 14days isolation or quarantine as we do not have that much of a time from work leaves  looking at how Germany is  progressing so steadily i believe my hometown Singapore should have good faith in the Germans n accepting them for visitations with convenience.,13/6/20,0.3064393939393939,0.5711489898989899,0.042,0.68,0.278,0.9807,joy
+633,668,We Are Total Defence.,12/6/20,0.0,0.75,0.0,0.682,0.318,0.1027,neutral
+637,672,I think tracetogether should incorporate the novid ultrasound tech to further enhance its usefulness,13/6/20,0.0,0.5,0.0,0.845,0.155,0.296,neutral
+638,673,This is certainly beautifully captured and the artist should get a national award 👌👌👏👍👍🇸🇬🇸🇬,16/5/20,0.85,1.0,0.0,0.51,0.49,0.8625,joy
+639,674,Sharon Lee we should be this if it’s for sale.. a good reminder to all of us including the boys...,16/5/20,0.7,0.6000000000000001,0.0,0.861,0.139,0.4404,joy
+640,675,NTUC should broadcast this live at the entrance so that the people who rush there can watch and decide if they still need to rush in or not,21/4/20,0.13636363636363635,0.5,0.0,1.0,0.0,0.0,sadness
+646,681,We really thank you and your team for working very hard to overcome this troubled times.,21/4/20,-0.2263888888888889,0.6347222222222222,0.247,0.619,0.133,-0.34,neutral
+647,682,I know it is a very stressful time for every Singaporean now as we see a great surge in the number of cases and the CB being extended.,21/4/20,0.5,0.525,0.116,0.71,0.174,0.204,fear
+648,683,"It is going to be very difficult for many of us, however I guess we need to stay united at this point of time to address and fight this COVID 19 pandemic..",21/4/20,-0.07500000000000001,0.75,0.149,0.774,0.077,-0.3804,anger
+650,685,"Like many have shared, these people (FW) at dormitories should be thanked for building our infrastructure and keeping Singapore clean.",21/4/20,0.43333333333333335,0.6000000000000001,0.0,0.604,0.396,0.8591,anger
+654,689,Singapore should use the template of China base on the precautionary measures taken over time.,21/4/20,-0.8,1.0,0.0,1.0,0.0,0.0,anger
+655,690,I have been in China before the outbreak and witnessed the effective actions taken.,21/4/20,0.6,0.8,0.0,0.795,0.205,0.4767,fear
+658,693,It is not safe  for exercising people to pass by each other or one is running behind another when mask is off.,21/4/20,-0.25833333333333336,0.525,0.103,0.897,0.0,-0.3412,fear
+667,702,"At this time, all Singaporeans should stand United as one to fight our common enemy.",21/4/20,-0.3,0.5,0.292,0.574,0.134,-0.5106,anger
+669,704,We learn through our mistakes and our lives will be better.,21/4/20,0.5,0.5,0.174,0.625,0.201,0.1027,joy
+678,713,"There is mention that if one needs to go out to buy essentials, only one member of the family should leave the house.",21/4/20,0.0,1.0,0.052,0.948,0.0,-0.0516,fear
+679,714,Does this mean that a husband or any other family cannot drive another member of the family to the market or supermarket.,21/4/20,-0.21875,0.53125,0.0,1.0,0.0,0.0,sadness
+684,719,pls also seriously consider to ban the sale of cigarettes too !,21/4/20,-0.41666666666666663,0.6666666666666666,0.376,0.537,0.087,-0.6476,joy
+687,722,They are harming their own health and others too !!!,21/4/20,1.0,1.0,0.332,0.668,0.0,-0.6679,neutral
+691,726,This is a serious hygiene risk.,21/4/20,-0.3333333333333333,0.6666666666666666,0.531,0.469,0.0,-0.34,joy
+692,727,God bless Singapore ❤️❤️❤️Everyone should stay united and strong to protect this lovely country away from the pandemic.,21/4/20,0.4666666666666667,0.7416666666666667,0.0,0.399,0.601,0.9524,fear
+693,728,"MOH and all the frontliners are doing a great and noble job to safeguard this nation, they deserve our respect!",21/4/20,0.775,0.825,0.0,0.534,0.466,0.92,joy
+698,733,And yes we must take care of this group better regardless of virus or not.,22/4/20,0.5,0.5,0.0,0.577,0.423,0.8316,neutral
+703,738,These people should be “Fine”.,22/4/20,0.4166666666666667,0.5,0.0,1.0,0.0,0.0,anger
+713,748,If lucky  vaccine comes in time,21/4/20,0.3333333333333333,0.8333333333333334,0.0,0.641,0.359,0.4215,fear
+716,751,Lanes are only 1 metre apart and sometimes carts with cartons lined the sides and reduce the walking space to half a metre.,21/4/20,-0.08333333333333333,0.5833333333333334,0.0,1.0,0.0,0.0,fear
+719,754,They should be able to afford to rent a bigger space,21/4/20,0.25,0.5625,0.0,1.0,0.0,0.0,fear
+721,756,"Hi Mr Lee, Why you still give days to Lockdown, should lockdown immediately as people will rush for stuffs without thinking about the Spreading of Virus to anyone out there or their love one..",22/4/20,0.5,0.6,0.0,0.887,0.113,0.6369,anger
+724,759,"Sir , It’s a good idea to extend the CB measures .",21/4/20,0.7,0.6000000000000001,0.0,0.603,0.397,0.5574,joy
+726,761,"For a start , there are so many essential services concentrated in Changi Airport and as a result a lot of staff movement which includes a significant number of work permit holders.",21/4/20,0.2916666666666667,0.5583333333333333,0.0,0.89,0.11,0.2732,joy
+728,763,Can we consider having Changi airport to close for one month so that we also carry out necessary renovations and upgrade.,21/4/20,0.0,1.0,0.0,1.0,0.0,0.0,neutral
+730,765,Any flights in the meantime can be operated from Seletar airport if possible.,21/4/20,0.0,1.0,0.0,1.0,0.0,0.0,fear
+732,767,We need to consider cutting down on essential services movement as much as possible.,21/4/20,-0.18888888888888888,0.6222222222222222,0.103,0.897,0.0,-0.128,fear
+733,768,Let’s all hope our efforts bear positive results soon.,21/4/20,0.22727272727272727,0.5454545454545454,0.0,0.519,0.481,0.7579,joy
+736,771,"Not sure to make the decision to extend the CB by another month at this moment is the correct one as so far, majority of the cases occurred at the dorm and local cases around 20.",21/4/20,-0.049999999999999996,0.6296296296296297,0.052,0.903,0.045,-0.0675,sadness
+739,774,"CB has huge impact on our economy with many businesses affected, workers losing their jobs and students not learning much from HBL.",21/4/20,0.3666666666666667,0.5333333333333333,0.165,0.745,0.09,-0.2263,fear
+742,777,So when do we punish the ones responsible for the source of this virus?,21/4/20,0.2,0.55,0.192,0.678,0.13,-0.2732,anger
+745,780,What kind of deterrence should we have?,21/4/20,0.6,0.9,0.0,1.0,0.0,0.0,neutral
+746,781,"One of the things we should be looking at is bringing the operators of the dormitories, and the contractors who are in charge of the workers, to task--for years they prioritised profit over ensuring a decent level of hygiene and safety standards, lining their pockets to buy GCBs and build Sentosa show-mansions on the backs of their fellow humans' misery.",21/4/20,0.16666666666666666,0.6666666666666666,0.073,0.81,0.117,0.4404,anger
+751,786,We provide support to frontline ppl but having a hard time doing the applications etc,21/4/20,-0.2916666666666667,0.5416666666666666,0.104,0.777,0.12,0.0644,sadness
+755,790,Just a suggestion perhaps those fast food restaurant should shorten their operation hours as well to minimise contacting with people as they are also at the front line .,21/4/20,0.2,0.6,0.0,0.925,0.075,0.2732,anger
+756,791,Suggest to partially open on time.,21/4/20,0.0,0.5,0.0,1.0,0.0,0.0,neutral
+760,795,Only takeaway food should remain.,21/4/20,0.0,1.0,0.0,1.0,0.0,0.0,neutral
+764,799,The leader should be like this  respected you sir for helping us 🙏🙏🙏 we proud to be working your country,22/4/20,0.8,1.0,0.0,0.583,0.417,0.8866,anger
+769,804,It will be good for everyone.,21/4/20,0.7,0.6000000000000001,0.0,0.633,0.367,0.4404,joy
+771,806,I fully support and welcome the government to extend the circuit breaker measure to 1 June 2020.,21/4/20,0.8,0.9,0.0,0.601,0.399,0.788,neutral
+773,808,"Of course, urgent criminal cases must and should be adhere to original court schedule.",21/4/20,-0.012500000000000011,0.65,0.184,0.595,0.222,-0.0772,anger
+778,813,"Even open up, there must be border control from UK ,US and Europe traveller to enforce 28 days SHN at certain resort area or dormitory before allow to enter into Singapore.",21/4/20,0.10714285714285714,0.5357142857142857,0.0,0.879,0.121,0.4588,fear
+782,817,I remember we posted litterbugs..n fine them make them sweep litter.,21/4/20,0.4166666666666667,0.5,0.0,0.833,0.167,0.2023,neutral
+786,821,"Sir:  I propose for the Ministry of Healthy and relevant agencies to impose a shutdown of food delivery platforms such as Grab, FoodPanda, Deliveroo etc, to prevent new clusters of Covid-19 transmission and the spread of the virus.",22/4/20,0.2590909090909091,0.5886363636363636,0.056,0.846,0.097,0.1531,fear
+787,822,It has been evident in the past two weeks of 'Circuit Breaker' that delivery riders have faced tremendous pressure in their job of delivering F&B to customers at home.,22/4/20,0.1111111111111111,0.5,0.073,0.927,0.0,-0.296,joy
+790,825,Such behaviour is fairly understandable- likely due to the pressures of increased orders and lacklustre management of orders.,22/4/20,0.14375,0.69375,0.113,0.784,0.103,-0.0516,sadness
+792,827,The delivery platforms have also been purported to be almost impossible for delivery riders to cancel orders in view of unforeseen situations such as long waiting times or out-of-stock items.,22/4/20,-0.2388888888888889,0.6333333333333333,0.065,0.935,0.0,-0.25,anger
+795,830,"The mood of Singaporeans from all walks of life is expected to run high through the Circuit Breaker period, and occurrences of these unfortunate disputes are likely to increase.",22/4/20,-0.11,0.735,0.153,0.778,0.069,-0.4215,joy
+796,831,One cannot be certain that all delivery riders or F&B outlets are Covid-free.,22/4/20,0.21428571428571427,0.5714285714285714,0.131,0.869,0.0,-0.2057,sadness
+797,832,It would take just one infected individual in the nucleus to spread devastating consequences deep into the homes of families waiting for their orders.,22/4/20,-0.3333333333333333,0.6,0.254,0.746,0.0,-0.8176,sadness
+798,833,The measures at wet markets and supermarkets are quite effective in allowing families to purchase groceries.,22/4/20,0.25,0.6000000000000001,0.0,0.816,0.184,0.5256,anger
+799,834,Food establishments also remain open and people should have little difficulty to get food and drinks for consumption.,22/4/20,-0.09375,0.5,0.11,0.89,0.0,-0.2748,anger
+800,835,It is timely that the Ministry consider a shutdown of the delivery platforms to minimise potential outbreak of the virus within the community.,22/4/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+804,839,"This is the dangerous delusional thinking that some people are applying in their assessment of the situation when advocating we should stop the lockdown because they are literally only waking up to this thing now, or when we were initially shut down.",21/4/20,-0.18888888888888888,0.5472222222222222,0.117,0.883,0.0,-0.6486,fear
+806,842,Flattening the curve means slowing down the disease so that hospitals can cope with the sick.,21/4/20,-0.43492063492063493,0.573015873015873,0.18,0.82,0.0,-0.5106,sadness
+807,843,It does not mean eradicating the disease all together.,21/4/20,0.15625,0.6875,0.0,1.0,0.0,0.0,sadness
+808,845,No government will be able to eradicate the disease this year.,21/4/20,0.5,0.625,0.18,0.82,0.0,-0.296,sadness
+817,854,Your normal will not exist for at least a year.,21/4/20,-0.075,0.5249999999999999,0.0,1.0,0.0,0.0,joy
+818,855,Economies globally will keep bleeding and we are likely to have rolling lockdowns until a vaccine is found.,21/4/20,0.0,0.5,0.0,1.0,0.0,0.0,fear
+823,860,The only reprieve we are going to get is if we have thousands of people who have been infected and recovered and minimum deaths so that we have some level of herd immunity.,21/4/20,0.0,1.0,0.091,0.909,0.0,-0.4939,fear
+825,862,Even with that in place normal is not feasible because fear still reigns and people will remain isolated until safety is guaranteed- cure or vaccine.,21/4/20,0.15,0.6499999999999999,0.077,0.74,0.183,0.4815,fear
+834,871,What you allow in the suburbs you must allow in the townships and those two things look very different in execution.,21/4/20,0.0,0.78,0.0,0.833,0.167,0.4215,anger
+836,873,Our progress is still better than most and right now we’re riding the dumb hope that somehow BCG gives us some fighting chance (still unproven).,21/4/20,0.2276785714285714,0.5089285714285714,0.164,0.537,0.299,0.5859,sadness
+840,877,Normal is dead.,21/4/20,-0.02500000000000001,0.5249999999999999,0.683,0.317,0.0,-0.6486,fear
+843,880,"As most are working from home, the Parks seems to be more crowded on weekends.",21/4/20,0.5,0.5,0.0,1.0,0.0,0.0,joy
+846,883,I empathise with families with children and for sure everyone will have “cabin fever”.,21/4/20,0.5,0.8888888888888888,0.0,0.839,0.161,0.3182,joy
+847,884,But staying home is better than being infected with the virus or passing it on to your family.,21/4/20,0.5,0.5,0.145,0.724,0.131,-0.0772,sadness
+848,885,It’s a necessary inconvenience.,21/4/20,0.0,1.0,0.556,0.444,0.0,-0.3612,neutral
+857,894,To lead us to better tomorrow .,21/4/20,0.5,0.5,0.0,0.633,0.367,0.4404,neutral
+859,896,Thanks for sharing PMLee glad to know of this FW progress..  hope after he recovers his plasma is used for recovery of others who maybe in critical condition ...this is indeed challenging times and I am sure you will steer us through this crisis Majulah Singapura 🇸🇬,17/4/20,0.33999999999999997,0.7777777777777778,0.118,0.626,0.255,0.745,joy
+861,898,You are our Great Leader who has worked so hard for this world and the world should see it will be remembered throughout life.,17/4/20,0.25416666666666665,0.6458333333333333,0.067,0.787,0.147,0.4996,anger
+862,899,I am proud  to be   a  Singapore  migrant worker.grateful to Singapore  government & all Singaporean.,17/4/20,0.8,1.0,0.0,0.78,0.22,0.4767,anger
+863,900,"For taking care us with good Heart .also grateful all doctors, nurse,Healthcare  workers.",17/4/20,0.7,0.6000000000000001,0.0,0.524,0.476,0.8442,joy
+864,901,Thank  you so much deep on my  heart♥ ♥.,17/4/20,0.5,0.7,0.0,0.762,0.238,0.3612,fear
+867,904,"You have nothing to worry about your Brothers, you should proud that they're the part of this country.",17/4/20,0.8,1.0,0.0,0.744,0.256,0.6711,anger
+868,905,"Pm sir,  pls come down hard on those fake news spreader.",17/4/20,-0.31574074074074077,0.6101851851851852,0.326,0.58,0.094,-0.4939,sadness
+870,907,Waste our precious resources to trace and clarify.,17/4/20,0.15,0.5,0.224,0.48,0.296,0.2263,anger
+871,908,Create unnecessary disruption in our effort to contain the virus.,17/4/20,-0.4,0.9,0.198,0.635,0.167,-0.1027,anger
+872,909,Gov is doing a great job so far.,17/4/20,0.45,0.875,0.0,0.594,0.406,0.6249,neutral
+875,912,I work at frontline very tired.,17/4/20,-0.52,0.9099999999999999,0.444,0.556,0.0,-0.4927,neutral
+881,918,Please take good care of yourself too & rest up.,16/4/20,0.7,0.6000000000000001,0.0,0.417,0.583,0.8126,joy
+882,919,"A BIG THANKS to all your team, heathcare workers, frontline staff, &  foreign workers who are working so hard in keeping things running during this difficult time...💐💐💐We all should do our part by staying indoors, going out only when absolutely necessary so that TOGETHER we can overcome this pandemic😍",16/4/20,-0.10238095238095238,0.5666666666666667,0.091,0.84,0.069,-0.0279,anger
+885,922,Thank you for your great concern for lives of all humanity!,17/4/20,1.0,0.75,0.0,0.566,0.434,0.784,fear
+888,925,"During such difficult and unpredictable times , it is only humane to  refrain from criticizing and pointing fingers especially at those that are doing all the work and cracking their heads over the critical situation.They are the ones trying to solve the problems and  on our part,we should give intelligent constructive feedback and offer our sincere concerns and support .",16/4/20,0.07916666666666668,0.8375,0.142,0.712,0.145,0.0516,anger
+890,927,Wonderful to know that most of them understand the situation and this puts us a step closer to winning the battle.,16/4/20,0.6666666666666666,0.75,0.097,0.637,0.266,0.6705,joy
+891,928,"Since day one of the pandemic, our frontline warriors are still battling on bravely till today , sadly and unfortunately the situation took a turn for the worst adding on more strain to their tiring souls and bodies.",16/4/20,-0.13999999999999999,0.9,0.279,0.649,0.071,-0.8221,fear
+892,929,Let’s keep their spirits up with our sincere actions and caring words of gratitude .,16/4/20,0.5,0.5,0.0,0.545,0.455,0.8481,joy
+895,932,May all be blessed with good health and safety,16/4/20,0.7,0.6000000000000001,0.0,0.385,0.615,0.8625,joy
+898,935,"Have  means, why you cannot give the antibiotics to the most wanted dormitories.",17/4/20,0.5,0.5,0.0,1.0,0.0,0.0,sadness
+903,940,"After the virus, seriously govt should make MOM, employers  and Ministry of Env accountable for the mess they hv created as far as dormitories are concerend.",17/4/20,-0.1361111111111111,0.6138888888888888,0.144,0.788,0.068,-0.296,anger
+905,942,All these construction companies only know how to look after their own interest ie money in their pockets.,17/4/20,0.3,1.0,0.0,0.85,0.15,0.4588,sadness
+906,943,Hi sir I think that your goverment had just taken a late step to prevent which your goverment should take this step earlier...,16/4/20,-0.15,0.55,0.0,0.948,0.052,0.0258,sadness
+907,944,"Each dormitory should have an information corner, where the workers can take turn to look at health advisories and latest covid-19 statistics on a computer screen (web site).",18/4/20,0.5,0.9,0.0,1.0,0.0,0.0,anger
+908,945,"The corner should be open throughout the day, and ambassadors may be situated at the corner at certain time of the day to answer questions.",18/4/20,0.10714285714285714,0.5357142857142857,0.0,0.92,0.08,0.2732,anger
+910,947,The possibility of future outbreaks exist so post CB should be carefully planned  1.,20/4/20,-0.05,0.5625,0.0,0.897,0.103,0.128,fear
+916,953,It may be difficult to put back all the FW into the dorm again and alternatives cannot be produced overnight .,20/4/20,-0.25,0.5,0.116,0.884,0.0,-0.3612,sadness
+918,955,Floatels and cruise ships are just too expensive .,20/4/20,-0.5,0.7,0.0,1.0,0.0,0.0,neutral
+919,957,"In the long run , we have to consider seriously the question of FW accommodations .",20/4/20,-0.19166666666666665,0.5333333333333333,0.116,0.884,0.0,-0.1779,fear
+920,958,It is impossible to have hygienic communal toilets and kitchens .,20/4/20,-0.6666666666666666,1.0,0.0,1.0,0.0,0.0,neutral
+923,961,There is much we can learn from how South Korea successfully arrested the outbreak after a terrifying start.,17/4/20,-0.01666666666666668,0.7166666666666667,0.283,0.583,0.133,-0.5574,joy
+924,962,"Firstly, we need to significantly ramp up testing so as to identify the infected, especially the asymptomatic ones.",17/4/20,0.20833333333333334,0.736111111111111,0.158,0.842,0.0,-0.4939,fear
+928,966,My friend who was sick visited a clinic and requested for a coronavirus test but was rejected.,17/4/20,-0.7142857142857143,0.8571428571428571,0.319,0.58,0.101,-0.6705,sadness
+931,969,"In light of that, we should not be turning people away for tests.",17/4/20,0.4,0.7,0.0,1.0,0.0,0.0,fear
+932,970,We have to be more proactive in order to quickly identify the infected before the spread worsens.,17/4/20,0.41666666666666663,0.5,0.269,0.598,0.132,-0.4951,fear
+936,974,We too must swallow the bitter pill in order to stop the outbreak.,17/4/20,-0.1,0.5,0.312,0.688,0.0,-0.6124,fear
+939,977,"Exercising is crucial in building up our immune system, which is an important way for us to fight off the coronavirus.",17/4/20,0.2,1.0,0.106,0.732,0.163,0.1027,anger
+940,978,It is also a good way to relax our mind and cost nothing.,17/4/20,0.7,0.6000000000000001,0.0,0.633,0.367,0.7003,neutral
+941,979,"We can air exercise routines live on tv, and encourage everyone to participate at home.",17/4/20,0.13636363636363635,0.5,0.0,0.809,0.191,0.5106,joy
+942,980,This is a good way for the nation to bond in this time of crisis.,17/4/20,0.7,0.6000000000000001,0.216,0.632,0.153,-0.296,joy
+944,982,"What upset me is this episode has made headlines in many countries, exposing their bad living conditions.",16/4/20,-0.09999999999999992,0.5833333333333333,0.369,0.631,0.0,-0.802,neutral
+945,983,It gives others the impression that all FWs were being badly treated in SG.,16/4/20,-0.6999999999999998,0.6666666666666666,0.182,0.706,0.112,-0.296,anger
+951,989,"Please stay home, stay safe & strong.",16/4/20,0.4666666666666667,0.6166666666666667,0.0,0.261,0.739,0.8176,neutral
+958,996,It saddens me to see so many of them are being exploited and shoved to live in these unhabitable conditions.,16/4/20,0.3181818181818182,0.5,0.247,0.753,0.0,-0.7096,sadness
+959,997,The authority should now look into better living conditions for these poor souls.,16/4/20,0.04999999999999999,0.55,0.179,0.578,0.243,0.0258,sadness
+961,999,"This should not have happened if the ""think tanks"" have given a thought about this obvious situation with FWs.",16/4/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+962,1000,The relevant ministries should have been aware of the living conditions in the dorms.,16/4/20,0.325,0.575,0.0,1.0,0.0,0.0,fear
+964,1002,The dorm operators should be punished and held responsible for spreading an infectious disease.,16/4/20,0.2,0.55,0.173,0.694,0.133,-0.1779,anger
+970,1008,"Dear PM Lee, I am really worried about the massive positives number of FWs yet to come and I think that it’s time we should be thinking of building temporary hospitals for them.",16/4/20,0.1,0.6,0.068,0.734,0.198,0.5868,fear
+975,1013,SAD.,17/4/20,-0.5,1.0,1.0,0.0,0.0,-0.4767,sadness
+977,1015,"So far, we have done well in informing Singaporeans.",18/4/20,0.1,1.0,0.0,0.792,0.208,0.2732,sadness
+978,1016,"It may be more difficult, but the government should also bring the message to foreign workers, especially those who may not be fluent in English, Chinese/Mandarin, Malay and Tamil, especially on the need for social distancing, and the higher risks of infection within dormitories when health advisories are not followed.",18/4/20,0.019791666666666666,0.5239583333333333,0.087,0.913,0.0,-0.5494,fear
+979,1017,"It is important to update the workers of the situation in their own dormitory and also across all dormitories, so everyone can work together.",18/4/20,0.5,1.0,0.0,0.927,0.073,0.2023,joy
+980,1018,"If leaders pay attention only to those in the spotlight and fail to recognize those working behind the scenes, then organisational expediency will dominate.",13/5/20,-0.3,0.6666666666666666,0.234,0.766,0.0,-0.6597,fear
+981,1019,"Leaders, especially those highly paid in the world, should develop the kind of humanity vision to see beneath the surface to what lies at the bottom.",13/5/20,0.25333333333333335,0.8133333333333334,0.097,0.833,0.069,-0.2023,anger
+982,1020,"Touching handphones while going out also should be mindful, as people can happen to touch it again without cleaning after hand washing.",16/4/20,0.5,0.5,0.111,0.889,0.0,-0.3875,anger
+984,1022,"If everyone download TraceTogether app, identifying close contacts will accurate  and tracing them will be fast in no time.",16/4/20,0.30000000000000004,0.6166666666666667,0.109,0.891,0.0,-0.296,fear
+985,1023,And breaking the spread is fast.,16/4/20,0.2,0.6,0.0,1.0,0.0,0.0,fear
+987,1025,"Good afternoon PM Mr Lee sir, appreciate that your good self and the government are sparing no efforts and resources during this pandemic.",16/4/20,0.7,0.6000000000000001,0.074,0.64,0.286,0.743,anger
+988,1026,"During difficult times , many would like to point finger and question who should assume responsibilities.",16/4/20,0.0,0.75,0.139,0.722,0.139,0.0,fear
+989,1027,It’s always easy to blame and criticize but such actions does not solve problems.,16/4/20,0.21666666666666667,0.6666666666666667,0.28,0.468,0.252,0.1152,neutral
+990,1028,The frontline warriors are the real warriors risking their health and well being to care for the sick.,16/4/20,-0.2571428571428571,0.5785714285714285,0.225,0.562,0.213,-0.0772,joy
+991,1029,Please spare a thought for them and everyone involved by being socially responsible and offer our sincere concerns with constructive feedbacks.,16/4/20,0.35,0.525,0.0,0.7,0.3,0.743,fear
+993,1031,Each and everyone of us has a part to play and should to a certain extent be personally responsible for ourselves.,16/4/20,0.20714285714285713,0.5607142857142857,0.0,0.702,0.298,0.7003,anger
+997,1035,Because nobody knows which dormitories are already infected and how many are.,16/4/20,0.5,0.5,0.225,0.775,0.0,-0.4939,neutral
+998,1036,"After 100% test, those confirmed cases are to be separated out immediately for quarantine.",16/4/20,0.4,1.0,0.0,1.0,0.0,0.0,sadness
+1003,1041,"To play safe, or kiasu, it should be compulsory for employers to send their maids to go for test.",16/4/20,0.5,0.5,0.0,0.762,0.238,0.6486,fear
+1004,1042,"If we did not move ahead to being proactive, then reactive actions will be too late.",16/4/20,-0.3,0.6,0.0,0.843,0.157,0.4215,neutral
+1006,1044,"I have one request sir pls issue the order to our singapore companies follow 100%lockdown, if our singapore going to be facing economical losing we(workers ) will pay our six month  salary  we don't  want salary  for covid 19 finished after 6 month  we work for our country, but we want to life is live after corona if we die means workers  family can't  take care even  you  also.",16/4/20,0.21818181818181817,0.7,0.191,0.793,0.015,-0.9019,sadness
+1010,1048,We believed you only sir  If i say anything  wrong  pls forgive  me  sir.,16/4/20,-0.25,0.95,0.188,0.606,0.206,-0.1779,neutral
+1011,1049,I feel i never talk wrongly we want  secure  sir pls sir.,16/4/20,-0.04999999999999999,0.75,0.0,0.583,0.417,0.4588,sadness
+1012,1050,"We don't  have any author  sir, we are all from poor family sir pls i request pls considered this  sir🙏",16/4/20,-0.4,0.6,0.143,0.737,0.12,-0.3612,sadness
+1014,1052,Let’s help contribute positive ideas or solutions instead of pinpointing why not this and why not that.,19/4/20,0.22727272727272727,0.5454545454545454,0.0,0.636,0.364,0.7906,joy
+1015,1053,"Let us remind ourselves we have the one and only enemy, Covid-19.",19/4/20,0.0,1.0,0.241,0.759,0.0,-0.5423,neutral
+1016,1054,"If we have nothing more to contribute, there is one and only contribution everyone can do, that is cooperate to be united to follow the rules and law set so that we be responsible for ourselves to stay healthy and this helps lessen the work and stress of every of our healthcare workers who are helping to fight saving every single  lives.",19/4/20,0.2257142857142857,0.5528571428571428,0.074,0.753,0.173,0.7351,sadness
+1017,1055,Everyday cases increases.,19/4/20,-0.2,0.6,0.0,1.0,0.0,0.0,neutral
+1018,1056,Don’t forget our healthcare workers sacrifice their own safety and family to save every lives and puts in extra working hours!,19/4/20,0.3,0.55,0.073,0.687,0.24,0.6588,sadness
+1020,1058,Is staying at home more difficult than their job??,19/4/20,0.0,0.75,0.283,0.717,0.0,-0.4859,fear
+1022,1060,We must not also forget how many healthcare workers we have.,19/4/20,0.5,0.5,0.0,0.857,0.143,0.1695,neutral
+1024,1062,Shall we be held responsible??,19/4/20,0.2,0.55,0.0,0.601,0.399,0.3939,anger
+1025,1063,"Wake up Singaporeans, this is not about politics but saving your own life!",19/4/20,0.75,1.0,0.0,1.0,0.0,0.0,fear
+1037,1075,"Good afternoon PM Mr Lee, sir.",16/4/20,0.7,0.6000000000000001,0.0,0.633,0.367,0.4404,neutral
+1038,1076,Appreciate that your good self and the government is sparing no efforts and resources to put under control the current situation.,16/4/20,0.35,0.5,0.085,0.698,0.217,0.5267,anger
+1039,1077,"During difficult times,  many would like to point fingers and question who should shoulder responsibility.",16/4/20,0.0,0.75,0.139,0.722,0.139,0.0,anger
+1040,1078,It’s always easy to blame and criticize but such actions does not solve problems .Everyone including the foreign workers need to trust  and work with the authorities to improve the current critical situation.The frontline warriors are the ones on the battlefield risking their health and making sacrifices to take care of the sick.,16/4/20,-0.06765873015873015,0.5859126984126984,0.247,0.529,0.225,0.077,anger
+1041,1079,"Do spare a thought for them and everyone involved, contribute with sincere concerns and offer constructive ideas.",16/4/20,0.5,0.5,0.0,0.847,0.153,0.4019,fear
+1042,1080,Everyone is affected in our own certain ways but that shouldn’t stop us from being socially responsible and humane.,16/4/20,0.33809523809523806,0.7071428571428572,0.174,0.636,0.191,0.1027,anger
+1045,1083,This opens the eyes to treat the FW better .,17/4/20,0.5,0.5,0.0,0.556,0.444,0.6808,anger
+1046,1084,The employers should be targeted to not mistreat them in poor living conditions.,17/4/20,-0.4,0.6,0.205,0.795,0.0,-0.4767,anger
+1047,1085,"I wish to highlight on 36 of my employees which had been quarantined in the dormitory due to Close contact with the infected, confirmed covid-19 case.",16/4/20,0.1375,0.6875,0.106,0.726,0.168,0.2263,joy
+1051,1089,PRC workers don’t take spicy food but they are given curry which is not suitable for them ...,16/4/20,-0.275,0.75,0.0,1.0,0.0,0.0,sadness
+1054,1092,"We, as employer want to take care of them and want to supply edible and better food for these workers yet not allowed.",16/4/20,0.5,0.5,0.0,0.686,0.314,0.7717,anger
+1056,1094,"We are definitely together with the government in this period of health crisis, to help this covid-19 situation but we hope something can be done to improve their living condition.",16/4/20,0.0,0.5,0.065,0.642,0.293,0.8338,joy
+1058,1096,"Can  you  address  the  concern  if  our icu  n  ventilators will  be  able  to  cope  with  taking  care  of  all  the  sick  foreign workers,  will  there  be enough for  Singaporeans when  its  needed?",16/4/20,-0.08482142857142858,0.5267857142857143,0.09,0.822,0.088,-0.0258,fear
+1069,1107,Enough of bed for infected patient.,5/4/20,0.0,0.5,0.39,0.61,0.0,-0.4939,anger
+1070,1108,Stop talking as if you all can do a better job.,5/4/20,0.5,0.5,0.168,0.611,0.221,0.1779,neutral
+1071,1109,We should consider ourself very lucky patients infected don't have to sleep on the floor in the hospital.,5/4/20,0.43333333333333335,1.0,0.154,0.709,0.137,-0.0953,fear
+1072,1110,Show more  appreciation.,5/4/20,0.5,0.5,0.0,0.358,0.642,0.5563,joy
+1075,1113,They are taking it as a time to meet up and do all tat they can during this crucial period thus a rise in nos,5/4/20,0.0,1.0,0.0,1.0,0.0,0.0,joy
+1086,1124,We need more drastic measure rather than just CB alone.,5/4/20,0.5,0.5,0.182,0.818,0.0,-0.25,neutral
+1087,1125,I experienced more powerful surge in office where quite some my equipments were damaged even with ‘circuit breakers’ in place.,5/4/20,0.5333333333333333,0.7999999999999999,0.126,0.739,0.135,0.0498,anger
+1096,1134,Dear PM Lee Thank you for the government’s efforts to keep us safe.,5/4/20,0.5,0.5,0.0,0.556,0.444,0.7906,joy
+1098,1136,We should make their employers/sponsors personally responsible for their accommodation if they want to keep them in Singapore.,5/4/20,0.2,0.55,0.0,0.816,0.184,0.3818,anger
+1101,1139,They must be given more authority to enter these premises when neighbours report them.,5/4/20,0.5,0.5,0.0,0.891,0.109,0.1513,fear
+1102,1140,And increase the penalties on such owners.,5/4/20,0.0,0.5,0.0,0.723,0.277,0.3182,neutral
+1104,1142,"For years, the authorities were unable to enter the unit and the tenants knew what to say when authorities came knocking.",5/4/20,-0.5,0.5,0.0,1.0,0.0,0.0,fear
+1105,1143,This should not be so difficult if MOM records show more than 8 tenants including FWs/students registered under the same address.,5/4/20,0.0,0.5416666666666666,0.146,0.854,0.0,-0.5009,anger
+1109,1147,This is very scary.,5/4/20,-0.65,1.0,0.538,0.462,0.0,-0.5413,neutral
+1114,1152,Nobody cares it's just a cheap labor.,5/4/20,0.4,0.7,0.0,0.625,0.375,0.4588,neutral
+1118,1156,"Dear Sir, appreciate you & your team especially Multi task force for their hard work.",5/4/20,-0.14583333333333334,0.7708333333333333,0.079,0.621,0.299,0.5994,anger
+1119,1157,I really welcome the recent measures that put in place to contain this virus.,5/4/20,0.4,0.575,0.0,0.785,0.215,0.5095,anger
+1125,1163,"Sir, you are doing a good job.",5/4/20,0.7,0.6000000000000001,0.0,0.633,0.367,0.4404,neutral
+1142,1180,"I wonder, if those giving ideas on what we SHOULD have done, are bosses in their own companies.",6/4/20,0.6,1.0,0.0,0.87,0.13,0.34,neutral
+1149,1187,IKEA is not doing their part to ensure the safe distance of 1m apart for the Q.,6/4/20,0.5,0.5,0.0,0.732,0.268,0.6705,sadness
+1151,1189,S more people are still going out like ikea n bukit timah hill if this carry on cases will be increased we should do alternatives I just worry for our country must do sme alternative,5/4/20,0.5,0.5,0.079,0.795,0.126,0.1779,fear
+1169,1207,"Dear Beloved PM,  I was wondering...",5/4/20,0.7,1.0,0.0,0.337,0.663,0.7096,neutral
+1171,1209,It has better ventilation too.,5/4/20,0.5,0.5,0.0,0.58,0.42,0.4404,neutral
+1174,1212,"Yes, maybe some NSmen or NSboy wouldn't want to be in the front line, but I believe most would as it's of national crisis.",5/4/20,0.5,0.5,0.236,0.699,0.065,-0.7106,anger
+1175,1213,It's inevitable for our numbers to increase with so many Singaporean still having the habit of queuing up and clustering.,5/4/20,0.25,0.75,0.0,0.892,0.108,0.3182,sadness
+1178,1216,Maybe then we Singaporean can get the message right.,5/4/20,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,neutral
+1181,1219,But your body language seems to be more worried than assuring.,5/4/20,0.5,0.5,0.174,0.627,0.199,0.0953,fear
+1187,1225,Clothing is also an important factor Sir.. We should wear what is comfortable..,6/4/20,0.4,0.9,0.0,0.87,0.13,0.2023,fear
+1189,1227,Either good or bad..,6/4/20,5.551115123125783e-17,0.6333333333333333,0.0,0.508,0.492,0.4404,neutral
+1199,1237,"outing should not be banned but people need to wear mask, keep safe distancing and avoid crowded area.",5/4/20,0.5,0.5,0.12,0.641,0.239,0.4195,anger
+1200,1238,No sport activities .. but outdoor activities like walking in the park or picnic within household family should be allow with safe distancing been impose... but all must have face mask.,5/4/20,0.5,0.5,0.042,0.71,0.248,0.8338,anger
+1203,1241,There still many people at supermarket..  All supermarket should limit to 10 - 15 ppl to enter batch by batch,5/4/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+1204,1242,Went to NTUC to buy some food today while more people are wearing masks than before but there are still many who don't.,6/4/20,0.5,0.5,0.0,1.0,0.0,0.0,fear
+1209,1249,May I suggest any businesses that create crowding during this critical period like IKEA should be prosecuted?,6/4/20,0.0,0.8,0.239,0.55,0.211,-0.1593,anger
+1210,1250,"Dear PM Lee, We will definitely comply with all the instructions given to us.",5/4/20,0.0,0.5,0.0,0.694,0.306,0.6486,neutral
+1215,1255,And that day is not too far if we abide by what we have been asked to do.,5/4/20,0.1,1.0,0.0,1.0,0.0,0.0,sadness
+1218,1258,I felt a strong message '' we should look at how imported animals are quarantined from worldwide.,6/4/20,0.4333333333333333,0.7333333333333333,0.0,0.809,0.191,0.5106,fear
+1221,1261,"Pls look that the video again, calmly and gracefully.",6/4/20,0.30000000000000004,0.75,0.0,0.462,0.538,0.7184,neutral
+1223,1263,I don't see many practicing this even after you encourage wearing of mask.,6/4/20,0.5,0.5,0.0,0.769,0.231,0.5106,neutral
+1227,1267,"Many pet owners do not know how to remove hair from their ears, cut nails, shave belly, express the bowel,etc.",6/4/20,0.5,0.5,0.1,0.9,0.0,-0.2732,sadness
+1230,1270,Please do take good care of yourself too.,5/4/20,0.7,0.6000000000000001,0.0,0.373,0.627,0.8126,joy
+1231,1271,"Unfortunately, only few are able to except this truth and act responsibly as a collective behavior.",5/4/20,0.125,0.5687500000000001,0.133,0.721,0.146,0.058,sadness
+1236,1276,The circuit breaker should be activated earlier.,6/4/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1238,1278,Sad days for all of us.,6/4/20,-0.5,1.0,0.383,0.617,0.0,-0.4767,sadness
+1239,1279,Complacency key words.,6/4/20,0.0,1.0,0.0,1.0,0.0,0.0,neutral
+1240,1280,Quite disappointed that the MTF dropped the ball on the dormitories.,5/4/20,-0.75,0.75,0.253,0.747,0.0,-0.5256,sadness
+1243,1283,"Now that community transmission has taken root, it will be hard to eradicate.",5/4/20,-0.2916666666666667,0.5416666666666666,0.104,0.896,0.0,-0.1027,sadness
+1244,1284,The almost apologetic tone taken by politicians on safe distancing is also dsiappointing.,5/4/20,0.5,0.5,0.0,0.805,0.195,0.4404,fear
+1247,1287,"Be forceful to keep Sg safe, please.",5/4/20,0.5,0.5,0.0,0.49,0.51,0.6369,anger
+1249,1289,"Mr Lee, pardon my ignorance, but why isn't there more testing of people exhibiting symptoms being conducted?",5/4/20,0.5,0.5,0.095,0.815,0.09,-0.0258,anger
+1253,1293,Thank you and all others for the hard work and efforts.,5/4/20,-0.2916666666666667,0.5416666666666666,0.109,0.698,0.194,0.2732,neutral
+1259,1299,Very disappointed to see people doing last minute shopping and even outings with total disregard to the warning just because the measures only starts on Tuesday.,6/4/20,-0.24375000000000002,0.6979166666666667,0.255,0.745,0.0,-0.7841,anger
+1260,1300,"The virus already spreading, for all you know today might be the biggest infection and the result will only show 2 weeks later.",6/4/20,0.0,0.5,0.0,1.0,0.0,0.0,fear
+1261,1301,How naive are these people?,6/4/20,-0.3,1.0,0.344,0.656,0.0,-0.2732,neutral
+1263,1303,Most family business companies that has many outlets might create another cluster.,5/4/20,0.5,0.5,0.0,0.84,0.16,0.2732,sadness
+1265,1305,So you should consider carefully when approving their application.,5/4/20,-0.1,1.0,0.0,0.842,0.158,0.128,neutral
+1269,1309,"This clearly reflect the irresponsible, arrogant and selfish attitudes of some of our citizens.",6/4/20,-0.19999999999999998,0.6916666666666667,0.42,0.457,0.123,-0.7579,anger
+1272,1312,After all these are very difficult times that Singapore is experiencing and being confronted by an unseen ‘enemy’ that is growing threateningly uncontrollable by the day!,6/4/20,-0.8125,1.0,0.318,0.631,0.051,-0.8353,joy
+1278,1318,This is for the good of the country.,6/4/20,0.7,0.6000000000000001,0.0,0.707,0.293,0.4404,joy
+1280,1320,"Also, the employers should be responsible for this cluster in the dormitories.",5/4/20,0.2,0.55,0.0,0.827,0.173,0.3182,anger
+1282,1322,Dormitories tend to be more crammed which explains the bigger clusters.,6/4/20,0.25,0.5,0.0,1.0,0.0,0.0,neutral
+1284,1324,It would be ideal if density at these dormitories are reduced significantly.,6/4/20,0.6375,0.9375,0.0,0.764,0.236,0.5267,fear
+1285,1325,"However, more can be done now to ""actively attack"" the virus transmission at these dormitories, the top priority now is to identify & isolate any more potential infected carriers especially asymptomatic/mild symptoms carriers who may not realized they are carrier.",6/4/20,0.22777777777777777,0.6833333333333332,0.18,0.732,0.088,-0.6461,sadness
+1289,1329,"With current development of Singapore's own rapid test kits which we have shared with neighboring countries, it should be time to ramp-up production of more of these accurate test kits as there may now be a need to conduct more tests on any potentially infected dormitories residents for early detection & isolation to prevent even higher transmission numbers.",6/4/20,0.29375,0.6041666666666666,0.096,0.847,0.057,-0.5267,joy
+1290,1330,Contact Tracing/Investigation Teams will need to quickly establish & identify any potential close contacts of current confirmed cases of dormitories residents & authorities would need to quickly mount a larger scale COVID-19 testing on these close contacts of the confirmed cases who may appear healthy now at these dormitories so as to identify & isolate any asymptomatic/mild symptoms carriers who will not realize they are sick yet & halt any further transmissions in such higher density dormitories setting & reduce the burden on Singapore Healthcare workers & facilities.,6/4/20,0.1251984126984127,0.6464285714285715,0.091,0.878,0.031,-0.6486,fear
+1292,1332,And if u are thinking of getting election held on jun it will be worse!,6/4/20,-0.5,0.6,0.207,0.793,0.0,-0.5255,fear
+1296,1336,"Enemy forces have already infiltrated into our territories causing casualties and worst of all, more and more of our men captured by the enemy have defected to the enemy's camp.",6/4/20,0.0,0.6666666666666666,0.347,0.653,0.0,-0.93,fear
+1302,1342,"It is really sad that there are these many cases, so I think nobody should like😓",2020-05-01,0.0,0.75,0.195,0.805,0.0,-0.5256,sadness
+1303,1343,Great news... good job!,2020-04-28,0.8375,0.675,0.0,0.215,0.785,0.807,neutral
+1305,1345,The numbers are like increasing and decreasing everyday .,2020-04-27,-0.2,0.6,0.0,0.737,0.263,0.3612,fear
+1306,1346,Don’t know should be happy or sad,2020-04-27,0.15000000000000002,1.0,0.263,0.424,0.314,0.1531,sadness
+1312,1352,Getting millions of annual salary and cannot foresee this kind of situation.,2020-04-23,0.6,0.9,0.0,1.0,0.0,0.0,anger
+1314,1354,It is heart breaking to see these figures rising everyday.,2020-04-23,-0.2,0.6,0.0,1.0,0.0,0.0,neutral
+1317,1357,My fiance from the Philippines is a domestic helper and she said that she is numb in her hand and also her throat is a bit sore.,2020-04-23,-0.3,0.55,0.156,0.667,0.178,0.1779,sadness
+1319,1359,I hope i did the right thing for her.,2020-04-23,0.2857142857142857,0.5357142857142857,0.0,0.674,0.326,0.4404,joy
+1327,1367,Congratulations for a job well done @btrade_michelle_calil I was always confident of your abilities to shoulder your responsibilities.,2020-06-24,0.5,0.8333333333333334,0.0,0.517,0.483,0.8807,anger
+1328,1368,You should be very proud of yourself @btrade_michelle_calil,2020-06-24,1.0,1.0,0.0,0.674,0.326,0.5256,joy
+1329,1369,That is good.,2020-06-17,0.7,0.6000000000000001,0.0,0.408,0.592,0.4404,neutral
+1330,1370,But we don’t know how many being tested for the day.,2020-06-17,0.5,0.5,0.0,1.0,0.0,0.0,sadness
+1331,1371,It could be only 300 test.,2020-06-17,0.0,1.0,0.0,1.0,0.0,0.0,fear
+1332,1372,They should indicate how many tests conducted for the day.,2020-06-17,0.5,0.5,0.0,1.0,0.0,0.0,neutral
+1333,1373,How come still so many infected .,2020-05-17,0.5,0.5,0.41,0.59,0.0,-0.539,neutral
+1340,1380,"Government just trying to cover for their mistake... which happens to be at Keppel which ironically is Temasek Holdings... because of ""THEM"", the poor foreigners at the dormitories gets affected... they are the ones who should be treated... without them there's no Singapore...#prayforbanglaworkers",2020-04-07,-0.4,0.6,0.067,0.892,0.041,-0.2987,anger
+1342,1382,It’s unfortunate for them to get infected and I hope they recover soon and maybe we should try not to jump into conclusion that the community cases rises is due to irresponsible people who don’t observe strict measures from the government.,2020-06-12,-0.3125,0.6875,0.19,0.75,0.06,-0.7351,anger
+1343,1383,"To be fair, it’s quite a sticky situation.",2020-05-06,0.7,0.9,0.0,0.723,0.277,0.3182,anger
+1344,1384,I feel that her answer is reasonable.,2020-05-06,0.2,0.6,0.0,1.0,0.0,0.0,sadness
+1345,1385,"Apologies should not come so easily as if it does, it looses their sincerity.",2020-05-06,0.43333333333333335,0.8333333333333334,0.096,0.718,0.186,0.3646,fear
+1349,1389,The focus should be to care for the foreign workers and make sure they recover safely.,2020-04-22,0.2916666666666667,0.5046296296296297,0.0,0.599,0.401,0.8271,sadness
+1358,1398,Do hang in there and tide though this difficult period.,2020-04-17,-0.5,1.0,0.242,0.758,0.0,-0.4357,sadness
+1359,1399,Our Govt and citizens have not forgotten about the hard work you all have put in building our nation with us.,2020-04-17,-0.2916666666666667,0.5416666666666666,0.063,0.861,0.076,0.0685,anger
+1360,1400,All your loving nature for your families and good attitude of managing yourselves and expect less in time of this crisis is what we Singaporean should salute.,2020-04-17,0.3777777777777777,0.5388888888888889,0.137,0.673,0.191,0.2323,joy
+1362,1402,You’ll be able to see it via google maps.,2020-04-15,0.5,0.625,0.0,1.0,0.0,0.0,joy
+1363,1403,Google street view isn’t accurate on this,2020-04-15,0.4000000000000001,0.6333333333333334,0.0,1.0,0.0,0.0,anger
+1368,1409,"While providing the meals and all are great, i think you guys should also pay attention to the quality of those meals.",2020-04-08,0.8,0.75,0.057,0.776,0.167,0.5719,fear
+1369,1410,As of what's been mildly circulating is alrdy worthy of conern.,2020-04-08,0.3333333333333333,0.75,0.0,0.775,0.225,0.4404,neutral
+1370,1411,Spoiled vegetables and inhumane meal proportions/preps so far are whats showing.,2020-04-08,-0.4,0.95,0.0,1.0,0.0,0.0,neutral
+1379,1421,"If shops are not allowed to open soon, all of us will be out of business.",2020-05-21,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1380,1422,It is not fair to specify what kind of business can be open in the various phases.,2020-05-21,0.0625,0.7,0.109,0.891,0.0,-0.2411,anger
+1386,1428,The whole 'whether will lockdown again' situation is giving business massive uncertainty.,16/7/20,0.1,0.7,0.162,0.676,0.162,0.0,neutral
+1392,1434,"In comparison, the scale of testing needed for community would be way higher and the effectiveness may not offset that cost.",16/7/20,0.25,0.5,0.0,1.0,0.0,0.0,fear
+1393,1435,Sure that’s always an option.,16/7/20,0.5,0.8888888888888888,0.0,0.635,0.365,0.3182,joy
+1396,1438,"I guess it’s always a “You’ll never know until you try” but ultimately, the question is, at what cost?",16/7/20,0.0,1.0,0.0,1.0,0.0,0.0,neutral
+1404,1446,Absolutely disgusting.,10/4/20,-1.0,1.0,0.787,0.213,0.0,-0.5709,neutral
+1407,1449,"In a nutshell, if the writer wants to point an accusing finger at someone, they should go to the root of the problem - the unwillingness of the employer to spend any more money housing and feeding these migrant workers than they absolutely have to.",9/4/20,0.3,0.5,0.097,0.903,0.0,-0.5267,anger
+1408,1450,"Which if you ask me, is the consequence of having such a rule-driven society like Singapore.",9/4/20,0.0,0.5,0.0,0.848,0.152,0.3612,neutral
+1414,1456,"If their working conditions are indeed so bad, then perhaps they should go back to their own country.",9/4/20,-0.03333333333333329,0.5555555555555555,0.209,0.791,0.0,-0.6696,neutral
+1415,1457,There's more than one way to skin a cat.,9/4/20,0.5,0.5,0.0,1.0,0.0,0.0,neutral
+1416,1458,"> If their working conditions are indeed so bad, then perhaps they should go back to their own country.",9/4/20,-0.03333333333333329,0.5555555555555555,0.209,0.791,0.0,-0.6696,neutral
+1418,1460,Maybe you should mull on that during this lockdown then send the government your amazing proposal.,9/4/20,0.6000000000000001,0.9,0.0,0.798,0.202,0.5859,anger
+1420,1462,"When you joined a company and ended up with a crap boss, did he say ""I'm a crap boss and I'm going to make you do twice as much work as you really should be doing while I don't do shit"" during the interview?",9/4/20,-0.28,0.5599999999999999,0.115,0.82,0.065,-0.3129,anger
+1421,1463,No right?,9/4/20,-0.14285714285714285,0.5357142857142857,0.688,0.312,0.0,-0.296,neutral
+1424,1466,"But compare living conditions of migrant workers here to, say, the illegal migrants in the US (both at the border and within the country), or seasonal agricultural workers in the UK, and maybe Singapore isn't so different in some ways.",9/4/20,-0.25,0.55,0.085,0.915,0.0,-0.5574,sadness
+1425,1467,"I also think that Singapore cannot be compared to the Gulf States - it's true that migrant workers here are mistreated, but not to anywhere near the same extent as workers in these countries, and migrant workers are far more pervasive in those countries.",9/4/20,0.20999999999999996,0.5349999999999999,0.0,0.956,0.044,0.2263,sadness
+1432,1474,I am curious as to what you feel the average Singaporean could or should have done in this scenario.,9/4/20,-0.125,0.7,0.0,0.881,0.119,0.3182,anger
+1433,1475,There’s a line between “we could have done more” and “it’s our fault that we didn’t do anything / more”.,9/4/20,0.5,0.5,0.137,0.863,0.0,-0.4019,anger
+1436,1478,I've never understood the argument that we should always compare ourselves to (for lack of a better term) shittier countries.,9/4/20,0.5,0.5,0.213,0.59,0.197,-0.1002,sadness
+1438,1480,"Comparing your kid's grades with the Joneses is fine, but comparing our national standards can somehow take a backseat.",9/4/20,0.4166666666666667,0.5,0.0,0.924,0.076,0.1027,joy
+1444,1486,"In regards to the situation at hand, you must have missed the deplorable comments about how the workers are at fault for ""not knowing how to eat off the ground"" and ""having poor hygiene standards in the first place"".",9/4/20,-0.25,0.611111111111111,0.173,0.758,0.069,-0.5859,sadness
+1445,1487,"No one was born with the knowledge of good hygiene, but we were all *educated* on the practice.",9/4/20,0.7,0.6000000000000001,0.082,0.818,0.1,0.09,joy
+1448,1490,"One comment I read even suggested that help shouldn't be rendered to them because they'll ""revert to their terrible hygiene standards"".",9/4/20,-1.0,1.0,0.13,0.756,0.113,-0.1027,anger
+1449,1491,And that's just one idiot who dared to vocalize such thoughts.,9/4/20,-0.4,0.65,0.248,0.752,0.0,-0.5106,anger
+1451,1493,"As I mentioned in a previous post, humans seem to derive sick pleasure from treating their perceived inferiors as non-humans.",9/4/20,-0.44047619047619047,0.5119047619047619,0.204,0.638,0.157,-0.0258,anger
+1455,1497,> I am curious as to what you feel the average Singaporean could or should have done in this scenario.,9/4/20,-0.125,0.7,0.0,0.881,0.119,0.3182,anger
+1456,1498,Speak up when migrant workers are falsely maligned.,9/4/20,-0.4000000000000001,0.6,0.0,1.0,0.0,0.0,neutral
+1457,1499,Donate to the causes that are able to actively help them.,9/4/20,0.18333333333333335,0.6125,0.0,0.643,0.357,0.6124,joy
+1459,1501,"“increasing transparency” and “straightaway improv[ing] their living conditions” are not mutually exclusive, and surely both should be done.",9/4/20,0.5,0.8888888888888888,0.068,0.789,0.143,0.3674,anger
+1460,1502,to say otherwise would be presenting a false dichotomy.,9/4/20,-0.4000000000000001,0.6,0.0,1.0,0.0,0.0,joy
+1467,1509,"Don't get me wrong, I appreciate the fact that our public transport fares are fucking cheap, and that inter-service connectivity is unparalleled.",9/4/20,-0.033333333333333326,0.5555555555555555,0.0,0.783,0.217,0.6433,fear
+1468,1510,"But to claim that our system (at that point) was world-leading even after taking a huge nosedive was pretty embarassing, even insulting.",9/4/20,-0.11666666666666663,0.9666666666666667,0.12,0.674,0.206,0.3182,anger
+1470,1512,"Heck, the apologists were out in full force that year.",9/4/20,0.35,0.55,0.0,1.0,0.0,0.0,fear
+1474,1516,"Anti-slavery charities argue that despite stricter laws, especially the Modern Slavery Act 2015, the government still isn't doing enough.",9/4/20,0.06666666666666667,0.6,0.28,0.6,0.12,-0.6444,anger
+1475,1517,"This is only one example of how migrant workers, or workers in general, can be mistreated in the UK.",9/4/20,0.02500000000000001,0.75,0.0,1.0,0.0,0.0,anger
+1476,1518,"(Links below)
+
+[16% of non-EU workers in London live in accomodation deemed to be overcrowded, 8% in the rest of the country.",9/4/20,0.13636363636363635,0.5,0.0,1.0,0.0,0.0,sadness
+1478,1520,"](https://migrationobservatory.ox.ac.uk/resources/briefings/migrants-and-housing-in-the-uk-experiences-and-impacts/)  [Another link](https://www.bbc.co.uk/news/av/uk-england-cambridgeshire-22707084/migrant-workers-action-to-beat-landlord-exploitation)
+
+[Under certain pieces of legislation, leaving abusive employers will lead to deportation.",9/4/20,0.21428571428571427,0.5714285714285714,0.218,0.674,0.109,-0.4767,anger
+1481,1523,"]( https://www.business-humanrights.org/en/uk-report-uncovers-textile-workers-earning-less-than-half-minimum-wage)
+
+I'm not trying to argue that the state of affairs in the UK is worse than in Singapore.",9/4/20,-0.4,0.6,0.134,0.778,0.088,-0.2649,fear
+1483,1525,"Of course Singapore can do better, and Singapore should do better, but the west isn't always a workers' heaven, either.",9/4/20,0.5,0.5,0.151,0.682,0.166,-0.1663,sadness
+1484,1526,"EDIT: and it's also naive to assume there's no modern-day slaves in Singapore, but again - that's a problem globally.",9/4/20,-0.15,0.5,0.309,0.691,0.0,-0.6908,neutral
+1486,1528,All of you who are confused need a lesson in normative vs. descriptive.,27/4/20,-0.4,0.7,0.173,0.827,0.0,-0.3182,joy
+1493,1535,"Shekor arrived in Singapore a decade ago at age 17, one of many low-income migrant workers who have powered the city’s growth, building hospitals, subway lines and the Marina Bay Sands resort.",22/4/20,0.5,0.5,0.0,0.92,0.08,0.3818,anger
+1494,1536,"In his years working in aluminum production and on construction sites, the Bangladeshi national has suffered various work-related injuries.",22/4/20,0.0,0.5,0.151,0.849,0.0,-0.4939,joy
+1500,1542,"For Shekor, who gave only his first name for fear of retribution from his employer, it means no access to painkillers he needs just to sleep.",22/4/20,0.125,0.6666666666666666,0.184,0.816,0.0,-0.6597,fear
+1501,1543,"“Everything is so difficult for everybody here,” he said in a phone interview from his dormitory of 25,000, where hundreds have been infected.",22/4/20,-0.5,1.0,0.244,0.756,0.0,-0.7537,joy
+1502,1544,"“It seems like they only take the most serious ones to hospital; the normal ones like me, no one takes care of us.”
+
+
+The situation highlights the vulnerability of migrant workers, who in Singapore make up one-third of the labor force.",22/4/20,0.07916666666666666,0.7041666666666666,0.116,0.716,0.168,0.5434,sadness
+1504,1546,A construction site in Singapore lies empty on April 11 during a halt to nonessential work to stem the spike in coronavirus cases.,22/4/20,-0.1,0.5,0.195,0.805,0.0,-0.5574,fear
+1506,1548,"As in Singapore, many migrant laborers are from South Asia.",22/4/20,0.5,0.5,0.0,1.0,0.0,0.0,neutral
+1508,1550,"Singapore’s largest Chinese-language broadsheet, Lianhe Zaobao, recently published a letter from a reader who blamed the migrants for the outbreaks, labeling their countries “backward” and their practices dirty.",22/4/20,-0.3,0.525,0.2,0.8,0.0,-0.7184,joy
+1514,1556,"“If anyone had cared to look, the dangers were already there.”
+
+Authorities had planned for the epidemic with a focus only on citizens, he said, distributing surgical masks, hand sanitizer and reusable masks only to Singaporean households.",22/4/20,0.0,1.0,0.076,0.782,0.142,0.4215,fear
+1518,1560,"HealthServe, a nonprofit providing subsidized health care to migrant workers, said migrants had been anxious as early as February about the virus and their level of risk in overcrowded living conditions.",22/4/20,-0.075,0.65,0.12,0.787,0.093,0.0258,fear
+1523,1565,"In an address to the nation on Tuesday, Singapore prime minister Lee Hsien Loong began by noting that the number of new cases in the local community has leveled off before acknowledging the problematic sharp rise in total cases overwhelmingly among migrants.",22/4/20,0.10227272727272727,0.5909090909090909,0.098,0.872,0.029,-0.4767,fear
+1534,1576,"The typical construction worker in Singapore earns about $430 a month, while the median monthly income for Singaporeans is $3,227.",22/4/20,-0.16666666666666666,0.5,0.0,1.0,0.0,0.0,joy
+1536,1578,"“To keep them cheap, we have to exploit,” said Au from TWC2.",22/4/20,0.4,0.7,0.0,1.0,0.0,0.0,anger
+1537,1579,"“We pack them into [trucks], we pack them into dormitories, and now, when a crisis hits, they have no buffer.”
+
+Clusters have been identified in many dormitories.",22/4/20,0.5,0.5,0.208,0.792,0.0,-0.743,anger
+1538,1580,"More than a dozen dormitories have been placed under quarantine, meaning workers cannot leave their rooms, while nearly all dormitory residents are now barred from leaving the facilities, which are guarded by police.",22/4/20,0.3333333333333333,0.5,0.0,0.964,0.036,0.0382,sadness
+1539,1581,"The more than 200,000 dormitory residents are now anxious, bored, isolated and scared.",22/4/20,-0.08333333333333333,0.8333333333333334,0.508,0.492,0.0,-0.8074,fear
+1540,1582,"Unable to buy their own groceries, cook for themselves or purchase phone cards to call home, they are almost completely dependent on charity and handouts.",22/4/20,0.06666666666666667,0.6333333333333333,0.0,0.887,0.113,0.4703,neutral
+1544,1587,"A worker in one of the worst-hit dormitories, who only wanted to be identified by his first name, Ali, was treated for a sore throat and fever before the lockdown, and placed on sick leave until April 9.",22/4/20,-0.15476190476190477,0.7301587301587301,0.175,0.825,0.0,-0.7184,fear
+1546,1589,"That was impossible in his 12-person room, he said.",22/4/20,-0.6666666666666666,1.0,0.0,1.0,0.0,0.0,anger
+1549,1592,"“I am so scared I will die before any help comes.”
+
+
+Authorities say that infected dormitory residents have been linked through common work sites, and through places like shopping malls, where many gather on their days off.",22/4/20,0.1,0.5,0.235,0.655,0.11,-0.7848,fear
+1551,1594,"In an interview Thursday, Ali said he was finally able to see a doctor, who gave him cough syrup and tested him for the coronavirus.",22/4/20,0.5,0.625,0.0,1.0,0.0,0.0,joy
+1553,1596,"His 11 roommates are trying to keep their distance from each other, but find it near impossible.",22/4/20,-0.23055555555555554,0.5916666666666667,0.0,1.0,0.0,0.0,sadness
+1558,1601,“She just started crying.”,22/4/20,-0.2,0.6,0.0,1.0,0.0,0.0,sadness
+1560,1603,"The method of stratifying ""community spread"" and ""dorm"" is very arbitrary.",22/4/20,-0.13,0.78,0.0,1.0,0.0,0.0,sadness
+1565,1608,"Because that's essentially what you're saying, ""if we ignore the dorms, our statistics look great!""",22/4/20,0.5,0.525,0.166,0.834,0.0,-0.4199,joy
+1567,1610,Our government is responsible for everyone no matter where they live.,22/4/20,0.16818181818181818,0.525,0.162,0.588,0.25,0.0516,neutral
+1570,1613,"Furthermore, its damn arbitrary as to how we define ""community"".",22/4/20,-0.1,0.6,0.231,0.769,0.0,-0.4019,anger
+1574,1617,So what saved us from this outbreak becoming uncontrolled community spread is our natural disdain for the migrant workers and never interacting with them as a separate caste.,23/4/20,0.275,0.625,0.151,0.683,0.166,0.1226,sadness
+1576,1619,"We should encourage more discrimination, it protects us!",23/4/20,0.625,0.5,0.0,0.494,0.506,0.7316,neutral
+1578,1621,"I think the coronavirus was handled well though, that's why I think WaPo should either focus their article on the migrant worker situation entirely without bringing up the coronavirus, or write a different article about it and use this article to criticize our coronavirus management (which I'm certain WaPo can't because they don't have other arguments).",23/4/20,0.02232142857142857,0.5428571428571429,0.046,0.88,0.074,0.1531,anger
+1587,1634,"I think this opinion is misguided, while in no doubt coming from the right place.",14/4/20,0.2857142857142857,0.5357142857142857,0.281,0.719,0.0,-0.5719,neutral
+1591,1638,"Majority of these levies amounted to 600-700 SGD/ workers, and a bigger portion of these levies should be used to improve workers welfare.",14/4/20,0.0,0.5,0.0,0.879,0.121,0.4404,joy
+1592,1644,"I agree with your opinion that companies should provide better accommodations for the workers,  but I notice in your text this feeling of "" they are not our people, why bother?""",14/4/20,0.5,0.5,0.0,0.816,0.184,0.5629,anger
+1593,1646,"These companies already pay taxes, the workers already pay taxes , they live sometimes in Singapore right ?",14/4/20,0.21103896103896103,0.5178571428571428,0.167,0.833,0.0,-0.2023,neutral
+1597,1650,"Sure, make the companies act, but its  YOUR government that is enabling this, don't treat them as not your problem because they are, it's your government allowing this to exist, it's companies contributing to SINGAPOREAN economy that hire these workers.",14/4/20,0.5,0.8888888888888888,0.065,0.833,0.102,0.1655,anger
+1599,1660,"Nice opinion, but this is literally a slap on the wrist.",14/4/20,0.6,1.0,0.0,0.678,0.322,0.4215,anger
+1602,1663,"You think a fine + bills is a ""wake up call"".",14/4/20,0.4166666666666667,0.5,0.0,0.795,0.205,0.2023,neutral
+1603,1664,"Nah, it's just a ""one-off expense"", ""we got caught fine"", basically a gamble for them.",14/4/20,0.4166666666666667,0.5,0.104,0.896,0.0,-0.1027,neutral
+1605,1666,They will just gladly pay up and mistreat them again.,14/4/20,0.5,1.0,0.119,0.678,0.203,0.25,anger
+1607,1668,"They won't follow, they will try to bend the rules further (like people who flout SHN/CB rules) and that will result in worse conditions for the workers.",14/4/20,-0.2,0.55,0.107,0.893,0.0,-0.4767,anger
+1609,1670,"There, we mitigated the spread, absolutely nothing happened in our dorms!",14/4/20,0.25,0.9,0.0,1.0,0.0,0.0,neutral
+1611,1672,What we need isn't punitive punishment only (not saying that they shouldn't foot the bill).,14/4/20,0.0,1.0,0.0,0.709,0.291,0.652,anger
+1616,1694,"I'm with you in that, I really REALLY hope the companies running the dormitories get fined MASSIVELY after this is over.",14/4/20,0.1,0.6,0.0,0.819,0.181,0.6375,joy
+1620,1698,"Those who've run the dorms have been doing this years, and there's very little chance of them changing their ways, and if at all they do, there's a question of whether they'll do it fast enough.",14/4/20,-0.014583333333333337,0.5833333333333334,0.0,0.945,0.055,0.2466,fear
+1621,1699,"In a pandemic crisis where time is critical, government intervention is the only way, imho
+
+Who foots the bill is a question best left for after the pandemic has run its course.",14/4/20,0.25,0.525,0.17,0.718,0.112,-0.296,fear
+1623,1708,The standards can be made better.,14/4/20,0.5,0.5,0.0,0.633,0.367,0.4404,joy
+1631,1722,"There are restrictions on how many beds you can put in a certain area, how many toilets per number of ppl, fire safety requirements, a sickbay separate from living qtrs must be planned, WiFi is compulsory, even entertainment is a must.",14/4/20,0.4047619047619048,0.5238095238095238,0.054,0.743,0.203,0.6808,fear
+1636,1727,"By law, the dorm owner must specifically have an area just for hanging clothes because hanging clothes in your sleeping qtrs is asking for disease to spread but the workers would rather hang them in their own rooms for convenience.",14/4/20,0.6,1.0,0.0,1.0,0.0,0.0,anger
+1638,1729,My own employees said it was a living hell with bedbug infestations so we moved them out.,14/4/20,0.6,1.0,0.235,0.765,0.0,-0.6808,anger
+1639,1730,"There's a limit to how much we can interfere with free market and more importantly, how nice should we treat the employees?",14/4/20,0.42000000000000004,0.7,0.0,0.593,0.407,0.8923,joy
+1641,1732,Our hdb and condo will be 3-4x more and nobody will be able to afford it.,14/4/20,0.5,0.5625,0.0,1.0,0.0,0.0,joy
+1646,1753,"if dorm operators would rather let workers die than pay for treatment, should we be okay with that?",14/4/20,0.5,0.5,0.239,0.676,0.086,-0.5267,sadness
+1647,1754,"dumb stubborn singaporeans roaming around everyday, ignoring circuit breaker rules, resulting in the need for more enforcement officers... should that also be charged to the individuals?",14/4/20,-0.024999999999999984,0.5333333333333333,0.323,0.677,0.0,-0.8591,anger
+1651,1761,The hard truth is that no one would do their work for the meagre salary.,14/4/20,-0.2916666666666667,0.5416666666666666,0.201,0.67,0.128,-0.0772,anger
+1652,1762,Theres also the hard labour that is not enticing under the hot sun or stifled conditions within construction.,14/4/20,-0.020833333333333343,0.6958333333333333,0.192,0.808,0.0,-0.4215,fear
+1653,1763,"We should have been learning from examples like Australia, where they pay their labour workers well and a huge bulk of the hard labour jobs consists of their own people.",14/4/20,0.23611111111111113,0.8138888888888888,0.083,0.712,0.205,0.6249,anger
+1656,1766,The foreign workers and their contributions have been immense to our nation building.,14/4/20,-0.0625,0.5625,0.0,1.0,0.0,0.0,joy
+1658,1778,Theese companies’ carelessness enables cheap labor that the population benefits from.,14/4/20,0.4,0.7,0.171,0.643,0.186,0.0516,neutral
+1660,1782,LOL they caused it?,14/4/20,0.8,0.7,0.0,0.459,0.541,0.5473,fear
+1663,1785,That's a conflict of interest problem right there.,14/4/20,0.2857142857142857,0.5357142857142857,0.417,0.333,0.25,-0.25,joy
+1664,1786,"It is the government's job to uphold the standards of the community - and quite frankly, most Singaporeans are selfish af and didn't care.",14/4/20,0.0,0.75,0.222,0.778,0.0,-0.7177,anger
+1665,1787,Even now they only care because it might spread to them.,14/4/20,0.0,1.0,0.0,0.758,0.242,0.4939,sadness
+1675,1810,I think paying them a fraction of what locals are earning is barely fair enough but they should at least provide more suitable accommodations at least.,14/4/20,0.19166666666666665,0.575,0.0,0.939,0.061,0.1289,neutral
+1677,1815,But there should be open channels where the alarm for workers exploitation can be sounded off.,14/4/20,0.0,0.5,0.138,0.862,0.0,-0.34,fear
+1678,1818,I don't think it's entirely dorm operators responsibility.,14/4/20,0.0,0.625,0.0,1.0,0.0,0.0,neutral
+1680,1822,Welcome to neoliberalism.,14/4/20,0.8,0.9,0.0,0.4,0.6,0.4588,joy
+1684,1829,It's under her watch and dorm issues had been brought up so many times.,14/4/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+1685,1830,She should take full responsibility.,14/4/20,0.35,0.55,0.0,1.0,0.0,0.0,anger
+1687,1835,I think as people we all are responsible.,14/4/20,0.2,0.55,0.0,0.723,0.277,0.3182,anger
+1690,1838,"As a government, they would have maintained a reserve for this and should have been ready any day for a disaster like these.",14/4/20,0.2,0.5,0.157,0.651,0.192,-0.0258,anger
+1691,1839,Plus I will only agree to fine the companies that are running these dormitories if the conditions of these dormitories are found in inhumane conditions.,14/4/20,-0.16111111111111112,0.7999999999999999,0.0,0.837,0.163,0.5106,neutral
+1693,1841,So let's cut the shit out.,14/4/20,-0.2,0.8,0.229,0.385,0.385,0.3862,joy
+1694,1850,Good points raised.,14/4/20,0.7,0.6000000000000001,0.0,0.408,0.592,0.4404,neutral
+1697,1853,It is pretty much how the society runs.,14/4/20,0.225,0.6,0.0,0.686,0.314,0.4939,neutral
+1699,1855,This is just at a scale way larger than individuals.,14/4/20,0.0,0.5,0.0,1.0,0.0,0.0,anger
+1700,1856,The day we will start thinking that the chicken rice should cost 8 dollar instead of 4 dollar is the day when this mess can begin to be fix.,14/4/20,-0.38749999999999996,0.5625,0.1,0.9,0.0,-0.4357,anger
+1702,1880,This is the right answer here and should be wayyy higher than all these emotionally charged posts.,14/4/20,0.17857142857142858,0.5619047619047618,0.101,0.899,0.0,-0.2023,joy
+1705,1885,"It’s that we should not have to, if only certain stakeholders had been more responsible in the way they managed matters.",14/4/20,0.2285714285714286,0.6553571428571427,0.0,0.757,0.243,0.5849,sadness
+1706,1886,"So yeah, I certainly hope these companies get massively penalised in some way.",14/4/20,0.10714285714285714,0.7857142857142857,0.0,0.519,0.481,0.8092,neutral
+1709,1893,">  
+>if dorm operators would rather let workers die than pay for treatment, should we be okay with that?",14/4/20,0.5,0.5,0.239,0.676,0.086,-0.5267,sadness
+1713,1902,You can’t compare Singapore to Australia as we don’t have as many people here to support the building industry.,14/4/20,0.5,0.5,0.0,0.87,0.13,0.4019,anger
+1715,1904,Think of a knowledge driven economy where the benefits can be scaled up easily.,14/4/20,0.43333333333333335,0.8333333333333334,0.0,0.688,0.312,0.6124,fear
+1716,1905,Menial labour(as much as it is necessary) is not one of them.,14/4/20,0.0,1.0,0.0,1.0,0.0,0.0,fear
+1718,1907,"Sure, paying such workers better is a solution but the money needs to come from somewhere.",14/4/20,0.3333333333333333,0.6296296296296297,0.0,0.696,0.304,0.5023,neutral
+1719,1908,It’s easy to quote Australia but you have to quote their high taxes as well to be fair.,14/4/20,0.43111111111111117,0.7577777777777778,0.0,0.665,0.335,0.7615,anger
+1721,1910,But we need do to treat them better for the value they provide.,14/4/20,0.5,0.5,0.0,0.556,0.444,0.7906,anger
+1722,1920,"From Josephine Teo's comments, my understanding is that the dorms were compliant with the regulations, some light breaches here and there maybe but generally were OK since MOM took enforcement quite seriously.",14/4/20,0.15416666666666667,0.5916666666666667,0.068,0.824,0.107,0.3421,joy
+1731,1929,"They ask MOM, 'Are people prepared to pay more?'""",14/4/20,0.5,0.5,0.136,0.68,0.184,0.128,anger
+1737,1945,Not the most comfortable but they are just cheap accommodation.,14/4/20,0.43333333333333335,0.6666666666666666,0.179,0.821,0.0,-0.2405,sadness
+1738,1946,"For the maintenance, I know and I've seen how sloppy it can get.",14/4/20,-0.4166666666666667,0.75,0.0,1.0,0.0,0.0,neutral
+1747,1965,They are not living in inhuman/ cruel conditions.,14/4/20,-1.0,1.0,0.352,0.648,0.0,-0.5859,sadness
+1751,1969,"Yes, some dorms are a bit messy and look cluttered; but area wise, it is comparable to our NS dormitories.",14/4/20,0.24999999999999997,0.65,0.074,0.674,0.253,0.6428,sadness
+1754,1972,"Maybe more ""stand by area"" and ""area cleaning"".",14/4/20,0.5,0.5,0.0,1.0,0.0,0.0,neutral
+1755,1973,Or hire more cleaners.,14/4/20,0.5,0.5,0.0,1.0,0.0,0.0,fear
+1757,1975,So if they choose not to hang their clothes in the common area - that is in breach of regulations.,14/4/20,-0.3,0.5,0.0,1.0,0.0,0.0,fear
+1758,1992,"Math is important, but what are you implying here?",14/4/20,0.4,1.0,0.0,0.851,0.149,0.1027,neutral
+1759,1993,"That if we can't do the math, let's allow a bunch of poor/brown people to live in inhumane conditions, and maybe suffer and die?",14/4/20,-0.38181818181818183,0.7,0.253,0.683,0.065,-0.7579,sadness
+1764,1998,I'm afraid that would accidentally align you with the fascists of the world.,14/4/20,-0.6,0.9,0.276,0.724,0.0,-0.4939,joy
+1765,1999,"Ok now bring on the downvotes •́  ‿ ,•̀",14/4/20,0.5,0.5,0.0,0.761,0.239,0.296,fear
+1766,2008,I don't think you're being creative enough with your solutions.,14/4/20,0.25,0.75,0.0,0.603,0.397,0.5574,anger
+1773,2017,Some of the bosses of these dorms own a couple of landed properties for themselves both in and out of Sentosa.,14/4/20,0.6,1.0,0.0,1.0,0.0,0.0,fear
+1774,2018,Maybe its time to consider a more utilitarian approach to the use of our land.,14/4/20,0.5,0.5,0.0,1.0,0.0,0.0,sadness
+1775,2019,"If we are so land-scarce as you say, then why allow people to own more property than they need?",14/4/20,0.55,0.75,0.0,0.905,0.095,0.2263,fear
+1777,2022,Govt sets the law and the market should be left with its own devices to come up with solutions.,14/4/20,0.3,0.5,0.0,0.914,0.086,0.1779,fear
+1779,2024,Maybe if we had more stringent regulations on FW housing then companies will finally trade in hiring worker en masse to buying technology.,14/4/20,0.25,0.75,0.0,1.0,0.0,0.0,neutral
+1780,2042,"It's not about right or wrong or what people deserve, I think ultimately it will be self interest that drives change.",14/4/20,-0.07142857142857144,0.811904761904762,0.129,0.747,0.124,-0.0258,fear
+1784,2048,Conditions like those may b acceptable if they were livingbin poor backward countries but as they are inhabitants of our country the rich should not be profiteering off their misery willy nilly,14/4/20,-0.012500000000000011,0.675,0.169,0.594,0.237,0.2182,sadness
+1785,2052,"How in the world is it that what you manage to take away from that chunk of text that *math is important, and if you can't do math brown people should die?",14/4/20,0.4,1.0,0.109,0.84,0.05,-0.4767,anger
+1786,2053,"*
+
+Literal tax paying citizens of Hong Kong lives in more inhumane conditions.",14/4/20,-0.2,0.7,0.0,1.0,0.0,0.0,fear
+1788,2055,Living in a dormitory cluster is not inhumane.,14/4/20,0.45,0.9,0.0,1.0,0.0,0.0,fear
+1790,2057,Just what kind of living conditions do you believe FW dorms to be?,14/4/20,0.6,0.9,0.0,1.0,0.0,0.0,neutral
+1793,2060,"If you are saying people are dying because of the living condition, bring up evidence, because as far as I can tell, nothing has even come close to being negligent enough to cause death.",14/4/20,0.05,0.75,0.109,0.891,0.0,-0.5994,sadness
+1795,2062,Clearly that's not an accurate way to measure living conditions.,14/4/20,0.25000000000000006,0.5083333333333333,0.0,0.769,0.231,0.4019,sadness
+1796,2063,They live in humane conditions.,14/4/20,0.13636363636363635,0.5,0.0,1.0,0.0,0.0,fear
+1797,2064,Living in a bunk setting is far from inhumane.,14/4/20,-0.4,0.95,0.0,1.0,0.0,0.0,fear
+1801,2068,What kind of logic are you parading about here?,14/4/20,0.6,0.9,0.0,1.0,0.0,0.0,neutral
+1805,2072,"No, math is not so important that if you don't know math people should die.",14/4/20,0.4,1.0,0.403,0.597,0.0,-0.797,fear
+1806,2073,Math is important because if you don't understand the math you cant even being to comprehend the issue at hand and save a single person.,14/4/20,0.1642857142857143,0.6071428571428571,0.0,0.719,0.281,0.802,anger
+1811,2103,Im pretty sure all the economists who argue for govt intervention to mitigate negative externalities (such as this one) are idiots.,15/4/20,-0.07,0.7177777777777777,0.213,0.594,0.192,-0.1531,neutral
+1812,2104,"Also, I'm not sure why you think criticism MUST come with neatly packaged solutions.",15/4/20,-0.25,0.8888888888888888,0.256,0.527,0.216,-0.193,neutral
+1818,2110,How is it wrong to point out the illogical?,15/4/20,-0.5,0.9,0.279,0.721,0.0,-0.4767,neutral
+1820,2615,"If supply is an issue, I'm sure we have Sinovacs to spare.",7/2/21,0.5,0.8888888888888888,0.0,0.827,0.173,0.3182,fear
+1823,2618,I'm just stating that the number of cases will likely be under-reported.,16/12/20,0.0,1.0,0.0,0.894,0.106,0.0772,fear
+1824,2619,"Of course, there is no true way to find out, unless you ask every Singaporean to undergo a serology test (feasible but not possible).",16/12/20,-0.0875,0.825,0.065,0.857,0.078,0.0772,neutral
+1826,2621,All I'm saying is that we shouldn't be surprised with one or 2 cases popping up within the community or the dorms.,16/12/20,0.1,0.9,0.077,0.923,0.0,-0.1695,fear
+1828,2623,Not sure if the purpose of my original comment was misunderstood.,16/12/20,0.0625,0.8194444444444444,0.298,0.546,0.157,-0.2644,fear
+1829,2624,"Calm down people, I support whatever the Government is doing.",16/12/20,0.07222222222222223,0.5194444444444445,0.0,0.583,0.417,0.6124,neutral
+1836,2631,"Sure the issue of overcrowding is there, not ignoring that.",6/4/20,0.5,0.8888888888888888,0.0,0.637,0.363,0.5511,neutral
+1838,2633,"But in the context of COVID, it’s not fair to shift the blame solely on the government.",6/4/20,-0.35,0.9,0.225,0.775,0.0,-0.5207,anger
+1839,2634,Sorry but this piece seems biased against the government.,6/4/20,-0.5,1.0,0.352,0.648,0.0,-0.4215,sadness
+1840,2635,ALL BOOK OUT LOL.,6/4/20,0.8,0.7,0.0,0.517,0.483,0.4215,fear
+1841,2636,Honestly?,6/4/20,0.6,0.9,0.0,0.0,1.0,0.4588,neutral
+1845,2640,It’s how to balance everything with minimal effect to daily lives or minimal effort for recovery after all is over because damage is inevitable.,6/4/20,-0.05,0.55,0.122,0.878,0.0,-0.4939,sadness
+1846,2641,"It’s definitely not an easy task, and many people seem to glance over this point when they criticize the policies enacted.",6/4/20,0.14166666666666666,0.6666666666666667,0.195,0.7,0.105,-0.3195,anger
+1847,2642,"Sure, it’s easy to say close schools and work places.",6/4/20,0.4666666666666667,0.8611111111111112,0.0,0.606,0.394,0.6369,neutral
+1848,2643,But that would have downstream effects which you need to plan for very carefully and prepare for.,6/4/20,-0.13,1.0,0.0,0.899,0.101,0.2006,sadness
+1851,2646,"There’s absolutely no news about that, but residents are seeing the work done and the urgency of speed that it’s done at, it’s not hard to put two and two together.",6/4/20,0.02291666666666667,0.7208333333333333,0.054,0.901,0.045,-0.0779,sadness
+1853,2648,This is not something many people come to realize in the midst of of their criticism.,6/4/20,0.5,0.5,0.162,0.838,0.0,-0.4404,anger
+1856,2651,"And to blame the government on such issues they are receiving heat for, it’s not all fair to them.",6/4/20,0.35,0.7,0.204,0.796,0.0,-0.5207,anger
+1860,2655,The government can only do so much if the people won’t listen.,6/4/20,0.1,0.6,0.0,1.0,0.0,0.0,anger
+1861,2656,People complaining about SAF bunks should go have a look at the factory converted dorms that many workers stay in.,6/4/20,0.5,0.5,0.091,0.909,0.0,-0.2023,anger
+1862,2657,Those are even worse than the dorms mentioned in this article.,6/4/20,-0.4,0.6,0.237,0.763,0.0,-0.4767,sadness
+1863,2658,"Poor ventilation, filled with rats/cockroaches and completely lacking in amenities.",6/4/20,0.03333333333333333,0.6333333333333333,0.256,0.744,0.0,-0.4767,neutral
+1866,2661,"Obviously conditions can be better, and unfortunately it needed a pandemic to push for this to happen.",15/12/20,0.0,0.6666666666666666,0.124,0.725,0.15,0.128,joy
+1868,2663,Not sure what those people want - should just leave them to die?,15/12/20,-0.25,0.8888888888888888,0.432,0.489,0.079,-0.6968,anger
+1874,2669,"Yeah, so far nobody has shown evidence of a dead person getting COVID.",23/8/20,-0.05,0.7,0.261,0.606,0.133,-0.4767,fear
+1875,2670,I wish people would think about what the fuck they are saying when they give hot takes on how to deal with COVID.,23/8/20,-0.07500000000000001,0.7250000000000001,0.134,0.763,0.103,-0.2023,fear
+1878,2673,"Well, I base what I says on research
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4946441/
+
+No.",23/8/20,-0.8,1.0,0.214,0.583,0.204,-0.0258,neutral
+1880,2675,"In a larger country, we go by towns, cities, or districts.",23/8/20,0.0,0.5,0.0,1.0,0.0,0.0,joy
+1881,2676,"With Singapore, we can go by GRC boundaries or drawing boundaries base on the nearest supermarket.",23/8/20,-0.8,1.0,0.0,1.0,0.0,0.0,fear
+1883,2678,Stop all public transports that go further than however far it is needed for people to get to the nearest supermarket and have everyone do grocery shopping there and there only.,23/8/20,0.025,0.6416666666666666,0.068,0.932,0.0,-0.296,anger
+1894,2689,Well most should work from home.,23/8/20,0.5,0.5,0.0,0.704,0.296,0.2732,neutral
+1897,2692,"No, friend, I do think about this carefully.",23/8/20,-0.1,1.0,0.2,0.363,0.438,0.3869,neutral
+1902,2697,"This still means that you should consider the reality that people sharing the same toilets will likely to infect each others, even if fecal matter aerosol transmission is still not demonstrated.",23/8/20,0.0,0.5625,0.0,0.881,0.119,0.4404,anger
+1906,2701,"More evidences of after confirmed COVID-19 positive tests, sometimes, the confirmed cases were left in the room for at least a couple of days with nothing more than an advice to wear masks and social distancing.",24/8/20,0.2200757575757576,0.5015151515151515,0.0,0.904,0.096,0.5574,joy
+1907,2702,"But the way it was handling from the beginning showed that MOM and MOH doesn't have ""it"", which is the ability to act ruthlessly for a short time to put a lid on the dorm situation.",24/8/20,-0.5,0.65,0.0,0.935,0.065,0.3182,sadness
+1908,2703,"The problem is overcrowding, but they never do the ruthless solution to it.",24/8/20,-1.0,1.0,0.117,0.696,0.187,0.2732,sadness
+1910,2705,"We should probably put the asymptomatic there, leaving the confirmed and symptomatic  in the dorms.",24/8/20,0.4,1.0,0.0,1.0,0.0,0.0,sadness
+1913,2708,"The occupants will go to toilets by digging holes in the ground, if they have to, but I'm sure rent-a-porta-potty services are available.",24/8/20,0.45,0.6444444444444444,0.0,0.882,0.118,0.4497,sadness
+1916,2711,"If you have complaints of such solution being too inhumane, well, see my username.",24/8/20,-0.45,0.7,0.149,0.608,0.243,0.1779,neutral
+1922,2717,"When I read Josephine Teo's remarks on the situation, I was extremely disheartened.",9/4/20,-0.125,1.0,0.259,0.741,0.0,-0.5413,joy
+1926,2721,Someone wise pointed out - this is our child of Omelas - we cannot be the ones to walk away.,9/4/20,0.7,0.9,0.0,0.846,0.154,0.4767,sadness
+1933,2728,"> Associate Professor Mak said the ministry believes that foreign workers had visited Mustafa Centre, where some employees had fallen ill, and gotten infected there.",9/4/20,-0.3125,0.5625,0.288,0.712,0.0,-0.8176,sadness
+1935,2730,"> ""Many had very mild symptoms and so they continued to work, that's why there was a delay in picking them up,"" said Mr Wong, who chairs the ministerial task force along with Health Minister Gan Kim Yong.",9/4/20,0.4666666666666667,0.575,0.062,0.938,0.0,-0.3182,joy
+1936,2731,"It is likely that the virus had been spreading in dormitories for some time, he said.",9/4/20,0.0,1.0,0.0,1.0,0.0,0.0,joy
+1940,2735,"But in the wider community, numbers are more stable.",9/4/20,0.5,0.5,0.0,0.762,0.238,0.3597,fear
+1942,2737,"""That is why we decided to put in more resources and set up a dedicated task force focusing on dorms.""",9/4/20,0.5,0.5,0.0,0.857,0.143,0.4588,neutral
+1950,2745,"> Workers will now not be able to prepare their own meals, to reduce human contact, and cleanliness and hygiene have been stepped up.",9/4/20,0.3666666666666667,0.5750000000000001,0.0,1.0,0.0,0.0,sadness
+1951,2746,Existing sick bays will also be scaled up to take care of workers that need to be isolated.,9/4/20,-0.7142857142857143,0.8571428571428571,0.235,0.63,0.134,-0.34,sadness
+1970,2765,Of couse ideally we should treat them better.,10/4/20,0.7,0.75,0.0,0.373,0.627,0.8126,anger
+1971,2766,Ideally they should safely quarantined away from each other.,10/4/20,0.425,0.625,0.0,0.538,0.462,0.7184,anger
+1972,2767,Ideally they should be able to have access to better medical and better food.,10/4/20,0.48,0.525,0.0,0.561,0.439,0.8225,anger
+1975,2770,Keep in mind that the conditions we've provided for them are already arguably better than what they have in their home countries (e.g.,10/4/20,0.5,0.5,0.077,0.811,0.112,0.2263,anger
+1977,2772,"It was so bad that the people rioted and were allowed to go home) So keep all of that in mind the next time you want to bemoan the humanitarian concerns of Singapore's very own ""child of omelas"".",10/4/20,0.026666666666666727,0.5555555555555555,0.107,0.861,0.031,-0.6359,anger
+1980,2775,Many customers would balk at paying more for things like renovation.,10/4/20,0.5,0.5,0.0,0.783,0.217,0.4144,anger
+1982,2777,Could be worse.,9/4/20,-0.4,0.6,0.608,0.392,0.0,-0.4767,fear
+1985,2780,"Also, the active testing should also increase the number, as you'll hit asymptomatic cases.",9/4/20,-0.13333333333333333,0.6,0.0,0.636,0.364,0.6486,joy
+1988,2783,They talk as if everything is so easy.,10/4/20,0.43333333333333335,0.8333333333333334,0.0,0.652,0.348,0.5777,neutral
+1996,2791,"When this kind of shit hits the fence, everyone’s leave cancelled from the start of the year including admin staffs.",10/4/20,0.19999999999999998,0.8500000000000001,0.294,0.706,0.0,-0.7264,sadness
+1997,2792,It was only relaxed recently.,10/4/20,0.0,0.625,0.0,0.556,0.444,0.4939,sadness
+1998,2793,"Don’t worry if no one advocate for them, they will just return to the streets and flip police cars only",10/4/20,0.0,1.0,0.221,0.779,0.0,-0.6249,fear
+1999,2794,Ok first of I'd like to say that I'm not intentionally being edgy.,10/4/20,0.15,0.5277777777777778,0.0,0.701,0.299,0.5719,joy
+2001,2796,Let me rephrase what I'm trying to say here: the workers should be given the best possible conditions that we can afford.,10/4/20,0.5,0.65,0.0,0.833,0.167,0.6369,fear
+2002,2797,Key phrase: that we can afford.,10/4/20,0.0,1.0,0.0,1.0,0.0,0.0,joy
+2003,2798,"And when I say ""take office first"", I don't literally mean that you have to assume an official position in order to try and enact change, I'm asking you to look at it from a different perspective.",10/4/20,-0.020833333333333332,0.5402777777777777,0.0,1.0,0.0,0.0,fear
+2005,2800,"I'm not saying it's perfect, not by a long shot, but I'm saying that I trust the government is doing all that it can within a reasonable capacity.",10/4/20,0.3833333333333333,0.6666666666666666,0.068,0.781,0.151,0.5348,anger
+2006,2801,"I do agree that there are and will continue to be flaws, lapses and slip-ups, but I also trust that such issues will be addressed in the fastest and best possible way.",10/4/20,0.3333333333333333,0.6,0.0,0.692,0.308,0.9186,fear
+2007,2802,"I mean already in that article it outlined how efforts were being made to improve living conditions: ""cleanliness and hygiene being stepped up""', ""sickbays being scaled up"", ""thousands of workers moving to army camps, floating hotels and empty HDBs"" to ease up on the cramped conditions...",10/4/20,-0.20625,0.59375,0.037,0.854,0.11,0.5574,fear
+2011,2806,Does this mean that we should simply neglect everyone else and leave them to die in crowded conditions?,10/4/20,-0.15625,0.5223214285714286,0.351,0.649,0.0,-0.7964,sadness
+2013,2808,"But consider if we quarantined all 20,000 workers identically to how we have been quarantining our own citizens.",10/4/20,0.6,1.0,0.0,1.0,0.0,0.0,joy
+2016,2811,"If we had the space and the resources then of course they should give workers the same conditions, but sadly this isn't the case.",10/4/20,-0.25,0.5625,0.139,0.861,0.0,-0.5719,anger
+2019,2814,"However, it is incredibly difficult to see any kind of change coming about in the immediate future.",10/4/20,0.033333333333333326,0.6749999999999999,0.149,0.851,0.0,-0.4201,joy
+2021,2816,"If you're really passionate about this, then you should volunteer to cook/clean for the workers.",10/4/20,-0.05,0.8500000000000001,0.0,0.791,0.209,0.5709,anger
+2022,2817,"You might say, ""oh I'm busy, I still have to work from home, etc etc"", all of which is perfectly understandable.",10/4/20,0.55,0.65,0.0,0.819,0.181,0.6369,sadness
+2024,2819,"Now again, I'm not saying, ""you must be a volunteer, then only you can talk about how people should be more sympathetic"", I'm just saying that if everyone expressed concern online but never enacted any real change, people would be a lot more caring for our workers but the actual workers' situations would not improve.",10/4/20,0.2833333333333333,0.5666666666666667,0.053,0.867,0.081,0.388,anger
+2026,2821,](https://youtu.be/ZRfWDz03nHw) It is way worse.,10/4/20,-0.4,0.6,0.437,0.563,0.0,-0.4767,neutral
+2027,2822,There is a lot of false reassurance going around.,9/4/20,-0.4000000000000001,0.6,0.0,0.737,0.263,0.3612,joy
+2028,2823,"We know that there are people PCR negative until as late as day 8 of symptoms, what more in an asymptomatic patient.",9/4/20,-0.033333333333333326,0.5,0.156,0.844,0.0,-0.5719,fear
+2030,2825,We’re gonna start more clusters elsewhere.,9/4/20,0.5,0.5,0.0,1.0,0.0,0.0,fear
+2033,2828,"For businesses, business owners and the higher powers that be, yes.",19/8/20,0.25,0.5,0.0,0.787,0.213,0.4019,fear
+2040,2835,Memes are funny but I feel this is actually a pretty positive step we should laud this dude for finally acknowledging this.,12/6/20,0.18181818181818182,0.8863636363636364,0.0,0.604,0.396,0.9032,joy
+2041,2836,Eh but that would be precisely why the PAP should keep her.,12/6/20,0.4,0.8,0.0,1.0,0.0,0.0,anger
+2042,2837,"Let her be the fall guy, the one to deliver the crap news while the more charming politicians come in and soothe the people?",12/6/20,0.1333333333333333,0.7666666666666666,0.086,0.696,0.218,0.6115,fear
+2044,2839,Were you sick for more than 5 days?,23/4/20,-0.10714285714285715,0.6785714285714286,0.355,0.645,0.0,-0.5106,neutral
+2047,2842,The symptoms are super common.,23/4/20,0.016666666666666663,0.5833333333333333,0.0,0.506,0.494,0.5994,fear
+2049,2844,We have to wait for the detailed updates at night to get a better sense of how the situation is progressing.,1/5/20,0.45,0.625,0.0,0.868,0.132,0.4404,joy
+2051,2846,I reckon we need to see both community cases only (Singaporeans/PRs + work pass holders) AND community cases + work permit holders not in dorms stay low for at least 2 weeks before we start getting our hopes up.,1/5/20,-0.09999999999999999,0.5666666666666668,0.055,0.871,0.074,0.1779,sadness
+2053,2848,Also - keeping brief track of unlinked cases is also somewhat important.,1/5/20,0.2,0.6666666666666666,0.0,0.869,0.131,0.1298,fear
+2055,2850,"This is important because if they can link a specific case to an existing cluster and/or infected person, there is a lower possibility of there being existing further community spread that the authorities don't yet know about.",1/5/20,0.13333333333333333,0.5416666666666666,0.138,0.816,0.046,-0.5574,anger
+2060,2855,Lots of creative breakdown that alter the actual confirmed case numbers.,1/5/20,0.3,0.7000000000000001,0.0,0.775,0.225,0.4404,joy
+2064,2859,So what if the confirmed cases in community are low?,1/5/20,0.2,0.65,0.189,0.811,0.0,-0.2732,neutral
+2066,2861,This is worrying if the clusters are being to be bigger in numbers.,1/5/20,0.0,0.5,0.167,0.833,0.0,-0.34,fear
+2067,2862,Stay safe,1/5/20,0.5,0.5,0.0,0.256,0.744,0.4404,neutral
+2070,2865,"At 38 out of 43 large purpose built dorms marked as clusters, they should all be gazetted as isolation areas by now.",1/5/20,0.15714285714285714,0.5142857142857142,0.114,0.886,0.0,-0.4019,anger
+2072,2867,"Yup, I don't see how any of that is ""creative"" you need to break the problem down in clear categories so that you can have targeted measures to address the issues.",1/5/20,0.14814814814814817,0.5574074074074075,0.081,0.841,0.078,-0.0258,anger
+2074,2869,Your paragraph makes sense if it takes more than 14 days for the symptoms to manifest.,1/5/20,0.5,0.5,0.0,1.0,0.0,0.0,fear
+2077,2872,"> # Singapore reports 753 new COVID-19 cases, taking country's total to 22,460
+
+> SINGAPORE: Singapore reported 753 new COVID-19 cases as of noon on Saturday (May 9), taking the country's total to 22,460.",9/5/20,0.06818181818181818,0.6022727272727273,0.0,1.0,0.0,0.0,anger
+2090,2885,"> Download our app or subscribe to our Telegram channel for the latest updates on the coronavirus outbreak: https://cna.asia/telegram
+
+---
+1.0.2 | [Source code](https://github.com/fterh/sneakpeek) | [Contribute](https://github.com/fterh/sneakpeek)",9/5/20,0.5,0.9,0.0,1.0,0.0,0.0,fear
+2092,2887,Another possible explanation - the CB in its current form might have already reached its full potential.,9/5/20,0.0875,0.7375,0.0,0.915,0.085,0.1027,sadness
+2095,2890,"More realistically though, we should think about how we can exit CB while keeping the numbers manageable and preventing them from exploding.",9/5/20,0.5,0.5,0.05,0.95,0.0,-0.0258,fear
+2096,2891,"If this could honestly be transmitted from animal to human, then it's just a matter of time before someone gotten it.",9/5/20,0.3,0.5,0.0,0.814,0.186,0.4767,anger
+2097,2892,"Sure, it's probably China's blame to take since they're eating all the weird shit that most people have never even heard of, but it also shines a light on most governments around the world- they're super unprepared.",9/5/20,0.21904761904761902,0.7222222222222223,0.123,0.715,0.161,0.5647,anger
+2099,2894,"Take for example someone bringing some spoiled food to a party, and 20minutes in Carol tells everyone that she just puked because she ate the spoiled chicken, and told everyone who has been exposed to the chicken to please take some medication now.",9/5/20,-0.6,0.95,0.087,0.807,0.106,0.2263,anger
+2100,2895,"Everyone at the party couldn't give a shit, and tells Carol to fix her shit, she probably caught something and it ain't the chicken.",9/5/20,-0.3333333333333333,0.85,0.0,0.701,0.299,0.82,fear
+2101,2896,"People continue to have the chicken, ate it then got sick, then blamed Carol for causing all the problems.",9/5/20,-0.6571428571428571,0.9035714285714285,0.363,0.637,0.0,-0.8442,anger
+2103,2898,What a world we live in,9/5/20,0.13636363636363635,0.5,0.0,1.0,0.0,0.0,fear
+2105,2900,So many people are out of a job and the government is still relying on volunteers.,9/5/20,0.5,0.5,0.0,1.0,0.0,0.0,neutral
+2108,2903,These should be already identifiable by where the patients are tested?,9/5/20,0.1,0.5,0.0,1.0,0.0,0.0,anger
+2112,2907,I’m surprised your comment is so heavily downvoted.,10/5/20,-0.05,0.7,0.0,0.787,0.213,0.2263,joy
+2114,2909,I’d thought attitudes would be a bit more balanced in a Singapore sub.,10/5/20,0.5,0.5,0.0,1.0,0.0,0.0,joy
+2121,2916,Disappointing to see Singaporeans parrot some other countries’ smear campaign.,10/5/20,-0.3625,0.5375,0.416,0.584,0.0,-0.6908,sadness
+2122,2917,The world is going into a more dangerous place.,10/5/20,-0.04999999999999999,0.7,0.326,0.674,0.0,-0.5256,fear
+2125,2920,SG has a really unique role to play in that.,10/5/20,0.375,1.0,0.0,0.769,0.231,0.34,fear
+2128,2923,when got good news can talk cock about how this is due to good governance by pap.,18/4/20,0.425,0.525,0.075,0.654,0.271,0.6369,joy
+2129,2924,ask ppl to look at countries with bad govt like malaysia or leaders like trump.,18/4/20,-0.6999999999999998,0.6666666666666666,0.171,0.585,0.244,0.128,joy
+2130,2925,say its good sg got no free media or multi party goverment to distract pap.,18/4/20,0.24999999999999997,0.7000000000000001,0.189,0.429,0.382,0.6705,neutral
+2131,2926,but if got bad news its somehow its the collective responsibility of all singaporeans.,18/4/20,-0.6999999999999998,0.6666666666666666,0.268,0.732,0.0,-0.6956,sadness
+2140,2935,if touch wood got high death rates among fw gonna be diplomatic incident,18/4/20,0.16,0.5399999999999999,0.245,0.755,0.0,-0.5994,fear
+2141,2936,"Came here to say, this will not help and it’s such a terrible decision.",18/4/20,-0.5,0.75,0.328,0.672,0.0,-0.6551,anger
+2147,2942,"again, if not then it’ll obviously be more likely to spread Covid.",18/4/20,0.25,0.75,0.0,1.0,0.0,0.0,neutral
+2149,2945,Bad publicity worldwide.,18/4/20,-0.6999999999999998,0.6666666666666666,0.636,0.364,0.0,-0.5423,sadness
+2151,2948,We should be applying lockdown for all FW living in crowded/shared dorm for at least 14days to make sure our healthcare doesn’t get strained more.,18/4/20,0.2333333333333333,0.5962962962962962,0.096,0.821,0.082,-0.1027,sadness
+2154,2952,My suggestion: I don’t know the capacity our country can do to house as many of them separately.,18/4/20,0.5,0.5,0.0,1.0,0.0,0.0,sadness
+2158,2956,"Lockdown and surveillance means, **temporary** build a fenced shelter/tents for few weeks so the dormitory issues doesn’t turn tragic(we will only monitor the fences to make sure no one flout).",18/4/20,0.09999999999999999,0.662962962962963,0.07,0.857,0.073,0.0258,neutral
+2159,2957,"Edit: just realised it was for recovered FW, heard on TV and saw the comments hence I didn’t check the article first sorry.",18/4/20,-0.125,0.6666666666666666,0.058,0.942,0.0,-0.0772,sadness
+2163,2961,If they are recovered why do you expect them to observe safe distancing?,18/4/20,0.5,0.5,0.0,0.805,0.195,0.4404,neutral
+2165,2963,"These should load faster, but Google's AMP is controversial because of [concerns over privacy and the Open Web](https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why_did_i_build_amputatorbot).",18/12/20,0.275,0.725,0.115,0.885,0.0,-0.296,fear
+2168,2966,The government is definitely 100% at fault here.,20/12/20,0.0,0.5,0.237,0.526,0.237,0.0,anger
+2169,2967,They fucked up because they were putting the elections and economy ahead of the safety and health of its citizens.,20/12/20,-0.6,0.7,0.175,0.714,0.111,-0.3818,fear
+2171,2969,"Sure, but at what cost and for what silly purpose?",20/12/20,0.0,0.8819444444444444,0.0,0.741,0.259,0.2023,neutral
+2172,2970,"We were busy basking in our own hubris from the international praise lavished on how well we managed the pandemic, that's why we fucked up and had to call a lockdown (circuit breaker my ass, call a spade a spade).",20/12/20,0.024999999999999994,0.5,0.17,0.708,0.122,-0.4939,anger
+2175,2973,It's also really easy to say that the government should have done this or that but the truth is that all over the world governments struggled with this.,18/12/20,0.43333333333333335,0.8333333333333334,0.094,0.754,0.152,0.2374,anger
+2176,2974,The more open the economy the more difficult to manage.,18/12/20,0.125,0.625,0.237,0.763,0.0,-0.4201,joy
+2179,2977,Way to go targeting a certain group of people in Singapore bodoh.,17/6/20,0.21428571428571427,0.5714285714285714,0.0,0.826,0.174,0.2732,anger
+2183,2981,"> These arrangements include seeking the consent of employers for taking rest days on a weekday, maintaining safe distancing measures and downloading the TraceTogether app.",17/6/20,0.5,0.5,0.0,0.814,0.186,0.5859,anger
+2185,2983,"> They should also inform their employers of their whereabouts, said the ministry, adding that workers are also strongly encouraged to download and activate the TraceTogether app to facilitate contact tracing.",17/6/20,0.4333333333333333,0.7333333333333333,0.0,0.859,0.141,0.5574,anger
+2192,2990,"> ""As we all adapt to the new normal, it is important to maintain open communication with your FDW and help your FDW understand the above guidelines and requirements,"" said MOM.",17/6/20,0.13727272727272727,0.5409090909090909,0.0,0.862,0.138,0.5423,neutral
+2193,2991,"> ""Our community needs to stay disciplined and vigilant ... so that all our efforts so far to prevent the spread of COVID-19 are not wasted.""",17/6/20,0.1,0.5,0.0,0.882,0.118,0.2648,sadness
+2199,2997,"> 
+
+> Download our app or subscribe to our Telegram channel for the latest updates on the COVID-19 outbreak: https://cna.asia/telegram
+
+---
+1.0.2 | [Source code](https://github.com/fterh/sneakpeek) | [Contribute](https://github.com/fterh/sneakpeek)",17/6/20,0.5,0.9,0.0,1.0,0.0,0.0,fear
+2200,2998,What kind of stupid comment is this?,17/6/20,-0.09999999999999998,0.95,0.381,0.619,0.0,-0.5709,anger
+2209,3010,I'm sorry what?,17/6/20,-0.5,1.0,0.394,0.606,0.0,-0.0772,sadness
+2210,3011,The only way for them to get info is from MOM?,17/6/20,0.0,1.0,0.0,1.0,0.0,0.0,anger
+2211,3012,The MOM has some magic telepathic link to all of them?,17/6/20,0.5,1.0,0.0,1.0,0.0,0.0,anger
+2215,3016,"Precisely, why did they???",17/6/20,0.4,0.8,0.0,1.0,0.0,0.0,neutral
+2217,3019,"Because FDW are under their domain, and now they're literally the only group gathering outside, most likely on fields and such?",17/6/20,0.1,0.61,0.0,1.0,0.0,0.0,fear
+2220,3022,>I'm sorry what?,17/6/20,-0.5,1.0,0.394,0.606,0.0,-0.0772,sadness
+2228,3034,"#BECAUSE THEY'RE WORKING WITHIN THEIR DOMAIN
+
+Comments like these are exactly the reason why the government thinks that Singaporeans are idiots who need to be led, and that they probably know better, because idiots like you prove exactly that stereotype.",17/6/20,-0.12000000000000002,0.52,0.05,0.779,0.171,0.6808,anger
+2229,3035,"This one is like the boss call everyone into the meeting, saying everyone should do better, but is literally staring at you and using you as example of who should do better.",17/6/20,0.5,0.5,0.0,0.793,0.207,0.7615,anger
+2232,3038,they come to do work which if anything at this current time shouldn’t be going on so I do think they are entitled to vaccination just because one person died that isn’t a good number.,11/2/21,0.35,0.5,0.093,0.746,0.162,0.1779,sadness
+2233,3039,We should ideally reduce the spread to 0 by getting as many people vaccinated as possible.,11/2/21,0.4666666666666666,0.8333333333333334,0.0,0.833,0.167,0.4215,fear
+2236,3042,"lame, we should want the numbers to go up.",11/2/21,-0.5,0.75,0.252,0.631,0.117,-0.3612,sadness
+2237,3043,There are FAR too many people on this planet.,11/2/21,0.3,0.75,0.0,1.0,0.0,0.0,neutral
+2238,3044,There is an entire movement that is gaining major traction where people are saying “obese” is a slur and should not be used because it “fat shames people.” Groups of people on Twitter say ob*se and get thousands of likes.,11/2/21,0.03125,0.5625,0.061,0.813,0.126,0.4404,fear
+2240,3046,"Not even taking into account all the health problems that come with obesity, it is a huge risk factor for having complications from Covid.",11/2/21,0.4000000000000001,0.9,0.177,0.738,0.085,-0.3612,fear
+2243,3049,All they’re doing is telling people who are obese that they are perfectly fine the way they are- which they’re not.,11/2/21,0.4166666666666667,0.5,0.0,0.76,0.24,0.7184,anger
+2244,3050,"No one is saying obese people should be made to feel bad, but they shouldn’t be told everything is fine and dandy either.",11/2/21,-0.14166666666666658,0.5833333333333333,0.148,0.768,0.084,-0.1655,anger
+2245,3051,But wouldnt contact tracing only be effective if they work quickly enough before more people are added to the contact list thus almost exponentially spreading it.,11/2/21,0.275,0.7,0.0,0.89,0.11,0.4767,fear
+2246,3052,"My thought process on that, and correct me if I'm wrong.",11/2/21,-0.5,0.9,0.237,0.763,0.0,-0.4767,fear
+2247,3053,"But if they are not able to inform the person quickly enough, they potentially have the entire time before they are notified to spread the virus.",11/2/21,-0.0625,0.6875,0.0,1.0,0.0,0.0,fear
+2248,3054,And of course as it spreads more the contact list gets larger and larger and makes the response time even slower.,11/2/21,0.16666666666666666,0.5,0.0,1.0,0.0,0.0,neutral
+2249,3055,I definitely think it is a great idea.,11/2/21,0.4,0.625,0.0,0.37,0.63,0.7783,joy
+2250,3056,But I'm not so sure it is as effective as we initially thought.,11/2/21,0.3666666666666667,0.562962962962963,0.149,0.664,0.187,0.1597,sadness
+2252,3058,Not only for ourselves but for those around us.),11/2/21,0.0,1.0,0.0,1.0,0.0,0.0,neutral
+2257,3063,This should be top statement.,11/2/21,0.5,0.5,0.0,0.69,0.31,0.2023,anger
+2261,3067,"Wow, everyone is so like the crowd looking at the emperor's new clothes.",11/2/21,0.11818181818181818,0.7272727272727273,0.0,0.61,0.39,0.793,joy
+2262,3068,They should take a close look are the racial % makeup of the confirmed infections.,11/2/21,0.4,1.0,0.0,1.0,0.0,0.0,anger
+2263,3069,"Yup , it will stir up racial discrimination definitely.",11/2/21,0.0,0.5,0.0,0.722,0.278,0.4019,neutral
+2264,3070,Everyone is so being afraid of being labeled a racist that they rather look the other way and let their own ppl die.,11/2/21,-0.041666666666666664,0.7583333333333333,0.283,0.717,0.0,-0.836,fear
+2268,3074,"i wrote this as a reply to one of the earlier comments:
+
+i would like to think that during a time when prevention / cure is not found, doctors are treating against symptoms.",11/2/21,0.0,0.5,0.0,0.915,0.085,0.3612,fear
+2274,3080,We could get rid of one of the most annoying group of people since religious folk... Anti vax.,11/2/21,-0.10000000000000002,0.5499999999999999,0.249,0.751,0.0,-0.6478,anger
+2277,3083,That's why it's more difficult to compare COVID cases between countries by infection count alone.,11/2/21,0.0,0.75,0.269,0.731,0.0,-0.5849,fear
+2290,3097,Their stats are fine.,10/2/21,0.4166666666666667,0.5,0.0,0.625,0.375,0.2023,neutral
+2295,3102,"In the US, that weight is considered pretty normal and nobody bats an eye.",10/2/21,0.2,0.825,0.0,0.802,0.198,0.4939,anger
+2297,3104,"I'm afraid not:
+
+1.",11/2/21,-0.6,0.9,0.0,1.0,0.0,0.0,sadness
+2298,3105,It is impossible to isolate high-risk people from low-risk people.,11/2/21,-0.6666666666666666,1.0,0.167,0.833,0.0,-0.2023,neutral
+2299,3106,"They often live, work, shop, etc.",11/2/21,0.13636363636363635,0.5,0.0,1.0,0.0,0.0,neutral
+2301,3108,"I agree we should try to minimize these contacts, but there is a limit to what is possible.",11/2/21,0.0,1.0,0.0,0.896,0.104,0.1901,neutral
+2302,3109,And I think it's important that older people can safely do things like going to the grocery store.,11/2/21,0.35555555555555557,0.611111111111111,0.0,0.651,0.349,0.7579,neutral
+2308,3117,"Do you feel that ""right to infect"" is a rational basis for dialogue?",11/2/21,0.2857142857142857,0.5357142857142857,0.0,1.0,0.0,0.0,neutral
+2312,3121,"Cats have no right to infect, and their owners are endangering others at very high rates.",11/2/21,0.032571428571428584,0.6188571428571428,0.128,0.872,0.0,-0.296,anger
+2313,3122,Cat owners have no right to infect.,11/2/21,-0.14285714285714285,0.5357142857142857,0.268,0.732,0.0,-0.296,neutral
+2314,3123,If you read the article it turns out this paper's headline is total BS.,10/2/21,0.0,0.75,0.0,1.0,0.0,0.0,neutral
+2317,3126,"Of the 110k infected, only ~55k were ""active"" infections at the time of testing, i.e.",11/2/21,-0.06666666666666667,0.8,0.186,0.814,0.0,-0.4939,joy
+2319,3128,"I've also just learnt that the older/sicker workers were isolated early, so that possibly contained the demographics to the healthier population.",11/2/21,0.05,0.65,0.103,0.897,0.0,-0.3182,anger
+2320,3129,"Of the ~55k, 15 (*not* 15k) or so of the covid patients were reported to have died due to illnesses such as heart attack, and only 1 case was directly as a result of covid.",11/2/21,-0.006249999999999999,0.56875,0.248,0.752,0.0,-0.872,fear
+2327,3136,"> And not in Singapore
+
+But I'm not in singapore, and most people on this site aren't either.",11/2/21,0.5,0.5,0.0,1.0,0.0,0.0,sadness
+2328,3137,"and whatever that comma is used for, the title is still broken because 200,00 doesn't mean anything.",11/2/21,-0.35625,0.54375,0.162,0.838,0.0,-0.4767,anger
+2333,3142,"It further reaffirmed that ""numbers may be divided in groups of three in order to facilitate reading; neither dots nor commas are ever inserted in the spaces between groups""[24] (e.g.",11/2/21,0.0,0.5,0.0,1.0,0.0,0.0,fear
+2336,3145,"[25]
+
+>Past versions of ISO 8601, but not the 2019 revision, also stipulated normative notation based on SI conventions, adding that the comma is preferred over the full stop.",11/2/21,0.35,0.55,0.091,0.909,0.0,-0.4215,fear
+2343,3152,They are telling everyone that being obese is healthy.,12/2/21,0.5,0.5,0.0,0.748,0.252,0.4019,joy
+2344,3153,"99.9% of obese people are wildly unhealthy and very likely to die from a multitude of factors, including the most recent one which is covid.",12/2/21,0.024999999999999994,0.6125,0.256,0.744,0.0,-0.8207,fear
+2346,3155,Do you see how unethical and unhealthy that is?,12/2/21,-0.4,0.7,0.489,0.511,0.0,-0.7717,neutral
+2348,3157,"I’m not saying they should be putting 110 pound models on the cover, because that creates other issues like potential anorexia, but what in the world is the point of writing “THIS IS HEALTHY!!!",12/2/21,0.2838541666666667,0.625,0.0,0.778,0.222,0.8328,anger
+2351,3160,I'm not sure what this comment is supposed to mean as a response to /u/MacThule.,11/2/21,-0.28125,0.7881944444444444,0.131,0.869,0.0,-0.2411,fear
+2355,3164,I’m sure there’s different sources with different numbers but from the cdc the percentages I gave are IFR.,11/2/21,0.16666666666666666,0.6962962962962963,0.0,0.907,0.093,0.1655,joy
+2357,3166,I'm 100% sure they are in good health in general.,11/2/21,0.4166666666666667,0.662962962962963,0.0,0.606,0.394,0.6369,joy
+2360,3169,"I cant find a percentage, I'm sure it's out there.",11/2/21,0.5,0.8888888888888888,0.0,0.753,0.247,0.3182,joy
+2361,3170,"Newyork say 14 in 100k 25 to 34 
+
+Is quick medical attention the key here?",11/2/21,0.1111111111111111,0.5,0.0,1.0,0.0,0.0,joy
+2363,3172,"I think you misinterpreted my comment, but that’s prolly my fault writing before coffee
+
+Nobody understands every other persons freedom, but that doesent mean we should attempt to control them because we are afraid.",11/2/21,-0.3458333333333334,0.6541666666666667,0.127,0.732,0.141,0.3818,fear
+2364,3173,"I’m not digging at the guy, it’s more of a general statement.",11/2/21,0.275,0.5,0.0,1.0,0.0,0.0,sadness
+2367,3176,"We should always be wary of government numbers, but that's not what this article is about.",10/2/21,-0.5,0.7,0.0,1.0,0.0,0.0,sadness
+2369,3178,"While this isn't a free pass, it does mean that the margin of error will be significantly smaller, and easier to identify and refute, unlike a slippery media title or government soundbite (which this reddit post unfortunately sounds like).",10/2/21,-0.103125,0.746875,0.179,0.757,0.064,-0.6126,joy
+2370,3179,I see what's got you completely confused now.,12/2/21,-0.4,0.7,0.302,0.698,0.0,-0.3804,neutral
+2374,3183,"https://www.moh.gov.sg/covid-19
+
+From this article, https://www.straitstimes.com/singapore/47-per-cent-of-migrant-workers-in-dorms-have-had-a-covid-19-infection-say-manpower-and
+
+>This means 152,794 workers in dorms have tested positive in PCR or serology tests or both.",12/2/21,0.22727272727272727,0.5454545454545454,0.0,0.847,0.153,0.5574,sadness
+2376,3185,Should have hired some people with good sense.,9/4/20,0.7,0.6000000000000001,0.0,0.707,0.293,0.4404,anger
+2378,3187,"If any, MOM should have been more pro-active.",9/4/20,0.5,0.5,0.0,1.0,0.0,0.0,anger
+2391,3200,"He did not admit guilt, he did not say sorry, and it is arguable that he even displays remorse.",10/4/20,-0.5,1.0,0.25,0.616,0.134,-0.3931,sadness
+2392,3201,He merely expresses that he was lacking information to act different.,10/4/20,-0.25,0.55,0.0,1.0,0.0,0.0,sadness
+2393,3202,"This is not true, explained below:
+
+It is a clear to ANY reasonable person, that a cluster in worker dormitories was foreseeable.",10/4/20,0.041666666666666685,0.5444444444444444,0.102,0.785,0.113,0.069,anger
+2399,3208,">If I'd known, I would have done things differently.",10/4/20,0.0,0.6,0.0,1.0,0.0,0.0,sadness
+2400,3209,Why should I stop arguing if I'm right?,10/4/20,0.2857142857142857,0.5357142857142857,0.51,0.49,0.0,-0.6369,neutral
+2404,3213,Please read the wikipedia link and learn how things like these work before jumping up to defend the people who are carefully wording their statements to avoid blame and personal responsibility.,10/4/20,-0.05,0.65,0.125,0.705,0.171,0.1779,anger
+2408,3217,"This was mainly in regard to Senator Bob Packwood: ""Only in the event that someone should choose to take offense, why then he's sorry"".",10/4/20,-0.11111111111111112,0.7777777777777777,0.08,0.92,0.0,-0.25,sadness
+2410,3219,A famous example involved racially insensitive remarks made by golfer Fuzzy Zoeller about Tiger Woods; Zoeller's comments and his half-hearted ifpology were news for days and resulted in his being dropped from a commercial tie-in with K-Mart.,10/4/20,0.25,0.5,0.053,0.947,0.0,-0.2263,joy
+2411,3220,"[13] According to John Kador in Effective Apology, ""Adding the word if or any other conditional modifier to an apology makes it a non-apology.",10/4/20,0.2375,0.5875,0.0,0.784,0.216,0.5423,fear
+2412,3221,"""[14]
+
+A 2014 ifpology was made by CNN's Don Lemon, who said, ""If my question to [Joan Tarshis] struck anyone as offensive, I am sorry, as that certainly was not my intention.""",10/4/20,-0.14285714285714285,0.7857142857142857,0.182,0.749,0.069,-0.4404,sadness
+2413,3222,This was about a question during his interview with Joan Tarshis where he suggested biting a penis as a way to avoid being orally sexually assaulted.,10/4/20,0.5,0.8333333333333334,0.211,0.789,0.0,-0.6808,fear
+2414,3223,"[15]
+
+On September 16, 2015, Matt Damon made what Salon termed a ""non-apology"" apology when he said, ""I am sorry that [my comments] offended some people, but, at the very least, I am happy that they started a conversation about diversity in Hollywood.",10/4/20,-0.02999999999999999,0.84,0.059,0.797,0.145,0.7092,sadness
+2417,3226,"I like how you have twisted my own words from ""he admitted he fucked up"" to being an ""apology"".",10/4/20,-0.16666666666666666,0.9,0.189,0.644,0.167,-0.3612,joy
+2419,3228,"I said very clearly:
+
+>At least they're willing to admit they fucked up.",10/4/20,-0.12999999999999998,0.5870833333333334,0.242,0.495,0.263,-0.1548,fear
+2424,3233,"And we have \~750 positives a day, so that should be \~25% positive rate.",12/5/20,0.22727272727272727,0.5454545454545454,0.0,0.611,0.389,0.7906,neutral
+2425,3234,Something's weird with the numbers.,12/5/20,-0.5,1.0,0.298,0.702,0.0,-0.1779,sadness
+2426,3235,"If they've tested only 32k so far, and the worker testing rate has been 3k a day recently, that could have been done in the past 11 days.",12/5/20,-0.0375,0.625,0.0,1.0,0.0,0.0,sadness
+2427,3236,"Sure, the testing rate was probably a bit lower a week ago, but that should still have been 2k a day or something like that.",12/5/20,0.5,0.8888888888888888,0.063,0.745,0.192,0.5106,joy
+2428,3237,"The dorm situation has been going on for 5-6 weeks, so 32k tested seems too few, especially vs 22k infected.",12/5/20,-0.1,0.55,0.154,0.846,0.0,-0.5367,neutral
+2429,3238,ETA: And  [https://www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-19)  says that 123 k unique people have been tested as of 4th May.,12/5/20,0.375,1.0,0.0,1.0,0.0,0.0,anger
+2430,3239,Surely most of these should be dorm workers?,12/5/20,0.5,0.5,0.0,0.707,0.293,0.4404,anger
+2432,3241,We should take good care of them and also take precautions to quarantine those who are staying in the two dorms.,5/4/20,0.7,0.6000000000000001,0.0,0.757,0.243,0.7269,joy
+2433,3242,It’s hard enough for them to leave their homeland to work for another.,5/4/20,-0.14583333333333334,0.5208333333333333,0.191,0.809,0.0,-0.1531,anger
+2437,3246,"> Advertisement
+
+> Advertisement
+
+> A ""significant number"" of the new cases are linked to existing clusters involving two workers' dormitories, S11 Dormitory @ Punggol and Westlite Toh Guan, said the COVID-19 multi-ministry task force in a press conference.",5/4/20,0.2556818181818182,0.6647727272727273,0.0,0.909,0.091,0.2732,anger
+2449,3258,> Prime Minister Lee Hsien Loong had on Friday announced heightened safe distancing measures to act as a “circuit breaker” to curb the spread of COVID-19.,5/4/20,0.5,0.5,0.0,0.888,0.112,0.4404,fear
+2451,3260,Food establishments will stay open only for takeaways or delivery.,5/4/20,0.0,0.75,0.0,1.0,0.0,0.0,neutral
+2454,3264,These guys work hard whether rain or shine to make Singapore functioning.,5/4/20,-0.2916666666666667,0.5416666666666666,0.113,0.887,0.0,-0.1027,neutral
+2456,3266,">**Correction note:** **An earlier version of the report said Singapore now has 5,573 Covid-19 cases.",17/4/20,0.0,0.5,0.0,1.0,0.0,0.0,fear
+2458,3268,We are sorry for the error.,17/4/20,-0.5,1.0,0.5,0.5,0.0,-0.4588,sadness
+2471,3281,The way this has been managed is frankly quite sickening.,18/9/20,-0.9,1.0,0.291,0.709,0.0,-0.5709,anger
+2474,3284,"Since they are already paying through the nose for smuggling in things like booze, we should allow them to order whatever they need to make their de-facto imprisonment a bit more comfortable",18/9/20,0.45,0.65,0.081,0.709,0.21,0.5984,anger
+2475,3285,actually if anything our comm cases should have rose after GE but it doesn't seem to be the case (yet),21/7/20,0.3,0.525,0.0,1.0,0.0,0.0,anger
+2477,3287,What about our great national plan to have a population of 6.5 to 6.9 million in 2030?,1/6/20,0.8,0.75,0.0,0.785,0.215,0.6249,joy
+2478,3288,Maybe LKY was right in 2008 when he said that we should restrict our population to 5 to 5.5 million.,1/6/20,0.2857142857142857,0.5357142857142857,0.126,0.874,0.0,-0.3818,anger
+2487,3297,However the 300k workers are spread across numerous dorms.,25/5/20,0.0,0.5,0.0,1.0,0.0,0.0,neutral
