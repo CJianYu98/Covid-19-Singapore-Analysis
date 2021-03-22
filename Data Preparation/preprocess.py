@@ -2,11 +2,9 @@ import pandas as pd
 import numpy as np
 import re
 import os
-from nltk.tokenize import word_tokenize
-from nltk.tokenize import TweetTokenizer
+from nltk.tokenize import word_tokenize, TweetTokenizer, sent_tokenize,RegexpTokenizer
 from nltk.corpus import stopwords
 from nltk.stem.porter import *
-from nltk.tokenize import RegexpTokenizer, sent_tokenize
 from typing import Iterator
 from sklearn.feature_extraction.text import CountVectorizer
 import datetime as dt
