@@ -31,18 +31,20 @@ lapply(names(filelist), function(x) assign(x,filelist[[x]],envir=.GlobalEnv))
 ```
 
 ```{r Creating dataframe to count the number of comments (Before modelling)}
-Number_of_comments <- c(nrow(circuit_breaker_df), nrow(economic_measures_df), nrow(foreign_workers_df), nrow(masks_df), nrow(phases_df), nrow(social_distancing_df), nrow(shn_df), nrow(tracetogether_df) + nrow(safeentry_df), nrow(vaccination_df))
-Policy <- c("Circuit Breaker", "Economic measures", "Foreign workers", "Masks", "Phases", "Social distancing", "SHN", "TraceTogether", "Vaccination")
+Number_of_comments <- c(nrow(circuit_breaker_df), nrow(economic_measures_df), nrow(foreign_workers_df), nrow(masks_df), nrow(social_distancing_df), nrow(tracetogether_df) + nrow(safeentry_df), nrow(vaccination_df))
+Policy <- c("Circuit Breaker", "Economic measures", "Foreign workers", "Masks", "Social distancing", "TraceTogether", "Vaccination")
 
 df <- data.frame(Policy, Number_of_comments)
+
 df
 ```
+
 ```{r Plotting bar chart to visulalise number of comments (Before modelling)}
 # cbPalette <- c("#999999","#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
 
 total_num <- ggplot(df, aes(x=Policy, y=Number_of_comments, fill=Policy)) +
   geom_col() +
-  geom_text(aes(label=Number_of_comments), vjust = -0.5, size = 2.8) +
+  geom_text(aes(label=Number_of_comments), vjust = -0.5, size = 2.5) +
   ggtitle("Total Comments") +
   theme(axis.text.x = element_text(angle = 30,hjust=1)) +
   theme(plot.title = element_text(size=11.5))
@@ -57,6 +59,17 @@ all <- read_csv("C:/Users/user/Documents/GitHub/Covid-19-Singapore-Analysis/Anal
 df <- data.frame(all)
 df <- subset(df, select = -c(Comments))
 df$count <- rep(1, nrow(df))
+df
+
+df <- df[!(df$policy == "stay_home_notice"|df$policy=="phases"),]
+df$policy[df$policy == "safeentry"] <- "TraceTogether"
+df$policy[df$policy == "tracetogether"] <- "TraceTogether"
+df$policy[df$policy == "circuit_breaker"] <- "Circuit Breaker"
+df$policy[df$policy == "economic_measures"] <- "Economic measures"
+df$policy[df$policy == "foreign_worker"] <- "Foreign Workers"
+df$policy[df$policy == "masks"] <- "Masks"
+df$policy[df$policy == "social_distancing"] <- "Social distancing"
+df$policy[df$policy == "vaccination"] <- "Vaccination"
 df
 
 platform_totals <- df %>% 
@@ -77,7 +90,8 @@ combined
 ```{r Proportion of Policy Comments for each Social Media Platform}
 total_proportion <- ggplot(combined, aes(x=platform, y=Proportion, fill=policy)) + 
   geom_col(colour="black", position="fill") +
-  scale_y_continuous(labels = scales::percent)
+  scale_y_continuous(labels = scales::percent) +
+  theme(axis.text.x = element_text(angle = 30,hjust=1))
 
 total_proportion
 ```
@@ -88,15 +102,26 @@ valuable
 valuable_df <- data.frame(valuable)
 valuable_df <- subset(valuable_df, select = -c(Comments))
 valuable_df$count <- rep(1, nrow(valuable_df))
+
+valuable_df <- valuable_df[!(valuable_df$policy == "stay_home_notice"|valuable_df$policy=="phases"),]
+valuable_df$policy[valuable_df$policy == "safeentry"] <- "tracetogether"
+valuable_df$policy[valuable_df$policy == "tracetogether"] <- "TraceTogether"
+valuable_df$policy[valuable_df$policy == "circuit_breaker"] <- "Circuit Breaker"
+valuable_df$policy[valuable_df$policy == "economic_measures"] <- "Economic measures"
+valuable_df$policy[valuable_df$policy == "foreign_worker"] <- "Foreign Workers"
+valuable_df$policy[valuable_df$policy == "masks"] <- "Masks"
+valuable_df$policy[valuable_df$policy == "social_distancing"] <- "Social distancing"
+valuable_df$policy[valuable_df$policy == "vaccination"] <- "Vaccination"
 valuable_df
 
 valuable_policy <- valuable_df %>%
   group_by(policy) %>%
   summarise(Number_of_comments=sum(count))
+valuable_policy
 
 valuable_num <- ggplot(valuable_policy, aes(x=Policy, y=Number_of_comments, fill=Policy)) +
   geom_col() +
-  geom_text(aes(label=Number_of_comments), vjust = -0.5, size = 2.8) +
+  geom_text(aes(label=Number_of_comments), vjust = -0.5, size = 2.5) +
   ggtitle("Valuable Comments") +
   theme(axis.text.x = element_text(angle = 30,hjust=1)) +
   theme(plot.title = element_text(size=11.5)) +
@@ -123,24 +148,14 @@ valuable_combined
 ```{r Proportion of Valuable Policy Comments for each Social Media Platform}
 valuable_proportion <- ggplot(valuable_combined, aes(x=platform, y=Proportion, fill=policy)) + 
   geom_col(colour="black", position="fill") +
-  scale_y_continuous(labels = scales::percent)
+  scale_y_continuous(labels = scales::percent) +
+  theme(axis.text.x = element_text(angle = 30,hjust=1))
 
 valuable_proportion
 ```
 ```{r}
 library(ggpubr)
 library(cowplot)
-
-# num_combined <- ggarrange(total_num, valuable_num, 
-#           ncol=1, nrow=2,
-#           common.legend = TRUE, legend = "right")
-# num_combined
-# 
-# 
-# proportion_combined <- ggarrange(total_proportion, valuable_proportion, 
-#           ncol=1, nrow=2,
-#           common.legend = TRUE, legend = "right")
-# proportion_combined
 
 title_gg <- ggplot() +
   labs(title="Number of comments for each policy", subtitle="Across all social media platforms")
@@ -157,7 +172,7 @@ plot_grid(title_gg, without_legend, ncol = 1, rel_heights = c(0.15,1))
 ```{r}
 library(ggpubr)
 combined <- ggarrange(total_proportion, valuable_proportion, 
-          ncol=1, nrow=2,
+          ncol=2, nrow=1,
           # labels = c("Total Comments", "Valuable Comments"),
           common.legend = TRUE, legend = "right")
 
