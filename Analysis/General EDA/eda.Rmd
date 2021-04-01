@@ -153,10 +153,78 @@ valuable_proportion <- ggplot(valuable_combined, aes(x=platform, y=Proportion, f
 
 valuable_proportion
 ```
-```{r}
+```{r Proportion of emotion count per platform}
+emotions <- read.csv("C:/Users/user/Documents/GitHub/Covid-19-Singapore-Analysis/Data/Sentiment Data/social_media_sentiments.csv")
+emotions_df <- data.frame(emotions)
+emotions_df <- subset(emotions_df, select = c(Sentences, Emotions, Platform))
+emotions_df$count <- rep(1, nrow(emotions_df))
+
+emotions_df$Emotions[emotions_df$Emotions == "anger"] <- "Anger"
+emotions_df$Emotions[emotions_df$Emotions == "fear"] <- "Fear"
+emotions_df$Emotions[emotions_df$Emotions == "joy"] <- "Joy"
+emotions_df$Emotions[emotions_df$Emotions == "neutral"] <- "Neutral"
+emotions_df$Emotions[emotions_df$Emotions == "sadness"] <- "Sadness"
+emotions_df
+
+platform_emotions <- emotions_df %>%
+  group_by(Emotions, Platform) %>%
+  summarise(count_per_emotion = sum(count))
+platform_emotions
+
+platform_emotions_total <- emotions_df %>%
+  group_by(Platform) %>%
+  summarise(total_count = sum(count))
+platform_emotions_total
+
+platform_emotions_proportion <- inner_join(platform_emotions, platform_emotions_total, by=c("Platform" = "Platform")) %>%
+  mutate(Proportion = count_per_emotion/total_count *100)
+platform_emotions_proportion
+
+emotion_proportion <- ggplot(platform_emotions_proportion, aes(x=Platform, y=Proportion, fill=Emotions)) + 
+  geom_col(colour="black", position="fill") +
+  scale_y_continuous(labels = scales::percent) +
+  theme(axis.text.x = element_text(angle = 30,hjust=1)) +
+  ggtitle("Proportion of Emotions per platform", subtitle="Based on Sentence count")
+
+emotion_proportion
+```
+
+
+
+```{r Total and valuable comments for each platform}
 library(ggpubr)
 library(cowplot)
 
+total_platform_comments <- ggplot(platform_totals, aes(x=platform, y=total)) +
+  geom_col() +
+  geom_text(aes(label=total), vjust = -0.5, size = 2.5) +
+  ggtitle("Total Number of Comments") +
+  theme(axis.text.x = element_text(angle = 30,hjust=1)) +
+  theme(plot.title = element_text(size=11.5)) +
+  theme(axis.title.y = element_blank())
+
+valuable_platform_comments <- ggplot(valuable_platform_totals, aes(x=platform, y=total)) +
+  geom_col() +
+  geom_text(aes(label=total), vjust = -0.5, size = 2.5) +
+  ggtitle("Total Number of Valuable Comments") +
+  theme(axis.text.x = element_text(angle = 30,hjust=1)) +
+  theme(plot.title = element_text(size=11.5)) +
+  theme(axis.title.y = element_blank())
+
+title_gg <- ggplot() +
+  labs(title="Total Number of comments for each platform",
+       subtitle = "")
+
+without_legend <- plot_grid(
+  total_platform_comments, 
+  valuable_platform_comments,
+  labels="AUTO")
+
+plot_grid(title_gg, without_legend, ncol = 1, rel_heights = c(0.15,1))
+```
+
+
+```{r Total and Valuable comments per policy}
 title_gg <- ggplot() +
   labs(title="Number of comments for each policy", subtitle="Across all social media platforms")
 
@@ -178,112 +246,5 @@ combined <- ggarrange(total_proportion, valuable_proportion,
 
 annotate_figure(combined,
                 fig.lab = "Proportion of Policy Comments for each Social Media Platform", fig.lab.face = "bold")
-```
-
-```{r}
-library(reshape)
-library(tm)
-library(wordcloud)
-
-valuable_df
-
-dataset_labels <- valuable_df$policy
-dataset_labels
-dataset_labels_p <- paste("class", dataset_labels, sep="_")
-unique_labels <- unique(dataset_labels_p)
-
-dataset_s <- sapply(unique_labels, function(label) list(dataset[dataset_labels_p %in% valuable_df$policy]))
-
-# -- STEP2 : COMPUTE DOCUMENT CORPUS TO MAKE TEXT MINING
-# convert each list content into a corpus
-dataset_corpus <- lapply(dataset_s, function(x) Corpus(VectorSource( toString(x) ))) 
-dataset_corpus
- 
-# merge all documents into one single corpus
-dataset_corpus_all <- dataset_corpus[[1]]
-for (i in 2:length(unique_labels)) { dataset_corpus_all <- c(dataset_corpus_all,dataset_corpus[[i]]) }
-dataset_corpus_all
- 
-# remove punctuation, numbers and stopwords
-dataset_corpus_all <- tm_map(dataset_corpus_all, removePunctuation)
-dataset_corpus_all <- tm_map(dataset_corpus_all, removeNumbers)
-dataset_corpus_all <- tm_map(dataset_corpus_all, function(x) removeWords(x,stopwords("english")))
- 
-#remove some unintersting words
-words_to_remove <- c("said","from","what","told","over","more","other","have","last","with","this","that","such","when","been","says","will","also","where","why","would","today")
-dataset_corpus_all <- tm_map(dataset_corpus_all, removeWords, words_to_remove)
- 
-# compute term matrix & convert to matrix class --> you get a table summarizing the occurence of each word in each class.
-document_tm <- TermDocumentMatrix(dataset_corpus_all)
-document_tm_mat <- as.matrix(document_tm)
-colnames(document_tm_mat) <- unique_labels
-document_tm_clean <- removeSparseTerms(document_tm, 0.8)
-document_tm_clean_mat <- as.matrix(document_tm_clean)
-colnames(document_tm_clean_mat) <- unique_labels
- 
-# remove words in term matrix with length < 4
-index <- as.logical(sapply(rownames(document_tm_clean_mat), function(x) (nchar(x)>3) ))
-document_tm_clean_mat_s <- document_tm_clean_mat[index,]
- 
-# Have a look to the matrix you are going to use for wordcloud !
-head(document_tm_clean_mat_s)
-```
-
-```{r}
-dataset=read.delim("https://raw.githubusercontent.com/TATABOX42/text-mining-in-r/master/dataset.txt", header=FALSE)
- 
-# The labels of each line of the dataset file
-dataset_labels <- read.delim("https://raw.githubusercontent.com/TATABOX42/text-mining-in-r/master/labels.txt",header=FALSE)
-dataset_labels <- dataset_labels[,1]
-dataset_labels_p <- paste("class",dataset_labels,sep="_")
-unique_labels <- unique(dataset_labels_p)
-
-# -- STEP2 : COMPUTE DOCUMENT CORPUS TO MAKE TEXT MINING
-# convert each list content into a corpus
-dataset_corpus <- lapply(dataset_s, function(x) Corpus(VectorSource( toString(x) ))) 
- 
-# merge all documents into one single corpus
-dataset_corpus_all <- dataset_corpus[[1]]
-for (i in 2:length(unique_labels)) { dataset_corpus_all <- c(dataset_corpus_all,dataset_corpus[[i]]) }
- 
-# remove punctuation, numbers and stopwords
-dataset_corpus_all <- tm_map(dataset_corpus_all, removePunctuation)
-dataset_corpus_all <- tm_map(dataset_corpus_all, removeNumbers)
-dataset_corpus_all <- tm_map(dataset_corpus_all, function(x) removeWords(x,stopwords("english")))
-
-clean <- function(x){
-
-x <-tolower(x)
-
-x <-removeWords(x,stopwords('en'))
-
-x <-removePunctuation(x)
-
-x <-stripWhitespace(x)
-
-return(x) }
-
-dataset_corpus_all <- lapply(dataset_corpus_all, clean)
-dataset_corpus_all
-
- 
-#remove some unintersting words
-words_to_remove <- c("said","from","what","told","over","more","other","have","last","with","this","that","such","when","been","says","will","also","where","why","would","today")
-dataset_corpus_all <- tm_map(dataset_corpus_all, removeWords, words_to_remove)
- 
-# compute term matrix & convert to matrix class --> you get a table summarizing the occurence of each word in each class.
-document_tm <- TermDocumentMatrix(dataset_corpus_all)
-document_tm_mat <- as.matrix(document_tm)
-colnames(document_tm_mat) <- unique_labels
-document_tm_clean <- removeSparseTerms(document_tm, 0.8)
-document_tm_clean_mat <- as.matrix(document_tm_clean)
-colnames(document_tm_clean_mat) <- unique_labels
- 
-# remove words in term matrix with length < 4
-index <- as.logical(sapply(rownames(document_tm_clean_mat), function(x) (nchar(x)>3) ))
-document_tm_clean_mat_s <- document_tm_clean_mat[index,]
- 
-# Have a look to the matrix you are going to use for wordcloud !
-head(document_tm_clean_mat_s)==                                         
 ```
 
