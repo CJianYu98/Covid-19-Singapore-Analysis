@@ -8,8 +8,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-parent_path = "/Users/joshuawong/Documents/GitHub/Covid-19-Singapore-Analysis"
-# parent_path = "C:/Users/user/Documents/GitHub/Covid-19-Singapore-Analysis"
+# parent_path = "/Users/joshuawong/Documents/GitHub/Covid-19-Singapore-Analysis"
+parent_path = "C:/Users/user/Documents/GitHub/Covid-19-Singapore-Analysis"
 
 def get_data(policy, timeframe):
     df = pd.read_csv(f"{parent_path}/Data/Sentiment Data/{policy}_valuable_opinions.csv")
@@ -33,7 +33,7 @@ def get_data(policy, timeframe):
     start, end = pd.to_datetime([timeframe[0], timeframe[1]], format='%d%b%Y')
     df_within_date = df[(df['Comment Datetime'] >= start) & (df['Comment Datetime'] <= end)]
     df_within_date = df_within_date[['Comment Datetime', 'Vader_compound_score']]
-    return df
+    return df_within_date
 
 def sentiment_with_comments_static(policy, timeframe):
     df_within_date = get_data(policy, timeframe)
