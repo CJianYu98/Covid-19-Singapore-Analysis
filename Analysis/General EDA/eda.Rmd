@@ -181,10 +181,12 @@ platform_emotions_proportion <- inner_join(platform_emotions, platform_emotions_
 platform_emotions_proportion
 
 emotion_proportion <- ggplot(platform_emotions_proportion, aes(x=Platform, y=Proportion, fill=Emotions)) + 
-  geom_col(colour="black", position="fill") +
+  geom_col(colour="black") +
   scale_y_continuous(labels = scales::percent) +
   theme(axis.text.x = element_text(angle = 30,hjust=1)) +
-  ggtitle("Proportion of Emotions per platform", subtitle="Based on Sentence count")
+  ggtitle("Proportion of Emotions per platform", subtitle="Based on Sentence count") +
+  geom_text(aes(label = paste0(round(Proportion,2),"%")), 
+            position = position_stack(vjust=0.5), size=3)
 
 emotion_proportion
 ```
