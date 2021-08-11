@@ -32,7 +32,7 @@ Since the dataset is too large, you may download the data from [here](https://ww
 
 ---
 
-# Code Navigation
+### Code Navigation
 1. Analysis Folder - contains scripts and notebooks and findings for our analysis 
 2. Data Preparation Folder - contains scripts and notebook for cleaning and pre processing of raw data before modelling and analysis
 3. Data Scraping Folder - contains scripts for scraping web data on social media platforms
