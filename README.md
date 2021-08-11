@@ -148,6 +148,7 @@ CorEx is a semi-supervised topic modelling that finds words that provide the hig
 ---
 ## Findings
 
+Diagram showing how sentiments on social media are targeted towards different issues.
 ![How sentiments on social media are targeted towards different issues](https://i.postimg.cc/RVG3TjVN/Picture-1.jpg)
 
 We found that sentiments of netizens’ comments were often related to how the policy affects themselves and their way of life. For example, in early May, the announcement of tightened measures were meant to further control the spread of the virus and we expect public sentiment to increase. However, the sentiment decreased instead possibly because the tightened measures were about bubble tea shops, alcohol and other F&B stores not being able to reopen. Netizens were concerned and upset about not being able to purchase their bubble tea instead, as seen as one of the rising topics reflected in Google Trends. Sentiments could also be related to policy implementation and other details about the policy or downstream effects of the policy on other entities.
